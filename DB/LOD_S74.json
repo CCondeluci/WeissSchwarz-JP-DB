@@ -1,0 +1,3378 @@
+[
+    {
+        "name": "信仰篤き聖者 サンドラ",
+        "code": "LOD/S74-001",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "祈りが必ず神の元に届くとは限りません。\nでも、祈りは必ず私達に勇気を与えてくれますわ",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, you may place the top card of your Deck into Waiting Room. If that card is a Climax, you draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Heal 《ヒール》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card59708-large.jpg"
+    },
+    {
+        "name": "見えざる刃 リコリス",
+        "code": "LOD/S74-002",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "私の目的ですか？人を探しています。これ以上を聞けば、高くつきますよ",
+        "ability": [
+            "【C】If you have Character with face-up Marker, this card gets +2000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「死の花」 is in your Climax Slot, and you have other 《冒険者》 Character, look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character or 「“アイテム”騎士の鋼靴」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Mystery 《謎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card59710-large.jpg"
+    },
+    {
+        "name": "アウロラの守護天使 フェル",
+        "code": "LOD/S74-003",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "私は…フェル。アウロラのため、あなたの力になりたいです",
+        "ability": [
+            "【C】If you have 2 or more other 《冒険者》 Character, this card gets +2000 Power.",
+            "【A】This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, when this card's dealt Damage is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to opponent. X is equal to that card's Level +1. (Climax is considered Level 0. Damage can be cancelled)",
+            "【A】【CXCOMBO】[(2) Place 1 「アウロラの守護天使 フェル」 from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, if 「魂の守護天使」 is in your Climax Slot, you may pay the cost. If you did, STAND this card."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card59712-large.jpg"
+    },
+    {
+        "name": "幽明郷を統べる者 ペルセポネー",
+        "code": "LOD/S74-004",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "我が冥界の支配者だ。おぬしを助けに来た。怖がる必要はない",
+        "ability": [
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《冒険者》 Character, during this turn, this card gets +2000 Power. (Return revealed card to its original position)",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Undead 《不死》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card59714-large.jpg"
+    },
+    {
+        "name": "記憶を失った天使 フェル",
+        "code": "LOD/S74-005",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "過去の記憶？\n…ごめんなさい。私には、全く無いの。自分の名前すら曖昧で…",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《冒険者》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card59716-large.jpg"
+    },
+    {
+        "name": "アウロラの歌姫 ミューズ",
+        "code": "LOD/S74-006",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ショータイムよ！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《冒険者》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Music 《音楽》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card59718-large.jpg"
+    },
+    {
+        "name": "慇懃無礼な毒舌メイド シャルロット",
+        "code": "LOD/S74-007",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "はじめまして！冒険者協会のシャルロットが助けにきましたよ！",
+        "ability": [
+            "【C】During your turn, all your other 《冒険者》 Character gets +1000 Power.",
+            "【S】[Place 1 Event with 「アイテム」 in its name from Hand into Waiting Room, REST this card] You draw 1 card."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Maid 《メイド》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card59720-large.jpg"
+    },
+    {
+        "name": "聖杖に選定されし王 イザベラ",
+        "code": "LOD/S74-008",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "聖命の示す道が、より鮮明に見えてきた",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, choose up to 1 「アウロラの守護天使 フェル」 from your Waiting Room, return it to Hand, during this turn, this card gets +3000 Power.",
+            "【A】When this card attacks, if you have 4 or more other 《冒険者》 Character, choose 1 of your Character, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Heal 《ヒール》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card59722-large.jpg"
+    },
+    {
+        "name": "力の証明 リコリス",
+        "code": "LOD/S74-009",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "より鋭く…より速く…！",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【S】CONCENTRATION [(1)] Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Choose 1 《冒険者》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Mystery 《謎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card59723-large.jpg"
+    },
+    {
+        "name": "花の祭司 ヴィオリール",
+        "code": "LOD/S74-010",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "鉢をお日様の下に置いて～…左に三回転、右に三回転！\nそして両手を差し伸べて～、「太陽を賛美せよ！」と叫べばいいのよ～",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《冒険者》 Character, during this turn, it gets +1000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Flower 《花》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card59724-large.jpg"
+    },
+    {
+        "name": "ビナンの技術顧問 シュレディンガー",
+        "code": "LOD/S74-011",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "鉄と人を叩く技術の精度がまた上がったニャ",
+        "ability": [
+            "【C】All your other 《冒険者》 Character gets +500 Power.",
+            "【S】[(1) Place this card into Waiting Room] Choose 1 「“アイテム”騎士の鋼靴」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Blacksmith 《鍛冶》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card59725-large.jpg"
+    },
+    {
+        "name": "至高の大司教 セシリア",
+        "code": "LOD/S74-012",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "まずは頭を下げて礼を尽くせ。それが私に対する庶民の第一の義務だろう？",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Heal 《ヒール》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card59726-large.jpg"
+    },
+    {
+        "name": "血霧の刺客 ジャック",
+        "code": "LOD/S74-013",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ヒャヒャヒャ！かかってこい！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, send that Character to Memory.』",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card59727-large.jpg"
+    },
+    {
+        "name": "きらめく陽光 ユナ",
+        "code": "LOD/S74-014",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "太陽の力をユナはいっそう感じられるようになりました～！",
+        "ability": [
+            "【A】When this card attacks, if this card has Yellow Marker, choose 1 of your other 《冒険者》 Character, during this turn, it gets +2000 Power and +1 Soul.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card59728-large.jpg"
+    },
+    {
+        "name": "天道宮の寒氷王座 アリシア",
+        "code": "LOD/S74-015",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あら…こちらの可愛い子はカティのお友達？\nふふ。仲良くしてくれて、ありがとうね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 of your Character, during this turn, it gets +1500 Power.",
+            "【A】【CXCOMBO】When your Character attacks, if 「六王座の力」 is in your Climax Slot, this card is at Front Row, and your Hand has 6 or less cards, during this turn, you may -1 Soul from that attacking Character. If you did, during this turn, that attacking Character gets +2000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Ice 《氷》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card59729-large.jpg"
+    },
+    {
+        "name": "世界の探索者 マルク",
+        "code": "LOD/S74-016",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "さあ、次は世界のどこを調べようか！",
+        "ability": [
+            "【A】When this card attacks, if you have 2 or more other 《冒険者》 Character, during this turn, this card gets +2000 Power.",
+            "【A】When this card Trigger Checks a card with Soul Trigger Icon, during this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card59730-large.jpg"
+    },
+    {
+        "name": "百戦錬磨の重装戦士 ブラッドレー",
+        "code": "LOD/S74-017",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "俺はこの身体を鍛え続ける。人々を守るための身体を",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】When this card becomes REVERSE, place this card to bottom Deck."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card59731-large.jpg"
+    },
+    {
+        "name": "わがまま氷魔道士 カティ",
+        "code": "LOD/S74-018",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "団長はわたしを他の人と比べたりしない。その点は気に入ってるわ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《冒険者》 Character, during this turn, this card gets +2000 Power.",
+            "【A】RESONANCE [(1) Reveal 1 「天道宮の寒氷王座 アリシア」 from Hand] During the turn when this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 《冒険者》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Ice 《氷》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card59732-large.jpg"
+    },
+    {
+        "name": "怠惰な虚無魔道士 ネルファー",
+        "code": "LOD/S74-019",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "はぁ…そう言われても、なんだかやる気が出ないなあ",
+        "ability": [
+            "【A】When this card attacks, if you have 2 or more other 《冒険者》 Character, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Void 《虚無》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card59733-large.jpg"
+    },
+    {
+        "name": "大空への憧れ シルフィン",
+        "code": "LOD/S74-020",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "やっほー団長さん！　あたしに何か用？　用はないの？　じゃあ遊んでくるね、バイバーイ！",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card59734-large.jpg"
+    },
+    {
+        "name": "眼鏡のメイドさん オフィーリア",
+        "code": "LOD/S74-021",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "あの…団長様？私のメガネを見かけませんでしたか？\nああ、これではなく、予備のメガネです",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《冒険者》 Character, during this turn, it gets +1500 Power.",
+            "【A】When this card becomes REVERSE, choose 1 of your 《冒険者》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Maid 《メイド》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card59735-large.jpg"
+    },
+    {
+        "name": "“アイテム”騎士の鋼靴",
+        "code": "LOD/S74-022",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "長く履き続けることになるため、1日でも早く慣れよう",
+        "ability": [
+            "Choose 1 of your Character with no Marker, place this card under that Character face-up as Marker, place the top card of your Deck into Waiting Room. If that card is a Character with Level 2 or higher, during this turn, that Character gets +1 Soul.",
+            "【A】When this card is placed into Waiting Room from Marker Slot, if you have 2 or more 《冒険者》 Character, send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Main Phase, if this card is in Memory, return this card to Hand."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card59736-large.jpg"
+    },
+    {
+        "name": "王座決定戦",
+        "code": "LOD/S74-023",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONCENTRATION If you have no 《冒険者》 Character, you cannot play this card from Hand.",
+            "Choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "Both player flip the top 3 cards of their Deck, place them into Waiting Room. If the total number of your Character placed into Waiting Room by this effect is same or more than opponent's Character placed into Waiting Room by this effect, choose up to 2 《冒険者》 Character from your Waiting Room, return them to Hand."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card59737-large.jpg"
+    },
+    {
+        "name": "死の花",
+        "code": "LOD/S74-024",
+        "rarity": "CR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "死の花、開花せよ！",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card59738-large.jpg"
+    },
+    {
+        "name": "魂の守護天使",
+        "code": "LOD/S74-025",
+        "rarity": "CR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "皆さまを護ります",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card59740-large.jpg"
+    },
+    {
+        "name": "六王座の力",
+        "code": "LOD/S74-026",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "六王座の名に恥じない戦いをお見せします",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card59742-large.jpg"
+    },
+    {
+        "name": "気分屋・寒がり・眠たがり メデューサ",
+        "code": "LOD/S74-027",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あ～あ、寒すぎて動きたくなーい",
+        "ability": [
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Snake 《蛇》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card59743-large.jpg"
+    },
+    {
+        "name": "絶えない微笑み オフィーリア",
+        "code": "LOD/S74-028",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "肩書きに負けない立派な団長様に早くなってくださいね",
+        "ability": [
+            "【A】During the turn when this card is placed on Stage from Hand, when the Character in front of this card its battle opponent becomes REVERSE, if this card has no Marker, you may choose 1 《冒険者》 Character from your Waiting Room, place it under this card face-down as Marker.",
+            "【A】[(1) REST this card] At the beginning of opponent's Encore Step, if this card is at Back Row and STAND, you may pay the cost. If you did, return all Marker from this card and this card to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Maid 《メイド》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card59745-large.jpg"
+    },
+    {
+        "name": "亡霊に憑かれた少女 パンドラ",
+        "code": "LOD/S74-029",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "大丈夫です。自分の力はちゃんとコントロールしますから",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2) Place 1 card from Hand into Waiting Room] When this card attacks, if 「冥府の怨嗟」 is in your Climax Slot, you may pay the cost. If you did, until end of opponent's next turn, this card gains 1 of the following chosen Ability.",
+            "『【A】At the end of this card's attack, deal 3 Damage to opponent.』",
+            "『【A】This Ability can be activated up to 2 times each turn. When your character is placed into Waiting Room from Stage, deal 1 Damage to opponent.』",
+            "(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Spirit/Ghost 《霊》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card59747-large.jpg"
+    },
+    {
+        "name": "武神の乙女 ブリュンヒルデ",
+        "code": "LOD/S74-030",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "一瞬で敵を捉えます！",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】[Place this card into Waiting Room] When your other 《冒険者》 Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character into its previous slot on Stage in REST."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card59749-large.jpg"
+    },
+    {
+        "name": "神曲の詩人 ダンテ",
+        "code": "LOD/S74-031",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "人はみな一期一会、別れを迎えれば会えなくなる。\nしかし歌にすれば、私は心の内にいつまでも彼らを残しておける",
+        "ability": [
+            "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room to Deck, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Music 《音楽》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card59751-large.jpg"
+    },
+    {
+        "name": "水辺の天使 サリエル",
+        "code": "LOD/S74-032",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "サリエルです…あ…あの、翼が濡れてしまって飛べません…少しだけ一緒にいてくれませんか？",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「“アイテム”騎士のリング」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, choose 1 of your other 《冒険者》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《冒険者》 Character x500."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card59752-large.jpg"
+    },
+    {
+        "name": "開花した才能 グラミン",
+        "code": "LOD/S74-033",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "一撃必殺！",
+        "ability": [
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「一撃必殺の狙撃」 is in your Climax Slot, until end of opponent's next turn, this card gains the following Ability. 『【A】When this card is being Front Attacked, you may choose 1 of your other Character and this card, return them to Hand.』"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Gun 《銃》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card59754-large.jpg"
+    },
+    {
+        "name": "竜殺し ジークフリート",
+        "code": "LOD/S74-034",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "傷はすぐ治るし、何を食べてもお腹を壊さない。\nこれが竜の力なんだ。ね、凄いでしょ？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《冒険者》 Character x500."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Dragon 《竜》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card59756-large.jpg"
+    },
+    {
+        "name": "パティシエ アリス",
+        "code": "LOD/S74-035",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お菓子を食べるだけなら夢から出せばいいの。でも、自分で作るのは楽しいわ。\n失敗だってあるけど、それもステキな思い出になるのよ",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《冒険者》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card59757-large.jpg"
+    },
+    {
+        "name": "禁書庫の司書 ヒナ",
+        "code": "LOD/S74-036",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "今は読書の時間です、少し静かにしてもらえませんか",
+        "ability": [
+            "【C】All your other 「亡霊に憑かれた少女 パンドラ」 gets +1 Soul.",
+            "【C】SUPPORT All your Character in front of this card gets +1500 Power.",
+            "【A】【CXCOMBO】When 「光なき救済」 is placed into your Climax Slot, and you have other 《冒険者》 Character, look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Book 《本》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card59758-large.jpg"
+    },
+    {
+        "name": "最初の団員 キャロライン＆ユア＆エレーナ",
+        "code": "LOD/S74-037",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "エレーナ「それよりどうだ　私は頼りになるだろう？」\nキャロライン「う…うん　ありがとう…」",
+        "ability": [
+            "【C】During this card's battle, opponent cannot play 『ASSIST』 from Hand.",
+            "【C】For each of your other 《冒険者》 Character at Back Row, this card gets +1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card59760-large.jpg"
+    },
+    {
+        "name": "漆黒の真炎 フィア",
+        "code": "LOD/S74-038",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "欲望は炎と同じ。ひとたび燃え盛れば人の手でとどめることのできないもの",
+        "ability": [
+            "【C】If you have 2 or more Character with Red Marker, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, until end of opponent's next turn, this card gets +4500 Power, gains the following Ability. 『【C】During this card's battle, both player cannot play 『ASSIST』 from Hand.』",
+            "【A】【CXCOMBO】When this card attacks, if 「滅びの黒炎」 is in your Climax Slot, you may deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Flame 《炎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card59762-large.jpg"
+    },
+    {
+        "name": "慎ましやかな少女 パンドラ",
+        "code": "LOD/S74-039",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私の名前…みんなからは、パンドラと呼ばれています。\nあなたにも…そう呼んでいただければ…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, until end of opponent's next turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Spirit/Ghost 《霊》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card59764-large.jpg"
+    },
+    {
+        "name": "人魔混血の魔女 デイジー",
+        "code": "LOD/S74-040",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私に慈悲があるなんて思わない方が良いわよ",
+        "ability": [
+            "【C】All your other 「亡霊に憑かれた少女 パンドラ」 gets +1000 Power.",
+            "【S】[Place 1 「亡霊に憑かれた少女 パンドラ」 from your Hand into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Horn 《ツノ》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card59765-large.jpg"
+    },
+    {
+        "name": "炎の聖騎士 ランスロット",
+        "code": "LOD/S74-041",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "俺は槍を使ってるが、いつどんな状態でも戦えるように剣や弓の鍛錬も積んでいる。\n一戦やってみるか？拳でもいいぞ？",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《冒険者》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《冒険者》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card59766-large.jpg"
+    },
+    {
+        "name": "夏の装い グラミン",
+        "code": "LOD/S74-042",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ぼ、僕は男ですよ！？　なんでこんな格好をさせるんですかぁ～！",
+        "ability": [
+            "【C】If this card has face-up Marker, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Wafuku 《和服》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card59767-large.jpg"
+    },
+    {
+        "name": "秩序の天使 ガブリエル",
+        "code": "LOD/S74-043",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "わたくしは世界の意志から秩序を守る職責を賜りました。\nそれと同時に、もう一つの権能も…。\n叶うならば、永遠にこの力を振るわずに済みますように…",
+        "ability": [
+            "【C】For each of your other 《冒険者》 Character, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card59768-large.jpg"
+    },
+    {
+        "name": "深淵の大蛇 メデューサ",
+        "code": "LOD/S74-044",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あはっ、全部ヒューちゃんの餌にしちゃおう！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Snake 《蛇》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card59769-large.jpg"
+    },
+    {
+        "name": "炎拳の闘士 ディロン",
+        "code": "LOD/S74-045",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ちゃんと見てろよ！この灼熱の拳を！",
+        "ability": [
+            "【C】If this card has Red Marker, this card gets +4000 Power.",
+            "【A】[(1) Place 2 cards from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 2 《冒険者》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets +2 Soul."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Flame 《炎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card59770-large.jpg"
+    },
+    {
+        "name": "烈火王座の主 フィア",
+        "code": "LOD/S74-046",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "吼えなさい、緋色の炎！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】[Send this card to Memory] Look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Flame 《炎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card59771-large.jpg"
+    },
+    {
+        "name": "月を司る天使 サリエル",
+        "code": "LOD/S74-047",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "お姉ちゃん、た、助けて…！\nえっ…「そのくらい自分でやりなさい」って…そ、そんなあ…",
+        "ability": [
+            "【C】All your other 《冒険者》 Character gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card59772-large.jpg"
+    },
+    {
+        "name": "鉄腕の拳豪 テイラー",
+        "code": "LOD/S74-048",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "戦いが無い時は筋肉を鍛えよう！",
+        "ability": [
+            "【C】All your other 「流浪の任侠剣士 ハヤテ」 gets +2000 Power.",
+            "【S】[REST this card] Choose 1 of your 《冒険者》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Muscle 《筋肉》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card59773-large.jpg"
+    },
+    {
+        "name": "赤刃の処刑者 ラナクシア",
+        "code": "LOD/S74-049",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私と戦いたい…？　ふふふ、あまり甘く見ない方がいいぞ",
+        "ability": [
+            "【C】The Character facing this card cannot move to other slot.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card59774-large.jpg"
+    },
+    {
+        "name": "滅びの渡鴉 アイリン",
+        "code": "LOD/S74-050",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ここにはたくさん面白い魂があるね！\nでもマスターが無闇に集めてきちゃダメって言うの。残念…",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「冥界のワタリガラス」 is in your Climax Slot, and you have other 《冒険者》 Character, you declare 0 or 1 or 2. You choose any amount of Character with declared Level from your Hand, place them into Waiting Room, search your Deck for up to the number of cards you placed into Waiting Room of Character with your declared Level +1 and show them to opponent, add them to Hand, shuffle your Deck afterwards, during this turn, this card gets +1 Level."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Death 《死》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card59775-large.jpg"
+    },
+    {
+        "name": "星を砕く者 トリファ",
+        "code": "LOD/S74-051",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "弓の腕は未熟ですが、陣地や集落を守るのは得意です。\n隕石くらいまでなら一人でなんとかできると思います",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card59776-large.jpg"
+    },
+    {
+        "name": "幽明郷の死の騎士 アバドン",
+        "code": "LOD/S74-052",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "全ての亡霊を鎮め、冥界に送る。それが我の使命だ",
+        "ability": [
+            "【A】RESONANCE [Reveal 1 「滅びの渡鴉 アイリン」 from Hand] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「幽明郷の死の騎士 アバドン」 from your Memory, place it into any slot on Stage, choose 1 of your other Character, until end of opponent's next turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Death 《死》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card59777-large.jpg"
+    },
+    {
+        "name": "流浪の任侠剣士 ハヤテ",
+        "code": "LOD/S74-053",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "いざ、尋常に勝負！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card59778-large.jpg"
+    },
+    {
+        "name": "卓越した錬金術師 エルロンド",
+        "code": "LOD/S74-054",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "これは、普通の風邪薬ではありませんよ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if this card has face-up Marker, choose 1 of your Character, during this turn, it gets +3000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Alchemy 《錬金術》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card59779-large.jpg"
+    },
+    {
+        "name": "凛冬の王 ウィリアム",
+        "code": "LOD/S74-055",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "余の制裁を受けるがいいニャ！",
+        "ability": [
+            "【C】For each of your other 《冒険者》 Character, this card gets +500 Power.",
+            "【A】[Place 1 「星を砕く者 トリファ」 from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Royal Family 《王族》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card59780-large.jpg"
+    },
+    {
+        "name": "邪竜の力 ジークフリート",
+        "code": "LOD/S74-056",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 2,
+        "flavor_text": "今の僕の身体が本当に僕のものなのか、自分でもよくわからないんだ。\nただ不思議と落ち着いているんだ。　なんでだろうね…",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 3, you may REVERSE that Character.",
+            "【A】ENCORE ［Place 1 《冒険者》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Dragon 《竜》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card59781-large.jpg"
+    },
+    {
+        "name": "“アイテム”騎士のリング",
+        "code": "LOD/S74-057",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "騎士になったら支給される、魔法耐性のあるリング",
+        "ability": [
+            "Choose 1 of your Character with no Marker, place this card under that Character face-up as Marker, choose up to 2 opponent's Character, during this turn, they get -500 Power.",
+            "【A】When this card is placed into Waiting Room from Marker Slot, if you have 2 or more 《冒険者》 Character, send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Main Phase, if this card is in Memory, return this card to Hand."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card59782-large.jpg"
+    },
+    {
+        "name": "酒場 竜の枕亭",
+        "code": "LOD/S74-058",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "オフィーリア「おや？この方は…」",
+        "ability": [
+            "If you have no Character with 「オフィーリア」 in its name, you cannot play this card from Hand.",
+            "Look at up to 10 cards from your top Deck, choose up to 1 《冒険者》 Character, place it into any slot on Stage, place the remaining cards into Waiting Room, during this turn, that Character gets +2000 Power."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card59783-large.jpg"
+    },
+    {
+        "name": "冥府の怨嗟",
+        "code": "LOD/S74-059",
+        "rarity": "CR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "パンドラ「アモン…」\nアモン「死ね！」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card59784-large.jpg"
+    },
+    {
+        "name": "一撃必殺の狙撃",
+        "code": "LOD/S74-060",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card59786-large.jpg"
+    },
+    {
+        "name": "光なき救済",
+        "code": "LOD/S74-061",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私を甘く見ると後悔しますよ",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card59788-large.jpg"
+    },
+    {
+        "name": "滅びの黒炎",
+        "code": "LOD/S74-062",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "燃えろ…燃えろぉ！アッハハハハ！！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card59789-large.jpg"
+    },
+    {
+        "name": "冥界のワタリガラス",
+        "code": "LOD/S74-063",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "行け！眷属たちよ！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Character with Level equal or lower than your Level from your Waiting Room, return it to Hand, choose up to 2 of your Characters, during this turn, they get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card59791-large.jpg"
+    },
+    {
+        "name": "太陽を司る天使 ミカエル",
+        "code": "LOD/S74-064",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ふん、これくらいのことで、我が感謝すると思わないでよね！",
+        "ability": [
+            "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 《冒険者》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card59792-large.jpg"
+    },
+    {
+        "name": "大聖堂の聖騎士 ヴィヴィアン",
+        "code": "LOD/S74-065",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "いつか必ず、この聖剣にふさわしい立派な騎士になってみせます！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「聖剣の輝き」 is in your Climax Slot, search your Deck for up to 1 《冒険者》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Knight 《騎士》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card59794-large.jpg"
+    },
+    {
+        "name": "伝説の冒険者 テレサ",
+        "code": "LOD/S74-066",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "略式だけど協会は君たちを歓迎する",
+        "ability": [
+            "【C】If this card has Blue Marker, this card gets +7000 Power.",
+            "【C】If this card has Yellow Marker, this card gets +1 Soul.",
+            "【A】When this card is placed on Stage from Hand, choose up to 3 Event with 「アイテム」 in its name from your Hand and show them to opponent, place them under this card face-up in any order as Marker, for each card you placed under this card, you draw up to 1 card.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, if this card has Red Marker, you can pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Expedition 《探険》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card59796-large.jpg"
+    },
+    {
+        "name": "鏡の魔女 ヴィクトリア",
+        "code": "LOD/S74-067",
+        "rarity": "RR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "鏡よ鏡。この世で一番美しくて、魔法の才能に溢れていて、美食を極め、かつ完璧なボディラインを維持し、天使のような声と女王の風格をあわせ持つ世界最高の女性は誰かしら？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose up to 1 《冒険者》 Character or 「“アイテム”騎士の鎧」 from your Waiting Room, return it to Hand, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, place it into Stock. (If not, return revealed card to its original position)",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When 「魔鏡メフィスト」 is placed into your Climax Slot, if this card is at Front Row, and this card has Blue Marker, you may pay the cost. If you did, you look up to 5 cards from opponent's top Deck and choose up to 5 cards, place them into Waiting Room, return the remaining cards into Deck, shuffle the Deck afterwards, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card59798-large.jpg"
+    },
+    {
+        "name": "天道宮の雷姫 リタ",
+        "code": "LOD/S74-068",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "魔法で遠くから、なんてチキン野郎の戦法だぜ。闘士ってのは肉弾でボコってなんぼだからな",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your Character, until end of opponent's next turn, it gains the following Ability. 『【C】This card cannot becomes REVERSE by opponent's Character 【A】 effect.』",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《冒険者》 Character and show it to your opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thunder 《雷》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card59800-large.jpg"
+    },
+    {
+        "name": "魔族の残り火 かぎろい",
+        "code": "LOD/S74-069",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "うん？わしは魔族じゃよ。古代アウロラの時代にこちらに来た悪ーい魔族じゃ",
+        "ability": [
+            "【C】If you have 2 or more other 《冒険者》 Character, this card gets +1000 Power.",
+            "【A】 At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand.（Climax is considered Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Flame 《炎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card59802-large.jpg"
+    },
+    {
+        "name": "放埓なる魔王 リリス",
+        "code": "LOD/S74-070",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "こうして、虫けらどもが恐れる魔王は更に強く恐ろしくなってしまいました…お前のせいでね。ふふふっ…",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《冒険者》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, look at the top card of your Deck, place it on top or bottom Deck."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Horn 《ツノ》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card59804-large.jpg"
+    },
+    {
+        "name": "無音の葬送者 アドレーニ",
+        "code": "LOD/S74-071",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私の名前はアドレーニ。幽明郷の夜守人。これ以上のことは聞かないのが貴公の身のためです",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《冒険者》 Character, choose 1 of your Character, during this turn, it gets +2000 Power. (Return revealed card to its original position)",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card59805-large.jpg"
+    },
+    {
+        "name": "黒き暴君 エドモンド",
+        "code": "LOD/S74-072",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "「徳をもって人を服する」…？\n無能者はそうでもしなければ国を治められないのであろう？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《冒険者》 Character, during this turn, this card gets +2000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When a face-up Marker is placed under this card, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Royal Family 《王族》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card59807-large.jpg"
+    },
+    {
+        "name": "機械師の天才少女 アルテミス",
+        "code": "LOD/S74-073",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "今度という今度は詫びの品くらいで済むと思うな！　頭ポンポンしてもダメだぞ！　ダメだからな！　フン！",
+        "ability": [
+            "【A】[(2) Place 1 of your Character from Stage into Waiting Room]When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Science 《科学》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card59808-large.jpg"
+    },
+    {
+        "name": "竜人 オフィーリア",
+        "code": "LOD/S74-074",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "この姿は初めてか。我はオフィーリア、竜族の末裔。\n下等種族どもに竜族の怒り、見せてやろう",
+        "ability": [
+            "【A】When a Climax is placed into your Climax Slot, during this turn, this card gets +1500 Power.",
+            "【A】When this card attacks, if the Character in front of this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Dragon 《竜》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card59810-large.jpg"
+    },
+    {
+        "name": "奥秘の大賢者 コーラル",
+        "code": "LOD/S74-075",
+        "rarity": "R",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "私の名はコーラル。魔法の奥義を掌握した賢者よ",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】During your turn, for each of your other 《冒険者》 Character, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card59811-large.jpg"
+    },
+    {
+        "name": "天道宮の学長 ソロモン",
+        "code": "LOD/S74-076",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "魔道の追及はいつでも終えることができ、いつまでも続けることができる",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card59813-large.jpg"
+    },
+    {
+        "name": "腹黒小悪党 アラシェル",
+        "code": "LOD/S74-077",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あっ、あーっ、待ってちょっと待って通報は勘弁してください！\nお願いしますお願いします！お願いしますうぅ！！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place 3 cards from your top Deck into Waiting Room.",
+            "【A】When this card attacks, choose 1 of your other 《冒険者》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thief 《盗賊》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card59814-large.jpg"
+    },
+    {
+        "name": "霜天流の拳姫 ツバキ",
+        "code": "LOD/S74-078",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "毎日3000回の型打ちは霜天流の基礎中の基礎です！団長様も一緒にやりませんか！？",
+        "ability": [
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Martial Arts 《格闘》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card59815-large.jpg"
+    },
+    {
+        "name": "緑の遊撃手 ロバート",
+        "code": "LOD/S74-079",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "僕は義賊だ。悪党からしか物は奪わないよ",
+        "ability": [
+            "【A】When this card becomes REVERSE, if you have 2 or more Character with face-up Marker, you may place this card into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thief 《盗賊》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card59816-large.jpg"
+    },
+    {
+        "name": "時代の先駆者 テスラ",
+        "code": "LOD/S74-080",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "この天才テスラをわざわざビナンの地から呼び出したのだ。\nくれぐれも、私を失望させないでくれよ",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Genius 《天才》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card59817-large.jpg"
+    },
+    {
+        "name": "暴発する火力 サニー",
+        "code": "LOD/S74-081",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "うーん、どうすればフィア様みたいに大きな炎を操れるようになるの？\n難しいなあ…",
+        "ability": [
+            "【C】RECOLLECTION If 「烈火王座の主 フィア」 is in your Memory, this card gets +4500 Power.",
+            "【A】【CXCOMBO】RECOLLECTION When this card attacks, if 「火炎への憧れ」 is in your Climax Slot, and 「烈火王座の主 フィア」 is in your Memory, look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, choose up to 1 《冒険者》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Flame 《炎》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card59818-large.jpg"
+    },
+    {
+        "name": "空の探検家 クリストファ",
+        "code": "LOD/S74-082",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "大砲に弾を込めろ。　開戦だ！",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【A】This Ability can be activated up to 1 time each turn. When you play Event, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Gun 《銃》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card59819-large.jpg"
+    },
+    {
+        "name": "未来の英雄 ヴェイン",
+        "code": "LOD/S74-083",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "はっははは！さすが俺様！この調子で行けば、大領主になる日も近いぜ！",
+        "ability": [
+            "【C】For each of your other 《冒険者》 Character, this card gets +1000 Power.",
+            "【A】[(1)] When this card attacks, if this card has Blue Marker, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card59820-large.jpg"
+    },
+    {
+        "name": "串刺し教授 ダルヴァルド",
+        "code": "LOD/S74-084",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "この日を、この戦いこそを、私は久しく待ちわびたぞ！",
+        "ability": [
+            "【C】All your other 「魔を狩る者 アルジェント」 gets +1 Soul.",
+            "【A】This Ability can be activated up to 1 time each turn. When your other 「魔を狩る者 アルジェント」 is placed on Stage from Hand, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Demon 《悪魔》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card59821-large.jpg"
+    },
+    {
+        "name": "夢境の少女 アリス",
+        "code": "LOD/S74-085",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ほら！夢を見る時間だよ！",
+        "ability": [
+            "【C】All your other 《冒険者》 Character gets +500 Power.",
+            "【A】【CXCOMBO】When 「アリスのお茶会」 is placed into your Climax Slot, reveal the top card of your Deck. If that card is Level 1 or higher, place it into Stock, choose 1 of your Character, during this turn, it gets +500 Power. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card59822-large.jpg"
+    },
+    {
+        "name": "水辺の戯れ テレサ",
+        "code": "LOD/S74-086",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "その、なんだ…店も任されたし、ちょうど活動資金もこころもとなかったしさ…\nだから会長として君に命令を下す！この夏はここで一緒にひと稼ぎしようじゃないか！",
+        "ability": [
+            "【C】During your turn, your other 《冒険者》 Character at the Center Slot of Front Row gets +1000 Power.",
+            "【S】[(1) REST this card] Choose 1 of your 「生命の錬金術師　イルリ」, during this turn, it gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《冒険者》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.』"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Expedition 《探険》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card59823-large.jpg"
+    },
+    {
+        "name": "聖王の槍 エリオット",
+        "code": "LOD/S74-087",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "この槍は既に聖王陛下に捧げたものゆえ忠は誓えませんが、力をお貸しすることはできます。どうぞよろしく",
+        "ability": [
+            "【A】When your other 《冒険者》 Character attacks, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card59824-large.jpg"
+    },
+    {
+        "name": "戦狼と共に ルドヴィック",
+        "code": "LOD/S74-088",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "スノーランドより着任したルドヴィックだ。それとこっちが俺の相棒。ほらヴォフト、みなさんに挨拶するんだ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《冒険者》 Character among those cards x1000.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Animal 《動物》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card59825-large.jpg"
+    },
+    {
+        "name": "生命の錬金術師 イルリ",
+        "code": "LOD/S74-089",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "お前たちに比べればエルフは確かに長命だ。だが無駄な時間など1秒も無い。\nこの人生を最大限使っても、辿り着けるかわからないことに挑戦しているのだからな",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Alchemy 《錬金術》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card59826-large.jpg"
+    },
+    {
+        "name": "正義の大賢者 インペリウス",
+        "code": "LOD/S74-090",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "俺の正義を受けてみよ！",
+        "ability": [
+            "【C】If this card has face-up Marker, this card gets +2000 Power and +1 Soul."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Order 《秩序》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card59827-large.jpg"
+    },
+    {
+        "name": "冒険者協会の副会長 レオン",
+        "code": "LOD/S74-091",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ディケイドの調査は協会に属する全ての冒険者の義務だ",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《冒険者》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Cool 《クール》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card59828-large.jpg"
+    },
+    {
+        "name": "知恵の大賢者 ビナンナル",
+        "code": "LOD/S74-092",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "新しい文明に、見たこともない科学！　いや～、新時代の息吹ってやつを感じるにゃあ",
+        "ability": [
+            "【C】SUPPORT All your 《冒険者》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, search your Deck for up to 1 Event with 「アイテム」 in its name and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Blacksmith 《鍛冶》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card59829-large.jpg"
+    },
+    {
+        "name": "英雄の師 ローラン",
+        "code": "LOD/S74-093",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "もう大領主ではない。今のワシは、ただの一人の騎士じゃ",
+        "ability": [
+            "【C】If you have no other 《冒険者》 Character, this card cannot STAND during your Standby Phase.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Knight 《騎士》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card59830-large.jpg"
+    },
+    {
+        "name": "魔を狩る者 アルジェント",
+        "code": "LOD/S74-094",
+        "rarity": "C",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "約束が果たされる日を震えて待っていろ、ダルヴァルド",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card59831-large.jpg"
+    },
+    {
+        "name": "いざ巡回！",
+        "code": "LOD/S74-095",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. Send this card to Memory.",
+            "【A】RECOLLECTION [Place 1 of your other 「いざ巡回！」 from Memory into Waiting Room, place this card into Waiting Room] At the beginning of your Main Phase, if this card is in Memory, you may pay the cost. If you did, choose up to 3 《冒険者》 Character from your Waiting Room, place them into Stock in any order."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card59832-large.jpg"
+    },
+    {
+        "name": "“アイテム”騎士の鎧",
+        "code": "LOD/S74-096",
+        "rarity": "U",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "騎士の誇りであり、国の象徴でもある",
+        "ability": [
+            "Choose 1 of your Character with no Marker, place this card under that Character face-up as Marker, if your Waiting Room has 2 or more Climax, search your Deck for up to 1 Character and show it to opponent, add it to Hand, choose 1 card from your Hand, place it into Waiting Room, shuffle your Deck afterwards.",
+            "【A】When this card is placed into Waiting Room from Marker Slot, if you have 2 or more 《冒険者》 Character, send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Main Phase, if this card is in Memory, return this card to Hand."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card59833-large.jpg"
+    },
+    {
+        "name": "聖剣の輝き",
+        "code": "LOD/S74-097",
+        "rarity": "CR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "砕かれなさい！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card59834-large.jpg"
+    },
+    {
+        "name": "魔鏡メフィスト",
+        "code": "LOD/S74-098",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いくわよ、メフィスト？",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card59836-large.jpg"
+    },
+    {
+        "name": "火炎への憧れ",
+        "code": "LOD/S74-099",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私の炎を貸してあげる！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card59838-large.jpg"
+    },
+    {
+        "name": "アリスのお茶会",
+        "code": "LOD/S74-100",
+        "rarity": "CC",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ティーチの出番だよ！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Blue card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card59839-large.jpg"
+    },
+    {
+        "name": "さあメルキオールへ！ 団長",
+        "code": "LOD/S74-101",
+        "rarity": "PR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "全員が見失わなければ大丈夫だ！",
+        "ability": [
+            "【C】 During your turn, if all your Character are 《冒険者》, this card gets ＋2000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card59840-large.jpg"
+    },
+    {
+        "name": "さあメルキオールへ！ ユア",
+        "code": "LOD/S74-102",
+        "rarity": "PR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "よーし、いっくぞ～！",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《冒険者》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to that Character's Soul ×1000."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Love 《愛》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card59841-large.jpg"
+    },
+    {
+        "name": "さあメルキオールへ！ キャロライン",
+        "code": "LOD/S74-103",
+        "rarity": "PR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "よ、よし、早く倒して帰ろう…！",
+        "ability": [
+            "【C】 For each of your other 《冒険者》 Character, this card gets ＋1000 Power.",
+            "【A】 ENCORE ［Place 1 《冒険者》 Character from Hand into Waiting Room］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Science 《科学》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card59842-large.jpg"
+    },
+    {
+        "name": "さあメルキオールへ！ エレーナ",
+        "code": "LOD/S74-104",
+        "rarity": "PR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "邪魔を…するなっ！！",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card59843-large.jpg"
+    },
+    {
+        "name": "悪魔大陸の出会い デイジー＆メデューサ",
+        "code": "LOD/S74-P01",
+        "rarity": "PR",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "デイジー「あら？メデューサじゃない。あなたから貰った鞭、とても使いやすいわ」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《冒険者》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.（If not, return revealed card to its original position）",
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets ＋3000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Queen 《クイーン》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card59844-large.jpg"
+    },
+    {
+        "name": "協会のメイド長 オフィーリア",
+        "code": "LOD/S74-T01",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ご用件はなんでしょうか、団長様",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《冒険者》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Maid 《メイド》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card60912-large.jpg"
+    },
+    {
+        "name": "はじまりの仲間たち ユア",
+        "code": "LOD/S74-T02",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "うおおぅ…ここが冒険者の聖地、メサイアかあ。\nすっご、ほんとに大都会だ…！",
+        "ability": [
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《冒険者》 Character from your Waiting Room, return it to Hand.",
+            "【S】[(1) Place this card into Waiting Room] Choose 1 「アイテム“騎士の剣”」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Love 《愛》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card60913-large.jpg"
+    },
+    {
+        "name": "可憐な男の子 グラミン",
+        "code": "LOD/S74-T03",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "みなさん！気を付けてください！",
+        "ability": [
+            "【C】If you have 2 or more other 《冒険者》 Character, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Gun 《銃》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card60916-large.jpg"
+    },
+    {
+        "name": "若き狙撃手 グラミン",
+        "code": "LOD/S74-T04",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "うう…頑張るんだ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《冒険者》 Character, during this turn, this card gets +2000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Gun 《銃》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card60917-large.jpg"
+    },
+    {
+        "name": "ユア＆キャロライン",
+        "code": "LOD/S74-T05",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ユア「キャロル先生質問です！今言った蒼穹歴ってな～に？」\nキャロライン「し…知らないの!?」",
+        "ability": [
+            "【C】During your turn, for each of your other 《冒険者》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「冒険のはじまり」 is in your Climax Slot, reveal the top card of your Deck. If that card is a 《冒険者》 Character or 「アイテム“騎士の剣”」, add it to Hand. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card60919-large.jpg"
+    },
+    {
+        "name": "双翼の祭司 サンドラ",
+        "code": "LOD/S74-T06",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "私はサンドラ。双翼教の祭司です。今後ともよろしくお願いします",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +1000 Power.",
+            "【S】[(2) REST this card] Search your Deck for up to 1 《冒険者》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Heal 《ヒール》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card60920-large.jpg"
+    },
+    {
+        "name": "メサイアの守護者 ジークフリート",
+        "code": "LOD/S74-T07",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "戦いなら僕にお任せ下さい！",
+        "ability": [
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《冒険者》 Character x1000.",
+            "【A】ENCORE ［Place 1 《冒険者》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Dragon 《竜》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card60922-large.jpg"
+    },
+    {
+        "name": "はじまりの仲間たち キャロライン",
+        "code": "LOD/S74-T08",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "わ、私はキャロライン…です。キャロルって、呼んで…ください",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】When this card attacks, choose 1 of your 《冒険者》 Character, during this turn, it gets +X Power. X is equal to the number of your 《冒険者》 Character x500."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Science 《科学》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card60923-large.jpg"
+    },
+    {
+        "name": "冒険のはじまり",
+        "code": "LOD/S74-T09",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "エレーナ「敵だ。私の後ろにさがっていてくれ」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card60925-large.jpg"
+    },
+    {
+        "name": "サンドラの友人 フェル",
+        "code": "LOD/S74-T10",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そうね\nサンドラの言う通り",
+        "ability": [
+            "【C】All your other 「フェルの友人 サンドラ」 gets +1000 Power.",
+            "【A】BOND／「フェルの友人 サンドラ」 ［Place the top card of your Deck into Clock］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「フェルの友人 サンドラ」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Angel 《天使》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card60927-large.jpg"
+    },
+    {
+        "name": "新たなる冒険団 団長",
+        "code": "LOD/S74-T11",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "三人とも充分な資質を持っているということは俺の眼にかけて誓えます",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《冒険者》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw up to 1 card."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card60928-large.jpg"
+    },
+    {
+        "name": "はじまりの仲間たち エレーナ",
+        "code": "LOD/S74-T12",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ん？なに？ああ、キャロルか。そこら辺に置いてきた。今頃困っているだろうな",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】When this card attacks, choose 1 of your other 《冒険者》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《冒険者》 Character x500."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card60929-large.jpg"
+    },
+    {
+        "name": "真面目で実直 ヴィヴィアン",
+        "code": "LOD/S74-T13",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "このまま精進を続け、いつの日か必ず聖剣を使いこなしてみせましょう",
+        "ability": [
+            "【C】If this card has face-up Marker, this card gets +2000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《冒険者》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Knight 《騎士》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card60931-large.jpg"
+    },
+    {
+        "name": "冒険者協会会長 テレサ",
+        "code": "LOD/S74-T14",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "少し見ない間にあの鼻たれ小僧が立派になったなぁ！",
+        "ability": [
+            "【S】【COUNTER】 ASSIST 2500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Expedition 《探険》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card60932-large.jpg"
+    },
+    {
+        "name": "フェルの友人 サンドラ",
+        "code": "LOD/S74-T15",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "大丈夫です\n一番大事なことを\nあなたはもう\n思い出しているんですから",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Heal 《ヒール》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card60933-large.jpg"
+    },
+    {
+        "name": "エレーナ＆ユア",
+        "code": "LOD/S74-T16",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ユア「もう仲間なんだしエレーナもそんなにツンツンしないでさ」\nエレーナ「仲間と認めるのが早すぎる」",
+        "ability": [
+            "【C】If this card has Blue Marker, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「冒険のはじまり」 is in your Climax Slot, you draw up to 1 card, place up to 1 card from your top Deck into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card60934-large.jpg"
+    },
+    {
+        "name": "聖剣の騎士 ヴィヴィアン",
+        "code": "LOD/S74-T17",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "私はエンピレアンの騎士、ヴィヴィアン。これよりあなたの部下となります、団長様",
+        "ability": [
+            "【C】If this card has Blue Marker, this card gets +2000 Power.",
+            "【A】[(3) Place 1 card from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, you may pay the cost. If you did, STAND this card."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Knight 《騎士》"
+        ],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card60935-large.jpg"
+    },
+    {
+        "name": "アイテム“騎士の剣”",
+        "code": "LOD/S74-T18",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "一人前の騎士の証",
+        "ability": [
+            "Choose 1 of your Character with no Marker, place this card under that Character face-up as Marker, during this turn, it gets +1000 Power.",
+            "【A】When this card is placed into Waiting Room from Marker Slot, if you have 2 or more 《冒険者》 Character, send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Main Phase, if this card is in Memory, return this card to Hand."
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card60937-large.jpg"
+    },
+    {
+        "name": "はじまりの地 冒険大陸メルキオール",
+        "code": "LOD/S74-T19",
+        "rarity": "TD",
+        "expansion": "Lost Decade",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "オフィーリア「あなたの冒険をはじめましょう！」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "LOD",
+        "release": "S74",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card60938-large.jpg"
+    }
+]

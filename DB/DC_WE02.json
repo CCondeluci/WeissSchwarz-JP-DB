@@ -1,0 +1,772 @@
+[
+    {
+        "name": "サンタのアイシア\nSanta Aishia",
+        "code": "DC/WE02-001",
+        "rarity": "R",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "せっかくもうすぐクリスマスだって言うのに……",
+        "ability": [
+            "【A】 ［Place 3 Characters with Level 1 or higher into Waiting Room from Hand］ This ability can only be activated once each turn. When this card attacks, if 「我がままなアイシア」 is in the Climax Slot, you may pay the cost. If you did, choose 1 of your REVERSE Character, STAND it."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Toy 《オモチャ》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card3547-large.jpg"
+    },
+    {
+        "name": "お雛様 音姫\nOhinasama Otome",
+        "code": "DC/WE02-002",
+        "rarity": "R",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "似合ってるかな……弟くん？",
+        "ability": [
+            "【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《生徒会》 Character, during that turn, this card gets +1 Soul. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Wafuku 《和服》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card3565-large.jpg"
+    },
+    {
+        "name": "魂を送るまひる\nSending Spirit Off Mahiru",
+        "code": "DC/WE02-003",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "約束したんです。理想の恋愛を叶えるって",
+        "ability": [
+            "【C】 This card cannot be chosen by your opponent's effects.",
+            "【A】 When this card is placed into Waiting Room from Stage, place this card into Memory."
+        ],
+        "attributes": [
+            "Myth 《たとえ話》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card3549-large.jpg"
+    },
+    {
+        "name": "贅沢な悩み\nExtreme Trouble",
+        "code": "DC/WE02-004",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "だって、この先に明るい未来なんてないんですから",
+        "ability": [
+            "Choose 1 of your Character, during that turn, it gets +1000 Power.",
+            "During that turn, your opponent cannot use 『【A】 ENCORE』. (『【A】 ENCORE［③］』 in the Rules cannot be used as well)"
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card3550-large.jpg"
+    },
+    {
+        "name": "我がままなアイシア\nSelfish Aishia",
+        "code": "DC/WE02-005",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それは義之くん相手だからだよ",
+        "ability": [
+            "【C】 All of your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card3551-large.jpg"
+    },
+    {
+        "name": "旅立つ茜\nBegin A Trip Akane",
+        "code": "DC/WE02-006",
+        "rarity": "R",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "それじゃあ、義之くん。行ってきます",
+        "ability": [
+            "【A】 When this card attacks, if 「一緒に食べよ♪」 is in the Climax Slot, choose 1 of your other Character, during that turn, it gets +3000 Power, this card gets +3000 Power."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card3581-large.jpg"
+    },
+    {
+        "name": "歌姫ななか\nSongstress Nanaka",
+        "code": "DC/WE02-007",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "わたしの気持ちを歌で伝えたいの",
+        "ability": [
+            "【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《音楽》 Character, during that turn, this card gets +2000 Power. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Magic 《魔法》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card3569-large.jpg"
+    },
+    {
+        "name": "ハロウィン小恋\nHalloween Koko",
+        "code": "DC/WE02-008",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "こ、これじゃ見えちゃうよぉ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Pumpkin 《かぼちゃ》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card3570-large.jpg"
+    },
+    {
+        "name": "一緒に食べよ♪\nLets Eat Together♪",
+        "code": "DC/WE02-009",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "メリークリスマス、義之くん♪",
+        "ability": [
+            "【A】 When this card is placed into the Climax Slot from Hand, place the top card of your Deck into Stock, all your Characters, during that turn, get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card3568-large.jpg"
+    },
+    {
+        "name": "水着のエリカ\nSwimsuit Erika",
+        "code": "DC/WE02-010",
+        "rarity": "R",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "べ、別に！　は、恥ずかしくなどありませんわ",
+        "ability": [
+            "【C】 For each of your other Character with 『【A】 ENCORE ［Place 1 Character into Waiting Room from Hand］』, this card gets +500 Power.",
+            "【A】 When this card attacks, if 「寝ぼけるエリカ」 is in the Climax Slot, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Swimsuit 《水着》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card3573-large.jpg"
+    },
+    {
+        "name": "豆まき美夏\nBean Throwing Minatsu",
+        "code": "DC/WE02-011",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "よし、鬼は桜内だな！",
+        "ability": [
+            "【C】 If you have other Character with 「杏」 in its name, this card gains the following ability. 『【A】 When the Character battling this card becomes REVERSE, you may place that Character on top of the Deck.』",
+            "【C】 If you have other 《委員長》 Character, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Banana 《バナナ》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card3574-large.jpg"
+    },
+    {
+        "name": "お月見 由夢\nMoon Viewing Yume",
+        "code": "DC/WE02-012",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……綺麗ですね。兄さん",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of the Deck or into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Dango 《だんご》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card3557-large.jpg"
+    },
+    {
+        "name": "寝ぼけるエリカ\nHalf Asleep Erika",
+        "code": "DC/WE02-013",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ど、どうしてわたしの布団の中に！？\nいったい、いつの間に！？",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card3576-large.jpg"
+    },
+    {
+        "name": "星に願う杏\nWish Upon A Star Anzu",
+        "code": "DC/WE02-014",
+        "rarity": "R",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "何を書いたかは……秘密よ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look up to the top 2 cards of your Deck, place it on top of the Deck in any order."
+        ],
+        "attributes": [
+            "Wafuku 《和服》",
+            "Theater 《演劇》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card3559-large.jpg"
+    },
+    {
+        "name": "ボランティア巫女 麻耶\nVolunteer Miko Maya",
+        "code": "DC/WE02-015",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "は、恥ずかしいから、あんまり見ないで……",
+        "ability": [
+            "【A】 When 「委員長の巫女姿」 is placed into your Climax Slot, reveal the top card of your Deck. If that card is a 《メカ》 Character, place it into Stock. (If it is not, return revealed card to its original position)",
+            "【S】［① REST this card］ Reveal the top card of your Deck. If that card is a 《メカ》 Character, add it to Hand. (If it is not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Class Rep 《委員長》",
+            "Miko 《巫女》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card3560-large.jpg"
+    },
+    {
+        "name": "アジサイ畑のまゆき\nIn The Hydrangea Field Mayuki",
+        "code": "DC/WE02-016",
+        "rarity": "R",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "弟くんもこっちにきなよ",
+        "ability": [
+            "【C】 All your other 《生徒会》 Characters gain 『【A】 ENCORE ［Place 1 Character into Waiting Room from Hand』."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Umbrella 《傘》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card3561-large.jpg"
+    },
+    {
+        "name": "ごめんね。そして、ありがとう\nSorry. And, Thank You",
+        "code": "DC/WE02-017",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あたしは、すごく嬉しかったんだ",
+        "ability": [
+            "If you have no 《生徒会》 Characters, you cannot play this card from Hand.",
+            "Choose 1 card from your Clock, return it to Hand. Place this card into Memory."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card3580-large.jpg"
+    },
+    {
+        "name": "委員長の巫女姿\nClass President In Miko Appearance",
+        "code": "DC/WE02-018",
+        "rarity": "C",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "桜内……何の用？　いま手が離せないんだけど",
+        "ability": [
+            "【A】 When this card is placed into Climax Slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +3 Soul."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card3563-large.jpg"
+    },
+    {
+        "name": "物憂げなさくら",
+        "code": "DC/WE02-019",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "…女の子は桜の木に幸せを願いました",
+        "ability": [
+            "【S】 [Place this card into Memory] Search your Deck for up to 1 Character with 「桜」 in its name and show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card7036-large.jpg"
+    },
+    {
+        "name": "制服のキリエ",
+        "code": "DC/WE02-027",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【S】 [REST 2 of your 《神》 Character] During that turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Valkyrie 《ヴァルキリー》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card7039-large.jpg"
+    },
+    {
+        "name": "制服のカイレイン",
+        "code": "DC/WE02-028",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Royal Family 《王族》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card7040-large.jpg"
+    },
+    {
+        "name": "くつろぐカイレイン",
+        "code": "DC/WE02-029",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 If you have 2 or more other 《ヴァルキリー》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card7041-large.jpg"
+    },
+    {
+        "name": "制服のミコト",
+        "code": "DC/WE02-030",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【S】 [REST 1 of your 《武器》 Character] During that turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Bread 《パン》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card7042-large.jpg"
+    },
+    {
+        "name": "制服のエリス",
+        "code": "DC/WE02-031",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】 [REST this card] Choose 1 of your Character with 「レオ」 in its name, during that turn, it gains 『【A】ENCORE [Place 1 Character into Waiting Room from Hand]』."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card7043-large.jpg"
+    },
+    {
+        "name": "小さな幼なじみ 小恋",
+        "code": "DC/WE02-032",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "えへへ。 また……一緒のクラスだね",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】 [REST this card] Choose 1 of your Character with Level 1, during that turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card7037-large.jpg"
+    },
+    {
+        "name": "佇むアイシア",
+        "code": "DC/WE02-033",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ずっと迷ってたことがあって……",
+        "ability": [
+            "【C】 BODYGUARD (When your opponent attacks, if this card is in the center slot of the Front Row and is not REVERSE, your opponent must Front Attack this card.)",
+            "【S】 ［⑥］ Return all of your opponent's Character in the Front Row to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card7038-large.jpg"
+    },
+    {
+        "name": "D.C.toVC RADIO",
+        "code": "DC/WE02-034",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "べ、別にカレーなんか好きじゃないんだからね！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, all your Characters, during this turn, get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card28009-large.jpg"
+    },
+    {
+        "name": "おこたでみかん",
+        "code": "DC/WE02-035",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "みんなで迎える新年はカクベツなのです!!",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card28010-large.jpg"
+    },
+    {
+        "name": "おこたでみかん",
+        "code": "DC/WE02-036",
+        "rarity": "PR",
+        "expansion": "D.C.II P.C. EP",
+        "side": "WE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "卒業しても忘れないよ",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "DC",
+        "release": "WE02",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card28011-large.jpg"
+    }
+]

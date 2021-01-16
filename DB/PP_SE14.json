@@ -1,0 +1,1048 @@
+[
+    {
+        "name": "“獣を狩るための獣”狡噛",
+        "code": "PP/SE14-01",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your other Characters with 「朱」 in its name get +500 Power.",
+            "【A】 BOND／「監視官としての資質 朱」［Place 1 card from Hand into Waiting Room］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「監視官としての資質 朱」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card8950-large.jpg"
+    },
+    {
+        "name": "追い求める先 狡噛",
+        "code": "PP/SE14-02",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "貴様は孤独に耐えられなかっただけだ。\n仲間はずれは嫌だって泣き喚いているガキと変わらない",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "【A】 CHANGE ［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「薔薇の花束 狡噛」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card8912-large.jpg"
+    },
+    {
+        "name": "“潜在犯”狡噛",
+        "code": "PP/SE14-03",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "礼を言うようなことじゃない",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card get +1000 Power.",
+            "【A】［② Place this card into Waiting Room］ When 「運命的な邂逅」 is placed into your Climax slot, you may pay the cost. If you did, choose 1 「狡噛 慎也」 from your Waiting Room, place it into this card's previous slot.",
+            "【S】［REST this card］ Choose 1 of your opponent's Character with Level 3 or higher, during this turn, it gains the following ability. 『【A】 When this card becomes REVERSE in battle, place this card into Memory.』"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card8913-large.jpg"
+    },
+    {
+        "name": "常守 朱",
+        "code": "PP/SE14-04",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 This card cannot be chosen by your opponent's effects.",
+            "【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.",
+            "【C】 When 「選ばれた存在」 is placed in your Climax Slot, choose 1 of your Character, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Public Safety 《公安》",
+            "Weapon 《武器》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card8953-large.jpg"
+    },
+    {
+        "name": "狡噛 慎也",
+        "code": "PP/SE14-05",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "そうかい？　だが俺は貴様に何の期待もしちゃいない",
+        "ability": [
+            "【C】 This card gets +X Power. X is equals to the Level of the Character facing this card ×500.",
+            "【C】 If you have 1 or less other 《公安》 Characters, this card cannot STAND during your Stand Phase.",
+            "【A】 When is card is placed on Stage from Hand or through the 【A】 effect of 「“潜在犯”狡噛」, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card8915-large.jpg"
+    },
+    {
+        "name": "宜野座 伸元",
+        "code": "PP/SE14-06",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "君も監視官の端くれだ。\n猟犬どもを上手く手懐けられると思うなら、やってみろ",
+        "ability": [
+            "【C】 If this card is on Stage, this card gains 《サイコパス》.",
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Public Safety 《公安》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card8916-large.jpg"
+    },
+    {
+        "name": "“レモネードキャンディ”朱",
+        "code": "PP/SE14-07",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Public Safety 《公安》",
+            "Avatar 《アバター》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card8958-large.jpg"
+    },
+    {
+        "name": "六合塚 弥生",
+        "code": "PP/SE14-08",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other Character, during this turn, it gets +1 Level, +1000 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card8959-large.jpg"
+    },
+    {
+        "name": "唐之杜 志恩",
+        "code": "PP/SE14-09",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "まだ本調子ってわけにはいかないわ。\n立ったり喋ったりはちょっとね。\nもちろんベッドのお供も無理",
+        "ability": [
+            "【S】 CONCENTRATE ［①］Flip the top 4 cards from your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action. 『Search your Deck for up to 1 《公安》 Character, show it to your opponent, add it to Hand, choose 1 card in your Hand, place it to Waiting Room.』"
+        ],
+        "attributes": [
+            "Public Safety 《公安》",
+            "Science 《科学》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card8919-large.jpg"
+    },
+    {
+        "name": "執行官 狡噛",
+        "code": "PP/SE14-10",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "今はただ責任を果たすことだけを考えろ。犯人を追うぞ",
+        "ability": [
+            "【C】 If you have no other Characters in the Front Row, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card8920-large.jpg"
+    },
+    {
+        "name": "“ハウンドthree”狡噛",
+        "code": "PP/SE14-11",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card8962-large.jpg"
+    },
+    {
+        "name": "トレーニング中の狡噛",
+        "code": "PP/SE14-12",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "……俺の顔になんかついてるのか？",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equals to your opponent's Level ×1000."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card8922-large.jpg"
+    },
+    {
+        "name": "縢 秀星",
+        "code": "PP/SE14-13",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】［①］ During this turn, this card gets +2500 Power. At the end of turn, place this card into Memory."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card8964-large.jpg"
+    },
+    {
+        "name": "捜査への執念 狡噛",
+        "code": "PP/SE14-14",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "あれがあんたの判断だった。\n俺が文句を言える筋合いじゃない",
+        "ability": [
+            "【C】 This card cannot Side Attack.",
+            "【A】［①］When this card attacks, if 「公安局刑事課一係」 is in the Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card8924-large.jpg"
+    },
+    {
+        "name": "監視官としての資質 朱",
+        "code": "PP/SE14-15",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "狡噛さん相手には切り札があります。\n大丈夫、任せてください",
+        "ability": [
+            "【C】 If you have 2 or more other 《公安》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Public Safety 《公安》",
+            "Weapon 《武器》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card8925-large.jpg"
+    },
+    {
+        "name": "監視官時代の狡噛",
+        "code": "PP/SE14-16",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ずいぶん熱心だな",
+        "ability": [
+            "【C】 During this card's battle, all players cannot play 『ASSIST』 from Hand."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card8926-large.jpg"
+    },
+    {
+        "name": "征陸 智己",
+        "code": "PP/SE14-17",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】 ● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card8968-large.jpg"
+    },
+    {
+        "name": "深淵を見つめる狡噛",
+        "code": "PP/SE14-18",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "そもそもこの世界における犯罪とはなんだ？",
+        "ability": [
+            "【A】 When your other 《公安》 Character attacks, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card8928-large.jpg"
+    },
+    {
+        "name": "薔薇の花束 狡噛",
+        "code": "PP/SE14-19",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "……これは、俺とあいつだけの問題なんだ",
+        "ability": [
+            "【C】 If you have no other Character with 「朱」 in its name, this card gains the following ability. 『【C】 This card cannot Front Attack.』"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card8929-large.jpg"
+    },
+    {
+        "name": "選ばれた存在",
+        "code": "PP/SE14-20",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card8971-large.jpg"
+    },
+    {
+        "name": "運命的な邂逅",
+        "code": "PP/SE14-21",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "槙島「お前は、狡噛慎也だ」\n狡噛「お前は、槙島聖護だ」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card8972-large.jpg"
+    },
+    {
+        "name": "公安局刑事課一係",
+        "code": "PP/SE14-22",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card8973-large.jpg"
+    },
+    {
+        "name": "冷徹な眼差し 槙島",
+        "code": "PP/SE14-23",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なぜ僕を失望させることになったのか、\n君自身に自覚はあるかな？",
+        "ability": [
+            "【A】［① Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 2 or higher, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card8933-large.jpg"
+    },
+    {
+        "name": "“聖者の微笑”槙島",
+        "code": "PP/SE14-24",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 This card cannot be chosen by your opponent's effects.",
+            "【C】 All your other 《サイコパス》 Characters gets +500 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card8975-large.jpg"
+    },
+    {
+        "name": "チェ・グソン",
+        "code": "PP/SE14-25",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "援護しますよ",
+        "ability": [
+            "【A】 When you used this card's 『ASSIST』, if you have 2 or more 《サイコパス》 Characters, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】 ● ASSIST 1000 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Net 《ネット》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card8935-large.jpg"
+    },
+    {
+        "name": "“免罪体質者”槙島",
+        "code": "PP/SE14-26",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "子供の頃から不思議だったよ。\n僕のサイコパスはいつだって真っ白だった。\nただの一度も曇ったことがない",
+        "ability": [
+            "【A】［Place 1 card from Hand into Waiting Room］ When 「裁けない罪」 is place into your Climax Slot, you may pay the cost. If you did, search your Deck for up to 1 《サイコパス》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card8936-large.jpg"
+    },
+    {
+        "name": "槙島 聖護",
+        "code": "PP/SE14-27",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "やはり君は僕が期待した通りの男だった",
+        "ability": [
+            "【C】 For each of your other 《サイコパス》 Character, this card gets +500 Power.",
+            "【A】 When this card is placed on Stage from Hand or through 『 CHANGE』, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】 [Place 1 card from Hand into Waiting Room] When 「対峙するふたり」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of opponent's Character with Cost 1 or lower, place it to the bottom of the Deck."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card8937-large.jpg"
+    },
+    {
+        "name": "研ぎ澄まされた知性 槙島",
+        "code": "PP/SE14-28",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】 CONCENTRATE ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card8979-large.jpg"
+    },
+    {
+        "name": "謎の男 槙島",
+        "code": "PP/SE14-29",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card8980-large.jpg"
+    },
+    {
+        "name": "管理社会への反抗 槙島",
+        "code": "PP/SE14-30",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 CHANGE ［④ Place 1 Climax from your Hand into Waiting Room, place this card into Waiting Room］At the start of your Draw Phase, you may pay the cost. If you did, choose 1 「槙島 聖護」from your Waiting Room, place it into this card's previous slot.",
+            "【S】［REST 2 of your Characters］ Choose 1 of your 《サイコパス》 Character, until the end of your opponent's next turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card8981-large.jpg"
+    },
+    {
+        "name": "一輪の薔薇 槙島",
+        "code": "PP/SE14-31",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card8982-large.jpg"
+    },
+    {
+        "name": "美術教師に紛れた槙島",
+        "code": "PP/SE14-32",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "ええ、いつも新しいアーティストを探しています。\n興味深い新人を見つけるのが、本当に楽しみで",
+        "ability": [
+            "【C】 If you have 5 or more cards in Hand, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card8942-large.jpg"
+    },
+    {
+        "name": "深淵なる洞察力 槙島",
+        "code": "PP/SE14-33",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "3",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "殺したのかい？",
+        "ability": [
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card8943-large.jpg"
+    },
+    {
+        "name": "シビュラシステム",
+        "code": "PP/SE14-34",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "世間では僕らのことを、シビュラシステムと呼んでいる",
+        "ability": [
+            "You may choose 1 of your Character on Stage with Level equal or lower than your Level, place it into Waiting Room. If you did, search your Deck for up to 1 Character with Level equal to that Character's Level, place it into any empty slot on Stage. Shuffle your Deck afterwards."
+        ],
+        "attributes": [],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card8944-large.jpg"
+    },
+    {
+        "name": "対峙するふたり",
+        "code": "PP/SE14-35",
+        "rarity": "R",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "二人は初めて出会うより以前から、\nああなる運命だったんだろう",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card8945-large.jpg"
+    },
+    {
+        "name": "裁けない罪",
+        "code": "PP/SE14-36",
+        "rarity": "C",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "君は僕を失望させた。\nだから罰を与えなくてはならない",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card8987-large.jpg"
+    },
+    {
+        "name": "新人監視官 朱",
+        "code": "PP/SE14-P01",
+        "rarity": "PR",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "本日付で刑事課に配属となりました常守朱です",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Public Safety 《公安》",
+            "Weapon 《武器》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card8947-large.jpg"
+    },
+    {
+        "name": "執行官の流儀 狡噛",
+        "code": "PP/SE14-P02",
+        "rarity": "PR",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "俺のやり方が気に入らないときは、そいつで俺を撃て",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Public Safety 《公安》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card8948-large.jpg"
+    },
+    {
+        "name": "精神的な調律 槙島",
+        "code": "PP/SE14-P03",
+        "rarity": "PR",
+        "expansion": "Psycho-Pass",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "紙の本を買いなよ。電子書籍は味気ない",
+        "ability": [
+            "【C】 During your opponent's turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "PSYCHO PASS 《サイコパス》",
+            "Book 《本》"
+        ],
+        "set": "PP",
+        "release": "SE14",
+        "sid": "P03",
+        "image": "https://images.littleakiba.com/tcg/card8949-large.jpg"
+    }
+]

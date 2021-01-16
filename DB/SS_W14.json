@@ -1,0 +1,3369 @@
+[
+    {
+        "name": "この街での成長 シャナ\nGrowing Up In This City Shana",
+        "code": "SS/W14-001",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "手を伸ばせば届く…",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card, gets +500 Power.",
+            "【S】 ［REST this card］ Choose 1 of your 《炎》 Characters, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card4051-large.jpg"
+    },
+    {
+        "name": "ドレス姿の一美\nDress Appearance Kazumi",
+        "code": "SS/W14-002",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "今日からニ回戦スタートだもん",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose up to 2 of your other Characters, during this turn, they get +1000 Power, +1 Soul.",
+            "【A】 When this card attacks, if 「校舎裏の宣戦布告」 is in your Climax Slot, all your Characters, during this turn, get +3000 Power.",
+            "【C】 EXPERIENCE During your turn, if the total Level of cards in your Level slot is 4 or higher, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Love 《愛》",
+            "Dress 《ドレス》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card4049-large.jpg"
+    },
+    {
+        "name": "メイド服の近衛\nMaid Clothes Konoe",
+        "code": "SS/W14-003",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "…ご一緒に",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Mystery 《謎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card4052-large.jpg"
+    },
+    {
+        "name": "踏み出す一秒一美\nAdvancing Every Second Kazumi",
+        "code": "SS/W14-004",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "私、ちゃんと自分で頑張ってみるから",
+        "ability": [
+            "【C】During your turn, if you have 1 or less other Characters in the Front Row, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card4016-large.jpg"
+    },
+    {
+        "name": "不器用なシャナ\nClumsy Shana",
+        "code": "SS/W14-005",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "悠二は私と一緒にいなきゃだめ！！",
+        "ability": [
+            "【A】 ［①］ When you use this card's 『ASSIST』, you may pay this cost. If you do, choose 1 of your 《炎》 Characters in battle, during this turn, it gets +1500 Power.",
+            "【S】● ASSIST 1500 Level 1 ［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card4053-large.jpg"
+    },
+    {
+        "name": "変わった“トーチ”悠二\nUnusual Torch Yuuji",
+        "code": "SS/W14-006",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "じゃあ、君はシャナだ…。ボクは今からそう呼ぶ！",
+        "ability": [
+            "【C】If you have 2 or more other 《炎》 Characters, you cannot receive damage from your opponent's Character's 【A】 effects.",
+            "【C】 SUPPORT All your Level 2 and above Characters in front of this card get +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Treasure Tool 《宝具》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card4038-large.jpg"
+    },
+    {
+        "name": "吉田 一美\nYoshida Kazumi",
+        "code": "SS/W14-007",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "出来る、大丈夫、言える……",
+        "ability": [
+            "【A】 When this card is placed on Stage from hand, choose 1 of your other Level 1 Characters, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card4054-large.jpg"
+    },
+    {
+        "name": "初めての気持ち シャナ\nFirst Feelings Shana",
+        "code": "SS/W14-008",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "通じあいたい、悠二と",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top 2 cards of your opponent's Deck, place the cards back on top of the deck in the original sequence.",
+            "【A】 CHANGE ［② Place 1 card from Hand to Waiting Room, place this card to Waiting Room］At the beginning of your Climax Phase, you may pay this cost. If you do, choose 1 「大いなる器 シャナ」 from your Waiting Room, place it in this card's previous slot."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card4055-large.jpg"
+    },
+    {
+        "name": "佐藤 啓作\nSatou Keisaku",
+        "code": "SS/W14-009",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "行こうぜ田中",
+        "ability": [
+            "【A】When this card attacks, all your cards with the name 「マージョリー」, during this turn, gets +500 Power.",
+            "【A】 BOND／「『弔詞の詠み手』マージョリー・ドー」 ［①］ (When this card is played on Stage, you may pay this cost. If you do, choose 1 「『弔詞の詠み手』マージョリー・ドー」 from your Waiting Room, return to hand)"
+        ],
+        "attributes": [
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card4056-large.jpg"
+    },
+    {
+        "name": "平井 ゆかり\nHirai Yukari",
+        "code": "SS/W14-010",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ああ、私も時々やるから。そんときはよろしく",
+        "ability": [
+            "【A】[① Place this card to Memory]If this card becomes REVERSE in battle, you may pay this cost. If you do, choose 1 card from your Level slot and 1 card from your Waiting Room, exchange them."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card4079-large.jpg"
+    },
+    {
+        "name": "メロンパン大好き シャナ\nMelon Pan Loving Shana",
+        "code": "SS/W14-011",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うん、当たりかも",
+        "ability": [
+            "【C】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card4057-large.jpg"
+    },
+    {
+        "name": "水着のシャナ\nSwimsuit Shana",
+        "code": "SS/W14-012",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これも鍛錬のうちよ！",
+        "ability": [
+            "【A】［③ Place this card into Waiting Room］When 「どうしようもない気持ち」 is placed into your Climax slot, you may pay this cost. If you do, search your deck for up to 1 「誇り高き者 シャナ」, place it onto this card's previous slot. Shuffle your deck afterwards.",
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card4058-large.jpg"
+    },
+    {
+        "name": "近衛 史菜\nKonoe Fumina",
+        "code": "SS/W14-013",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ごめんなさい…",
+        "ability": [
+            "【A】 CHANGE ［Place this card to Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you do, choose 1 「対峙の時 ヘカテー」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Mystery 《謎》",
+            "Animal 《動物》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card4018-large.jpg"
+    },
+    {
+        "name": "坂井 悠二\nSakai Yuuji",
+        "code": "SS/W14-014",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "世界が外れたその日、ボクは、あの炎の少女に出会った",
+        "ability": [
+            "【A】[①]When this card attacks, you may pay this cost. If you do, during this turn, this card gets +2500 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Treasure Tool 《宝具》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card4077-large.jpg"
+    },
+    {
+        "name": "零時迷子の“ミステス”悠二\nMidnight Lost Child",
+        "code": "SS/W14-015",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "この街を守る…守るために戦ってる！",
+        "ability": [
+            "【A】[①]When this card attacks, if 「零時迷子の元へ」 is in your Climax Slot, you may pay this cost. If you do, choose 1 of your opponent's Front Row Characters with Level 2 or below, place it into Stock."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Treasure Tool 《宝具》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card4078-large.jpg"
+    },
+    {
+        "name": "ジュリエット役の一美\nRole of Juliet Kazumi",
+        "code": "SS/W14-016",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私も…坂井君と同じ場所にいたい…",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card4080-large.jpg"
+    },
+    {
+        "name": "ロミオ役の悠二\nRole of Romeo Yuuji",
+        "code": "SS/W14-017",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "立ち向かうって決めたんだ。\nだから…今、この時を精一杯…",
+        "ability": [
+            "【A】 BOND／「対峙の時 シャナ」 ［Place the top card from your Deck to Clock］ (When this card is played on Stage, you may pay this cost. If you do, choose 1 「対峙の時 シャナ」 from your Waiting Room, return to hand)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Treasure Tool 《宝具》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card4081-large.jpg"
+    },
+    {
+        "name": "坂井 千草\nSakai Chigusa",
+        "code": "SS/W14-018",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "簡単なようで難しい質問ね、シャナちゃん",
+        "ability": [
+            "【C】All your other 《炎》 Characters gets +500 Power."
+        ],
+        "attributes": [
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card4082-large.jpg"
+    },
+    {
+        "name": "池 速人\nIke Hayato",
+        "code": "SS/W14-019",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "いいぞ…吉田さんがボクに注目している",
+        "ability": [
+            "【C】[① REST this card]Choose 1 of your Characters, during this turn it gets +2500 Power."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card4083-large.jpg"
+    },
+    {
+        "name": "戸惑うシャナ\nBewildered Shana",
+        "code": "SS/W14-020",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ホントに変なトーチね、あれ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card4059-large.jpg"
+    },
+    {
+        "name": "メイド服の一美\nMaid Clothes Kazumi",
+        "code": "SS/W14-021",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "…おかえりなさい",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Love 《愛》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card4084-large.jpg"
+    },
+    {
+        "name": "緒方 真竹\nOgata Matake",
+        "code": "SS/W14-022",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "そうでなくっちゃね～",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card4085-large.jpg"
+    },
+    {
+        "name": "御崎高校の生徒 一美\nMisaki High School Student Kazumi",
+        "code": "SS/W14-023",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "お互いがんばろうね、シャナちゃん",
+        "ability": [
+            "【C】 EXPERIENCE During your turn, if the total Level of cards in your Level slot is 3 or higher, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card4039-large.jpg"
+    },
+    {
+        "name": "疑惑の転校生 近衛\nSuspicious Transfer Student Konoe",
+        "code": "SS/W14-024",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "恐れ入ります",
+        "ability": [
+            "【A】[②]When this card attacks, you may pay this cost. If you do, choose 1 of your opponent's Front Row Characters, return it to hand."
+        ],
+        "attributes": [
+            "Mystery 《謎》",
+            "Animal 《動物》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card4086-large.jpg"
+    },
+    {
+        "name": "田中 栄太\nTanaka Eita",
+        "code": "SS/W14-025",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "どうした。何かあったのか？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card4087-large.jpg"
+    },
+    {
+        "name": "アラス・トオル\nAlas Tor",
+        "code": "SS/W14-026",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "奥方、それで我が用向きだが…",
+        "ability": [
+            "Search your Deck for up to 2 《炎》 Characters and show them to your opponent, place them into your hand. Shuffle that deck. Choose 1 card from your hand, place it to Waiting Room. Send this card to Memory."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card4088-large.jpg"
+    },
+    {
+        "name": "清秋祭始まる\nClear Autumn Festival Starts",
+        "code": "SS/W14-027",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "シャナ「……これは多分、楽しい」",
+        "ability": [
+            "●Choose 1 of your 《炎》 Characters, during this turn it gets +4500 Power."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card4089-large.jpg"
+    },
+    {
+        "name": "校舎裏の宣戦布告\nDeclaration of War Behind the School Building",
+        "code": "SS/W14-028",
+        "rarity": "CR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "一美「好きだって言ってもいないゆかりちゃんには負けない！」",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to hand)"
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card4090-large.jpg"
+    },
+    {
+        "name": "どうしようもない気持ち\nFeelings That Cannot Be Helped",
+        "code": "SS/W14-029",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "悠二は…悠二は私の…私の…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card4060-large.jpg"
+    },
+    {
+        "name": "零時迷子の元へ\nTo the Origin of the Midnight Lost Child",
+        "code": "SS/W14-030",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "だったら……ボクがやることはただ一つだ",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to opponent.)"
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card4091-large.jpg"
+    },
+    {
+        "name": "シャナ＆アラストール\nShana & Alastor",
+        "code": "SS/W14-031",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "アラストール「シャナ…お前の道は、お前が選べ…」\nシャナ「……うん…」",
+        "ability": [
+            "【C】All your other 《炎》 Characters gets +500 Power.",
+            "【A】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gains the following ability.『【A】When this card's Level 1 or above battle opponent becomes REVERSE, choose 1 Character from your Waiting Room, return it to hand, choose 1 card from your hand, place it to Waiting Room.』"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card4047-large.jpg"
+    },
+    {
+        "name": "“戦技無双”の美姫 ヴィルヘルミナ\n“Unparalled in Battle” Beauty Wilhelmina",
+        "code": "SS/W14-032",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "通すわけにはいかないのであります",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other Characters, during this turn, it gets +X Power. X is equals to that Character's Level ×500.",
+            "【A】［②］When 「天道宮の戦い」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you do, search your Deck for up to 1 Level 2 or below 《炎》 Character, place it on Stage in any slot. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card4061-large.jpg"
+    },
+    {
+        "name": "誇り高き者 シャナ\nPrideful Shana",
+        "code": "SS/W14-033",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "ただお前、迷惑なのよ",
+        "ability": [
+            "【C】If all your Characters are 《炎》, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card4014-large.jpg"
+    },
+    {
+        "name": "大いなる器 シャナ\nGreat Vessel Shana",
+        "code": "SS/W14-034",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or through ｢CHANGE｣, you may place the top card of your Clock into Waiting Room.",
+            "【A】［③ Place the top card from your Deck to Clock］ You can use this ability only once per turn. When the Character battling this card becomes REVERSE, if 「天破壌砕」 is in your Climax Slot, you may pay this cost. If your do, STAND this card."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card4046-large.jpg"
+    },
+    {
+        "name": "討滅の使徒 シャナ\nApostle of Destruction Shana",
+        "code": "SS/W14-035",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "悠二、油断しないで",
+        "ability": [
+            "【S】 CONCENTRATE ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action. 『Choose 1 《炎》 Character from your Waiting Room, return it to hand, choose 1 of your hand cards, place it to Waiting Room.』"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card4062-large.jpg"
+    },
+    {
+        "name": "ティアマトーの契約者　ヴィルヘルミナ\nContracted to Tiamat Wilhelmina",
+        "code": "SS/W14-036",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "．．．神器ペルソナを",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 0 or below, you may REVERSE that Character.",
+            "【S】［①］Choose 1 of your opponent's Level 0 or below Front Row characters, place it to the Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card4015-large.jpg"
+    },
+    {
+        "name": "対峙の時 シャナ\nConfronting Time Shana",
+        "code": "SS/W14-037",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have no other 《炎》 Characters, place this card to Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card4063-large.jpg"
+    },
+    {
+        "name": "“麗しのゴブレット”マージョリー\n“Lovely Goblet” Margery",
+        "code": "SS/W14-038",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "お互いでっかくハデにいきましょ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other 《炎》 Characters, during this turn it gets +2000 Power.",
+            "【A】 CHANGE ［③ Place 1 card from Hand to Waiting Room, place this card to Waiting Room］At the beginning of your Climax Phase, you may pay this cost. If you do, choose 1 「マージョリー＆マルコシス 」 from your Waiting Room, place it in this card's previous slot."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card4064-large.jpg"
+    },
+    {
+        "name": "“フレイムヘイズ”ヴィルヘルミナ\n\"Flame Haze\" Wilhelmina",
+        "code": "SS/W14-039",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 《炎》 Characters, this card gets +500 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card4065-large.jpg"
+    },
+    {
+        "name": "炎剣一閃 シャナ\nBrandishing a Flaming Sword Shana",
+        "code": "SS/W14-040",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "お前なんかに絶対、負けないっ！",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +500 Power and gains 『【A】ENCORE[Place 1 Character from Hand to Waiting Room]』."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card4092-large.jpg"
+    },
+    {
+        "name": "『弔詞の詠み手』マージョリー・ドー\n『Chanter of Elegies』 Margery Daw",
+        "code": "SS/W14-041",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マージョリー「ぶっ飛ばすわよ！マルコシアス！」\nマルコシアス「おうさ。殺すぜ壊すぜ食い千切るぜ！」",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.",
+            "【A】［②］When this card is place on Stage from Hand, you may pay this cost. If you do, deal 1 damage to your opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card4048-large.jpg"
+    },
+    {
+        "name": "シャナ＆悠二\nShana & Yuuji",
+        "code": "SS/W14-042",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "シャナ「悠二ならやれる。…悠二はきっと強くなれる！」",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 5 or higher, this card gets +1500 Power and the following ability. 『【A】［①］When the Character battling this card becomes REVERSE, you may pay this cost. If you do, place that Character on top of the Deck.』",
+            "【A】When this card is placed on Stage from Hand, draw 2 cards, choose 1 card from hand, place it to Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card4066-large.jpg"
+    },
+    {
+        "name": "3分料理 ヴィルヘルミナ\n3 Minute Cooking Wilhelmina",
+        "code": "SS/W14-043",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "…了解であります",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《炎》 Characters, during this turn it gets +500 Power.",
+            "【A】 BOND／「不器用なシャナ」［①］(When this card is placed on Stage, you may pay this cost. If you do, choose 1 「不器用なシャナ」 from your Waiting Room, return to hand)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card4093-large.jpg"
+    },
+    {
+        "name": "マティルダ・サントメール\nMathilde Saint-Omer",
+        "code": "SS/W14-044",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ねぇ、覚えてる？あなたと契約した時のこと…",
+        "ability": [
+            "【S】[② Place this card to Waiting Room]Choose 1 of your opponent's Cost 1 or below Front Row Characters, place it to Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card4094-large.jpg"
+    },
+    {
+        "name": "アラストールの契約者 シャナ\nContracted to Alastor Shana",
+        "code": "SS/W14-045",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "知らない名前ね",
+        "ability": [
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card4067-large.jpg"
+    },
+    {
+        "name": "紅蓮の双翼 シャナ\nCrimson Wings Shana",
+        "code": "SS/W14-046",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "どうしてだろう……身体が動く。\n……それに何だか……熱い！",
+        "ability": [
+            "【A】When the Character battling this card becomes REVERSE, if 「何でもできる」 is in your Climax slot, you may choose 1 Character from your Waiting Room, return it into hand."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card4020-large.jpg"
+    },
+    {
+        "name": "“フレイムヘイズ”マージョリー\n“Flame Haze” Margery",
+        "code": "SS/W14-047",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ペニィ！ペニィ！ペニィ積もればお金持ちっと！！",
+        "ability": [
+            "【C】You cannot play Events and 『ASSIST』 from Hand."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card4017-large.jpg"
+    },
+    {
+        "name": "ドロシー役のシャナ\nRole of Dorothy Shana",
+        "code": "SS/W14-048",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "悠二、はなれてて！",
+        "ability": [
+            "【A】EXPERIENCE When you use this card's 『ASSIST』, if the total Level of cards in your Level slot is 5 or higher, choose 1 of your Characters in battle, during this turn it gets +1000 Power.",
+            "【S】● ASSIST 2500 Level 2 ［①Place this card from Hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card4095-large.jpg"
+    },
+    {
+        "name": "マージョリー＆マルコシス\nMargery & Marchosias",
+        "code": "SS/W14-049",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】EXPERIENCE If you have 2 or more 《炎》 Characters in your Level slot, this card gets +1000 Power.",
+            "【A】[Place 1 card from Hand to Waiting Room, REST 2 of your Characters in STAND position]When this card is attacking, if ｢掴んだ手がかり｣ is in your Climax Slot, you may pay this cost. If you do, choose 1 of your opponent's Level 2 or below Characters, place it to Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card4096-large.jpg"
+    },
+    {
+        "name": "悠二の元へ シャナ&アラストール\nReturning to Yuuji, Shana & Alastor",
+        "code": "SS/W14-050",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そう、それだけ…！それだけで戦える！",
+        "ability": [
+            "【C】All your other cards with the name ｢悠二｣ gets +500 Power.",
+            "【A】 BOND／「坂井 悠二」 ［①］ (When you place this card on Stage from Hand, you may pay this cost. If you do, choose 1 「坂井 悠二」 from your Waiting Room and return it to Hand)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card4097-large.jpg"
+    },
+    {
+        "name": "ヴィルヘルミナ・カルメル\nWilhelmina Carmel",
+        "code": "SS/W14-051",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "心配することはないのであります",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【A】When this card is placed on Stage from hand, choose 1 of your Characters, during this turn, gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card4068-large.jpg"
+    },
+    {
+        "name": "マージョリー･ドー\nMargery Daw",
+        "code": "SS/W14-052",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When another of your Characters become REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card4098-large.jpg"
+    },
+    {
+        "name": "意思と使命 シャナ\nPurpose and Mission Shana",
+        "code": "SS/W14-053",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "どっちも私！ どっちが欠けても私じゃない！",
+        "ability": [
+            "【A】[①]When this card is placed on Stage from Hand, you may pay this cost. If you do, choose 1 card from your Level slot and 1 card from your Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card4099-large.jpg"
+    },
+    {
+        "name": "『炎髪灼眼の討ち手』シャナ\n\"Flame-Haired Blazing-Eyed Hunter\" Shana",
+        "code": "SS/W14-054",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "すぐに聞かせてやる！私の気持ちを",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card4100-large.jpg"
+    },
+    {
+        "name": "水着のマージョリー\nSwimsuit Margery",
+        "code": "SS/W14-055",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ふふん、ナイスタイミング",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card4101-large.jpg"
+    },
+    {
+        "name": "守るべきもの シャナ\nProtector Shana",
+        "code": "SS/W14-056",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "誰だろうと関係ない、悠二を返してもらう",
+        "ability": [
+            "【A】［①］When this card attacks, if 「想いの力」 is in your Climax slot, you may pay this cost. If you do, choose 1 card from your opponent's Waiting Room, place it on top of Deck, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card4069-large.jpg"
+    },
+    {
+        "name": "“万条の仕手”ヴィルヘルミナ・カルメル\nMulti-tasker Wilhelmina Carmel",
+        "code": "SS/W14-057",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "もう少し、相手をしてもらうのであります",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card4102-large.jpg"
+    },
+    {
+        "name": "“屠殺の即興詩”マージョリー\n\"Improvisational Poem of Slaughter\" Marjorie",
+        "code": "SS/W14-058",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "マージョリー「ゴタクの続きは…」\nマルコシアス「あの世で言いな！」",
+        "ability": [
+            "【S】● ASSIST 1500 Level 1 ［Place this card from hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card4070-large.jpg"
+    },
+    {
+        "name": "その先を見据えるシャナ\nGazing at What's to Come Shana",
+        "code": "SS/W14-059",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "確かなのは今行くしかないって事",
+        "ability": [
+            "【A】When this card attacks, if 「茜色の死闘」 is in the Climax Slot, choose up to 1 of your Characters, during this turn, it gains the following ability. ｢【A】When this card becomes REVERSE, if the Character battling this card is Level 3 or less, you may put that Character to REVERSE.｣"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card4103-large.jpg"
+    },
+    {
+        "name": "ヴィルヘルミナ&ティアマトー\nWilhelmina & Tiamat",
+        "code": "SS/W14-060",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "ヴィルヘルミナ「始めるのであります」\nティアマトー「覚悟」",
+        "ability": [
+            "【C】All your other Characters gain the following ability. 『【C】This card cannot Side Attack』",
+            "【A】ENCORE [Place 1 of your 《炎》 Characters from Stage to Clock] (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card4104-large.jpg"
+    },
+    {
+        "name": "“儀装の駆り手”カムシン・ネブハーウ\n\"Mobilizer of Ceremonial Equipment\" Khamsin Nbh'w",
+        "code": "SS/W14-061",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "危険はありません。ただこの街の歪みを直すだけです",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card4105-large.jpg"
+    },
+    {
+        "name": "トーチとフレイムヘイズ\nTorch and Flame Haze",
+        "code": "SS/W14-062",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "シャナ「最後、お前の声が聞こえたから立てた」\n悠二「役に立てて嬉しいよ…」",
+        "ability": [
+            "Search your Deck for up to 1 《炎》 Character, show it to your opponent, place it into Hand. Shuffle your Deck afterwards. Choose 1 of your Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card4071-large.jpg"
+    },
+    {
+        "name": "封絶\nFuzetsu",
+        "code": "SS/W14-063",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "封絶！",
+        "ability": [
+            "Place this card to Memory.",
+            "【C】RECOLLECTION If this card is in your Memory, your card with 「シャナ」 in its name in the Center slot of your Front Row gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card4072-large.jpg"
+    },
+    {
+        "name": "銀の炎\nSilver Flame",
+        "code": "SS/W14-064",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "は…はははは！……見つけた…私の…私の全て…！",
+        "ability": [
+            "If you do not have any 《炎》 Characters, you cannot play this card from hand.",
+            "Choose 1 of your opponent's Back Row Characters with cost 1 and below, place it to Waiting Room."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card4073-large.jpg"
+    },
+    {
+        "name": "手料理への挑戦\nHome Cooking Challenge",
+        "code": "SS/W14-065",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "むむむ……む、む…",
+        "ability": [
+            "Deal 6 damage to your opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card4106-large.jpg"
+    },
+    {
+        "name": "天道宮の戦い\nBattle of Tendoukyuu",
+        "code": "SS/W14-066",
+        "rarity": "CR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "今や遠慮容赦一切無用…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card4107-large.jpg"
+    },
+    {
+        "name": "天破壌砕\nTenpa Jousai",
+        "code": "SS/W14-067",
+        "rarity": "CR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私……、悠二が好き",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card4074-large.jpg"
+    },
+    {
+        "name": "何でもできる\nI Can Do Anything",
+        "code": "SS/W14-068",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "<>",
+        "ability": [
+            "【A】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card4075-large.jpg"
+    },
+    {
+        "name": "掴んだ手がかり\nCatching Hold of the Clue",
+        "code": "SS/W14-069",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "全てを、私の全てを、今こそ突き止めてやる",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card4108-large.jpg"
+    },
+    {
+        "name": "想いの力\nPower of Feelings",
+        "code": "SS/W14-070",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "悠二……お前は、私が護る！！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card4076-large.jpg"
+    },
+    {
+        "name": "茜色の死闘\nMadder Red Death Struggle",
+        "code": "SS/W14-071",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "一拍間にあわない！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card4109-large.jpg"
+    },
+    {
+        "name": "“頂の座” ヘカテー\n“Master Throne” Hecate",
+        "code": "SS/W14-072",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "私をからっぽでなくしたもの…",
+        "ability": [
+            "【C】During your opponent's turn, all your other Characters gets +500 Power.",
+            "【S】 CONCENTRATION ［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room.For each Climax among those cards, draw 1 card."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card4110-large.jpg"
+    },
+    {
+        "name": "託宣の巫女 ヘカテー\nOracle Priestess Hecate",
+        "code": "SS/W14-073",
+        "rarity": "RR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "答えを。私が求めているものへの答え",
+        "ability": [
+            "【C】If you have 2 or more other 《炎》 Characters, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck to Clock］(When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card4150-large.jpg"
+    },
+    {
+        "name": "“屍拾い”ラミー\n“Corpse Retriever” Lamis",
+        "code": "SS/W14-074",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "さらばだ、因果の交差路でまた会おう",
+        "ability": [
+            "【A】This ability can be used once per turn. When you use 『ASSIST』, choose 1 of your Characters in battle, during this turn, it gets +500 Power.",
+            "【A】[Place this card to Waiting Room] When another of your Characters is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay this cost. If you do, place that card into its previous slot in REST."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Glove 《手袋》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card4111-large.jpg"
+    },
+    {
+        "name": "“壊刃”サブラク\n“Destructive Blade” Sabrac",
+        "code": "SS/W14-075",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ならばそろそろ…決別の頃合いだ",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, reveal the top card of your Deck. If that card is a Climax, REST this card. （Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card4112-large.jpg"
+    },
+    {
+        "name": "フレイムヘイズ殺し フリアグネ\nFlame Haze Murderer Friagne",
+        "code": "SS/W14-076",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "<>こんにちは、おちびさん\n逢魔が時に相応しい出会いだ",
+        "ability": [
+            "【C】During your opponent's turn, all your other 《炎》 Characters gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Doll 《人形》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card4113-large.jpg"
+    },
+    {
+        "name": "対峙の時 ヘカテー\nPerfect Timing Hecate",
+        "code": "SS/W14-077",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "…じゃまもの…",
+        "ability": [
+            "【A】When this card attacks, if 「直接対決！」 is in your Climax slot, search your deck for up to 1 《炎》 Character, show it to your opponent, place it into hand. Shuffle your deck afterwards. If 1 card is placed into your hand, choose 1 card in your hand, place it into Waiting Room.",
+            "【A】 ENCORE ［Place 1 of your 《炎》 Character on Stage into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card4019-large.jpg"
+    },
+    {
+        "name": "大御巫 ヘカテー\nDivine Priestess Hecate",
+        "code": "SS/W14-078",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "…解かれよ…",
+        "ability": [
+            "【A】When this card attacks, if 「この世での徒の誕生」 is in your Climax Slot, all your other Characters, until the end of your opponent's turn, gains ｢【A】ENCORE[①]｣."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card4114-large.jpg"
+    },
+    {
+        "name": "“千変”シュドナイ\n“Thousand Change” Sydonay",
+        "code": "SS/W14-079",
+        "rarity": "R",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "獣になって快楽を交わすのもおつなものだ",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gains the following ability. 『【S】[①]All your Characters, until the end of your opponent's next turn, get +500 Power.』"
+        ],
+        "attributes": [
+            "Flame 《炎》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card4115-large.jpg"
+    },
+    {
+        "name": "“三眼の女怪”ベルペオル\n“3-Eyed Woman” Beo Peol",
+        "code": "SS/W14-080",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ふふ…手間をかけた甲斐はあったようだね",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】[REST 2 of your 《炎》 Characters]Choose 1 card from your Level slot and 1 card from your Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card4116-large.jpg"
+    },
+    {
+        "name": "“彩飄”フィレス\n“Beautiful Whim” Pheles",
+        "code": "SS/W14-081",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ヨーハン…必ず迎えに行くわ…",
+        "ability": [
+            "【A】[① Place 1 card from Hand to Waiting Room]When this card is placed on Stage from Hand, you may pay this cost. If you do, search your Deck for up to 1 《炎》 Character and show it to your opponent, add it to hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card4117-large.jpg"
+    },
+    {
+        "name": "からっぽの存在 ヘカテー\nEmpty Existence Hecate",
+        "code": "SS/W14-082",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "役目を終えたものは、ただ消えゆく",
+        "ability": [
+            "【C】During your opponent's turn, if your opponent has 3 or less Characters, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card4037-large.jpg"
+    },
+    {
+        "name": "“逆理の裁者”ベルペオル\n“Judge of Paradoxes” Bel Peol",
+        "code": "SS/W14-083",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "久方ぶりだねえ。天壌の劫火、それに万条の仕手",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gains the following ability. ｢【S】[①]During this turn, even if this Character Side Attacks, no Soul is deducted.｣"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card4118-large.jpg"
+    },
+    {
+        "name": "フリアグネ&マリアンヌ\nFriagne & Marianne",
+        "code": "SS/W14-084",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "ああ、私のかわいいマリアンヌ、優しいのは君の方だよ……",
+        "ability": [
+            "【A】[①]When this card is placed on Stage from Hand, you may pay this cost. If you do, during this turn, this card gains the following ability. 『【A】When a Level 2 or above Character battling this card becomes REVERSE, you may place the top card of your Clock to Waiting Room.』"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Doll 《人形》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card4119-large.jpg"
+    },
+    {
+        "name": "開かれる器 ヘカテー\nOpening Vessel Hecate",
+        "code": "SS/W14-085",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "器を開きなさい…",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock to Waiting Room.",
+            "【A】[①]When this card attacks, if 「器の回収」 is in your Climax slot, you may pay this cost. If you do, draw 2 cards."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card4120-large.jpg"
+    },
+    {
+        "name": "“虹の翼”メリヒム\n“Rainbow Wings” Merihim",
+        "code": "SS/W14-086",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "さあ、すぐに終わらせようか",
+        "ability": [
+            "【S】[REST this card and 1 of your Characters]Choose 1 of your Characters, until the end of your opponent's next turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card4121-large.jpg"
+    },
+    {
+        "name": "“狩人”フリアグネ\n\"The Hunter\" Friagne",
+        "code": "SS/W14-087",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "何が入ってるのかな、その中…楽しみだ…",
+        "ability": [
+            "【C】During your opponent's turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Doll 《人形》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card4122-large.jpg"
+    },
+    {
+        "name": "“探耽求究”ダンタリオン\n“Seeking Researcher” Dantalion",
+        "code": "SS/W14-088",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "すぅーべてが計・画・どおり！！",
+        "ability": [
+            "【S】[①]Draw 1 card, choose 1 card from hand, place it to Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Science 《科学》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card4123-large.jpg"
+    },
+    {
+        "name": "“愛染自”ソラト＆“愛染他”ティリエル\n\"He who Loves Himself\" Sorath & \"Engulfed in Love for Others\" Tiriel",
+        "code": "SS/W14-089",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ティリエル「それじゃお兄様」\nソラト「うん、ごほうびだね」",
+        "ability": [
+            "【S】[② REST this card]Search your deck for up to 1 《武器》 Character and show it to your opponent, place it into Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card4124-large.jpg"
+    },
+    {
+        "name": "浴衣のヘカテー\nYukata Hecate",
+        "code": "SS/W14-090",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "私はあなたのものではありません",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card4125-large.jpg"
+    },
+    {
+        "name": "“戯睡郷”メア\n\"Village of Jestful Slumber\" Mare",
+        "code": "SS/W14-091",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "言ったでしょう。この世界では私の思いどおりになる",
+        "ability": [
+            "【A】ALARM When this card is the top card of your Clock, when your opponent places a Climax into his/her Climax Slot, all your Characters gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Treasure Tool 《宝具》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card4126-large.jpg"
+    },
+    {
+        "name": "風の繰り手 フィレス\nTurning of Winds Pheles",
+        "code": "SS/W14-092",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "すべて利用させてもらった。私がヨーハンをとりもどす為に！",
+        "ability": [
+            "【C】EXPERIENCE During your opponent's turn, if Level slot has a 《炎》 Character, this card gets +1000 Power and gains the following ability. ｢【A】When the Character battling this card becomes REVERSE, you may draw 1 card. If you do, choose 1 card from your Hand, place it to Waiting Room."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Love 《愛》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card4127-large.jpg"
+    },
+    {
+        "name": "“三柱臣”シュドナイ\n\"Attendant of the 3rd Pillar\" Sydonay",
+        "code": "SS/W14-093",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "オレのヘカテーに妙なマネをしてくれるなよ",
+        "ability": [
+            "【A】CHANGE[③ Place 1 card from Hand to Waiting Room, place this card to Waiting Room.]At the beginning of your Climax Phase, you may pay this cost. If you do, choose 1 「“千変”シュドナイ」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Tabacco 《タバコ》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card4128-large.jpg"
+    },
+    {
+        "name": "“三柱臣”ヘカテー\n\"Attendant of the 3rd Pillar\" Hecate",
+        "code": "SS/W14-094",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "セイレイデンが震えている…",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card4129-large.jpg"
+    },
+    {
+        "name": "天目一個\nTenmoku Ikko",
+        "code": "SS/W14-095",
+        "rarity": "C",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "…我、強者と仕合う…",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card4130-large.jpg"
+    },
+    {
+        "name": "敖の立像\nStatue of Pride",
+        "code": "SS/W14-096",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ダンタリオン「名づけて、敖の立像～～！」",
+        "ability": [
+            "Look at the top 2 cards of your Deck, choose up to 1 of the cards, add it to Hand. Place the remaining cards to Waiting Room."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card4131-large.jpg"
+    },
+    {
+        "name": "都喰らい\nMetropolis Eater",
+        "code": "SS/W14-097",
+        "rarity": "U",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "フリアグネ「もう少しだ…\nもう少しで私たちの自在式が完成する…",
+        "ability": [
+            "Choose 1 of your opponent's Level 3 or below Character. That Character cannot STAND during your opponent's next Stand Phase."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card4132-large.jpg"
+    },
+    {
+        "name": "直接対決！\nDirect!",
+        "code": "SS/W14-098",
+        "rarity": "CR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "力よ…そそげ",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card4133-large.jpg"
+    },
+    {
+        "name": "この世での徒の誕生\nIn This World, a Birth of a Party",
+        "code": "SS/W14-099",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "目覚めよ！",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card4134-large.jpg"
+    },
+    {
+        "name": "器の回収\nVessel Collection",
+        "code": "SS/W14-100",
+        "rarity": "CC",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "<>",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card4135-large.jpg"
+    },
+    {
+        "name": "贄殿遮那の担い手 シャナ\nBearer of the Nietono no Shana, Shana",
+        "code": "SS/W14-101",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【A】This ability can only be used up to 1 time per turn.When another of your 《炎》 Character is placed on Stage from hand, you may choose 1 of Characters on Stage, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card3987-large.jpg"
+    },
+    {
+        "name": "養育係　ヴィルヘルミナ\nResponsible for Upbringing, Wilhelmina",
+        "code": "SS/W14-102",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a «炎» Character, during this turn, this card gains the following ability.『【C】This card cannot Front Attack.』(Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card3988-large.jpg"
+    },
+    {
+        "name": "御崎高校の生徒 シャナ\nMisaki High School Student Shana",
+        "code": "SS/W14-103",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うーん、それは…教えない！",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card3875-large.jpg"
+    },
+    {
+        "name": "翻る黒衣 シャナ\nIn Wavering Black Clothes Shana",
+        "code": "SS/W14-104",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "持ち腐れかどうか、試してみる？",
+        "ability": [
+            "【A】 When this card is placed on Stage from hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】 When another of your battling Character becomes REVERSE, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card3876-large.jpg"
+    },
+    {
+        "name": "“フレイムヘイズ”シャナ\n\"Flame Haze\" Shana",
+        "code": "SS/W14-105",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "名前はない。　ただのフレイムヘイズよ",
+        "ability": [
+            "【C】［REST 1 of your 《炎》 Character］During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card3990-large.jpg"
+    },
+    {
+        "name": "灼眼のシャナたん\nShakugan no Shana-tan",
+        "code": "SS/W14-106",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "なにじろじろみてんのよ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card3878-large.jpg"
+    },
+    {
+        "name": "“偉大なる者”シャナ\nShe Who Will Become Great Shana",
+        "code": "SS/W14-107",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "厄介ね…",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card3879-large.jpg"
+    },
+    {
+        "name": "エカテリーナと遊ぶシャナたん\nPlaying with Ekaterina Shana-tan",
+        "code": "SS/W14-108",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "うわっほーいもえちゃえー",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card3880-large.jpg"
+    },
+    {
+        "name": "頂のヘカテーたん\nEasy Win Hecate-tan",
+        "code": "SS/W14-109",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "…うるちゃいうるちゃいうるちゃい",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Miko 《巫女》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card3881-large.jpg"
+    },
+    {
+        "name": "無類のメロンパン好き シャナ\nUnmatched in Loving Melon Pan Shana",
+        "code": "SS/W14-110",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "このかりかりもふもふの触感が大事なのよ。分かる？",
+        "ability": [
+            "【A】When another of your battling Character becomes REVERSE, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card3882-large.jpg"
+    },
+    {
+        "name": "メイド服のシャナ\nMaid Uniform Shana",
+        "code": "SS/W14-111",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "いいったら、いいの！",
+        "ability": [
+            "【C】［①］Choose 1 of your 《炎》 Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card3883-large.jpg"
+    },
+    {
+        "name": "おめかし シャナ\nDressing Up Shana",
+        "code": "SS/W14-112",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "どう？アラストール",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "112",
+        "image": "https://images.littleakiba.com/tcg/card3884-large.jpg"
+    },
+    {
+        "name": "夏服のシャナ",
+        "code": "SS/W14-113",
+        "rarity": "PR",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "夏が暑いのは当たり前でしょ",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "113",
+        "image": "https://images.littleakiba.com/tcg/card7134-large.jpg"
+    },
+    {
+        "name": "メロンパン大好き シャナ\nMelon Pan Loving Shana",
+        "code": "SS/W14-T01",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ここのメロンパン、皮の部分がいい感じに固くて美味しい",
+        "ability": [
+            "【C】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card3991-large.jpg"
+    },
+    {
+        "name": "戸惑うシャナ\nBewildered Shana",
+        "code": "SS/W14-T02",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "何これ。これこそ理解不能だわ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Melon Pan 《メロンパン》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card3992-large.jpg"
+    },
+    {
+        "name": "どうしようもない気持ち\nFeelings That Can't Be Helped",
+        "code": "SS/W14-T03",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "…好き？私が、悠二を…",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card3993-large.jpg"
+    },
+    {
+        "name": "ヴィルヘルミナ・カルメル\nWilhelmina Carmel",
+        "code": "SS/W14-T04",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "今の私は新しい時を見ているのであります",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【A】When this card is placed on Stage from hand, choose 1 of your Characters, during this turn, gets +500 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card3870-large.jpg"
+    },
+    {
+        "name": "マージョリー･ドー\nMargery Daw",
+        "code": "SS/W14-T05",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "フッ…上等じゃないの！",
+        "ability": [
+            "【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card3994-large.jpg"
+    },
+    {
+        "name": "“炎髪灼眼の討ち手”シャナ\n\"Flame-haired Blazing-eyed Hunter\"",
+        "code": "SS/W14-T06",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "そこかあっ！！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card3995-large.jpg"
+    },
+    {
+        "name": "“屠殺の即興詩”マージョリー\n\"Improvisational Poem of Slaughter\" Marjorie",
+        "code": "SS/W14-T07",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "マージョリー「キツネの嫁入り天気雨、っは！」\nマルコシアス「この三秒でお陀仏よ、っと！」",
+        "ability": [
+            "【S】● ASSIST 1500 Level 1 ［Place this card from hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Book 《本》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card3871-large.jpg"
+    },
+    {
+        "name": "守るべきもの シャナ\nProtector Shana",
+        "code": "SS/W14-T08",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "悠二…絶対、助ける！！",
+        "ability": [
+            "【A】［①］When this card attacks, if 「想いの力」 is in your Climax slot, you may pay this cost. If you do, choose 1 card from your opponent's Waiting Room, place it on top of Deck, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card3872-large.jpg"
+    },
+    {
+        "name": "“万条の仕手”ヴィルヘルミナ・カルメル\n\"Manipulator of Objects\" Wilhelmina Carmel",
+        "code": "SS/W14-T09",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "お前の相手は私であります",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Maid 《メイド》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card3996-large.jpg"
+    },
+    {
+        "name": "アラストールの契約者　シャナ\nContracted to Alastor Shana",
+        "code": "SS/W14-T10",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "仲間はいないわ",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Weapon 《武器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card3997-large.jpg"
+    },
+    {
+        "name": "“儀装の駆り手”カムシン・ネブハーウ\n\"Mobilizer of Ceremonial Equipment\" Khamsin Nbh'w",
+        "code": "SS/W14-T11",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "協力して頂きたいのですよ。あなたは最適だと思われるので",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card3998-large.jpg"
+    },
+    {
+        "name": "トーチとフレイムヘイズ\nTorch and Flame Haze",
+        "code": "SS/W14-T12",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "悠二「ただのトーチなのに無理しすぎたかな…」\nシャナ「ただのなんて言わないで。お前は坂井悠二よ」",
+        "ability": [
+            "Search your Deck for up to 1 《炎》 Character, show it to your opponent, place it into Hand. Shuffle your Deck afterwards. Choose 1 of your Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card3999-large.jpg"
+    },
+    {
+        "name": "想いの力\nPower of Feelings",
+        "code": "SS/W14-T13",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "悠二……お前は、私が護る！！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card3873-large.jpg"
+    },
+    {
+        "name": "何でもできる\nI Can Do Anything",
+        "code": "SS/W14-T14",
+        "rarity": "TD",
+        "expansion": "Shakugan no Shana",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "悠二がいる…力がわく…何でもできる…！",
+        "ability": [
+            "【A】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "SS",
+        "release": "W14",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card4000-large.jpg"
+    }
+]

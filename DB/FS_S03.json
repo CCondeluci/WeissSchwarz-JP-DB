@@ -1,0 +1,3373 @@
+[
+    {
+        "name": "衛宮 士郎\nEmiya Shirou",
+        "code": "FS/S03-001",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "いいから来てくれ。\nみんなにセイバーを紹介するから",
+        "ability": [
+            "【A】 BOND／「騎士王セイバー」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「騎士王セイバー」 from your Waiting Room, put it into your hand)",
+            "【S】［①］Choose 1 《武器》 Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card1370-large.jpg"
+    },
+    {
+        "name": "騎士王セイバー\nKing of Knights Saber",
+        "code": "FS/S03-002",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "違う夢ではなく、目を瞑れば、\nまた同じものが現れると……？",
+        "ability": [
+            "【C】For each of your other Characters with 《マスター》, this card gets +500 Power.",
+            "【C】If you have another 「衛宮 士郎」 on stage, this card gains 「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card1371-large.jpg"
+    },
+    {
+        "name": "鬼教官セイバー\nDemon Instructor Saber",
+        "code": "FS/S03-003",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "では。いつも通り、軽く流していきます",
+        "ability": [
+            "【C】If you have 2 or more other 《武器》 characters, this card gets +1000 Power"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card1373-large.jpg"
+    },
+    {
+        "name": "最古の王ギルガメッシュ\nThe First King Gilgamesh",
+        "code": "FS/S03-004",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "出番だ。起きるがいい、エア",
+        "ability": [
+            "【S】［②］Search your deck for up to 1 climax card, place it into the waiting room, shuffle your deck. If you placed 1 into the waiting room, choose 1 of your opponent's front row level 2 or below characters, and place it in stock."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card1374-large.jpg"
+    },
+    {
+        "name": "“正義の味方”士郎\n“Ally of Justice” Shirou",
+        "code": "FS/S03-005",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "少年は、自らの力で、自らの死と戦い、打ち勝った",
+        "ability": [
+            "【A】［②］When this card attacks, if 「無限の剣製」 is in your Climax slot, you may pay the cost. If you do, choose 1 of your opponent's level 2 or below Characters, place it into stock.",
+            "【A】 ENCORE ［②］ (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card1376-large.jpg"
+    },
+    {
+        "name": "士郎＆セイバー\nShirou & Saber",
+        "code": "FS/S03-006",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "シロウ、手を─────！",
+        "ability": [
+            "【C】If your deck has 5 or less cards, this card gets -1 Level in your hand.",
+            "【A】When this card comes to Stage from hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】［①］When this card attacks, if 「黄金の別離」 is in your Climax slot, you may pay the cost. If you do so, choose 1 of your opponent's level 2 or below Characters, place it in stock."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card1378-large.jpg"
+    },
+    {
+        "name": "美綴 綾子\nMitsuzuri Ayako",
+        "code": "FS/S03-007",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あん？今アンタ、\nよからぬ感想をもらさなかったかもし？",
+        "ability": [
+            "【A】When this card comes to Stage from hand, reveal 1 card from the top of your deck. If that card has 「凛」 in its name, draw 1 card, then choose 1 card from your hand, place into Waiting Room.",
+            "【A】When this card attacks, during this turn, all your characters get +500 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card1379-large.jpg"
+    },
+    {
+        "name": "はらぺこーず\nHungry",
+        "code": "FS/S03-008",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "士郎、おかわり！",
+        "ability": [
+            "【S】［Put 1 card with 「士郎」 in its name to REST］ During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Teacher 《先生》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card1381-large.jpg"
+    },
+    {
+        "name": "不可視の剣セイバー\nInvisible Sword Saber",
+        "code": "FS/S03-009",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "逃げて、シロウ─────！",
+        "ability": [
+            "【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card1382-large.jpg"
+    },
+    {
+        "name": "黄金の英雄王ギルガメッシュ\nGolden Heroic Spirit King Gilgamesh",
+        "code": "FS/S03-010",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "自らの持ち物を取りに来て何が悪い",
+        "ability": [
+            "【S】［Put 1 of your 《武器》 characters to REST］During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card1383-large.jpg"
+    },
+    {
+        "name": "衛宮 切嗣\nEmiya Kiritsugu",
+        "code": "FS/S03-011",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "子供の頃、僕は正義の味方に憧れてた",
+        "ability": [
+            "【C】If the card doing battle with this card is level 2 or above, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card1385-large.jpg"
+    },
+    {
+        "name": "湯上りセイバー\nOut of the Bath Saber",
+        "code": "FS/S03-012",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "今夜は冷えますから、お湯が体に沁み入りますよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card1386-large.jpg"
+    },
+    {
+        "name": "藤村 大河\nFujimura Taiga",
+        "code": "FS/S03-013",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "お姉ちゃんはちょっと寂しいかな",
+        "ability": [
+            "【C】All of your other cards with 「桜」 in its name get +500 Power.",
+            "【S】［Put this card to REST］Choose 1 of your cards with 「士郎」 in its name, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card1388-large.jpg"
+    },
+    {
+        "name": "柳洞 一成\nRyuudou Issei",
+        "code": "FS/S03-014",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "当然だ。生徒会長を任された以上、全校生徒の情報を把握している",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card1389-large.jpg"
+    },
+    {
+        "name": "最優の英霊セイバー\nFully Powered Heroic Spirit Saber",
+        "code": "FS/S03-015",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "セイバーの名に懸け誓いを受ける……！\n貴方を我が主として認めよう、凛─────！",
+        "ability": [
+            "【C】If the card battling this card has 《魔法》, this card gets +2000 Power.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card1391-large.jpg"
+    },
+    {
+        "name": "イリヤ＆士郎\nIllya & Shirou",
+        "code": "FS/S03-016",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "わたしはお姉ちゃんだもん\nなら、弟を守らなくちゃ",
+        "ability": [
+            "【C】 SUPPORT All the level 2 and above in front of this card get +1 Soul.",
+            "【S】 CONCENTRATE ［②］Place the top 4 cards of your Deck into Waiting Room. For every climax in those cards, choose 1 of your opponents front row level 1 or below characters, return it to his/her hand."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card1393-large.jpg"
+    },
+    {
+        "name": "藤師しょー\nFuji-Master",
+        "code": "FS/S03-017",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "マーヴェラス！ベラボー！おおベラボー！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card1394-large.jpg"
+    },
+    {
+        "name": "聖剣の担い手セイバー\nHoly Sword Bearer Saber",
+        "code": "FS/S03-018",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "─────風よ",
+        "ability": [
+            "【A】［⑤］When this card attacks, if 「約束された勝利の剣」 is in your Climax slot, you may pay the cost. If you do, place all of your opponent's front row level 2 and below characters into stock."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card1395-large.jpg"
+    },
+    {
+        "name": "王の財宝\nGate of Babylon",
+        "code": "FS/S03-019",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "運が良ければ手足を串刺す程度であろう――――！",
+        "ability": [
+            "Search your deck for up to 2 《武器》 characters, show them to your opponent and place them into your hand. Shuffle your deck."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card1397-large.jpg"
+    },
+    {
+        "name": "セイバー召喚\nSummon Saber",
+        "code": "FS/S03-020",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────問おう。貴方が、私のマスターか",
+        "ability": [
+            "Choose a card of your current level +1 or below with the name 「セイバー」 from your hand and place it on the stage in any slot."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card1398-large.jpg"
+    },
+    {
+        "name": "ファニーライオン\nFunny Lion",
+        "code": "FS/S03-021",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "昔、ライオンの仔を預かっていた事があって――",
+        "ability": [
+            "● Choose 1 of your characters, during this turn, it gets +5000 Power, +1 Soul"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card1400-large.jpg"
+    },
+    {
+        "name": "士郎VSギルガメッシュ\nShirou VS Gilgamesh",
+        "code": "FS/S03-022",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "逃が─────\nすかってんだ、このヤロウ─────！",
+        "ability": [
+            "Choose one of your characters, place it on top of your deck. If you do, choose 1 of your opponent's level 2 or below front row characters, return it to his/her hand."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card1403-large.jpg"
+    },
+    {
+        "name": "黄金の別離\nGolden Goodbye",
+        "code": "FS/S03-023",
+        "rarity": "CR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "シロウ─────貴方を、愛してい",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card1404-large.jpg"
+    },
+    {
+        "name": "約束された勝利の剣\nSword of Promised Victory",
+        "code": "FS/S03-024",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────触れる物を例外なく切断する光の刃─────",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card1406-large.jpg"
+    },
+    {
+        "name": "無限の剣製\nUnlimited Blade Works",
+        "code": "FS/S03-025",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いくぞ英雄王─────武器の貯蔵は十分か",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card1408-large.jpg"
+    },
+    {
+        "name": "マスター桜\nMaster Sakura",
+        "code": "FS/S03-026",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ライダーのマスターとして、全力で戦います",
+        "ability": [
+            "【C】All your other 《動物》 characters get +500 Power.",
+            "【S】 CONCENTRATE ［②］Place the top 3 cards of your Deck into Waiting Room. If there is 「ゴルゴンの末女ライダー」 in those cards, choose 1 「ゴルゴンの末女ライダー」 from your waiting room, place it on the stage in any slot."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card1409-large.jpg"
+    },
+    {
+        "name": "“神話の英雄”バーサーカー\nLegendary Heroic Spirit Beserker",
+        "code": "FS/S03-027",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "3",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "─────天の鎖よ─────！",
+        "ability": [
+            "【A】 ENCORE [Place 1 card from the top of your deck into your clock] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to its previous slot)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card1410-large.jpg"
+    },
+    {
+        "name": "間桐 桜\nMatou Sakura",
+        "code": "FS/S03-028",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "わたしとライダー、どっちが好みなんですか？",
+        "ability": [
+            "【S】［②］Choose 1 「臨戦態勢ライダー」 from your clock and place it on the stage in any slot. Choose 1 of your hand cards, place it in your clock.",
+            "【S】［Put this card into REST］ Choose 1 of your characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card1411-large.jpg"
+    },
+    {
+        "name": "臨戦態勢ライダー\nReady for Battle Rider",
+        "code": "FS/S03-029",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "─────一匹の、巨大な蛇がいた",
+        "ability": [
+            "【A】［②］When 「騎英の手綱」 is placed into your climax slot, you may pay the cost.If you do so, during this turn, this card gains the following ability. 『【C】When this card attacks, choose 1 of your opponent's back row characters. You may front attack that card as the defending character.』",
+            "【A】When the card battling this card is level 1 or above and has become REVERSE, you may place the top card of your deck into your stock."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Animal 《動物》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card1413-large.jpg"
+    },
+    {
+        "name": "“最凶の敵”バーサーカー\nWorst Fortune\\'s Rival Beserker",
+        "code": "FS/S03-030",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "イリヤ「─────誓うわ。\n今日は、一人も逃がさない」",
+        "ability": [
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card1415-large.jpg"
+    },
+    {
+        "name": "開放された桜\nLiberated Sakura",
+        "code": "FS/S03-031",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "わたしはわたしの出来るコトをして、\n少しずつ頑張っていこうと思います",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card gets +X Power. X is equal to that Character's Level x 500.",
+            "【A】When 「桜、幸せ？」 is placed into your climax slot, choose 1 of your characters, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card1416-large.jpg"
+    },
+    {
+        "name": "間桐の後継者 桜",
+        "code": "FS/S03-032",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "先輩はライダーがいてもかまいませんよね？",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +1 Level.",
+            "【S】［Put this card into REST］ Choose 1 of your characters with 「士郎」 in its name, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card1418-large.jpg"
+    },
+    {
+        "name": "神速の騎兵ライダー\nCavalry Swiftness Rider",
+        "code": "FS/S03-033",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "─────お覚悟を",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Animal 《動物》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card1419-large.jpg"
+    },
+    {
+        "name": "ルヴィアゼリッタ・エーデルフェルト\nLuviagelita Edelfelt",
+        "code": "FS/S03-034",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "日本の魔術師のレベル、見せてもらおうかしら？",
+        "ability": [
+            "【S】［Put 1 character with 「凛」 in its name into REST］ During this turn, this card gets +1000 Power.",
+            "【S】［Put this card into REST］ Choose 1 of your characters with 「凛」 in its name, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card1420-large.jpg"
+    },
+    {
+        "name": "セラ＆リズ\nSera & Leys",
+        "code": "FS/S03-035",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "セラ「リーゼリット、ちゃんと掃除なさい」\nリーゼリット「やだ、イリヤと遊ぶ」",
+        "ability": [
+            "【C】 If you have another Level 2 or above Character on the Stage, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Maid 《メイド》",
+            "Homunculus 《ホムンクルス》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card1421-large.jpg"
+    },
+    {
+        "name": "必殺の朱槍ランサー\nCrimson Death Lancer",
+        "code": "FS/S03-036",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "その心臓、貰い受ける─────！",
+        "ability": [
+            "【S】［②］During this turn, this card gets +5000 Power."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card1422-large.jpg"
+    },
+    {
+        "name": "桜＆ライダー\nSakura & Rider",
+        "code": "FS/S03-037",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "桜「ライダー、次はどこいこうか？」",
+        "ability": [
+            "【C】The Character facing this card gets -1 Soul.",
+            "【A】［②］When 「Heaven's Feel」 is placed into your climax slot, you may pay the cost. If you do so, choose a Level 2 or below Character from your clock, place it on the Stage in any slot.",
+            "【S】［①］Choose 1 of your opponent's Characters, during this turn, it gets -500 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card1423-large.jpg"
+    },
+    {
+        "name": "“平穏な日々”ライダー\n“Quiet Days” Rider",
+        "code": "FS/S03-038",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私はサクラを呼んできます",
+        "ability": [
+            "【S】［①］Choose 1 of your opponent's front row Characters, during this turn, it gets -1000 Power."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card1424-large.jpg"
+    },
+    {
+        "name": "セラ\nSera",
+        "code": "FS/S03-039",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "イリヤスフィール様が見あたりませんが、心当たりはありますか？",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Maid 《メイド》",
+            "Homunculus 《ホムンクルス》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card1425-large.jpg"
+    },
+    {
+        "name": "リーゼリット\nLeysritt",
+        "code": "FS/S03-040",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……ありがとう。ケーキ、たすかった",
+        "ability": [
+            "【S】［①］During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Maid 《メイド》",
+            "Homunculus 《ホムンクルス》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card1426-large.jpg"
+    },
+    {
+        "name": "健気な娘 桜\nLovable Girl Sakura",
+        "code": "FS/S03-041",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "でも頑張ってもらわない方が嬉しいです、わたし",
+        "ability": [
+            "【C】 ALARM When this card is at the top of your Clock, all of your Level 2 and above Characters get +1000 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card1427-large.jpg"
+    },
+    {
+        "name": "“蒼い風”ランサー",
+        "code": "FS/S03-042",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "少しばかり手助けしてやろう、\nとでしゃばりにきたワケだ",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card1428-large.jpg"
+    },
+    {
+        "name": "ゴルゴンの末女ライダー\nGorgon\\'s Daughter Rider",
+        "code": "FS/S03-043",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "足の切れたカエルですね。\nもう逃げ場はありませんよ。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Animal 《動物》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card1429-large.jpg"
+    },
+    {
+        "name": "姉妹の抱擁\nEmbrace of Sisters",
+        "code": "FS/S03-044",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "5",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ありがと。そのリボン、ずっと着けていてくれて、嬉しかった",
+        "ability": [
+            "Choose 1 Level 3 or below Character from your Clock, place it onto the Stage in any slot. At the end of your opponent's next turn, place that card into your Clock."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card1430-large.jpg"
+    },
+    {
+        "name": "魔眼・キュベレイ\nMystic Eyes Cybele",
+        "code": "FS/S03-045",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────瞬間、全てが凝固した",
+        "ability": [
+            "Look at and choose 1 card out of the top 3 cards of your opponent's deck, and place it at the bottom of the deck. Place the remaining cards on top of your opponent's deck in any order."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card1431-large.jpg"
+    },
+    {
+        "name": "桜の看病\nNursing Sakura",
+        "code": "FS/S03-046",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お花見とかしたいです、わたし",
+        "ability": [
+            "CONCENTRATE Place the top card of your deck into Stock. Place the top 3 cards of your Deck into Waiting Room. If there were any climax cards in those cards, place this card into Stock."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card1432-large.jpg"
+    },
+    {
+        "name": "突き穿つ死翔の槍",
+        "code": "FS/S03-047",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────行くぞ。\nこの一撃、手向けとして受け取るがいい……！",
+        "ability": [
+            "●Choose 1 of your Characters, during this turn, it gets +4000 Power."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card1433-large.jpg"
+    },
+    {
+        "name": "桜、幸せ？\nHappy, Sakura?",
+        "code": "FS/S03-048",
+        "rarity": "CR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────はい",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card1434-large.jpg"
+    },
+    {
+        "name": "騎英の手綱",
+        "code": "FS/S03-049",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "彼女の前面に、赤い血で結ばれた巨大な眼が現れる",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card1436-large.jpg"
+    },
+    {
+        "name": "Heaven's Feel\nHeaven\\'s Feel",
+        "code": "FS/S03-050",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card1437-large.jpg"
+    },
+    {
+        "name": "黒衣の桜\nSakura Clothed in Darkness",
+        "code": "FS/S03-051",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "貴方はここで死ぬんだもの",
+        "ability": [
+            "【A】When this card is placed onto the Stage from your hand, choose 1 of your Characters with 「桜」 in its name, place it into the Waiting Room.",
+            "【S】［④ Put this card into REST］Choose 1 Level 2 or below 《武器》 Character from your Waiting Room, place it onto the stage in a slot of your choice."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Insect 《虫》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card1438-large.jpg"
+    },
+    {
+        "name": "“漆黒の聖剣”セイバー\n“Black Holy Sword” Saber",
+        "code": "FS/S03-052",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "─────黒い光が流出する。\n風を巻いて、セイバーの剣が灼熱する",
+        "ability": [
+            "【A】When this card is placed onto the Stage from the hand, choose 1 card with 「セイバー」 in its name, place it into Clock."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card1440-large.jpg"
+    },
+    {
+        "name": "パジャマの凛\nPyjama Rin",
+        "code": "FS/S03-053",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あ……ん、まぶ、し……",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【S】［①］Choose 1 card with 「アーチャー」 in its name, during this turn, it gains the following ability.『【A】When this card becomes REVERSE, if the character battling this card is this card's level or below, you may put that card into REVERSE.』"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Pyjamas 《パジャマ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card1441-large.jpg"
+    },
+    {
+        "name": "不器用な忠義者アーチャー\nGuy with a Lack of Devotion Archer",
+        "code": "FS/S03-054",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "必ず自分が幸運だったと思い知らせてやる",
+        "ability": [
+            "【A】When you level up, place this card into the waiting room."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card1443-large.jpg"
+    },
+    {
+        "name": "魔弾の射手 凛\nMagic Shooter Rin",
+        "code": "FS/S03-055",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "どうせ勝つのはわたしなんだから",
+        "ability": [
+            "【C】 SUPPORT All your Level 2 and above Characters in front of this card gets +1000 Power.",
+            "【起】［Put 2 of your 《マスター》 Characters into REST］ Choose 1 of your opponent's Waiting Room cards, place it on top of the Deck."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card1444-large.jpg"
+    },
+    {
+        "name": "複製者アーチャー\nDuplicate Craftsman Archer",
+        "code": "FS/S03-056",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "期待に答えるとしよう─────",
+        "ability": [
+            "【A】［④］When 「Unlimited Blade Works」 is placed into your climax slot, if this card is in the Front Row, you may pay this cost. If you do, choose 2 Level 2 or below 《武器》 Characters from your Waiting Room, place them in the Front Row. At the beginning of the ENCORE STEP, if those characters are on the stage, return them to the deck. Shuffle your deck."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card1446-large.jpg"
+    },
+    {
+        "name": "ライダー＆慎二\nRider & Shinji",
+        "code": "FS/S03-057",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "貴方は私のマスターではありません、シンジ",
+        "ability": [
+            "【A】［①］When this card is placed from the Stage to the Waiting Room, you may pay the cost. If you do, choose 1 「黒き聖杯 桜」 from your Waiting Room, return it to your hand."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Book 《本》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card1447-large.jpg"
+    },
+    {
+        "name": "凛＆士郎\nRin and Shirou",
+        "code": "FS/S03-058",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "行くわよ、士郎。打ち合わせ通りにね",
+        "ability": [
+            "【S】［② Place this card into REST］Choose 1 《武器》 character from the waiting room, return it to your hand."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card1448-large.jpg"
+    },
+    {
+        "name": "錬鉄の英霊アーチャー\nHeroic Spirit of Iron Archer",
+        "code": "FS/S03-059",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "“─────ついて来れるか”",
+        "ability": [
+            "【A】［①］When the Character battling this card is Level 1 or above and becomes REVERSE, you may pay the cost. If you do, place a 《武器》 character from the waiting room into your hand.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to its previous slot)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card1449-large.jpg"
+    },
+    {
+        "name": "五大元素使い 凛\nAverage One Rin",
+        "code": "FS/S03-060",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "全部食らってよね。これ、高いんだから！",
+        "ability": [
+            "【A】［①］When this card attacks, and 「いたずらな微笑み」 is in the climax slot, you may pay the cost. If you do, you may deal one damage to your opponent. (the damage can be canceled)",
+            "【S】［①］During this turn, this card gets ＋1000 power, this card gains following skill. 『【A】When the character battling this card becomes REVERSE, you may place that character on top of your opponent's deck.』"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Magic 《魔法》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card1451-large.jpg"
+    },
+    {
+        "name": "凛＆アーチャー\nRin and Archer",
+        "code": "FS/S03-061",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "―――これ以上関わると死ぬわよ",
+        "ability": [
+            "【A】When this card is played from your hand to the stage, you may place the top card of your clock into the waiting room.",
+            "【A】When this card attacks and 「別れの言葉」 is in your climax slot, you may deal 1 damage to your opponent. (the damage can be canceled)",
+            "【起】［Place 1 《武器》 character from your hand into the waiting room］ During that turn, this card gets +2000 power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card1452-large.jpg"
+    },
+    {
+        "name": "あかいあくま凛\nRed Devil Rin",
+        "code": "FS/S03-062",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "眼鏡なんか一人でいる時しかかけないから、よく分からないけど……おかしくない？",
+        "ability": [
+            "【A】［②］When you play this card from your hand onto the Stage,you may pay the cost. If you do, take one 《マスター》 character from your waiting room and place it into your hand."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card1453-large.jpg"
+    },
+    {
+        "name": "遠坂 凛\nTohsaka Rin",
+        "code": "FS/S03-063",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "それは高い塔の上。月は背に下界を見下ろす、魔法使いのようだった",
+        "ability": [
+            "【A】 BOND／「錬鉄の英霊アーチャー」 ［①］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「錬鉄の英霊アーチャー」 from your waiting room and place it into your hand)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card1455-large.jpg"
+    },
+    {
+        "name": "赤い騎士アーチャー\nCrimson Knight Archer",
+        "code": "FS/S03-064",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "─────そうか。ならば、偽りの主共々ここで消えろ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card1457-large.jpg"
+    },
+    {
+        "name": "宝石魔術の血脈 凛\nInherited Jewel Magic Rin",
+        "code": "FS/S03-065",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "取った……！",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card1459-large.jpg"
+    },
+    {
+        "name": "セイバーオルタ\nSaber Alter",
+        "code": "FS/S03-066",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "……彼女には。\n以前あれほど感じられた気高ささえ、皆無だった─────",
+        "ability": [
+            "【A】When this card becomes REVERSE, if the card battling this card is level 1 or below, you may put that character into REVERSE."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card1461-large.jpg"
+    },
+    {
+        "name": "凛＆セイバー\nRin and Saber",
+        "code": "FS/S03-067",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "セイバー「凛は必ず私が守ります」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card1462-large.jpg"
+    },
+    {
+        "name": "黒き聖杯 桜\nBlack Holy Grail Sakura",
+        "code": "FS/S03-068",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "姉さんにあげるものは、後悔と絶望だけ。それを─────ゆっくりと教えてあげます",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Magic 《魔法》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card1463-large.jpg"
+    },
+    {
+        "name": "熾天覆う七つの円環\nRho Ais",
+        "code": "FS/S03-069",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "七枚の花弁はアーチャーを守護し、主を撃ち抜こうとする魔弾に対抗する─────！",
+        "ability": [
+            "●Choose 1 character from your waiting room, place it in your hand. Choose 1 of your characters, during this turn, it gets ＋2000 power."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card1465-large.jpg"
+    },
+    {
+        "name": "乱暴な召喚\nRough Summoning",
+        "code": "FS/S03-070",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……信じがたいが、君は本当に私のマスターらしいな",
+        "ability": [
+            "Choose 1 「凛＆アーチャー」 from your waiting room, play it onto the stage in any slot. Choose one card from your hand and place it into the waiting room."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card1466-large.jpg"
+    },
+    {
+        "name": "宝石剣ゼルレッチ",
+        "code": "FS/S03-071",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Es laβt frei. EileSalve─────！",
+        "ability": [
+            "Deal 6 damage to your opponent. (This damage can be canceled)"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card1467-large.jpg"
+    },
+    {
+        "name": "宝石魔術\nJewel Magic Technique",
+        "code": "FS/S03-072",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "引いて、セイバー……！",
+        "ability": [
+            "Choose one of your characters, place it into the waiting room. If you do so, choose one of your opponent's Level 2 or below characters, place it into the waiting room."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card1468-large.jpg"
+    },
+    {
+        "name": "Unlimited Blade Works\nUnlimited Blade Works",
+        "code": "FS/S03-073",
+        "rarity": "CR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────体は剣で出来ている",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card1469-large.jpg"
+    },
+    {
+        "name": "別れの言葉\nParting Words",
+        "code": "FS/S03-074",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────まいったな。この世に未練はないが",
+        "ability": [
+            "【C】All your characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card1470-large.jpg"
+    },
+    {
+        "name": "いたずらな微笑み\nMischievous Smile",
+        "code": "FS/S03-075",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ね。士郎、答えは？",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card1472-large.jpg"
+    },
+    {
+        "name": "ゲームマスター綺礼\nGame Master Kirei",
+        "code": "FS/S03-076",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "―――命をかけろ。\n或いは、この身に届くかもしれん―――！",
+        "ability": [
+            "【C】 All your other 《武器》 characters get power +500.",
+            "【S】［⑤ Place this card into REST］Choose one of your Level 2 or below characters in your hand, place it onto the stage in any slot."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "God 《神》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card1475-large.jpg"
+    },
+    {
+        "name": "小聖杯イリヤ\nSmall Holy Grail Illya",
+        "code": "FS/S03-077",
+        "rarity": "RR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "バーサーカー、……どこ？",
+        "ability": [
+            "【A】［①］When this card is placed from your hand onto the stage, you may pay the cost. If you do, search your deck for a card with 「バーサーカー」 in its name, show it to your opponent, and place it in your hand. Shuffle your deck.",
+            "【A】When one of your characters with 《サーヴァント》 go from the stage to the waiting room, you may draw one card. If you do, place 1 of your hand cards from your hand into the waiting room."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Magic 《魔法》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card1476-large.jpg"
+    },
+    {
+        "name": "イリヤスフィール･フォン･アインツベルン\nIllyasviel von Einzbern",
+        "code": "FS/S03-078",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うん、いってらっしゃいシロウ！がんばってー！",
+        "ability": [
+            "【C】During your opponent's turn, this card gets ＋1000 power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Homunculus 《ホムンクルス》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card1477-large.jpg"
+    },
+    {
+        "name": "三枝 由紀香",
+        "code": "FS/S03-079",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "よ、良かったら\nお昼ごはん一緒に食べませんか……！",
+        "ability": [
+            "【C】 During your opponent's turn, all your other characters get ＋1 Level."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Manager 《マネージャー》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card1479-large.jpg"
+    },
+    {
+        "name": "“残虐ちびっ子”イリヤ\nBrutal Child Illya",
+        "code": "FS/S03-080",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "お兄ちゃん、わたしのこと嫌いなの？",
+        "ability": [
+            "【C】 SUPPORT All cards in front of this character get 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』.",
+            "【A】When 「冬の聖女ユスティーツァ」 is in your climax slot,choose 1 of your characters, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Homunculus 《ホムンクルス》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card1480-large.jpg"
+    },
+    {
+        "name": "宗一郎＆キャスター\nSouichirou & Caster",
+        "code": "FS/S03-081",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "宗一郎様……、ステキ─────",
+        "ability": [
+            "【C】If one of your other 《先生》 characters are on the stage, this card gets ＋2000 power.",
+            "【A】［②］When this card attacks, if 「キャスターの望み」is in your climax slot, you may pay the cost. If you do so, draw 2 cards."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card1482-large.jpg"
+    },
+    {
+        "name": "代行者 言峰綺礼",
+        "code": "FS/S03-082",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "助けた者が女ならば殺すな",
+        "ability": [
+            "【S】［② Put this card into REST］Choose one of your opponent's character. For your opponent's next stand phase, that character cannot STAND."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "God 《神》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card1484-large.jpg"
+    },
+    {
+        "name": "神代の魔女キャスター\nWitch of Ancient Times Caster",
+        "code": "FS/S03-083",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "そろそろ終わりにしましょう",
+        "ability": [
+            "【C】During your opponent's turn, all your other 《先生》 Characters get +1000 Power.",
+            "【A】［②］When this card is placed from your hand onto Stage, you may pay this cost. If you do, search your deck for 1 card with 「小次郎」 in its name, show it to your opponent, place it into your hand. Shuffle your deck."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Master 《マスター》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card1485-large.jpg"
+    },
+    {
+        "name": "ハサン・サッバーハ",
+        "code": "FS/S03-084",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "おまえの心臓は、私が貰う",
+        "ability": [
+            "【A】When this card is played onto the stage, choose 1 of your 「佐々木 小次郎」 or this card and place it into the waiting room."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Mask 《仮面》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card1486-large.jpg"
+    },
+    {
+        "name": "綺礼＆ギルガメッシュ\nKirei and Gilgamesh",
+        "code": "FS/S03-085",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "文句は後で聞いてやるから、許せ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card1487-large.jpg"
+    },
+    {
+        "name": "イリヤ＆バーサーカー\nIllya and Berserker",
+        "code": "FS/S03-086",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "─────ねえ、お話は終わり？",
+        "ability": [
+            "【C】The Character facing this card gets -1 Soul.",
+            "【A】When this card attacks, if 「冬の森」 is in your climax slot, draw 2 cards, place 1 card from your hand into the waiting room.",
+            "【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card1488-large.jpg"
+    },
+    {
+        "name": "弟子一号\nNumber One Disciple",
+        "code": "FS/S03-087",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "やったー！レギュラーゲットーーー！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Manager 《マネージャー》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card1489-large.jpg"
+    },
+    {
+        "name": "蒔寺 楓",
+        "code": "FS/S03-088",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "大差ないじゃんかタイヤキもクレープも",
+        "ability": [
+            "【C】ALARM When this card is at the top of your Clock, all of your Level 2 or above characters gain 「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card1490-large.jpg"
+    },
+    {
+        "name": "氷室 鐘",
+        "code": "FS/S03-089",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "……蒔の字。君の陰口は、遠坂嬢に聞こえているようだが",
+        "ability": [
+            "【S】 CONCENTRATE ［①］Place the top 2 cards of your Deck into the Waiting Room. For every climax in those cards, draw 1 card."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card1491-large.jpg"
+    },
+    {
+        "name": "裏切りの魔女キャスター",
+        "code": "FS/S03-090",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……触れたくないのなら、私には近寄らないことね",
+        "ability": [
+            "【A】 BOND／「葛木 宗一郎」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「葛木 宗一郎」 from your Waiting Room, return to hand)",
+            "【S】［⑤ Put this card into REST］Choose 1 of your opponent's front row Level 2 or below Characters, place it at the bottom of the deck. Search your own deck for 1 character with the same name, place it on the stage in a slot of your choice. Shuffle your deck."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Master 《マスター》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card1492-large.jpg"
+    },
+    {
+        "name": "佐々木 小次郎\nSasaki Kojiro",
+        "code": "FS/S03-091",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "生きては通さんし、生きては帰さん",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card1493-large.jpg"
+    },
+    {
+        "name": "葛木 宗一郎\nKuzuki Souichirou",
+        "code": "FS/S03-092",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "しっ─────！",
+        "ability": [
+            "【A】［①］When your deck has refreshed, you may pay the cost. If you do, choose 1 「宗一郎＆キャスター」 from your hand and place it onto a back row slot of your choice.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to its previous slot)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Teacher 《先生》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card1494-large.jpg"
+    },
+    {
+        "name": "“巌流、無名”小次郎\n“Large Rock style, Anonymous” Kojirou",
+        "code": "FS/S03-093",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "構えよ。でなければ死ぬぞ、セイバー",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card1495-large.jpg"
+    },
+    {
+        "name": "仲良し三人組\nTrio of Close Friends",
+        "code": "FS/S03-094",
+        "rarity": "R",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "三枝「おいしいね」\n蒔寺「私はたいやきでもよかったんだけどな」",
+        "ability": [
+            "Choose 3 cards from your clock and place them into the waiting room. Place this card in memory."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card1496-large.jpg"
+    },
+    {
+        "name": "雪に舞うイリヤ\nDancing in the Snow Illya",
+        "code": "FS/S03-095",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────うわあ！シロウ、雪だよ雪！",
+        "ability": [
+            "●Draw 1 card, place 1 card from your hand into the Waiting Room. Choose 1 of your Characters, during this turn it gains the following ability. 『【A】When this card is put to Waiting Room from Stage you may return this card in REST to its previous slot.』"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card1497-large.jpg"
+    },
+    {
+        "name": "光弾の雨\nRain of Light Bullets",
+        "code": "FS/S03-096",
+        "rarity": "U",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "逃げ切れると思って……！",
+        "ability": [
+            "Choose one of your opponent's level 3 or below characters. For your opponent's next stand phase, that character cannot STAND."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card1498-large.jpg"
+    },
+    {
+        "name": "麻婆豆腐\nMapu Tofu",
+        "code": "FS/S03-097",
+        "rarity": "C",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────食うか？",
+        "ability": [
+            "Draw 3 cards, place 2 of your cards from your hand into the Waiting Room."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card1499-large.jpg"
+    },
+    {
+        "name": "キャスターの望み\nCaster\\'s Wish",
+        "code": "FS/S03-098",
+        "rarity": "CR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "だって、私の望みは─────さっきまで、叶っていたんですから",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When you Triggered this card, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card1500-large.jpg"
+    },
+    {
+        "name": "冬の森\nWinter Forest",
+        "code": "FS/S03-099",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────バーサーカーは強いね",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card1502-large.jpg"
+    },
+    {
+        "name": "冬の聖女ユスティーツァ\nHoly Maiden of Winter Justeaze",
+        "code": "FS/S03-100",
+        "rarity": "CC",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────そう、ユメみたモノはただ一つ。この世の、全ての悪の廃絶の為",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card1503-large.jpg"
+    },
+    {
+        "name": "セイバー\nSaber",
+        "code": "FS/S03-101",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "「─────そうして、彼女にとって最後の戦いが始まった。」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card1504-large.jpg"
+    },
+    {
+        "name": "水着のセイバー＆桜\nSwimsuit Saber and Sakura",
+        "code": "FS/S03-102",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "桜「先輩も一緒にどうですか？」",
+        "ability": [
+            "【C】During your turn, all your other Character get +500 Power."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Swimsuit 《水着》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card1512-large.jpg"
+    },
+    {
+        "name": "衛宮家の居候\nFreeloaders of the Emiya Household",
+        "code": "FS/S03-103",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "凛「セイバー、準備はいい？ほら、桜も笑って笑って！」",
+        "ability": [
+            "【C】When this card becomes REVERSE in battle, choose one of your characters, during this turn it gets ＋1000 power.",
+            "【S】［①］Choose one of your opponent's front row level 0 or below characters and place it in the waiting room."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Master 《マスター》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card1514-large.jpg"
+    },
+    {
+        "name": "ちびセイバー\nChibi Saber",
+        "code": "FS/S03-104",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "私のやるべき事はシロウを守る事です",
+        "ability": [
+            "【C】If you have another 「衛宮 士郎」 on the Stage, this card gets ＋2000 power."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Servant 《サーヴァント》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card1505-large.jpg"
+    },
+    {
+        "name": "ちび凛\nChibi Rin",
+        "code": "FS/S03-105",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "言いたいコトがあるなら、ハッキリ言ったら？",
+        "ability": [
+            "【S】［Put one of your cards with 「アーチャー」 in its name into REST］During this turn, this card gets power ＋1500."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card1506-large.jpg"
+    },
+    {
+        "name": "ちび桜\nChibi Sakura",
+        "code": "FS/S03-106",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "先輩のおうちのご飯がおいしいのは、\nそういうコトじゃないんです",
+        "ability": [
+            "【A】All of your other cards with 「士郎」 in its name get ＋500。",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to its previous slot)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card1508-large.jpg"
+    },
+    {
+        "name": "遠き日を想うセイバー\nReminiscent Saber",
+        "code": "FS/S03-107",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "私には王として果たさなければならない責務がある",
+        "ability": [
+            "【A】［②］When you play this card onto the Stage, you may pay the cost. If you do, search your deck for a card with the name 「セイバー」, show it to your opponent and place it into your hand. Shuffle your deck."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card1509-large.jpg"
+    },
+    {
+        "name": "真なる守り手 セイバー",
+        "code": "FS/S03-109",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "下がって……！　敵サーヴァントの攻撃です……！",
+        "ability": [
+            "【A】 When your other character REVERSED the battling character, choose one of your character, during this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card6635-large.jpg"
+    },
+    {
+        "name": "湯上りセイバー\nOut of the Bath Saber",
+        "code": "FS/S03-T01",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "今夜は冷えますから、お湯が体に沁み入りますよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card1387-large.jpg"
+    },
+    {
+        "name": "美綴 綾子\nMitsuzuri Ayako",
+        "code": "FS/S03-T02",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あん？今アンタ、\nよからぬ感想をもらさなかったかもし？",
+        "ability": [
+            "【A】When this card comes to Stage from hand, reveal the top card of your deck. If that card has 「凛」 in its name, draw 1 card, choose 1 card from your hand, place it into the Waiting Room.",
+            "【A】When this card attacks, during this turn, all your characters get +500 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card1380-large.jpg"
+    },
+    {
+        "name": "柳洞 一成\nRyuudou Issei",
+        "code": "FS/S03-T03",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "当然だ。生徒会長を任された以上、全校生徒の情報を把握している",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card1390-large.jpg"
+    },
+    {
+        "name": "最優の英霊セイバー\nFully Powered Heroic Spirit Saber",
+        "code": "FS/S03-T04",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "言った筈ですアーチャー。\nシロウとの誓いはなくならないと",
+        "ability": [
+            "【C】If the card battling this card has 《魔法》, this card gets +2000 Power.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card1392-large.jpg"
+    },
+    {
+        "name": "黄金の英雄王ギルガメッシュ\nGolden Heroic Spirit King Gilgamesh",
+        "code": "FS/S03-T05",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "自らの持ち物を取りに来て何が悪い",
+        "ability": [
+            "【S】［Put 1 of your 《武器》 characters to REST］During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card1384-large.jpg"
+    },
+    {
+        "name": "藤師しょー\nFuji-Master",
+        "code": "FS/S03-T06",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "マーヴェラス！ベラボー！おおベラボー！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card1402-large.jpg"
+    },
+    {
+        "name": "聖剣の担い手セイバー\nHoly Sword Bearer Saber",
+        "code": "FS/S03-T07",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "─────風よ",
+        "ability": [
+            "【A】［⑤］When this card attacks, if 「約束された勝利の剣」 is in your Climax slot, you may pay the cost. If you do, place all of your opponent's level 2 and below front row characters into stock."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card1396-large.jpg"
+    },
+    {
+        "name": "セイバー召喚\nSummon Saber",
+        "code": "FS/S03-T08",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────問おう。貴方が、私のマスターか",
+        "ability": [
+            "Choose a card of your current level +1 or below with the name 「セイバー」 from your hand and place it on the stage in a slot of your choice."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card1399-large.jpg"
+    },
+    {
+        "name": "ファニーライオン\nFunny Lion",
+        "code": "FS/S03-T09",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "昔、ライオンの仔を預かっていた事があって――",
+        "ability": [
+            "● Choose 1 of your characters, during this turn, it gets +5000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card1401-large.jpg"
+    },
+    {
+        "name": "約束された勝利の剣\nSword of Promised Victory",
+        "code": "FS/S03-T10",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Unknown",
+        "color": "UNKNOWN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────触れる物を例外なく切断する光の刃─────",
+        "ability": [
+            "【C】All your characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card1407-large.jpg"
+    },
+    {
+        "name": "赤い騎士アーチャー\nCrimson Knight Archer",
+        "code": "FS/S03-T11",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "そんな余分なプライドはな、そこいらの狗にでも食わせてしまえ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card1458-large.jpg"
+    },
+    {
+        "name": "あかいあくま凛\nRed Devil Rin",
+        "code": "FS/S03-T12",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "眼鏡なんか一人でいる時しかかけないから、よく分からないけど……おかしくない？",
+        "ability": [
+            "【A】［②］When you play this card from your hand onto the Stage,you may pay the cost. If you do, take one 《マスター》 character from your waiting room and place it into your hand."
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card1454-large.jpg"
+    },
+    {
+        "name": "遠坂 凛\nTohsaka Rin",
+        "code": "FS/S03-T13",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "それは高い塔の上。月は背に下界を見下ろす、魔法使いのようだった",
+        "ability": [
+            "【A】 BOND／「錬鉄の英霊アーチャー」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「錬鉄の英霊アーチャー」 from your Waiting Room, return to hand)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card1456-large.jpg"
+    },
+    {
+        "name": "宝石魔術の血脈 凛\nInherited Jewel Magic Rin",
+        "code": "FS/S03-T14",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "取った……！",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Jewel 《宝石》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card1460-large.jpg"
+    },
+    {
+        "name": "錬鉄の英霊アーチャー\nHeroic Spirit of Iron Archer",
+        "code": "FS/S03-T15",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "“─────ついて来れるか”",
+        "ability": [
+            "【A】［①］When the Character battling this card is Level 1 or above and becomes REVERSE, you may pay the cost. If you do, place a 《武器》 character from the waiting room into your hand.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to its previous slot)"
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card1450-large.jpg"
+    },
+    {
+        "name": "黒き聖杯 桜\nBlack Holy Grail Sakura",
+        "code": "FS/S03-T16",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "─────嬉しいわ姉さん。逃げずに来てくれたんですね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Master 《マスター》",
+            "Magic 《魔法》"
+        ],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card1464-large.jpg"
+    },
+    {
+        "name": "別れの言葉\nParting Words",
+        "code": "FS/S03-T17",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "─────まいったな。この世に未練はないが",
+        "ability": [
+            "【C】All your characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card1471-large.jpg"
+    },
+    {
+        "name": "いたずらな微笑み\nMischievous Smile",
+        "code": "FS/S03-T18",
+        "rarity": "TD",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ね。士郎はどうするの？",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "FS",
+        "release": "S03",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card1474-large.jpg"
+    },
+    {
+        "name": "セイバー・リリィ\nSaber Lily",
+        "code": "FU/S03-108",
+        "rarity": "PR",
+        "expansion": "Fate/stay night",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "この剣にかけて勝利を",
+        "ability": [
+            "【S】［Put 2 of your 《マスター》 characters to REST］During this turn, this card gets +1 soul."
+        ],
+        "attributes": [
+            "Servant 《サーヴァント》",
+            "Weapon 《武器》"
+        ],
+        "set": "FU",
+        "release": "S03",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card1510-large.jpg"
+    }
+]

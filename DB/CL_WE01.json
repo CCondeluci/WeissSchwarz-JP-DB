@@ -1,0 +1,838 @@
+[
+    {
+        "name": "演劇部部長 渚\nTheatrical Club President Nagisa",
+        "code": "CL/WE01-01",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "あなたをお連れしましょうか。\nこの町の願いが叶う場所に",
+        "ability": [
+            "【C】If you have another 「岡崎 朋也」, this card gets +1000 Power.",
+            "【A】When this card attacks, if the Climax 「この学園は、好きですか……？」 is on Stage, search your deck for up to 1 《双子》 or 《本》 Character, show it to your opponent, then put into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Dango 《だんご》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card820-large.jpg"
+    },
+    {
+        "name": "岡崎 朋也\nOkazaki Tomoya",
+        "code": "CL/WE01-02",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "だけど、そんな俺にだってたどり着きたい場所ができたんだ",
+        "ability": [
+            "【A】At the start of opponent's Attack Phase, you may choose 1 of your Character, put that card and this card to STAND, then exchange their places."
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card828-large.jpg"
+    },
+    {
+        "name": "佇む少女 渚\nLoitering Girl Nagisa",
+        "code": "CL/WE01-03",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "おはようございます、岡崎さん",
+        "ability": [
+            "【A】When this card comes to Stage from hand, if you have 4 or more cards with 「古河」 in their name, during this turn, all your Characters get +2 Soul."
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Dango 《だんご》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card837-large.jpg"
+    },
+    {
+        "name": "古河 渚\nFurukawa Nagisa",
+        "code": "CL/WE01-04",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "岡崎さんっシュートです！",
+        "ability": [
+            "【C】All your other ｢岡崎 朋也｣ gets +1000 Power.",
+            "【A】 BOND／「岡崎 朋也」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「岡崎 朋也」 from your Waiting Room, put it into your hand)"
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Dango 《だんご》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card842-large.jpg"
+    },
+    {
+        "name": "世話焼き渚\nMeddlesome Nagisa",
+        "code": "CL/WE01-05",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "岡崎さんっ、ちゃんとついてきてくださいね",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Dango 《だんご》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card844-large.jpg"
+    },
+    {
+        "name": "春原 陽平\nSunohara Youhei",
+        "code": "CL/WE01-06",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "僕の背中はお前に任せるぜ！",
+        "ability": [
+            "【S】［Put this card to REST］Choose up to 2 Characters, during this turn, they gain the trait 《スポーツ》.",
+            "【S】［Put this card to Waiting Room］Choose 1 of your Character with ｢智代｣ in its name, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card846-large.jpg"
+    },
+    {
+        "name": "この学園は、好きですか……？\nDo You Love This School.....?",
+        "code": "CL/WE01-07",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それでも、この場所が好きでいられますか？",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card850-large.jpg"
+    },
+    {
+        "name": "伝説のヒトデ使い風子\nLegendary Starfish Familiar Fuuko",
+        "code": "CL/WE01-08",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "伝説のヒトデヒートをお見せする機会が\nついに訪れました！",
+        "ability": [
+            "【A】When you use this card's ASSIST, all battling Characters, during this turn, gains the following ability. 『【A】When this card is put into Waiting Room from Stage, you may return that card to its original position in REST position.』",
+            "【S】● ASSIST 0 Level 1 ［Put this card to Waiting Room from hand］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +0 Power)"
+        ],
+        "attributes": [
+            "Starfish 《ヒトデ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card854-large.jpg"
+    },
+    {
+        "name": "家庭的な智代\nHomely Tomoyo",
+        "code": "CL/WE01-09",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "岡崎、朝だぞ！",
+        "ability": [
+            "【A】When this card comes to Stage from hand, choose 1 Level 1 or below Character in the back row, put it to STAND."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card857-large.jpg"
+    },
+    {
+        "name": "スポーツ万能 智代\nOmnipotent Sportsgirl Tomoyo",
+        "code": "CL/WE01-10",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "爽快だ！",
+        "ability": [
+            "【A】［⑤］When this card comes to Stage from hand, you may pay this cost. If you do, choose 1 of opponent's Level 3 or below Character with 《スポーツ》 or 《不良》, put it to Clock.",
+            "【A】When thiscard comes to Stage from hand, take the top card of your Clock, put into Waiting Room."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card862-large.jpg"
+    },
+    {
+        "name": "幽霊少女 風子\nGhost Girl Fuuko",
+        "code": "CL/WE01-11",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "あ、あの、よかったら、どうぞ！",
+        "ability": [
+            "【A】When this card attacks, if the Climax 「夢の最後まで」 is on Stage, take the top card of your Deck, put to Stock. During this turn, all your 《ヒトデ》 Characters get +2000 Power.",
+            "【A】 ENCORE ［②］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)"
+        ],
+        "attributes": [
+            "Starfish 《ヒトデ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card1165-large.jpg"
+    },
+    {
+        "name": "伝説の少女 智代\nLegendary Girl Tomoyo",
+        "code": "CL/WE01-12",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "そうか、もしかしたらこれは\nそういう気持ちなのかもしれないな",
+        "ability": [
+            "【A】When this card comes to Stage from hand, you may choose 1 Character in the back row with 「陽平」 in its name, put it to Stock.",
+            "【S】［① Put this card to REST］Choose 1 of your Characters, during this turn, it gets +1 Level, +2000 Power."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card1167-large.jpg"
+    },
+    {
+        "name": "風子＆公子\nFuuko & Kouko",
+        "code": "CL/WE01-13",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "おめでとう、お姉ちゃん",
+        "ability": [
+            "【S】［①］Choose 1 of your Characters, during this turn, it gains 《ヒトデ》 trait, and the following ability. 『【S】［Put this card to REST］Choose 1 of your 《先生》 Characters, during this turn, it gets +2000 Power.』"
+        ],
+        "attributes": [
+            "Starfish 《ヒトデ》",
+            "Teacher 《先生》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card1169-large.jpg"
+    },
+    {
+        "name": "夢の最後まで\nThe End Of The Dream",
+        "code": "CL/WE01-14",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いつまでも…いつまでも幸せに",
+        "ability": [
+            "【A】When this card comes to Stage from hand, take the top card of your deck, put it to Stock. During this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card1171-large.jpg"
+    },
+    {
+        "name": "世話好きな 杏\nApricot officious",
+        "code": "CL/WE01-15",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "おっはよ、差し入れに来てやったわよ",
+        "ability": [
+            "【C】All your other 《スポーツ》 Characters get +500 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card1173-large.jpg"
+    },
+    {
+        "name": "パン屋さん 渚＆杏\nBaker Nagisa & Kyou",
+        "code": "CL/WE01-16",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "杏「そもそもあんたたち、どこまでいってるのよ？」",
+        "ability": [
+            "【C】All your other 《不良》 Characters get +1 Level.",
+            "【C】All your other 《委員長》 Characters get +500 Power."
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card1175-large.jpg"
+    },
+    {
+        "name": "妹思い杏\nSister Anne I",
+        "code": "CL/WE01-17",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "チャンス作ってやったんだから、活用しなさいよ",
+        "ability": [
+            "【C】All your other Characters with 「椋」 in its name gets +500 Power.",
+            "【S】● ASSIST 3000 Level 2 ［Put this card to Waiting Room from hand］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card1177-large.jpg"
+    },
+    {
+        "name": "暴走娘 杏\nWild Girl Kyou",
+        "code": "CL/WE01-18",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "こらっ、朋也！！",
+        "ability": [
+            "【A】［① Put 1 of your 《本》 to Waiting Room］When this card comes to Stage from hand, you may pay this cost. If you do, choose 1 of opponent's Level 1 or below Character in the front row, put it to Waiting Room."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card1178-large.jpg"
+    },
+    {
+        "name": "古河 早苗\nFurukawa Sanae",
+        "code": "CL/WE01-19",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "はぁい、授業始めますよ",
+        "ability": [
+            "【C】If you have another 《演劇》 Character, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Bread 《パン》",
+            "Teacher 《先生》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card1181-large.jpg"
+    },
+    {
+        "name": "古河 秋生\nFurukawa Akio",
+        "code": "CL/WE01-20",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "100",
+        "soul": 1,
+        "flavor_text": "それが義理だろ、人情だろ？",
+        "ability": [
+            "【C】All other of your 《パン》 or 《だんご》 Characters get +500 Power.",
+            "【S】［① Put this card to Waiting Room］Choose 1 「古河 早苗」 from your Waiting Room, return to hand."
+        ],
+        "attributes": [
+            "Bread 《パン》",
+            "Theater 《演劇》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card1183-large.jpg"
+    },
+    {
+        "name": "渚＆ことみ\nNagisa & Kotomi",
+        "code": "CL/WE01-21",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "渚「最後の曲はとっても上手に弾けていたと想います！」\nことみ「よかった…。嬉しいの」",
+        "ability": [
+            "【C】 During opponent's turn, if you have other yellow and green Characters, this card gets +1500 Power and gains 『【A】 ENCORE ［Put 1 Character to Waiting Room from hand］』."
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Book 《本》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card1185-large.jpg"
+    },
+    {
+        "name": "名誉図書委員ことみ\nHonorary Librarian Kotomi",
+        "code": "CL/WE01-22",
+        "rarity": "R",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "こんにちは、朋也君",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card with Level 2 or above gets +1000 Power.",
+            "【S】［② Put this card to REST］Search your deck for 1 《本》 Character, show it to opponent, then put into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Music 《音楽》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card1187-large.jpg"
+    },
+    {
+        "name": "旋律の破壊神ことみ\nDestroyer Of Melody Kotomi",
+        "code": "CL/WE01-23",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "…うっとり",
+        "ability": [
+            "【A】［⑦］When this card attacks, if the Climax 「娘への贈り物」 is on Stage, you may pay this cost. If you do, put all players' front row Characters except this card into their respective decks. Shuffle both decks afterwards."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Music 《音楽》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card1188-large.jpg"
+    },
+    {
+        "name": "幻想世界の少女\nThe Illusionary World Girl",
+        "code": "CL/WE01-24",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "そこは･･･どんな場所だった？\nここよりも、もっと素敵な場所だった？",
+        "ability": [
+            "【C】 ALARM When this card if on the top of your Clock, if you have only 1 Character, all Characters gain the following ability. 『【A】When this card attacks, search your deck for 1 Character, show it to your opponent, then put into your hand. Shuffle your deck afterwards.』"
+        ],
+        "attributes": [
+            "Doll 《人形》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card1191-large.jpg"
+    },
+    {
+        "name": "一ノ瀬 ことみ\nIchinose Kotomi",
+        "code": "CL/WE01-25",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "呼ぶ時はことみちゃん",
+        "ability": [
+            "【A】When this card comes to Stage from hand, draw 1 card, then choose 1 card from your hand, put into Waiting Room."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Music 《音楽》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card1192-large.jpg"
+    },
+    {
+        "name": "杏＆椋\nKyou & Ryou",
+        "code": "CL/WE01-26",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "杏「次は椋の番よ！」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card1194-large.jpg"
+    },
+    {
+        "name": "娘への贈り物\nPresent For Daughter",
+        "code": "CL/WE01-27",
+        "rarity": "C",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お父さん…お母さん…お帰りなさい……",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When you triggered this card, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card1197-large.jpg"
+    },
+    {
+        "name": "日差しの中の渚\nIn The Sunlight Nagisa",
+        "code": "CL/WE01-46",
+        "rarity": "PR",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "えと…ずっと一緒です",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Dango 《だんご》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "46",
+        "image": "https://images.littleakiba.com/tcg/card1246-large.jpg"
+    },
+    {
+        "name": "春原コンボ\nSunohara Combo",
+        "code": "CL/WE01-47",
+        "rarity": "PR",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "『コンボがつながった』",
+        "ability": [
+            "Choose 1 「春原 陽平」 in your Clock, put it into Waiting Room. If you have a card with「朋也」 in its name, choose 1 「春原 陽平」 from your Waiting Room, put it into Stock."
+        ],
+        "attributes": [],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "47",
+        "image": "https://images.littleakiba.com/tcg/card1247-large.jpg"
+    },
+    {
+        "name": "花畑の少女たち\nFlower Girls",
+        "code": "CL/WE01-48",
+        "rarity": "PR",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "渚「えへへ…綺麗に撮れてますか？」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Theater 《演劇》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "48",
+        "image": "https://images.littleakiba.com/tcg/card1248-large.jpg"
+    },
+    {
+        "name": "コンボを繋げる杏\nConnecting Combo Kyou",
+        "code": "CL/WE01-49",
+        "rarity": "PR",
+        "expansion": "Clannad Vol.1",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "『さらにコンボが繋がった！』",
+        "ability": [
+            "【A】［①］When this card comes to Stage from hand, you may pay this cost. If you do, choose 1 「春原コンボ」 from your Waiting Room, return it to your hand.",
+            "【S】［①］You may choose 1 「春原 陽平」 from your Waiting Room, put it into your Clock. If you do, choose 1 card from your Clock, put it into Waiting Room."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "CL",
+        "release": "WE01",
+        "sid": "49",
+        "image": "https://images.littleakiba.com/tcg/card1249-large.jpg"
+    }
+]

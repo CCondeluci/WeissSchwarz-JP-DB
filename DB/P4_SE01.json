@@ -1,0 +1,493 @@
+[
+    {
+        "name": "主人公（Ｐ４）",
+        "code": "P4/SE01-01",
+        "rarity": "R",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "イザナギ！！",
+        "ability": [
+            "【A】 ［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《メガネ》 Character and up to 1 Character with 「＆」 in its name and show them to your opponent, add them to Hand. Shuffle your Deck afterwards.",
+            "【A】 When this card attacks, you may declare 1 trait. If you did, until the next declaration of this ability, this card gains that trait.",
+            "【A】 When this card attacks, if 「イザナギ覚醒」 is in the Climax Slot, all your 《魔法》 Characters, during that turn, get +2000 Power and +1 Soul."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card4940-large.jpg"
+    },
+    {
+        "name": "陽介＆ジライヤ",
+        "code": "P4/SE01-02",
+        "rarity": "R",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "お前は、俺で･･･俺は、お前か。\n全部ひっくるめて、俺って事だな",
+        "ability": [
+            "【C】 Upon playing this card from Hand, choose 1 of your 「花村 陽介」, you may place it into Waiting Room. If you did, this card can be played with Cost 0.",
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card4959-large.jpg"
+    },
+    {
+        "name": "堂島 遼太郎",
+        "code": "P4/SE01-03",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "これからしばらくは家族同士だ。\n自分んちと思って気楽にやってくれ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your 《勇者》 Character or Character with 「主人公」 in its name, during that turn, it gets +3000 Power and +1 Soul.",
+            "【A】 At the end of your turn, if you have a Character in Memory, return this card to Hand."
+        ],
+        "attributes": [
+            "Police 《警察》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card4960-large.jpg"
+    },
+    {
+        "name": "花村 陽介",
+        "code": "P4/SE01-04",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "行くぜ、相棒！",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 power."
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card4961-large.jpg"
+    },
+    {
+        "name": "堂島 菜々子",
+        "code": "P4/SE01-05",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "とちゅうまで、おんなじ道だから\n･･･いっしょに行こ",
+        "ability": [
+            "【A】 BOND／「主人公（Ｐ４）」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「主人公（Ｐ４）」 from your Waiting Room, return it to Hand）",
+            "【A】［① REST this card］ Choose 1 of your 《勇者》 Character or Character with 「主人公」 in its name, during that turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Television 《テレビ》",
+            "Junes 《ジュネス》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card4962-large.jpg"
+    },
+    {
+        "name": "イザナギ覚醒",
+        "code": "P4/SE01-06",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "我は汝、汝は我、\n双眸を見開きて、今こそ発せよ",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card4945-large.jpg"
+    },
+    {
+        "name": "千枝＆トモエ",
+        "code": "P4/SE01-07",
+        "rarity": "R",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "吹き飛べー！",
+        "ability": [
+            "【C】 Upon playing this card from Hand, choose 1 of your 「里中 千枝」, you may place it into Waiting Room. If you did, this card can be played with Cost 0.",
+            "【A】［②］ During your turn, when your opponent's STAND Character becomes REST, you may pay the cost. If you did, choose 1 of your opponent's STAND Character, place it into Memory."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card4964-large.jpg"
+    },
+    {
+        "name": "久慈川 りせ",
+        "code": "P4/SE01-08",
+        "rarity": "R",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "お豆腐は、みんなにおまけ。\nなんか、心配してもらったみたいだし",
+        "ability": [
+            "【C】 SUPPORT All your Characters with Level 2 or higher in front of this card get +1000 Power.",
+            "【A】［①］ When 「現役美少女アイドル」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your 《魔法》 or 《メガネ》 Character, during that turn, it gets +1 Level and +4000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Television 《テレビ》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card4965-large.jpg"
+    },
+    {
+        "name": "里中 千枝",
+        "code": "P4/SE01-09",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "これで、終わりだーっ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card4966-large.jpg"
+    },
+    {
+        "name": "現役美少女アイドル",
+        "code": "P4/SE01-10",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "こんなトコまで来るなんて\nりせちー、超うれしー！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +3 Soul."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card4967-large.jpg"
+    },
+    {
+        "name": "雪子＆コノハナサクヤ",
+        "code": "P4/SE01-11",
+        "rarity": "R",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "逃げたい･･･誰かに救って欲しい･･･\nそうね･･･確かに、私の気持ち",
+        "ability": [
+            "【C】 Upon playing this card from Hand, choose 1 of your 「天城 雪子」, you may place it into Waiting Room. If you did, this card can be played with Cost 0.",
+            "【C】 For each of your opponent's REST Character, this card gets +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your opponent's STAND Characters, REST it."
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card4968-large.jpg"
+    },
+    {
+        "name": "完二＆タケミカヅチ",
+        "code": "P4/SE01-12",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "男だ女だってんじゃねぇ･･･\n拒絶されるのが怖くて。ビビってよ･･･",
+        "ability": [
+            "【A】 This ability can only be activated once each turn. When you use 『ASSIST』, choose 1 of your Character in battle, during that turn, it gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card4951-large.jpg"
+    },
+    {
+        "name": "天城 雪子",
+        "code": "P4/SE01-13",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "よし、怯んだ！\n仕掛けるよ！",
+        "ability": [
+            "【A】［①］ When 「突撃逆ナン大作戦」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 「雪子＆コノハナサクヤ」 from your Waiting Room, return it to Hand.",
+            "【S】 ［REST this card］ Choose 1 of your Characters with 「千枝」 in its name, during that turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card4970-large.jpg"
+    },
+    {
+        "name": "巽 完二",
+        "code": "P4/SE01-14",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "どいつもこいつも、１０年早ぇ",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card4953-large.jpg"
+    },
+    {
+        "name": "オレの出番ッス！",
+        "code": "P4/SE01-15",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "行くぜぇ、ペルソナァ！",
+        "ability": [
+            "REST 1 of your STAND Characters. If you did, choose 1 of your opponent's STAND Characters, REST it, choose 1 of your opponent's Character with Level 2 or lower in the Front Row, place it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card4972-large.jpg"
+    },
+    {
+        "name": "突撃逆ナン大作戦",
+        "code": "P4/SE01-16",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "今日は私、天城雪子がナンパ、\n逆ナンに挑戦してみたいと思います",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card4955-large.jpg"
+    },
+    {
+        "name": "白鐘 直斗",
+        "code": "P4/SE01-17",
+        "rarity": "R",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "皆さんの“遊び”も、\n間もなく終わりになるかも知れない･･･",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, choose 1 of your 《警察》 Character or Character with 「主人公」 in its name, during that turn, it gets +1000 Power.",
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Detective 《探偵》",
+            "Police 《警察》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card4956-large.jpg"
+    },
+    {
+        "name": "クマ",
+        "code": "P4/SE01-18",
+        "rarity": "C",
+        "expansion": "Persona 4 EP",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "当然みんなの分のメガネも用意しておいたクマよ",
+        "ability": [
+            "【C】 All your other 《メガネ》 Characters get +500 Power.",
+            "【S】 ［REST this card］ Choose 1 of your Character, during that turn, it gains 《メガネ》."
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Shadow 《影》"
+        ],
+        "set": "P4",
+        "release": "SE01",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card4957-large.jpg"
+    }
+]

@@ -1,0 +1,3442 @@
+[
+    {
+        "name": "天田 乾\nAmada Ken",
+        "code": "P3/S01-001",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "子供だからって侮らないでください！",
+        "ability": [
+            "【A】 When this card is played on Stage, choose 1 of your Character with Level 1 or higher, during that turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card4325-large.jpg"
+    },
+    {
+        "name": "主人公＆オルフェウス\nProtagonist & Orpheus",
+        "code": "P3/S01-002",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "我は汝･･･汝は我･･･。\n我は汝の心の海より出でし者、幽玄の奏者オルフェウスなり･･･。",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "【S】［② REST this card］Place this card into Memory. Choose 1 「主人公＆タナトス」 from your Hand, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card4326-large.jpg"
+    },
+    {
+        "name": "ファルロス\nPharos",
+        "code": "P3/S01-003",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "僕は、いつだって君の傍に居るよ･･･",
+        "ability": [
+            "【A】 BOND／「主人公＆タナトス」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「主人公＆タナトス」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Death 《死》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card4327-large.jpg"
+    },
+    {
+        "name": "望月 綾時\nMochizuki Ryoji",
+        "code": "P3/S01-004",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "分からない事、優しく教えてくれると嬉しいな。",
+        "ability": [
+            "【C】 ALARM If this card is on top of your Clock, if you are Level 1 or lower, all your Yellow Characters get +1 Soul.",
+            "【A】 When this card attacks, if 「露天風呂」 is in the Climax Slot, choose 1 of your opponent's Characters, you may return it to Hand."
+        ],
+        "attributes": [
+            "Death 《死》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card4328-large.jpg"
+    },
+    {
+        "name": "天田＆カーラ・ネミ\nAmada & Kala-Nemi",
+        "code": "P3/S01-005",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "だから全力を尽くして戦います。復讐じゃなくて、生きる為に。",
+        "ability": [
+            "【A】 When this card is played on Stage, during that turn, this card gets +1 Soul.",
+            "【A】 When this card attacks, if 「復讐の終わり」 is in the Climax Slot, choose 1 of your opponent's Characters, you may return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card4330-large.jpg"
+    },
+    {
+        "name": "主人公＆メサイア\nProtagonist & Messiah",
+        "code": "P3/S01-006",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "おめでとう。奇跡は･･･果された。",
+        "ability": [
+            "【C】 This card cannot be chosen by your opponent's abilities.",
+            "【C】 BODYGUARD (When your opponent attacks, if this card is in the center slot of the Front Row and is not REVERSE, your opponent must Front Attack this card)",
+            "【S】［⑥］ All your other Characters and your opponent's Characters, return them to hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card4331-large.jpg"
+    },
+    {
+        "name": "友近 健二\nTomochika Kenji",
+        "code": "P3/S01-007",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "オレはいつでも、お前の味方だからさ。",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Ramen 《ラーメン》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card24-large.jpg"
+    },
+    {
+        "name": "主人公\nProtagonist",
+        "code": "P3/S01-008",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "美鶴「君はまだまだ強くなれそうだな」",
+        "ability": [
+            "【A】 ［①］ When this card is played on Stage, you may pay the cost. If you did, choose 1 「タルタロス」 from your Waiting Room, return it to Hand.",
+            "【S】［① REST this card］ Choose 1 other Level 0 or lower either yours or your opponent Character in the Front Row, return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card4505-large.jpg"
+    },
+    {
+        "name": "コロマル＆ケルベロス\nKoromaru & Cerberus",
+        "code": "P3/S01-009",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ワオーン！",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card4506-large.jpg"
+    },
+    {
+        "name": "たなか社長\nPresident Tanaka",
+        "code": "P3/S01-010",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あなたの～♪テレビに～♪時価ネットたなか～♪",
+        "ability": [
+            "【A】 When this card is played on Stage, choose 1 of your Character, during that turn, it gets +2000 Power and +1 Soul.",
+            "【S】［② REST this card］ Return this card into Hand."
+        ],
+        "attributes": [
+            "Television Mail Order 《テレビ通販》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card4507-large.jpg"
+    },
+    {
+        "name": "神郷 慎",
+        "code": "P3/S01-011",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "キミ、俺と会ったことない？　前にどっかで",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card4508-large.jpg"
+    },
+    {
+        "name": "コロマル\nKoromaru",
+        "code": "P3/S01-012",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ワン！",
+        "ability": [
+            "【A】 When this card is played on Stage, during that turn, this card gets +1500 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card4509-large.jpg"
+    },
+    {
+        "name": "ベベ\nBebe",
+        "code": "P3/S01-013",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "拙者ハマダ、黙ッテ語レル程ノ、\n背中ヲ持チ合ワセテ、オリマセーヌ･･･",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Fan 《扇子》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card4511-large.jpg"
+    },
+    {
+        "name": "神木 秋成\nKamiki Akinari",
+        "code": "P3/S01-014",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "この間から考えてた。僕のための幸せな話を書きたいって。",
+        "ability": [
+            "【A】 When you Level Up, place this card into Waiting Room.",
+            "【A】 When this card is placed into Waiting Room from Stage, your opponent chooses 1 card from his/her Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Sickness 《病気》",
+            "Fairy Tale 《童話》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card4510-large.jpg"
+    },
+    {
+        "name": "舞子\nMaiko",
+        "code": "P3/S01-015",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "だから舞子、寂しくなんかないよ！",
+        "ability": [
+            "【C】 During your turn, all your other Characters get +500 power."
+        ],
+        "attributes": [
+            "Knapsack 《ランドセル》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card4512-large.jpg"
+    },
+    {
+        "name": "天田＆ネメシス\nAmada & Nemesis",
+        "code": "P3/S01-016",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "僕にだって、力があります！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card4513-large.jpg"
+    },
+    {
+        "name": "主人公＆タナトス\nProtagonist & Thanatos",
+        "code": "P3/S01-017",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "イゴール「それは”ペルソナ”という力･･･\nもう１つの貴方自身なのです」",
+        "ability": [
+            "【A】 When this card attacks, if 「最後の選択」 is in the Climax Slot, choose 1 of your opponent's Character, you may return it to Hand.",
+            "【S】［①］ During that turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card4514-large.jpg"
+    },
+    {
+        "name": "タルタロス\nTartarus",
+        "code": "P3/S01-018",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "これが”タルタロス”･･･影時間の中だけに現れる”迷宮”だ。",
+        "ability": [
+            "Choose 1 of your opponent's Character, during that turn, it gets -1 Level."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card4515-large.jpg"
+    },
+    {
+        "name": "影時間\nShadow Hour",
+        "code": "P3/S01-019",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あれは”影時間”…\n１日と１日の狭間にある”隠された時間”だ",
+        "ability": [
+            "Choose 1 of your Character, return it to Hand. If you did, choose 1 of your opponent's Character with Level 2 or lower, place it into Stock."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card4516-large.jpg"
+    },
+    {
+        "name": "天田＆カーラ・ネミ\nAmada & Kala-Nemi",
+        "code": "P3/S01-01T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】 When this card is played on Stage, during that turn, this card gets +1 Soul.",
+            "【A】 When this card attacks, if 「復讐の終わり」 is in the Climax Slot, choose 1 of your opponent's Character, you may return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "01T",
+        "image": "https://images.littleakiba.com/tcg/card4831-large.jpg"
+    },
+    {
+        "name": "不死鳥戦隊フェザーマンR",
+        "code": "P3/S01-020",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "6",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ポロニアンモールで僕と握手！",
+        "ability": [
+            "Return all your opponent's and your Characters to Hand."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card4517-large.jpg"
+    },
+    {
+        "name": "真夏の夜の夢\nMidsummer Night's Dream",
+        "code": "P3/S01-021",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "何が起こるかわからない",
+        "ability": [
+            "Randomly choose 1 card from your opponent's Hand, place it into Waiting Room. If that card is a Climax, randomly choose 2 cards from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card4518-large.jpg"
+    },
+    {
+        "name": "真宵堂",
+        "code": "P3/S01-022",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "また”ペルソナ使い”と関わるときがくるとはね。",
+        "ability": [
+            "● Choose 1 of your Character, during that turn, it gets +3000 Power and +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card4519-large.jpg"
+    },
+    {
+        "name": "露天風呂\nOpen-air Bath",
+        "code": "P3/S01-023",
+        "rarity": "CR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "わぁー！！　やっぱ、ここの露天、ひっろーい！！",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card4520-large.jpg"
+    },
+    {
+        "name": "復讐の終わり",
+        "code": "P3/S01-024",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "･･･さよなら･･･母さん。僕は、もう大丈夫だから･･･",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card4521-large.jpg"
+    },
+    {
+        "name": "最後の選択",
+        "code": "P3/S01-025",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card4522-large.jpg"
+    },
+    {
+        "name": "水着の風花\nSwimsuit Fuuka",
+        "code": "P3/S01-026",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "順平「つーか･･･風花おまえ…メッチャ着痩せするタイプ･･･！？」",
+        "ability": [
+            "【A】 When this card is played on Stage, choose 1 of your Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Swimsuit 《水着》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card4523-large.jpg"
+    },
+    {
+        "name": "アイギス＆パラディオン\nAigis & Palladion",
+        "code": "P3/S01-027",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "“耐力”は防御力の要。\nそれが高い私は、つまりタフガイであります。",
+        "ability": [
+            "【C】 If you have 2 or more other 《メカ》 Characters, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card4524-large.jpg"
+    },
+    {
+        "name": "神郷 洵",
+        "code": "P3/S01-028",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "どうしたの？",
+        "ability": [
+            "【S】 ［②］ During that turn, this card gets +5000 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card4525-large.jpg"
+    },
+    {
+        "name": "アイギス\nAigis",
+        "code": "P3/S01-029",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "わたしの一番の大切は、あなたの傍にいることであります。",
+        "ability": [
+            "【C】 For each card in your Level Slot, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card4526-large.jpg"
+    },
+    {
+        "name": "友近 健二\nTomochika Kenji",
+        "code": "P3/S01-02T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Ramen 《ラーメン》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "02T",
+        "image": "https://images.littleakiba.com/tcg/card4832-large.jpg"
+    },
+    {
+        "name": "風花＆ユノ\nFuuka & Juno",
+        "code": "P3/S01-030",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 2,
+        "flavor_text": "お待たせしました！　オラクル発動します！",
+        "ability": [
+            "【C】 ALARM When this card is on top of your Clock, all your Green Characters get +1000 Power.",
+            "【A】 When this card attacks, if 「切れない絆」 is in the Climax Slot, place the top card of your Deck into Stock, during that turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card4527-large.jpg"
+    },
+    {
+        "name": "メティス＆プシュケイ\nMetis & Psyche",
+        "code": "P3/S01-031",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "唸れ、パピヨンハート！！",
+        "ability": [
+            "【A】 When this card attacks, if 「機械の乙女」 is in the Climax Slot, place the top card of your Deck into Stock, during that turn, this card gets +3000 Power.",
+            "【S】 ［③］ All your opponent's Character in the Front Row, during that turn, get -1500 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card4528-large.jpg"
+    },
+    {
+        "name": "森山 夏紀\nMoriyama Natsuki",
+        "code": "P3/S01-032",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "･･･でも、あたし、風花のこと好きよ。\n風花自身が、自分の事嫌いでもね･･",
+        "ability": [
+            "【A】 BOND／「風花＆ユノ」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「風花＆ユノ」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Bully 《いじめ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card4529-large.jpg"
+    },
+    {
+        "name": "風花＆ルキア\nFuuka & Lucia",
+        "code": "P3/S01-033",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "こんなところで、負けられませんよね！",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card4530-large.jpg"
+    },
+    {
+        "name": "メティス\nMetis",
+        "code": "P3/S01-034",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "汚い手で姉さんに触るな！",
+        "ability": [
+            "【C】 If you have other Character with 「アイギス」 in its name, this card gets +1500 Power.",
+            "【S】［①］ During that turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card4531-large.jpg"
+    },
+    {
+        "name": "ワンピースのアイギス\nOne Piece Dress Aigis",
+        "code": "P3/S01-035",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "海岸で、何かの任務でしょうか？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Mecha 《メカ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card4532-large.jpg"
+    },
+    {
+        "name": "アイギス＆アテナ\nAigis & Athena",
+        "code": "P3/S01-036",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "この力が私の、覚悟の証！",
+        "ability": [
+            "【C】 BODYGUARD (When your opponent attacks, if this card is in the center slot of the Front Row and is not REVERSE, your opponent must Front Attack this card)",
+            "【A】 When this card attacks, if 「命あるもの」 is in the Climax Slot, place the top card of your Deck into Stock, during that turn, this card gets +3000 Power.",
+            "【S】 ［④］ Choose 1 「命あるもの」 from your Clock or Waiting Room, place it into Climax Slot."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card4533-large.jpg"
+    },
+    {
+        "name": "文吉＆光子\nBunkichi & Mitsuko",
+        "code": "P3/S01-037",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "いらっしゃいませ、また来てくれたんかい。",
+        "ability": [
+            "【A】 When your other 《メガネ》 Character is played on Stage, you may place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Book 《本》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card4534-large.jpg"
+    },
+    {
+        "name": "山岸 風花",
+        "code": "P3/S01-038",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "がんばってっ！ 応援してます。",
+        "ability": [
+            "【A】 ［①］ When this card is played on Stage, you may pay the cost. If you did, choose 1 「アナライズ」 from your Waiting Room, return it to Hand.",
+            "【S】［① REST this card］ Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card4535-large.jpg"
+    },
+    {
+        "name": "宮本 一志",
+        "code": "P3/S01-039",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "とにかく気合じゃー！　根性で乗り切れえー！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card4536-large.jpg"
+    },
+    {
+        "name": "コロマル＆ケルベロス",
+        "code": "P3/S01-03T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "03T",
+        "image": "https://images.littleakiba.com/tcg/card4833-large.jpg"
+    },
+    {
+        "name": "西脇 結子",
+        "code": "P3/S01-040",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ぜ、全然心配なんてしなかったよ！皆、がんばってたからね！",
+        "ability": [
+            "【A】 ［REST this card］ When your other 《スポーツ》 Character is played on Stage, you may pay the cost. If you did, place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Manager 《マネージャー》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card4537-large.jpg"
+    },
+    {
+        "name": "鳥海先生",
+        "code": "P3/S01-041",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "･･･先生、いま良いこと言ったから、期末にこのまま出すよ？",
+        "ability": [
+            "【C】 SUPPORT All your Characters with 『【A】 ENCORE [Place 1 Character into Waiting Room from Hand]』 in front of this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Net Game 《ネトゲ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card4538-large.jpg"
+    },
+    {
+        "name": "早瀬 護",
+        "code": "P3/S01-042",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "俺は家族を支えたい。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card4539-large.jpg"
+    },
+    {
+        "name": "総攻撃チャンス！",
+        "code": "P3/S01-043",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "きたっ！　総攻撃チャンスッ！！",
+        "ability": [
+            "● All your Characters, during that turn, get +1000 Power. If all your opponent's Characters in the Front Row is in REST, all your Characters get +3000 Power instead."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card4540-large.jpg"
+    },
+    {
+        "name": "アナライズ",
+        "code": "P3/S01-044",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "了解、分析してみます。少し時間をください。",
+        "ability": [
+            "Look up to the top 2 cards of your opponent's Deck and choose up to 1 card, place it at the bottom of the Deck. Place the remaining card on top of the Deck in any order."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card4541-large.jpg"
+    },
+    {
+        "name": "保健室",
+        "code": "P3/S01-045",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ずいぶんと調子悪そうですねぇ。\nこれは･･･出番ですね、イヒヒヒヒヒヒヒヒ。",
+        "ability": [
+            "Choose up to 2 of your opponent's Character in the Front Row, during that turn, it gets -1000 power."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card4542-large.jpg"
+    },
+    {
+        "name": "レベルアップ\nLevel Up",
+        "code": "P3/S01-046",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "テレッテッテー、順平はレベルアップー。",
+        "ability": [
+            "If you have no Green Character, you cannot play this card from Hand. The following action is repeated until you Level up. 『Place the top card of your Deck into Clock.』"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card4543-large.jpg"
+    },
+    {
+        "name": "アイギスの見る夢",
+        "code": "P3/S01-047",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "目を閉じると･･･“彼”と最後に話した時の事が浮かぶ。",
+        "ability": [
+            "Place the top card of your Deck into Stock. Choose 1 of your Character, during that turn, it gets +1500 Power."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card4544-large.jpg"
+    },
+    {
+        "name": "機械の乙女",
+        "code": "P3/S01-048",
+        "rarity": "CR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "彼らは、あなたを危険に晒す存在･･･　よって、排除します。",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card4545-large.jpg"
+    },
+    {
+        "name": "切れない絆",
+        "code": "P3/S01-049",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私のペルソナは･･･“結ぶ者。･･･私が願う“絆”そのもの。",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card4546-large.jpg"
+    },
+    {
+        "name": "たなか社長\nPresident Tanaka",
+        "code": "P3/S01-04T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】 When this card is played on Stage, choose 1 of your Character, during that turn, it gets +2000 Power and +1 Soul.",
+            "【S】［② REST this card］ Return this card to Hand."
+        ],
+        "attributes": [
+            "Television Mail Order 《テレビ通販》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "04T",
+        "image": "https://images.littleakiba.com/tcg/card4834-large.jpg"
+    },
+    {
+        "name": "命あるもの",
+        "code": "P3/S01-050",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "わたしは…”生きろ”と命じられた機械。\n命じたのは…わたし自身。",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card4547-large.jpg"
+    },
+    {
+        "name": "チドリ",
+        "code": "P3/S01-051",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "順平は・・・こんな所で死んじゃダメ。",
+        "ability": [
+            "【A】 BOND／「順平＆トリスメギストス」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「順平＆トリスメギストス」 from your Waiting Room, return it to Hand）",
+            "【S】［①］ Choose 1 of your Character with 「順平」 in its name, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card4548-large.jpg"
+    },
+    {
+        "name": "真田 明彦",
+        "code": "P3/S01-052",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "俺はただ、自分の力を鍛えたいだけだ。",
+        "ability": [
+            "【A】［①］ When this card played on Stage, you may pay the cost. If you did, choose 1 「辰巳東交番」 from your Waiting Room, return it to Hand.",
+            "【S】［③］ Choose 1 of your opponent's Character with Level 1 or lower in the Front Row, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card4549-large.jpg"
+    },
+    {
+        "name": "真次郎＆カストール",
+        "code": "P3/S01-053",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "こんな俺の命でも、\n奪えばお前は、俺と同じ重みを背負うことになる。",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gain the following ability. 『【A】 ［①］ When this card becomes REVERSE, if the Character's Level battling this card is equal to or lower than this card, you may pay the cost. If you did, REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card4550-large.jpg"
+    },
+    {
+        "name": "茅野 めぐみ",
+        "code": "P3/S01-054",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "影抜きは絶対ダメよ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card4551-large.jpg"
+    },
+    {
+        "name": "順平＆トリスメギストス",
+        "code": "P3/S01-055",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "チ･･･ドリ？･･･うそだろ？",
+        "ability": [
+            "【A】 When your other Character becomes REVERSE during battle, during that turn, this card gets +2000 Power.",
+            "【A】 When this card attacks, if 「ありがとう」 is in the Climax Slot, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card4552-large.jpg"
+    },
+    {
+        "name": "明彦＆カエサル",
+        "code": "P3/S01-056",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "だが、関係ない。俺はもう“目を背けない”と決めたんだ。",
+        "ability": [
+            "【A】 When this card attacks, if 「友への誓い」 in is in the Climax Slot, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card4553-large.jpg"
+    },
+    {
+        "name": "荒垣 真次郎",
+        "code": "P3/S01-057",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "チッ、もう来んじゃねえぞ。",
+        "ability": [
+            "【A】 When this card is played on Stage, choose 1 Event from your opponent's Waiting Room, you may place it into Memory.",
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card4554-large.jpg"
+    },
+    {
+        "name": "無達",
+        "code": "P3/S01-058",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "色即是空、空即是色。",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Alcohol 《酒》",
+            "Zen 《禅》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card4555-large.jpg"
+    },
+    {
+        "name": "順平＆ヘルメス",
+        "code": "P3/S01-059",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "見てろよ、俺の大・活・躍！",
+        "ability": [
+            "【C】 If you have other Character with 「チドリ」 in its name, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card4556-large.jpg"
+    },
+    {
+        "name": "神郷 慎",
+        "code": "P3/S01-05T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "05T",
+        "image": "https://images.littleakiba.com/tcg/card4835-large.jpg"
+    },
+    {
+        "name": "ジン＆モロス",
+        "code": "P3/S01-060",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "本気で相手したる。･･･来いや。",
+        "ability": [
+            "【A】［①］ When this card is played on Stage, you may pay the cost. If you did, choose 1 of your opponent's Character with Level 1 or lower, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card4557-large.jpg"
+    },
+    {
+        "name": "タカヤ＆ヒュプノス",
+        "code": "P3/S01-061",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "互いの力と運命とが、残るべき者を決めるでしょう。･･･来なさい。",
+        "ability": [
+            "【C】BODYGUARD (When your opponent attacks, if this card is in the center slot of the Front Row and is not REVERSE, your opponent must Front Attack this card)",
+            "【A】 When this card is played on Stage, choose 1 card from your opponent's Waiting Room, you may place it on top of the Deck.",
+            "【A】 When this card attacks, if 「ニュクス・アバター」 is in the Climax Slot, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card4558-large.jpg"
+    },
+    {
+        "name": "タカヤ",
+        "code": "P3/S01-062",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "愚か者に、死の静寂を･･･。",
+        "ability": [
+            "【C】 ALARM If this card is on top of your Clock, all your Red Characters gain the following ability. 『【A】 ［①］ When this card becomes REVERSED during battle, you may pay the cost. If you did, return this card to Hand.』"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card4559-large.jpg"
+    },
+    {
+        "name": "末光 望美",
+        "code": "P3/S01-063",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ボクが頼んであげるよカモン、マイ牛丼ハウス！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Gourmet 《グルメ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card4560-large.jpg"
+    },
+    {
+        "name": "伊織 順平",
+        "code": "P3/S01-064",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ハイ、アナタも一緒にお手上げ侍。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card4561-large.jpg"
+    },
+    {
+        "name": "チドリ＆メーディア",
+        "code": "P3/S01-065",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "死なんて、あした目が覚めないってだけ･･･\nただそれだけじゃないの。",
+        "ability": [
+            "【A】 When this card is played on Stage, deal 1 Damage to all players.",
+            "【A】 ［①］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 「順平＆トリスメギストス」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card4562-large.jpg"
+    },
+    {
+        "name": "ジン",
+        "code": "P3/S01-066",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "よう見とけ！わしらの生きざま！",
+        "ability": [
+            "【A】 When this card is played on Stage, deal 1 Damage to all players.",
+            "【A】 ［①］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 card with 「タカヤ」 in its name from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card4563-large.jpg"
+    },
+    {
+        "name": "明彦＆ポリデュークス",
+        "code": "P3/S01-067",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "この瞬間を待っていた！仕掛けるっ！",
+        "ability": [
+            "【S】 ● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card4564-large.jpg"
+    },
+    {
+        "name": "辰巳東交番",
+        "code": "P3/S01-068",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "俺は、俺が正しいと信じる事をする。･･･それだけだ。",
+        "ability": [
+            "Choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card4565-large.jpg"
+    },
+    {
+        "name": "DEATH/死神",
+        "code": "P3/S01-069",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "僕は･･･存在そのものが、滅びの確約なんだ。",
+        "ability": [
+            "Choose 1 of your opponent's Character with Level 2 or lower in the Front Row, place it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card4566-large.jpg"
+    },
+    {
+        "name": "影時間",
+        "code": "P3/S01-06T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "Choose 1 of your Character, return it to Hand. If you did, choose 1 of your opponent's Character with Level 2 or lower, place it into Stock."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "06T",
+        "image": "https://images.littleakiba.com/tcg/card4836-large.jpg"
+    },
+    {
+        "name": "ハルマゲドン",
+        "code": "P3/S01-070",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "7",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "Place all of your opponent's Characters with Power equal to or less than 9999 into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card4567-large.jpg"
+    },
+    {
+        "name": "象徴化",
+        "code": "P3/S01-071",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "影時間に気づかない人は、\nその間、棺おけのように”象徴化”する。",
+        "ability": [
+            "Deal 1 Damage to your opponent."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card4568-large.jpg"
+    },
+    {
+        "name": "刈り取る者",
+        "code": "P3/S01-072",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "”死神”タイプが出現！気をつけてください！",
+        "ability": [
+            "Choose 1 of your opponent's Character with Level 1 or lower, place it on top of the Deck."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card4569-large.jpg"
+    },
+    {
+        "name": "ありがとう\nThank You",
+        "code": "P3/S01-073",
+        "rarity": "CR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "大好き･･･　順･･･平･･･　あり･･･が･･･とう･･･",
+        "ability": [
+            "【C】 All your Characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card4570-large.jpg"
+    },
+    {
+        "name": "ニュクス・アバター",
+        "code": "P3/S01-074",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "知恵の実を食べた人間は、その瞬間より旅人となった･･･",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card4571-large.jpg"
+    },
+    {
+        "name": "友への誓い",
+        "code": "P3/S01-075",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "･･･いいぜ、シンジ。美紀と2人で、そこから見ていろ･･･\nまだ･･･俺にはやることがある。･･･そうだろ？",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card4572-large.jpg"
+    },
+    {
+        "name": "水着の美鶴",
+        "code": "P3/S01-076",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "風花「うわー、桐条先輩、キレイ･･･」",
+        "ability": [
+            "【C】 SUPPORT All your Characters with 『【A】 ENCORE [Place 1 Character into Waiting Room from hand]』 in front of this card get +1000 Power.",
+            "【A】 ［① REST this card］ When your other 《生徒会》 Character is played on Stage, you may pay the cost. If you did, draw 1 card."
+        ],
+        "attributes": [
+            "Swimsuit 《水着》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card4573-large.jpg"
+    },
+    {
+        "name": "エリザベス",
+        "code": "P3/S01-077",
+        "rarity": "RR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "そう･･･今回のターゲットは、私、エリザベスでございます。",
+        "ability": [
+            "【C】 BODYGUARD (When your opponent attacks, if this card is in the center slot of the Front Row and is not REVERSE, your opponent must Front Attack this card)",
+            "【A】 When this card attacks, if 「最強なる者」 is in the Climax Slot, draw 1 card.",
+            "【S】 ［④］ Search your Deck for up to 1 Event and show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card4574-large.jpg"
+    },
+    {
+        "name": "美鶴＆ペンテシレア",
+        "code": "P3/S01-078",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "やはり私はこちらの方が向いている。",
+        "ability": [
+            "【C】 During your opponent's turn, this card gets +1000 power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card4575-large.jpg"
+    },
+    {
+        "name": "水着のゆかり\nSwimsuit Yukari",
+        "code": "P3/S01-079",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "順平「おーっ、ゆかり選手、\n想像より結構強気のデザインですな！」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Swimsuit 《水着》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card4576-large.jpg"
+    },
+    {
+        "name": "コロマル\nKoromaru",
+        "code": "P3/S01-07T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】 When this card is played on Stage, during that turn, this card gets +1500 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "07T",
+        "image": "https://images.littleakiba.com/tcg/card4837-large.jpg"
+    },
+    {
+        "name": "イゴール",
+        "code": "P3/S01-080",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "私の名は、イゴール。･･･お初にお目にかかります",
+        "ability": [
+            "【A】 When this card is played on Stage, you may draw 1 card.",
+            "【A】 ［①］ When this card is played on Stage, you may pay the cost. If you did, choose 1 「ベルベットルーム」 from your Waiting Room, return it to Hand.",
+            "【S】 ［② REST this card］ Choose 1 card other than Climax from your Waiting Room, return this card and that card into the Deck. Shuffle your Deck afterwards. Draw 1 card."
+        ],
+        "attributes": [
+            "God 《神》",
+            "Demon 《悪魔》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card4577-large.jpg"
+    },
+    {
+        "name": "ゆかり＆イシス",
+        "code": "P3/S01-081",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "私･･･影時間を無くす為に戦いたい。\nお父さんの遺志を…継ぎたいから。",
+        "ability": [
+            "【A】 When this card attacks, if 「父の遺志」 is in the Climax Slot, draw 1 card.",
+            "【S】 ［④］ Choose 1 card from your Clock, return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card4578-large.jpg"
+    },
+    {
+        "name": "岳羽 詠一朗",
+        "code": "P3/S01-082",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "･･･愛してるよ、ゆかり。どうか、元気でいて欲しい･･･",
+        "ability": [
+            "【A】 BOND／「ゆかり＆イシス」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「ゆかり＆イシス」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Will 《遺言》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card4579-large.jpg"
+    },
+    {
+        "name": "幾月 修司",
+        "code": "P3/S01-083",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "これで預言書に示された段取りはすべて完了だ。",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Pun 《だじゃれ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card4580-large.jpg"
+    },
+    {
+        "name": "桐条 美鶴",
+        "code": "P3/S01-084",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "･･･倒したい相手がいる。",
+        "ability": [
+            "【C】 All your other 《生徒会》 Characters get +500 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card4581-large.jpg"
+    },
+    {
+        "name": "ゆかり＆イオ",
+        "code": "P3/S01-085",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "そうよ、怖がってなんていられない！",
+        "ability": [
+            "【C】 ALARM If this card is on top of your Clock, if you are Level 2 or higher, at the end of your turn, place this card into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card4582-large.jpg"
+    },
+    {
+        "name": "神郷 諒",
+        "code": "P3/S01-086",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "今さら家族でもないさ。男兄弟ってのは特に。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Glasses 《メガネ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card4583-large.jpg"
+    },
+    {
+        "name": "伏見 千尋",
+        "code": "P3/S01-087",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "･･･このお店、空調効きすぎじゃないですか？",
+        "ability": [
+            "【A】 When your other 《生徒会》 Character is played on Stage, look at the top card of your Deck, place it on top or at the bottom of your Deck.",
+            "【S】［② REST this card］ Draw 1 card."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card4584-large.jpg"
+    },
+    {
+        "name": "平賀 慶介",
+        "code": "P3/S01-088",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "大切な人を目の前で失う気持ち･･･\nさっきの君を見て、わかった気がする。",
+        "ability": [
+            "【A】 ［②］ When this card is played on Stage, you may pay the cost. If you did, choose the top card of your Clock, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card4585-large.jpg"
+    },
+    {
+        "name": "小田桐 秀利",
+        "code": "P3/S01-089",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "僕は無能な奴が嫌いだ。口をききたいとも思わない。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Student Council 《生徒会》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card4586-large.jpg"
+    },
+    {
+        "name": "ベベ\nBebe",
+        "code": "P3/S01-08T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Fan 《扇子》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "08T",
+        "image": "https://images.littleakiba.com/tcg/card4838-large.jpg"
+    },
+    {
+        "name": "桐条 武治",
+        "code": "P3/S01-090",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "左様、全ては大人の･･･我々の罪だ。",
+        "ability": [
+            "【A】 ［① Place this card into Waiting Room］ When your other Character is placed into Waiting Room from Stage, you may pay the cost. If you did, return that card to Hand."
+        ],
+        "attributes": [
+            "Will 《遺言》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card4587-large.jpg"
+    },
+    {
+        "name": "岳羽 ゆかり",
+        "code": "P3/S01-091",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "でもさ･･･この”浴衣”って、\n何て言うか･･･だいぶ無防備な服だよね。",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)",
+            "【S】［② REST this card］ Return this card to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card4588-large.jpg"
+    },
+    {
+        "name": "美鶴＆アルテミシア",
+        "code": "P3/S01-092",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "今はもう護るだけの戦いじゃない！",
+        "ability": [
+            "【A】 ［①］ When this card is played on Stage, you may pay the cost. If you did, choose 1 of your opponent's Character, move it to another slot with no Character in it.",
+            "【A】 When this card attacks, if 「誓い合った約束」 is in the Climax Slot, draw 1 card."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card4589-large.jpg"
+    },
+    {
+        "name": "ベルベットルーム\nVelvet Room",
+        "code": "P3/S01-093",
+        "rarity": "R",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ここは夢と現実、精神と物質の狭間にある場所･･･",
+        "ability": [
+            "Draw 1 card."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card4590-large.jpg"
+    },
+    {
+        "name": "ジャックブラザーズ\nJack Brothers",
+        "code": "P3/S01-094",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "4",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ヒーホー！　俺たちジャックブラザーズ！",
+        "ability": [
+            "● Choose 1 of your opponent's Character, REST it."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card4591-large.jpg"
+    },
+    {
+        "name": "処刑\nExecution",
+        "code": "P3/S01-095",
+        "rarity": "U",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "8",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "しょ、処刑するっ！",
+        "ability": [
+            "Return all cards from your Clock to Hand. Place this card into Memory."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card4592-large.jpg"
+    },
+    {
+        "name": "青ひげファーマシー",
+        "code": "P3/S01-096",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "新しい商品を入荷したぞ！　たっぷり買っていけ！",
+        "ability": [
+            "● Choose 1 of your Character, during that turn, it gains the following ability. 『【A】 When this card is placed into Waiting Room from Stage, you may place this card in its previous slot in REST.』"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card4593-large.jpg"
+    },
+    {
+        "name": "シャッフルタイム\nShuffle Time",
+        "code": "P3/S01-097",
+        "rarity": "C",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "Place all of your opponent's Character into Memory. Shuffle those Character faced down, place each card on Stage in separate slot faced down. Face up those Character."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card4594-large.jpg"
+    },
+    {
+        "name": "最強なる者",
+        "code": "P3/S01-098",
+        "rarity": "CR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ドロー！　ペルソナカード！！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card4595-large.jpg"
+    },
+    {
+        "name": "誓い合った約束",
+        "code": "P3/S01-099",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ゆかり、来てくれるか･･･一緒に。",
+        "ability": [
+            "【C】 All your Characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card4596-large.jpg"
+    },
+    {
+        "name": "舞子",
+        "code": "P3/S01-09T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 During your turn, all your other Characters get +500 Power."
+        ],
+        "attributes": [
+            "Knapsack 《ランドセル》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "09T",
+        "image": "https://images.littleakiba.com/tcg/card4839-large.jpg"
+    },
+    {
+        "name": "父の遺志",
+        "code": "P3/S01-100",
+        "rarity": "CC",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私、なんとかしてみるよ。それでいいよね、父さん･･･",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card4597-large.jpg"
+    },
+    {
+        "name": "“死神”タナトス",
+        "code": "P3/S01-101",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "「それは”ペルソナ”という力･･･。もう1つの貴方自身なのです」",
+        "ability": [
+            "【C】 All your Characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card4605-large.jpg"
+    },
+    {
+        "name": "“死神”タナトス",
+        "code": "P3/S01-101P",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それは”ペルソナ”という力･･･。もう1つの貴方自身なのです",
+        "ability": [
+            "【C】 All your Characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "101P",
+        "image": "https://images.littleakiba.com/tcg/card4606-large.jpg"
+    },
+    {
+        "name": "雪に戯れる慎と洵",
+        "code": "P3/S01-102",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "「兄ちゃん、またこうやって並んで帰ろうね」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Honest Person 《正直者》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card4608-large.jpg"
+    },
+    {
+        "name": "兄弟の絆",
+        "code": "P3/S01-103",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "生き方は違えど、想いはひとつ。",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card4609-large.jpg"
+    },
+    {
+        "name": "主人公＆ゆかり",
+        "code": "P3/S01-104",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "やるしか･･･ないんだよね。",
+        "ability": [
+            "【S】［② REST this card］ Draw 1 card."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card4610-large.jpg"
+    },
+    {
+        "name": "機械の姉妹",
+        "code": "P3/S01-105",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "安心して･･･わたしがいつでも、そばで守るから･･･",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card4611-large.jpg"
+    },
+    {
+        "name": "慎＆真田",
+        "code": "P3/S01-106",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "慎「兄貴･･･そこをどいてくれっ！！」",
+        "ability": [
+            "【S】 ［③］ Choose 1 of your opponent's Character with Level 1 or lower in the Front Row, return it to Hand."
+        ],
+        "attributes": [
+            "Glove 《手袋》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card4612-large.jpg"
+    },
+    {
+        "name": "諒＆真田",
+        "code": "P3/S01-107",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "諒「終わらせる。今度こそ、本当に」",
+        "ability": [
+            "【S】 ［④］ Choose 1 of your opponent's Character with Level 1 or lower in the Front Row, place it on top of the Deck."
+        ],
+        "attributes": [
+            "Glove 《手袋》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card4613-large.jpg"
+    },
+    {
+        "name": "守本 叶鳴",
+        "code": "P3/S01-108",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "神郷君の目に私は、どんな風に映っていますか？",
+        "ability": [
+            "【A】［Place this card into Waiting Room］ When another of your Character is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous position in REST."
+        ],
+        "attributes": [
+            "Doll 《人形》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card4614-large.jpg"
+    },
+    {
+        "name": "洵＆結祈",
+        "code": "P3/S01-109",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "洵「諒兄ちゃんにとって、僕たちは一番重い十字架」",
+        "ability": [
+            "【S】 ［① REST this card］ Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Will 《遺言》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card4615-large.jpg"
+    },
+    {
+        "name": "天田＆ネメシス",
+        "code": "P3/S01-10T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "10T",
+        "image": "https://images.littleakiba.com/tcg/card4840-large.jpg"
+    },
+    {
+        "name": "決意の美鶴",
+        "code": "P3/S01-110",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お父様を守るためなら･･･",
+        "ability": [
+            "【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for　up to 1 card with 「美鶴」 in its name and show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Love 《愛》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card4616-large.jpg"
+    },
+    {
+        "name": "主人公＆タナトス",
+        "code": "P3/S01-11T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "",
+        "ability": [
+            "【A】 When this card attacks, if 「最後の選択」 is in the Climax Slot, choose 1 of your opponent's Character, you may return it to Hand.",
+            "【S】［①］ During that turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "11T",
+        "image": "https://images.littleakiba.com/tcg/card4841-large.jpg"
+    },
+    {
+        "name": "真宵堂",
+        "code": "P3/S01-12T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "● Choose 1 of your Character, during that turn, it gets +3000 Power and +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "12T",
+        "image": "https://images.littleakiba.com/tcg/card4842-large.jpg"
+    },
+    {
+        "name": "復讐の終わり",
+        "code": "P3/S01-13T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "13T",
+        "image": "https://images.littleakiba.com/tcg/card4843-large.jpg"
+    },
+    {
+        "name": "最後の選択",
+        "code": "P3/S01-14T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "14T",
+        "image": "https://images.littleakiba.com/tcg/card4844-large.jpg"
+    },
+    {
+        "name": "美鶴＆ペンテシレア",
+        "code": "P3/S01-15T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 During your opponent's turn, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "15T",
+        "image": "https://images.littleakiba.com/tcg/card4845-large.jpg"
+    },
+    {
+        "name": "伏見 千尋",
+        "code": "P3/S01-16T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】 When your other 《生徒会》 Character is played on Stage, look at the top card of your Deck, place it on top or at the bottom of your Deck.",
+            "【S】［② REST this card］ Draw 1 card."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "16T",
+        "image": "https://images.littleakiba.com/tcg/card4846-large.jpg"
+    },
+    {
+        "name": "小田桐 秀利",
+        "code": "P3/S01-17T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Student Council 《生徒会》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "17T",
+        "image": "https://images.littleakiba.com/tcg/card4847-large.jpg"
+    },
+    {
+        "name": "桐条 武治",
+        "code": "P3/S01-18T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】 ［① Place this card into Waiting Room］ When your other Character is placed into Waiting Room from Stage, you may pay the cost. If you did, return that card to Hand."
+        ],
+        "attributes": [
+            "Will 《遺言》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "18T",
+        "image": "https://images.littleakiba.com/tcg/card4848-large.jpg"
+    },
+    {
+        "name": "美鶴＆アルテミシア",
+        "code": "P3/S01-19T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】 ［①］ When this card is played on Stage, you may pay the cost. If you did, choose 1 of your opponent's Character, move it to another slot with no character on it.",
+            "【A】 When this card attacks if 「誓い合った約束」 is in the Climax Slot, draw 1 card."
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "God 《神》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "19T",
+        "image": "https://images.littleakiba.com/tcg/card4849-large.jpg"
+    },
+    {
+        "name": "誓い合った約束",
+        "code": "P3/S01-20T",
+        "rarity": "TD",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】 All your Characters get ＋2 Soul."
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "20T",
+        "image": "https://images.littleakiba.com/tcg/card4850-large.jpg"
+    }
+]

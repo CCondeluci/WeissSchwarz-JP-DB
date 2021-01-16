@@ -1,0 +1,1041 @@
+[
+    {
+        "name": "パーティーへの参加 アスナ",
+        "code": "SAO/SE26-01",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "やるだけやってみましょうか",
+        "ability": [
+            "【C】 If you have other Character with 「ユウキ」 or 「スリーピング・ナイツ」 in its name, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card22513-large.jpg"
+    },
+    {
+        "name": "姉の面影 アスナ",
+        "code": "SAO/SE26-02",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "なに？　わたしに渡すものって",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】 RECOLLECTION [① Place 1 card into Waiting Room from Hand］ This ability can only be activated once each turn. When the damage dealt by this card is cancelled, if 「《剣技伝承》ユウキ」 is in your Memory, you may pay the cost. If you did, deal 1 Damage to your opponent. （Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card22514-large.jpg"
+    },
+    {
+        "name": "憩いの散策 アスナ",
+        "code": "SAO/SE26-03",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ありがとう、ユイちゃん",
+        "ability": [
+            "【C】 During your turn, your other Character in the center slot of Front Row gets +500 Power.",
+            "【A】 BOND／「無邪気で奔放 ユウキ」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「無邪気で奔放 ユウキ」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card22623-large.jpg"
+    },
+    {
+        "name": "幼い頃の明日奈",
+        "code": "SAO/SE26-04",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 At the beginning of your Encore Step, place the top card of your Deck into Waiting Room. If that card is Level 0 or lower, place this card into Waiting Room. （Climax is treated as Level 0）"
+        ],
+        "attributes": [
+            "Net 《ネット》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card22624-large.jpg"
+    },
+    {
+        "name": "《バーサクヒーラー》アスナ",
+        "code": "SAO/SE26-05",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "はあっ！",
+        "ability": [
+            "【C】 For each of your other 《アバター》 or 《ネット》 Character, this card gets +500 Power.",
+            "【A】 When this card attacks, if 「《絶剣》の最期」 is in the Climax Slot, during that turn, this card gets +4000 Power and +1 Soul."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card22517-large.jpg"
+    },
+    {
+        "name": "《絶剣》の最期",
+        "code": "SAO/SE26-06",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)"
+        ],
+        "attributes": [],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card22518-large.jpg"
+    },
+    {
+        "name": "不敗の超剣士 ユウキ",
+        "code": "SAO/SE26-07",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place the top card of your opponent's Clock into Waiting Room. If you did, place that Character into Clock.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card22627-large.jpg"
+    },
+    {
+        "name": "《剣技伝承》ユウキ",
+        "code": "SAO/SE26-08",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "受け取って。ボクのＯＳＳ",
+        "ability": [
+            "【C】 All your other 《アバター》 or 《ネット》 Characters get +500 Power.",
+            "【A】 [④ Place 1 card into Waiting Room from Hand, place this card into Memory］ When your other 「姉の面影 アスナ」 attacks, you may pay the cost. If you did, place the top 11 cards of your Deck into Waiting Room, deal X damage to your opponent. X is equals to the total number of Trigger Icon among those cards. （Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card22520-large.jpg"
+    },
+    {
+        "name": "《スリーピング・ナイツ》タルケン＆ノリ＆ジュン",
+        "code": "SAO/SE26-09",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "アスナ「皆の初めての顔合わせを祝して――」",
+        "ability": [
+            "【C】 Your other Character with 「ユウキ」 or 「アスナ」 in its name in the center slot of Front Row gets +1 Level, +1000 Power.",
+            "【S】 CONCENTRATION [① REST 2 of your Characters］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《アバター》 or 《ネット》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card22521-large.jpg"
+    },
+    {
+        "name": "《絶剣》ユウキ",
+        "code": "SAO/SE26-10",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets +X Power. X is equals to the number of your 《アバター》 or 《ネット》 Character x500.",
+            "【A】 [① Place 1 card into Waiting Room from Hand］ When this card attacks, if 「《マザーズ・ロザリオ》」 is in the Climax Slot, you may pay the cost. If you did, search your Deck for up to 2 《アバター》 or 《ネット》 Characters and show them to your opponent, add them to Hand. After that, shuffle your Deck, until the end of your opponent's turn, this card gets +1 Level."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card22630-large.jpg"
+    },
+    {
+        "name": "楽しかった記憶 ユウキ",
+        "code": "SAO/SE26-11",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《アバター》 or 《ネット》 Character, during that turn, this card gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, you may place that Character into Clock.』 （Return revealed card to its original position）",
+            "【A】 When this card attacks, all players place the top card of their Deck into Waiting Room. If the Level of your card placed into Waiting Room due to this effect is higher than your opponent's, you may place the top card of your Deck into Stock. （Climax is treated as Level 0）"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card22631-large.jpg"
+    },
+    {
+        "name": "ぴぴっときたユウキ",
+        "code": "SAO/SE26-12",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "お願いします、ボクたちに手を貸してください",
+        "ability": [
+            "【C】 All your other 「パーティーへの参加 アスナ」 get +500 Power and gain 『【A】 ENCORE ［Place 1 Character into Waiting Room from Hand］』.",
+            "【A】 BOND／「パーティーへの参加 アスナ」 ［①］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「パーティーへの参加 アスナ」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card22524-large.jpg"
+    },
+    {
+        "name": "《スリーピング・ナイツ》ユウキ",
+        "code": "SAO/SE26-13",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your other 《アバター》 or 《ネット》 Characters get +500 Power.",
+            "【S】 ［REST this card］ Choose 1 of your Character with 「アスナ」 or 「スリーピング・ナイツ」 in its name, during that turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card22633-large.jpg"
+    },
+    {
+        "name": "一斉攻撃 リーファ",
+        "code": "SAO/SE26-14",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "金色のほう、物理耐性高すぎる",
+        "ability": [
+            "【C】 If you have no other Character in the Front Row, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card22526-large.jpg"
+    },
+    {
+        "name": "タイムリミット リーファ",
+        "code": "SAO/SE26-15",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your other Characters get +500 Power.",
+            "【S】 [② REST this card］ Search your Deck for up to 1 《アバター》 or 《ネット》 Characters and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card22635-large.jpg"
+    },
+    {
+        "name": "《インプ》の少女 ユウキ",
+        "code": "SAO/SE26-16",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "お姉さん、やる？",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, look at the top card of your Deck, place it on top or at the bottom of the Deck.",
+            "【S】● ASSIST 1500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card22528-large.jpg"
+    },
+    {
+        "name": "無邪気で奔放 ユウキ",
+        "code": "SAO/SE26-17",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ぶいっ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +X Power. X is equals to that Character's Level x500.",
+            "【S】 [①］ Choose 1 of your 《アバター》 or 《ネット》 Character, during that turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card22637-large.jpg"
+    },
+    {
+        "name": "アスナ＆ユウキ",
+        "code": "SAO/SE26-18",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ボク、がんばって生きた……。ここで、生きたよ……",
+        "ability": [
+            "【C】 For each marker under this card, this card gets +1500 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, choose 1 《アバター》 or 《ネット》 Character from your Waiting Room, you may place it under this card faced down as a marker."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card22530-large.jpg"
+    },
+    {
+        "name": "《スリーピング・ナイツ》シウネー＆テッチ",
+        "code": "SAO/SE26-19",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "アスナ「――かんぱーい」",
+        "ability": [
+            "【C】 If you have 「パーティーへの参加 アスナ」 and 「《スリーピング・ナイツ》ユウキ」, this card in your Hand gets -1 Level.",
+            "【A】 When this card attacks, if 「Braves of 27th floor」 is in the Climax Slot, choose up to 1 《アバター》 or 《ネット》 Character from your Waiting Room, place it into Stock, until the end of your opponent's next turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card22639-large.jpg"
+    },
+    {
+        "name": "《マザーズ・ロザリオ》",
+        "code": "SAO/SE26-20",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card22640-large.jpg"
+    },
+    {
+        "name": "Braves of 27th floor",
+        "code": "SAO/SE26-21",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax Slot from Hand, choose up to 1 Green card from your Waiting Room, place it into Stock, during that turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card22533-large.jpg"
+    },
+    {
+        "name": "強気で気丈 リズベット",
+        "code": "SAO/SE26-22",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "どーんと当たって《砕く》だけよ",
+        "ability": [
+            "【C】 All your other 《アバター》 or 《ネット》 Characters get +500 Power.",
+            "【A】 [①］ When you use 『ACCELERATE』, you may pay the cost. If you did, choose 1 Character from your Waiting Room, add it to Hand."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card22642-large.jpg"
+    },
+    {
+        "name": "信頼の腕前 リズベット",
+        "code": "SAO/SE26-23",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "全武器フル回復！",
+        "ability": [
+            "【C】 For each of your other 《アバター》 or 《ネット》 Character, this card gets +500 Power.",
+            "【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, during that turn, this card gets +1 Level and gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, choose 1 《アバター》 or 《ネット》 Character, you may return it to Hand.』"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card22535-large.jpg"
+    },
+    {
+        "name": "不吉な眼光《死銃》",
+        "code": "SAO/SE26-24",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お前が、本物か、偽物か、これではっきりする",
+        "ability": [
+            "【S】 CONCENTRATION [①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 of your opponent's 《標的》 Character with Level 0 or lower, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card22536-large.jpg"
+    },
+    {
+        "name": "頭上にふわふわ シリカ",
+        "code": "SAO/SE26-25",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "はぁぁ",
+        "ability": [
+            "【A】 ［Place 1 card into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with 「シリカ」 or 「ピナ」 in its name, return it to Hand.",
+            "【A】 チェンジ [③ Place 1 card into Waiting Room from Hand, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「戦闘態勢 シリカ」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card22645-large.jpg"
+    },
+    {
+        "name": "戦闘態勢 シリカ",
+        "code": "SAO/SE26-26",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "はいっ！",
+        "ability": [
+            "【A】 ［Place 1 Character into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did not, place this card into Waiting Room.",
+            "【A】 When this card is placed on Stage from Waiting Room, if you have other Character with 「ピナ」 in its name, during that turn, this card gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, choose 1 《アバター》, 《ネット》 or 《竜》 Character from your Waiting Room, you may return it to Hand.』"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card22538-large.jpg"
+    },
+    {
+        "name": "《SAO生還者》キリト",
+        "code": "SAO/SE26-27",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "俺はあいつと、互いの命を奪い合って、本気で戦ったはずなんだ",
+        "ability": [
+            "【A】 ［Place this card into Waiting Room］ When your other Character is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous position in REST.",
+            "【S】 ［REST this card］ Choose 1 of your Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card22539-large.jpg"
+    },
+    {
+        "name": "パーティーの頭脳 ユイ",
+        "code": "SAO/SE26-28",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If your Hand is 6 or more, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Net 《ネット》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card22648-large.jpg"
+    },
+    {
+        "name": "聖剣獲得へ キリト",
+        "code": "SAO/SE26-29",
+        "rarity": "R",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "このお礼はいつか必ず、精神的に！",
+        "ability": [
+            "【C】 If your Waiting Room has 2 or less Climaxes, this card gets -1 Level in your Hand.",
+            "【C】 During your opponent's turn, for each of your other 《アバター》 or 《ネット》 Character, this card gets +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card22649-large.jpg"
+    },
+    {
+        "name": "ヤマネコ少女 シノン",
+        "code": "SAO/SE26-30",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《アバター》 or 《ネット》 Character, until the end of your opponent's next turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card22650-large.jpg"
+    },
+    {
+        "name": "多勢への挑戦 キリト",
+        "code": "SAO/SE26-31",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "悪いな、ここは通行止めだ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《アバター》 or 《ネット》 Character, during that turn, it gets +1000 Power.",
+            "【S】● ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card22543-large.jpg"
+    },
+    {
+        "name": "情報提供 ユイ",
+        "code": "SAO/SE26-32",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "別種のクエストが見つかったようなのです",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【A】 This ability can only be activated once each turn. When your other Character with 「キリト」 or 「アスナ」 in its name is placed on Stage from Hand, look at the top card of your Deck, place it on top or at the bottom of the Deck."
+        ],
+        "attributes": [
+            "Net 《ネット》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card22544-large.jpg"
+    },
+    {
+        "name": "目前に迫る“死” キリト＆シノン",
+        "code": "SAO/SE26-33",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "キリト「決して君を撃たせやしない」",
+        "ability": [
+            "【C】 SUPPORT All your Characters with Level 3 or higher in front of this card get +2000 Power.",
+            "【A】 When this card is placed on Stage from Hand, draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card22653-large.jpg"
+    },
+    {
+        "name": "《ケットシー》の弓使い シノン",
+        "code": "SAO/SE26-34",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "どういたしまして",
+        "ability": [
+            "【C】 During your opponent's turn, all your other Characters get +1500 Power.",
+            "【A】 ［Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look up to the top 4 cards of your Deck, choose up to 1 《アバター》 or 《ネット》 Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card22546-large.jpg"
+    },
+    {
+        "name": "《剣技連携》キリト",
+        "code": "SAO/SE26-35",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ゴー！",
+        "ability": [
+            "【A】 [①］ When 「《エクスキャリバー》獲得クエスト」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, all your Characters, during that turn, get +3000 Power.",
+            "【A】 ［Shuffle your Deck］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, reveal the top card of your Deck. If that card is 「《剣技連携》キリト」, STAND this card. （Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card22547-large.jpg"
+    },
+    {
+        "name": "《エクスキャリバー》獲得クエスト",
+        "code": "SAO/SE26-36",
+        "rarity": "C",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "みんな、今日は急な呼び出しに応じてくれてありがとう！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card22548-large.jpg"
+    },
+    {
+        "name": "水着のシノン",
+        "code": "SAO/SE26-P01",
+        "rarity": "PR",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ほら、これあげる",
+        "ability": [
+            "【C】 During your opponent's turn, your other Character in the center slot of Front Row gets +500 Power.",
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Avatar 《アバター》",
+            "Weapon 《武器》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card22760-large.jpg"
+    },
+    {
+        "name": "夏祭り 明日奈",
+        "code": "SAO/SE26-P02",
+        "rarity": "PR",
+        "expansion": "Sword Art Online II Vol.2 EB",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 ［Return 2 Characters to Deck from your Waiting Room, shuffle your Deck afterwards］ When this card attacks, you may pay the cost. If you did, during that turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Net 《ネット》",
+            "Wafuku 《和服》"
+        ],
+        "set": "SAO",
+        "release": "SE26",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card22761-large.jpg"
+    }
+]

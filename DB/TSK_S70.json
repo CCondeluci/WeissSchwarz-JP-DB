@@ -1,0 +1,3413 @@
+[
+    {
+        "name": "戦いの後 リムル",
+        "code": "TSK/S70-001",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】[Place 1 card from your Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 opponent's Character with Level 0 or lower, return it to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card55054-large.jpg"
+    },
+    {
+        "name": "継ぐ者 リムル",
+        "code": "TSK/S70-002",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or by 「受け継いだ想い リムル」's 【S】 effect, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【A】【CXCOMBO】[(2)] When this card attacks, if 「メグルモノ」 is in your Climax Slot, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)",
+            "【S】RECOLLECTION [(1) REST 1 of your Character] If 「“爆炎の支配者”シズ」 is in your Memory, choose up to 1 「継ぐ者 リムル」 or 「“捕食者”リムル」 from your Hand, place it into any slot on Stage, place all Marker from this card to that Character face-down in any order."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card55055-large.jpg"
+    },
+    {
+        "name": "雪辱を果たすシオン",
+        "code": "TSK/S70-003",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if all your Character are 《魔大陸》, this card gets +2000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Secretary 《秘書》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card55056-large.jpg"
+    },
+    {
+        "name": "居合の一撃 ハクロウ",
+        "code": "TSK/S70-004",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character at Front Row gets -500 Power.",
+            "【A】When this card attacks, choose 1 of your other 《魔大陸》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《魔大陸》 Character x500."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card55057-large.jpg"
+    },
+    {
+        "name": "尊敬の念 エレン",
+        "code": "TSK/S70-005",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Adventurer 《冒険者》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card55058-large.jpg"
+    },
+    {
+        "name": "“大森林の管理者”トレイニー",
+        "code": "TSK/S70-006",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Plant 《植物》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card55059-large.jpg"
+    },
+    {
+        "name": "“武士”シオン",
+        "code": "TSK/S70-007",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Secretary 《秘書》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card55060-large.jpg"
+    },
+    {
+        "name": "一騎当千 シオン",
+        "code": "TSK/S70-008",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《魔大陸》 Character x500.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「圧倒的な一撃」 is in your Climax Slot, search your Deck for up to 1 《魔大陸》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Secretary 《秘書》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card55061-large.jpg"
+    },
+    {
+        "name": "共に歩む道 リムル",
+        "code": "TSK/S70-009",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your other Character's battle opponent becomes REVERSE, choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "【S】[REST this card] Choose 1 opponent's Character with Level higher than opponent's Level at Back Row. That Character cannot STAND during opponent's next Standby Phase."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card55062-large.jpg"
+    },
+    {
+        "name": "謎の悪魔 クロ",
+        "code": "TSK/S70-010",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《魔大陸》 Character, this card gets +1000 Power.",
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon 《悪魔》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card55063-large.jpg"
+    },
+    {
+        "name": "“豚頭魔王”ゲルド",
+        "code": "TSK/S70-011",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, deal X Damage to opponent. X is equal to the total number of Soul Trigger Icon among those cards. (Damage can be cancelled)",
+            "【A】【CXCOMBO】When 「餓鬼之行進演舞」 is placed into your Climax Slot, if this card is at Front Row, choose up to 1 opponent's Character, return it to Hand, choose up to 1 《魔大陸》 Character from your Waiting Room, place it into Stock.",
+            "【A】[Place 1 of your REVERSE Character with 「豚頭」 in its name from Stage into Waiting Room] At the beginning of Encore Step, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card55064-large.jpg"
+    },
+    {
+        "name": "“豚頭帝”ゲルド",
+        "code": "TSK/S70-012",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If this card has 4 or more Marker, this card cannot STAND during your Standby Phase.",
+            "【S】[REST this card] Look at the top card of your Deck, place it under this card face-down as Marker, choose 1 of your 《魔大陸》 Character, during this turn, it gets +1500 Power.",
+            "【S】[(1) Place 4 Marker from this card into Waiting Room, place this card into Waiting Room] If your Level is 2 or higher, choose up to 1 「“豚頭魔王”ゲルド」 from your Hand, place it into this card's previous slot on Stage.",
+            "【S】[Place 1 of your other 「狡猾な魔人 ゲルミュッド」 from Stage under this card face-down as Marker] STAND this card, choose up to 1 《魔大陸》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card55065-large.jpg"
+    },
+    {
+        "name": "精霊の守護像",
+        "code": "TSK/S70-013",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, this card gets +4000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card55066-large.jpg"
+    },
+    {
+        "name": "“魔王”ラミリス",
+        "code": "TSK/S70-014",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《魔大陸》 Character with Cost 0 or lower from your Waiting Room, place it into any slot on Stage, at the end of turn, send that Character to Memory."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card55067-large.jpg"
+    },
+    {
+        "name": "“指南役”ハクロウ",
+        "code": "TSK/S70-015",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card55068-large.jpg"
+    },
+    {
+        "name": "師匠 ハクロウ",
+        "code": "TSK/S70-016",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《魔大陸》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card55069-large.jpg"
+    },
+    {
+        "name": "“英雄王”ガゼル",
+        "code": "TSK/S70-017",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 3 cards from your top Deck, place them on top Deck in any order, choose up to 1 opponent's Character, return it to Hand.",
+            "【S】[(1)] Choose 1 of your 《魔大陸》 Character, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "King 《王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card55070-large.jpg"
+    },
+    {
+        "name": "狡猾な魔人 ゲルミュッド",
+        "code": "TSK/S70-018",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】At the beginning of your Attack Phase, choose 1 of your Character with 「豚頭」 in its name, during this turn, it gets +X Power. X is equal to the number of Character that has the same name as that card x500.",
+            "【S】[(2) Place 1 Character with 「豚頭」 in its name from Hand into Waiting Room, REST this card] Choose 1 Character from your Waiting Room, return it to Hand, choose 1 Character that has the same name as that card returned to Hand from Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Hat 《帽子》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card55071-large.jpg"
+    },
+    {
+        "name": "豚頭族",
+        "code": "TSK/S70-019",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】This card cannot Side Attack.",
+            "【C】For each of your other 「豚頭将軍」 or 「豚頭隊」 at Front Row, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card55072-large.jpg"
+    },
+    {
+        "name": "鍛冶職人 カイジン",
+        "code": "TSK/S70-020",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【C】If you have no other Character, this card gets +1 Level and +1500 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Blacksmith 《鍛冶》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card55073-large.jpg"
+    },
+    {
+        "name": "“自由組合総帥”ユウキ",
+        "code": "TSK/S70-021",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card55074-large.jpg"
+    },
+    {
+        "name": "豚頭将軍",
+        "code": "TSK/S70-022",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】This card cannot Side Attack.",
+            "【C】For each of your other 「豚頭将軍」 or 「豚頭隊」 at Front Row, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card55075-large.jpg"
+    },
+    {
+        "name": "トラブルメーカー カバル＆エレン＆ギド",
+        "code": "TSK/S70-023",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other Character gains the following Ability. 『【C】This card cannot Side Attack.』",
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character with Cost 1 or higher, place it into an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Adventurer 《冒険者》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card55076-large.jpg"
+    },
+    {
+        "name": "豚頭魔王の遺志を継ぐ者 ゲルド",
+        "code": "TSK/S70-024",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 「豚頭魔王の遺志を継ぐ者 ゲルド」 from your Waiting Room, return it to Hand.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Diligent 《真面目》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card55077-large.jpg"
+    },
+    {
+        "name": "熾烈な争い シオン",
+        "code": "TSK/S70-025",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If this card has Marker, this card gets ＋6500 Power and ＋1 Soul.",
+            "【A】 When this card is placed on Stage from Hand, you may choose 1 「どっちを選ぶ？ リムル」 from your Waiting Room, place it under this card face-up as Marker."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Secretary 《秘書》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card55078-large.jpg"
+    },
+    {
+        "name": "シオンの手料理",
+        "code": "TSK/S70-026",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "If your Waiting Room has 1 or less Climax, you cannot play this card from Hand.",
+            "During this turn, all opponent's Character gets -1000 Power."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card55079-large.jpg"
+    },
+    {
+        "name": "テンペスト製の武器",
+        "code": "TSK/S70-027",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【COUNTER】Choose 1 of your Character, during this turn, it gets +X Power. X is equal to the number of your 《魔大陸》 Character x1000."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card55080-large.jpg"
+    },
+    {
+        "name": "メグルモノ",
+        "code": "TSK/S70-028",
+        "rarity": "CR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card55081-large.jpg"
+    },
+    {
+        "name": "圧倒的な一撃",
+        "code": "TSK/S70-029",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card55082-large.jpg"
+    },
+    {
+        "name": "餓鬼之行進演舞",
+        "code": "TSK/S70-030",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card55083-large.jpg"
+    },
+    {
+        "name": "一族の姫 シュナ",
+        "code": "TSK/S70-031",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Miko 《巫女》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card55084-large.jpg"
+    },
+    {
+        "name": "中身は子供？ ミリム",
+        "code": "TSK/S70-032",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(3)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card55085-large.jpg"
+    },
+    {
+        "name": "“竜魔人”ミリム",
+        "code": "TSK/S70-033",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, you may deal 1 Damage to opponent. (Damage can be cancelled. Return revealed card to its original position)",
+            "【A】When your other 《魔大陸》 Character attacks, during this turn, this card gets +1000 Power.",
+            "【A】[(3)] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card55086-large.jpg"
+    },
+    {
+        "name": "鬼人の力 ベニマル",
+        "code": "TSK/S70-034",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「新たなる力」 is in your Climax Slot, deal 4 Damage to opponent, choose 1 of your Character, during this turn, it gets +1 Soul. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card55087-large.jpg"
+    },
+    {
+        "name": "天からの一撃 リムル",
+        "code": "TSK/S70-035",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】[(1) Place this card into Clock] When this card becomes REVERSE, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card55088-large.jpg"
+    },
+    {
+        "name": "戦意喪失 ミリム",
+        "code": "TSK/S70-036",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, opponent may place 2 cards from his/her top Stock into Waiting Room. If he/she did, during this turn, this card cannot Front Attack."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card55089-large.jpg"
+    },
+    {
+        "name": "共に歩む道 シズ",
+        "code": "TSK/S70-037",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 《魔大陸》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card55090-large.jpg"
+    },
+    {
+        "name": "逆鱗 ミリム",
+        "code": "TSK/S70-038",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「挨拶がわりに」 is in your Climax Slot, if your Stock has 5 or less cards, look at up to 4 cards from your top Deck, choose up to 1 《魔大陸》 Character, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card55091-large.jpg"
+    },
+    {
+        "name": "睨みを利かせるリムル",
+        "code": "TSK/S70-039",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 2 cards from Hand into Waiting Room] When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card55092-large.jpg"
+    },
+    {
+        "name": "みんなの為に シュナ",
+        "code": "TSK/S70-040",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 《魔大陸》 Character from your Waiting Room, return it to Hand.",
+            "【S】[REST this card] Look at up to 2 cards from your top Deck, place them on top Deck in any order."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Miko 《巫女》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card55093-large.jpg"
+    },
+    {
+        "name": "追撃 ミリム",
+        "code": "TSK/S70-041",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand. you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(5) Place 3 《魔大陸》 Character from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. At the end of battle when this card attacks, if 「魔王の力」 is in your Climax Slot, you may pay the cost. If you did, deal 2 Damage to opponent, STAND this card. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card55094-large.jpg"
+    },
+    {
+        "name": "日々の鍛錬 ベニマル",
+        "code": "TSK/S70-042",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【A】When your other Character becomes REVERSE, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card55095-large.jpg"
+    },
+    {
+        "name": "“刀鍛冶”クロベエ",
+        "code": "TSK/S70-043",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Blacksmith 《鍛冶》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card55096-large.jpg"
+    },
+    {
+        "name": "みんなの先生 リムル",
+        "code": "TSK/S70-044",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】【CXCOMBO】When 「共に見たい景色」 is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1 Soul.",
+            "【S】[(2) REST this card] Choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Teacher 《先生》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card55097-large.jpg"
+    },
+    {
+        "name": "研ぎ澄まされた感覚 クロベエ",
+        "code": "TSK/S70-045",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you play Event, during this turn, this card gets +2000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Blacksmith 《鍛冶》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card55098-large.jpg"
+    },
+    {
+        "name": "“巫女姫”シュナ",
+        "code": "TSK/S70-046",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the Level of that revealed card. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Miko 《巫女》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card55099-large.jpg"
+    },
+    {
+        "name": "イフリート顕現 シズ",
+        "code": "TSK/S70-047",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may place opponent's top card of his/her Deck into Waiting Room. If you did, choose 1 card from opponent's Waiting Room, place it on top Deck.",
+            "【A】CHANGE [(1) Place 2 《魔大陸》 Character from Hand into Waiting Room, return this card to Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「“炎の最上位精霊”イフリート」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card55100-large.jpg"
+    },
+    {
+        "name": "“炎の最上位精霊”イフリート",
+        "code": "TSK/S70-048",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(2) Place 2 《魔大陸》 Character from Hand into Waiting Room, choose 1 card from your Clock, place it into Level Slot] When this card attacks, you may pay the cost. If you did, perform the following Action 3 times. 『Deal 4 Damage to opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card55101-large.jpg"
+    },
+    {
+        "name": "強い意志 ベニマル",
+        "code": "TSK/S70-049",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. For each Soul Trigger Icon on that card, during this turn, all opponent's Character gets -1000 Power. (Return revealed card to its original position)",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 card from your Hand, place it into Stock."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card55102-large.jpg"
+    },
+    {
+        "name": "満面の笑み ミリム",
+        "code": "TSK/S70-050",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《魔大陸》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card55103-large.jpg"
+    },
+    {
+        "name": "どっちを選ぶ？ リムル",
+        "code": "TSK/S70-051",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card55104-large.jpg"
+    },
+    {
+        "name": "温泉で一息 ミリム",
+        "code": "TSK/S70-052",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +50 Soul."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card55105-large.jpg"
+    },
+    {
+        "name": "“黒稲妻”リムル",
+        "code": "TSK/S70-053",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 《魔大陸》 Character, this card gets +500 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Thunder 《雷》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card55106-large.jpg"
+    },
+    {
+        "name": "一緒にお世話 シズ",
+        "code": "TSK/S70-054",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《魔大陸》 Character, during this turn, it gets +X Power. X is equal to the number of your 《魔大陸》 Character x500.",
+            "【A】【CXCOMBO】[(1)] When this card's battle opponent becomes REVERSE, if 「目覚めし衝動」 is in your Climax Slot, you may pay the cost. If you did, choose 1 card from opponent's Waiting Room, send it to Memory."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card55107-large.jpg"
+    },
+    {
+        "name": "熾烈な争い シュナ",
+        "code": "TSK/S70-055",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If this card has Marker, all your other 《魔大陸》 Character gets ＋Ｘ Power. Ｘ is equal to that Character's Level ×500.",
+            "【A】 When this card is placed on Stage from Hand, you may choose 1 「どっちを選ぶ？ リムル」 from your Waiting Room, place it under this card face-up as Marker."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Miko 《巫女》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card55108-large.jpg"
+    },
+    {
+        "name": "“侍大将”ベニマル",
+        "code": "TSK/S70-056",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《魔大陸》 Character, this card gets +3000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card55109-large.jpg"
+    },
+    {
+        "name": "マブダチ宣言！",
+        "code": "TSK/S70-057",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Look at up to 4 cards from your top Deck, choose up to 1 Yellow Character and up to 1 Red Character and up to 1 Blue Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card55110-large.jpg"
+    },
+    {
+        "name": "炎化爆獄陣",
+        "code": "TSK/S70-058",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Deal 4 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card55111-large.jpg"
+    },
+    {
+        "name": "挨拶がわりに",
+        "code": "TSK/S70-059",
+        "rarity": "CR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card55112-large.jpg"
+    },
+    {
+        "name": "新たなる力",
+        "code": "TSK/S70-060",
+        "rarity": "CR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card55113-large.jpg"
+    },
+    {
+        "name": "魔王の力",
+        "code": "TSK/S70-061",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card55114-large.jpg"
+    },
+    {
+        "name": "共に見たい景色",
+        "code": "TSK/S70-062",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card55115-large.jpg"
+    },
+    {
+        "name": "目覚めし衝動",
+        "code": "TSK/S70-063",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Red card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card55116-large.jpg"
+    },
+    {
+        "name": "魔物達のあるじ リムル",
+        "code": "TSK/S70-064",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If you have 2 or more other 《魔大陸》 Character, this card gets +1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card55117-large.jpg"
+    },
+    {
+        "name": "“爆炎の支配者”シズ",
+        "code": "TSK/S70-065",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When this card attacks, if 「伝説の英雄」 is in your Climax Slot, place 2 cards from your top Deck into Waiting Room, choose up to 1 《魔大陸》 Character with Level X or lower from your Waiting Room, return it to Hand, during this turn, this card gets +2000 Power. X is equal to the total Level of those cards that placed into Waiting Room by this effect. (Climax is considered Level 0)",
+            "【A】When this card becomes REVERSE, reveal the top card of your Deck. If that card is a 《魔大陸》 Character or 「抗魔の仮面」, you may send this card to Memory. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card55118-large.jpg"
+    },
+    {
+        "name": "日本での記憶 シズ",
+        "code": "TSK/S70-066",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】RECOLLECTION If your Memory has 2 or more 「“爆炎の支配者”シズ」, this card gets -1 Level in your Hand.",
+            "【C】If you have 2 or more other 《魔大陸》 Character, this card gets +1500 Power, gains 『【A】ENCORE [Place 1 《魔大陸》 Character from Hand into Waiting Room]』.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card55119-large.jpg"
+    },
+    {
+        "name": "フィルトウッド王国での一件 シズ",
+        "code": "TSK/S70-067",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, move this card to an empty slot at Back Row.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《魔大陸》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card55120-large.jpg"
+    },
+    {
+        "name": "一心同体のパートナー リムル",
+        "code": "TSK/S70-068",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】At the beginning of your Main Phase, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《魔大陸》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card55121-large.jpg"
+    },
+    {
+        "name": "仲間を守る力 リムル",
+        "code": "TSK/S70-069",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】The Character facing this card cannot move to other slot.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《魔大陸》 Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card55122-large.jpg"
+    },
+    {
+        "name": "“威圧”ランガ",
+        "code": "TSK/S70-070",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《魔大陸》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Shadow 《影》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card55123-large.jpg"
+    },
+    {
+        "name": "受け継いだ想い リムル",
+        "code": "TSK/S70-071",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】［Place 1 of your other 「最後の旅 シズ」 from Stage under this card face-down as Marker］ If your Level is 3 or higher, choose up to 1 《魔大陸》 Character from your Waiting Room, place it into Stock, perform 【Unique Skill 『捕食者』】.",
+            "【REPLAY】 【Unique Skill 『捕食者』】 Choose up to 1 「継ぐ者 リムル」 from your Waiting Room, place it into this card's slot on Stage, place all Marker under this card and this card under that 「継ぐ者 リムル」 face-down in any order as Marker."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card55124-large.jpg"
+    },
+    {
+        "name": "秘策 リムル",
+        "code": "TSK/S70-072",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When this card attacks, if 「窮余の一策」 is in your Climax Slot, you may deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card55125-large.jpg"
+    },
+    {
+        "name": "静かなる怒り ソウエイ",
+        "code": "TSK/S70-073",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.",
+            "【A】When this card attacks, choose 1 of your 《魔大陸》 Character, during this turn, it gets +X Power. X is equal to the number of your 《魔大陸》 Character x500."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Ninja 《忍》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card55126-large.jpg"
+    },
+    {
+        "name": "“自動戦闘状態”リムル",
+        "code": "TSK/S70-074",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ユニークスキル『大賢者』」 from your Waiting Room, return it to Hand.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card55127-large.jpg"
+    },
+    {
+        "name": "最後の旅 シズ",
+        "code": "TSK/S70-075",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［(1) Place 1 Climax from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.",
+            "【A】 When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card55128-large.jpg"
+    },
+    {
+        "name": "聞き分けの良いリグル",
+        "code": "TSK/S70-076",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Place 1 card from Hand into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your other 《魔大陸》 Character."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card55129-large.jpg"
+    },
+    {
+        "name": "独り占め クロエ",
+        "code": "TSK/S70-077",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】[Place 1 《魔大陸》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「抗魔の仮面」and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card55130-large.jpg"
+    },
+    {
+        "name": "ポーション生成！リムル",
+        "code": "TSK/S70-078",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】[(2) REST this card] Place the top card of your Clock into Waiting Room.",
+            "【S】[REST this card] If this card has no Marker, choose 1 《魔大陸》 Character from your Waiting Room, place it under this card face-down as Marker.",
+            "【S】[REST this card] Place 1 Marker from this card into Stock."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Animal 《動物》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card55131-large.jpg"
+    },
+    {
+        "name": "“隠密”ソウエイ",
+        "code": "TSK/S70-079",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CXCOMBO】When opponent Level up, if 「張り巡らされた罠」 is in your Climax Slot, if this card is at Front Row, look at up to 2 cards from your top Deck, choose up to 2 《魔大陸》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Ninja 《忍》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card55132-large.jpg"
+    },
+    {
+        "name": "“粘鋼糸”リムル",
+        "code": "TSK/S70-080",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character with Level higher than opponent's Level at Back Row. That Character cannot STAND during opponent's next Standby Phase.",
+            "【A】When this card attacks, choose 1 of your other Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card55133-large.jpg"
+    },
+    {
+        "name": "出欠確認 リムル",
+        "code": "TSK/S70-081",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, during this turn, this card gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Teacher 《先生》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card55134-large.jpg"
+    },
+    {
+        "name": "全てを喰らうリムル",
+        "code": "TSK/S70-082",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each Marker under this card, this card gets +1000 Power.",
+            "【C】If you have 2 or more other 《魔大陸》 Character, this card gets +2000 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, you may look at the top card of your Deck. If you did, place that card under this card face-down as Marker."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card55135-large.jpg"
+    },
+    {
+        "name": "英雄の力 シズ",
+        "code": "TSK/S70-083",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【S】[REST this card] You draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card55136-large.jpg"
+    },
+    {
+        "name": "任務を遂行 ソウエイ",
+        "code": "TSK/S70-084",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 「任務を遂行 ソウエイ」, this card gets +2000 Power.",
+            "【A】[(1) Place 2 cards from your Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 2 「任務を遂行 ソウエイ」, place them into separate slot on Stage, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Ninja 《忍》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card55137-large.jpg"
+    },
+    {
+        "name": "戦乱の渦中へ ランガ",
+        "code": "TSK/S70-085",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《魔大陸》 Character gets +500 Power.",
+            "【A】【CXCOMBO】When 「精霊との対峙」 is placed into your Climax Slot, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card attacks, during this attack, perform Trigger Check 2 times during Trigger Step.』"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Shadow 《影》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card55138-large.jpg"
+    },
+    {
+        "name": "新たな配下 ソーカ",
+        "code": "TSK/S70-086",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[Return 2 Character from your Waiting Room into Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, no Soul is deducted even if this card Side Attack.",
+            "【A】When this card attacks, choose 1 of your 《魔大陸》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Ninja 《忍》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card55139-large.jpg"
+    },
+    {
+        "name": "“渦槍水流撃”ガビル",
+        "code": "TSK/S70-087",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card becomes REVERSE, place 4 cards from your top Deck. If there is a 「名前の上書き ガビル」 among those cards, you may return this card to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Water 《水》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card55140-large.jpg"
+    },
+    {
+        "name": "分身 ソウエイ",
+        "code": "TSK/S70-088",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】[(1) REST this card] Search your Deck for up to 1 「分身 ソウエイ」, place them into any slot on Stage, shuffle your Deck afterwards, at the end of that turn, place that Character into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Ninja 《忍》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card55141-large.jpg"
+    },
+    {
+        "name": "決死の想い ゴブタ",
+        "code": "TSK/S70-089",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, both players reveal the top card of their Deck. If your revealed card's Level is higher than opponent's revealed card's Level, choose 1 「テンペスト製の武器」 from your Waiting Room, return it to Hand. If your revealed card's Level is lower than opponent's revealed card's Level, choose 1 「シオンの手料理」 from your Waiting Room, return it to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card55142-large.jpg"
+    },
+    {
+        "name": "名前の上書き ガビル",
+        "code": "TSK/S70-090",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card becomes REVERSE, place 5 cards from your top Deck. If there is a 「名前の上書き ガビル」 among those cards, you may return this card to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card55143-large.jpg"
+    },
+    {
+        "name": "クロエ＆アリス＆ケンヤ＆リョウタ＆ゲイル",
+        "code": "TSK/S70-091",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, if your Hand has 4 or more cards, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card55144-large.jpg"
+    },
+    {
+        "name": "温泉で一息 リムル",
+        "code": "TSK/S70-092",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each of your other 《魔大陸》 Character, this card gets +1000 Power.",
+            "【A】ENCORE ［Place 1 《魔大陸》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card55145-large.jpg"
+    },
+    {
+        "name": "“リグルドショック”リグルド",
+        "code": "TSK/S70-093",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Muscle 《筋肉》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card55146-large.jpg"
+    },
+    {
+        "name": "“影移動”ランガ",
+        "code": "TSK/S70-094",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「“影移動”ランガ」 from your Memory, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Shadow 《影》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card55147-large.jpg"
+    },
+    {
+        "name": "抗魔の仮面",
+        "code": "TSK/S70-095",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【COUNTER】Choose 1 of your 《魔大陸》 Character, during this turn, it gets +2500 Power. Send this card to Memory.",
+            "【A】RECOLLECTION [Place 1 Climax from Hand into Waiting Room] At the beginning of your Main Phase, if this card is in Memory, you may pay the cost. If you did, return this card to Hand."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card55148-large.jpg"
+    },
+    {
+        "name": "ユニークスキル『大賢者』",
+        "code": "TSK/S70-096",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Climax Phase, if this card is in Memory, choose 1 of your Character with 「リムル」 in its name, during this turn, it gets +2500 Power."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card55149-large.jpg"
+    },
+    {
+        "name": "伝説の英雄",
+        "code": "TSK/S70-097",
+        "rarity": "CR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card55150-large.jpg"
+    },
+    {
+        "name": "張り巡らされた罠",
+        "code": "TSK/S70-098",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card55151-large.jpg"
+    },
+    {
+        "name": "窮余の一策",
+        "code": "TSK/S70-099",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card55152-large.jpg"
+    },
+    {
+        "name": "精霊との対峙",
+        "code": "TSK/S70-100",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Blue card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card55153-large.jpg"
+    },
+    {
+        "name": "豊かな谷間のある生活 リムル",
+        "code": "TSK/S70-101",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これが楽園か……",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or lower, place it into Stock. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card55211-large.jpg"
+    },
+    {
+        "name": "温泉で一息 シオン",
+        "code": "TSK/S70-102",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "…！",
+        "ability": [
+            "【C】If this card is at the Center Slot of Front Row, this card gets +1 Soul.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card55212-large.jpg"
+    },
+    {
+        "name": "華麗に変身！ ミリム",
+        "code": "TSK/S70-103",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "変身！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 3 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may choose 1 opponent's Character with Level 3 or lower at Front Row, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card55213-large.jpg"
+    },
+    {
+        "name": "温泉で一息 シュナ",
+        "code": "TSK/S70-104",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "お風呂で遊んではいけませんっていってるでしょう！",
+        "ability": [
+            "【A】When this card attacks, if you have 2 or more other 《魔大陸》 Character, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Miko 《巫女》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card55214-large.jpg"
+    },
+    {
+        "name": "みんなの先生 シズ",
+        "code": "TSK/S70-105",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "リムル「シズさんの想い、俺が果たしてやるから――」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】BOND／「クロエ＆アリス＆ケンヤ＆リョウタ＆ゲイル」 ［(1)］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「クロエ＆アリス＆ケンヤ＆リョウタ＆ゲイル」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card55215-large.jpg"
+    },
+    {
+        "name": "もぐもぐ ミリム",
+        "code": "TSK/S70-P01",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "わ、わかった。おとなしくするのだ……",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, choose 1 of your Character, during this turn, it gets ＋2000 Power.（Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Demon King 《魔王》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card55216-large.jpg"
+    },
+    {
+        "name": "リムル＝テンペスト",
+        "code": "TSK/S70-T01",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《魔大陸》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Tea 《お茶》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card55183-large.jpg"
+    },
+    {
+        "name": "もうすぐ賢者 三上悟",
+        "code": "TSK/S70-T02",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1) Send this card to Memory] When this card becomes REVERSE, you may pay the cost. If you did, choose 1 「異世界からの転生者　リムル」 from your Waiting Room, place it into this card's previous slot on Stage in REST, during this turn, that Character gains 《刺突耐性》 and 《物理攻撃耐性》 and 《痛覚無効》 and 《熱変動耐性》 and 《電流耐性》 and 《麻痺耐性》 and 《捕食者》 and 《大賢者》."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card55184-large.jpg"
+    },
+    {
+        "name": "友達の絆 ヴェルドラ",
+        "code": "TSK/S70-T03",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[Place this card into Waiting Room] Choose up to 1 「友達の絆 リムル」 from your Hand, place it into this card's previous slot on Stage.』",
+            "【A】BOND／「友達の絆 リムル」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「友達の絆 リムル」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Dragon 《竜》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card55185-large.jpg"
+    },
+    {
+        "name": "異世界からの転生者 リムル",
+        "code": "TSK/S70-T04",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each of your other 《魔大陸》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「名付け」 is in your Climax Slot, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, add it to Hand. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card55186-large.jpg"
+    },
+    {
+        "name": "“自由組合の冒険者”ギド",
+        "code": "TSK/S70-T05",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, during this turn, this card gets +1 Soul. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Adventurer 《冒険者》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card55187-large.jpg"
+    },
+    {
+        "name": "“自由組合の冒険者”カバル",
+        "code": "TSK/S70-T06",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Adventurer 《冒険者》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card55188-large.jpg"
+    },
+    {
+        "name": "“自由組合の冒険者”エレン",
+        "code": "TSK/S70-T07",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《魔大陸》 Character gets +1000 Power.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Adventurer 《冒険者》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card55189-large.jpg"
+    },
+    {
+        "name": "“捕食者”リムル",
+        "code": "TSK/S70-T08",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】For each Marker under this card, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】When this card's battle opponent becomes REVERSE, you may choose 1 《魔大陸》 Character from your Waiting Room, place it under this card face-down as Marker."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card55190-large.jpg"
+    },
+    {
+        "name": "名付け",
+        "code": "TSK/S70-T09",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card55191-large.jpg"
+    },
+    {
+        "name": "誓いと感謝",
+        "code": "TSK/S70-T10",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card55192-large.jpg"
+    },
+    {
+        "name": "仲間を求めて シズ",
+        "code": "TSK/S70-T11",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(2)] When you Level up, you may pay the cost. If you did, search your Deck for up to 1 《魔大陸》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card55193-large.jpg"
+    },
+    {
+        "name": "“水刃”リムル",
+        "code": "TSK/S70-T12",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your other 《魔大陸》 Character gets +500 Power.",
+            "【S】[(1)] Choose 1 opponent's Character with Level 0 or lower at Front Row, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Water 《水》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card55194-large.jpg"
+    },
+    {
+        "name": "筋骨隆々 リグルド",
+        "code": "TSK/S70-T13",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《魔大陸》 Character among those cards x1000."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card55195-large.jpg"
+    },
+    {
+        "name": "孤独に進む道 シズ",
+        "code": "TSK/S70-T14",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When your other 《魔大陸》 Character attacks, during this turn, this card gets +1000 Power.",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Mask 《仮面》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card55196-large.jpg"
+    },
+    {
+        "name": "嵐牙狼族召喚！ ゴブタ",
+        "code": "TSK/S70-T15",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, reveal the top card of your Deck. If that card is a 《魔大陸》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card55197-large.jpg"
+    },
+    {
+        "name": "忠誠心 ランガ",
+        "code": "TSK/S70-T16",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《魔大陸》 Character x1000.",
+            "【A】When this card becomes REVERSE, place this card to bottom Deck."
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Shadow 《影》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card55198-large.jpg"
+    },
+    {
+        "name": "友達の絆 リムル",
+        "code": "TSK/S70-T17",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Slime 《スライム》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card55199-large.jpg"
+    },
+    {
+        "name": "迸る炎 シズ",
+        "code": "TSK/S70-T18",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《魔大陸》 Character.",
+            "【A】[(3) Place 2 cards from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, deal 5 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Demon Lord Breed 《魔大陸》",
+            "Flame 《炎》"
+        ],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card55200-large.jpg"
+    },
+    {
+        "name": "抗魔の仮面",
+        "code": "TSK/S70-T19",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Search your Deck for up to 1 《魔大陸》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards. Send this card to Memory."
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card55201-large.jpg"
+    },
+    {
+        "name": "運命の人",
+        "code": "TSK/S70-T20",
+        "rarity": "TD",
+        "expansion": "Tensei Shitara Slime datta ken",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S70",
+        "sid": "T20",
+        "image": "https://images.littleakiba.com/tcg/card55202-large.jpg"
+    }
+]

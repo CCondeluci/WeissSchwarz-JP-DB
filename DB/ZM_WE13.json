@@ -1,0 +1,1707 @@
+[
+    {
+        "name": "ガリアの王族 タバサ",
+        "code": "ZM/WE13-01",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "……まだ決めた訳じゃない",
+        "ability": [
+            "【S】CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. Search your Deck for up to X 《魔法》 Characters, show them to your opponent, add them to Hand. Shuffle your Deck afterwards. Choose X cards from your Hand, place them into Waiting Room. X is equals to the number of Climaxes among those cards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card6313-large.jpg"
+    },
+    {
+        "name": "“風使い”タバサ",
+        "code": "ZM/WE13-02",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ウィンディ・アイシクル！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【A】 When you use 『CONCENTRATION』, if a Climax is placed into Waiting Room by that effect, choose 1 of your Characters, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card6314-large.jpg"
+    },
+    {
+        "name": "ルイズの守り手 サイト",
+        "code": "ZM/WE13-03",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "お前ら！　ルイズに何かしやがったんじゃ――",
+        "ability": [
+            "【S】 CONCENTRATION ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card6315-large.jpg"
+    },
+    {
+        "name": "揺るぎない信頼 ルイズ",
+        "code": "ZM/WE13-04",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "わたし、信じてるもん。\nサイトは絶対絶対、来るんだから！",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.",
+            "【A】［①］When 「サモン・サーヴァント」 is placed into your Climax slot, you may pay the cost. If you did, search your Deck for up to 1 《使い魔》 or 《虚無》 with Level 1 or below, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card6316-large.jpg"
+    },
+    {
+        "name": "貴族の務め ルイズ",
+        "code": "ZM/WE13-05",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "当たり前じゃない。貴族に二言はないわ",
+        "ability": [
+            "【C】EXPERIENCE If 「揺るぎない信頼 ルイズ」 and 「聖国のルイズ」 is in your Level slot, this card in your Hand gets -1 Level.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card6317-large.jpg"
+    },
+    {
+        "name": "入浴中のルイズ",
+        "code": "ZM/WE13-06",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "サイトだけはダメです！　これだけは譲れません！",
+        "ability": [
+            "【A】 BOND／「ルイズの守り手 サイト」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ルイズの守り手 サイト」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card6318-large.jpg"
+    },
+    {
+        "name": "秘密兵器 イルククゥ",
+        "code": "ZM/WE13-07",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "キュルケ「秘密兵器を用意したわ。入って！」",
+        "ability": [
+            "【C】 During your turn, all your other Characters get +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《魔法》 Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card6319-large.jpg"
+    },
+    {
+        "name": "デルフリンガーの相棒 サイト",
+        "code": "ZM/WE13-08",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "デルフリンガー「相棒！　俺を使え！」",
+        "ability": [
+            "【A】［①］When 「伝説の使い魔」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character with Level 2 or lower, return it to Hand."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card6320-large.jpg"
+    },
+    {
+        "name": "物静かなタバサ",
+        "code": "ZM/WE13-09",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "キュルケ「何よ、まだキスもしてないの？」\nタバサ「……」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card6321-large.jpg"
+    },
+    {
+        "name": "トリステインの騎士 サイト",
+        "code": "ZM/WE13-10",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "テファに乱暴するなッ！",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card6322-large.jpg"
+    },
+    {
+        "name": "頼れる仲間 タバサ",
+        "code": "ZM/WE13-11",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "シルフィードの速さなら、４日程度。ただし休み無しで",
+        "ability": [
+            "【A】When this card is placed on Stage from hand, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card6323-large.jpg"
+    },
+    {
+        "name": "サモン・サーヴァント",
+        "code": "ZM/WE13-12",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ルイズ「サイト！！」",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)"
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card6324-large.jpg"
+    },
+    {
+        "name": "伝説の使い魔",
+        "code": "ZM/WE13-13",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "デルフリンガー「……なかなかどうして、\nいっぱしのツラになったなぁ、おい」",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card6325-large.jpg"
+    },
+    {
+        "name": "森の妖精 ティファニア",
+        "code": "ZM/WE13-14",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あ、あの…この格好は……",
+        "ability": [
+            "【A】［① Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card6326-large.jpg"
+    },
+    {
+        "name": "優しい友達 ティファニア",
+        "code": "ZM/WE13-15",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "キュルケ「テファもパーティー行くでしょ？」\nティファニア「はい……」",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "When you use 『CONCENTRATION』, if a Climax is placed into Waiting Room by that effect, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card6327-large.jpg"
+    },
+    {
+        "name": "もう一人の担い手 ティファニア",
+        "code": "ZM/WE13-16",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私なんかがロマリアに行っていいのでしょうか……",
+        "ability": [
+            "【C】EXPERIENCE For each card with 『CONCENTRATION』 in your Level slot, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card6328-large.jpg"
+    },
+    {
+        "name": "秘めた想い ティファニア",
+        "code": "ZM/WE13-17",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "サイトさんが一緒で、良かった……",
+        "ability": [
+            "【C】Your other 《使い魔》 Character in the Center slot of your Front Row gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 BOND／「気丈なサイト」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「気丈なサイト」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card6329-large.jpg"
+    },
+    {
+        "name": "入浴中のティファニア",
+        "code": "ZM/WE13-18",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "サイトさんのことは諦めるって決めたのに……\nどうして……",
+        "ability": [
+            "【C】CONCENTRATION ［① REST this card］ Flip 4 cards from the top of your Deck into Waiting Room.For each Climax among those cards, perform the following action.『Choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.』"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card6330-large.jpg"
+    },
+    {
+        "name": "砂漠のエルフ ルクシャナ",
+        "code": "ZM/WE13-19",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あら、お言葉ね。逃しに来てあげたってのに",
+        "ability": [
+            "【S】 CONCENTRATION［② Place the top card of your Deck into Clock］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 《魔法》 Character in your Hand with Level 2 or lower, place it on different slots on Stage.",
+            "あなたは自分の手札のレベル2以下の《魔法》のキャラを1枚まで選び、舞台の別々の枠に置く。"
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card6331-large.jpg"
+    },
+    {
+        "name": "ルクシャナ＆モンモランシー",
+        "code": "ZM/WE13-20",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "モンモランシー「アリィーに言っといて。\nルクシャナは今日はこっちに泊まるって」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card6332-large.jpg"
+    },
+    {
+        "name": "ティファニア＆シエスタ",
+        "code": "ZM/WE13-21",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "ティファニア「すごい……」",
+        "ability": [
+            "【C】 EXPERIENCE If your Level Slot has 2 or more cards with 『CONCENTRATION』, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Maid 《メイド》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card6333-large.jpg"
+    },
+    {
+        "name": "“忘却の魔法”ティファニア",
+        "code": "ZM/WE13-22",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "ルイズ「忘却の呪文、効いたみたいだわ」\nティファニア「よかった……」",
+        "ability": [
+            "【C】If you have 3 or more other 《虚無》 or 《使い魔》 Characters, this card gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 When this card attacks, if 「忘却の魔法」 is in your Climax slot, you may place the top card of your opponent's Stock into Waiting Room. If you do, choose 1 card from your opponent's Waiting Room, place it into Stock. Afterwards, your opponent shuffles that Stock."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card6334-large.jpg"
+    },
+    {
+        "name": "忘却の魔法",
+        "code": "ZM/WE13-23",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ニード・イス・アルジーズ……\nベルカナ・マン・ラグー！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card6335-large.jpg"
+    },
+    {
+        "name": "素直になれない ルイズ",
+        "code": "ZM/WE13-24",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……はぁ！？ デレデレなんてしてないわよ！",
+        "ability": [
+            "【A】［Place 1 Marker under this card into Waiting Room］When this card attacks, you may pay the cost. If you did, choose 1 of your opponent's Front Row Character with Level 0 or less, place it into Waiting Room.",
+            "【S】［REST this card］If this card has no Marker under it, place the top card of your Deck under this card as a Marker."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card6336-large.jpg"
+    },
+    {
+        "name": "強い絆 ルイズ",
+        "code": "ZM/WE13-25",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "サイトはきっとこれからも、私を守ってくれる。\nだから私……怖くない",
+        "ability": [
+            "【S】CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character with Cost 0 or lower from your Waiting Room, place it into different slots on Stage."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card6337-large.jpg"
+    },
+    {
+        "name": "無意識の力 ルイズ",
+        "code": "ZM/WE13-26",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "シエスタ「ミ……ミス、ヴァリエール？」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if your Deck has 5 or less cards, choose up to 1 《使い魔》 or 《虚無》 Character from your Waiting Room, return it to Hand, return all cards in your Waiting Room into Deck. Shuffle the Deck afterwards.",
+            "【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「相思相愛 ルイズ」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card6338-large.jpg"
+    },
+    {
+        "name": "途切れぬ想い サイト",
+        "code": "ZM/WE13-27",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "ルイズ！　来いよ！",
+        "ability": [
+            "【C】 All your other 《虚無》 Characters get +1500 Power."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card6339-large.jpg"
+    },
+    {
+        "name": "相思相愛 ルイズ",
+        "code": "ZM/WE13-28",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "行きましょう。みんな、待ってる",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or through 『CHANGE』, place the top card of your Clock into Waiting Room.",
+            "【A】When 「ワールドドア」 is placed into your Climax slot, if this card is in the Front Row, choose 1 「途切れぬ想い サイト」 from your Memory slot, place it into any slot on Stage, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card6340-large.jpg"
+    },
+    {
+        "name": "理想のお部屋 ルイズ",
+        "code": "ZM/WE13-29",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "シエスタ「大変です！　ミス・ヴァリエール！」",
+        "ability": [
+            "【C】 If your Stock is 2 or less, this card gains the following ability. 『【A】 When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card6341-large.jpg"
+    },
+    {
+        "name": "愛の狩人 キュルケ",
+        "code": "ZM/WE13-30",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "どうしてタバサがあんなこと言ったか分かる？　ルイズ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of the Deck or into Waiting Room.",
+            "【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with 『ASSIST』 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Love 《愛》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card6342-large.jpg"
+    },
+    {
+        "name": "可愛い担い手 ルイズ",
+        "code": "ZM/WE13-31",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ねえ、これどう？",
+        "ability": [
+            "【C】 For each of your other Characters with 『CONCENTRATE』, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card6343-large.jpg"
+    },
+    {
+        "name": "笑顔の別れ ルイズ",
+        "code": "ZM/WE13-32",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "私、あなたのこと、本当に大好きだった。\nあなたと出会えて、幸せだった",
+        "ability": [
+            "【C】RECOLLECTION If 「途切れぬ想い サイト」 is in your Memory, this card gets +2000 Power.",
+            "【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「途切れぬ想い サイト」 from your Waiting Room, place it into Memory."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card6344-large.jpg"
+    },
+    {
+        "name": "気丈なサイト",
+        "code": "ZM/WE13-33",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "じゃあ、次こそは絶対、倒さなきゃな。\n教皇の仇打ちだ。な、ルイズ、テファ！",
+        "ability": [
+            "【A】［Place this card into Waiting Room］When another of your 《魔法》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Characters in battle, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card6345-large.jpg"
+    },
+    {
+        "name": "コルベール先生",
+        "code": "ZM/WE13-34",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "オストラント号の強みは、水蒸気機関を使っている\nことによる速さだからね。逃げて、逃げて、逃げまくる",
+        "ability": [
+            "【C】 All your other 「ルイズの守り手 サイト」 and 「“神の左手”サイト」 get +1000 Power.",
+            "【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card6346-large.jpg"
+    },
+    {
+        "name": "聖国のルイズ",
+        "code": "ZM/WE13-35",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "やっぱりサイトってば、私のこと、\n大好きでしょうがないんだわ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card6347-large.jpg"
+    },
+    {
+        "name": "“神の左手”サイト",
+        "code": "ZM/WE13-36",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "デルフリンガー「その砲弾にディスペルをかけろ。\nブチ抜くにはそれしかない」",
+        "ability": [
+            "【A】［②］When 「大いなる槍」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Front Row Character with Level 3 or lower, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card6348-large.jpg"
+    },
+    {
+        "name": "ディスペル発動！",
+        "code": "ZM/WE13-37",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "デルフリンガー「俺にディスペルをかけろ！」",
+        "ability": [
+            "● CONCENTRATE Choose 1 of your 《魔法》 or 《使い魔》 Characters, during this turn, it gets +3500 Power. Flip the top 3 cards of your Deck, place them into Waiting Room. If there is a Climax among those cards, place this card into Stock."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "37",
+        "image": "https://images.littleakiba.com/tcg/card6349-large.jpg"
+    },
+    {
+        "name": "大いなる槍",
+        "code": "ZM/WE13-38",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "サイト「発射！」",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "38",
+        "image": "https://images.littleakiba.com/tcg/card6350-large.jpg"
+    },
+    {
+        "name": "ワールドドア",
+        "code": "ZM/WE13-39",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "UNKNOWN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ルイズ「……サイト！？　サイトなの？」",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "39",
+        "image": "https://images.littleakiba.com/tcg/card6351-large.jpg"
+    },
+    {
+        "name": "恋のライバル シエスタ",
+        "code": "ZM/WE13-40",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "行ってらっしゃーい！　気をつけて下さいね～！",
+        "ability": [
+            "【C】 During your opponent's turn, all your other Characters get +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Maid 《メイド》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "40",
+        "image": "https://images.littleakiba.com/tcg/card6352-large.jpg"
+    },
+    {
+        "name": "司令官 アンリエッタ",
+        "code": "ZM/WE13-41",
+        "rarity": "R",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ガリアも、共に戦って戴けませんか",
+        "ability": [
+            "【A】［① Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《虚無》 Character and up to 1 《使い魔》 Character, show them to your opponent, add them to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "41",
+        "image": "https://images.littleakiba.com/tcg/card6353-large.jpg"
+    },
+    {
+        "name": "サイトへの想い アンリエッタ",
+        "code": "ZM/WE13-42",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "はい、今日は魔法で変身する舞踏会ですから",
+        "ability": [
+            "【A】［① Place this card into Clock］When 「真実の鏡」 is placed into your Climax slot, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 Character with Level 1 or lower, place it into this card's previous slot. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "42",
+        "image": "https://images.littleakiba.com/tcg/card6354-large.jpg"
+    },
+    {
+        "name": "入浴中のアンリエッタ",
+        "code": "ZM/WE13-43",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "なんのことかしら？",
+        "ability": [
+            "【C】 If you have 5 or more cards in Hand, this card gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "43",
+        "image": "https://images.littleakiba.com/tcg/card6355-large.jpg"
+    },
+    {
+        "name": "無能王 ジョゼフ",
+        "code": "ZM/WE13-44",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "我が名は、ガリア王ジョゼフ……\n巷では、無能王と呼ばれているな",
+        "ability": [
+            "【A】 At the beginning of your opponent's Attack Phase, you may move this card into an empty slot in your Front Row which has an opponent's Character facing it."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "44",
+        "image": "https://images.littleakiba.com/tcg/card6356-large.jpg"
+    },
+    {
+        "name": "真実の鏡",
+        "code": "ZM/WE13-45",
+        "rarity": "C",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "サイト「姫様！？」",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "45",
+        "image": "https://images.littleakiba.com/tcg/card6357-large.jpg"
+    },
+    {
+        "name": "“アクイレイアの聖女”ルイズ",
+        "code": "ZM/WE13-P01",
+        "rarity": "PR",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "これは私にしかできないことなの\nだったら私がやるしかないじゃない",
+        "ability": [
+            "【C】 If you have other 1 or below character, this card gets +1000 power and this card cannot be chosen by opponent's abilities."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card6358-large.jpg"
+    },
+    {
+        "name": "担い手と使い魔 ルイズ＆サイト",
+        "code": "ZM/WE13-P02",
+        "rarity": "PR",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "サイト「俺はルイズを守ると決めたんだ！」",
+        "ability": [
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Familiar 《使い魔》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card6359-large.jpg"
+    },
+    {
+        "name": "見返りタバサ",
+        "code": "ZM/WE13-P03",
+        "rarity": "PR",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……さよなら",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "P03",
+        "image": "https://images.littleakiba.com/tcg/card6360-large.jpg"
+    },
+    {
+        "name": "ひそひそ話 アンリエッタ＆サイト",
+        "code": "ZM/WE13-T01",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "サイト「あの、姫様……俺達、来てよかったんですか？」",
+        "ability": [
+            "【C】 If your Stock is 2 or less, this card gets +1 Level, +1000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Familiar 《使い魔》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card6289-large.jpg"
+    },
+    {
+        "name": "真っ直ぐな目 サイト",
+        "code": "ZM/WE13-T02",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "あれが、ガリア王ジョゼフ……。\nあいつの詠唱を、止めればいいんだな！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Weapon 《武器》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card6290-large.jpg"
+    },
+    {
+        "name": "友に赦された少女 タバサ",
+        "code": "ZM/WE13-T03",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "……！",
+        "ability": [
+            "【A】 When this card attacks, if 「わたしのイーヴァルディ」is in the Climax Slot, choose 1 of your other Characters, during this turn it gets +1500 Power and this card gets +1500 Power.",
+            "【A】 CHANGE［③ Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「勇者の“騎士” タバサ」 from your Waiting Room, place it on this card's previous position."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card6291-large.jpg"
+    },
+    {
+        "name": "教皇 ヴィットーリオ",
+        "code": "ZM/WE13-T04",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "ええ。先日のような事件は、もう決して起きません。\nそうですね、ジュリオ",
+        "ability": [
+            "【A】 When this card becomes REVERSED in battle, your opponent chooses 1 of his/her Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card6292-large.jpg"
+    },
+    {
+        "name": "勇者の“騎士” タバサ",
+        "code": "ZM/WE13-T05",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "イーヴァルディ。勇者の名前。\nルー。助けられた少女の名前",
+        "ability": [
+            "【C】 If your Stock is 4 or less, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card6294-large.jpg"
+    },
+    {
+        "name": "シャルロット・エレーヌ・オルレアン",
+        "code": "ZM/WE13-T07",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私がサイトを幸せにする",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】 When your Character Trigger Checks a Climax, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Royal Family 《王族》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card6295-large.jpg"
+    },
+    {
+        "name": "わたしのイーヴァルディ",
+        "code": "ZM/WE13-T08a",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "サイト「もう、大丈夫だ」",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T08a",
+        "image": "https://images.littleakiba.com/tcg/card6296-large.jpg"
+    },
+    {
+        "name": "わたしのイーヴァルディ",
+        "code": "ZM/WE13-T08b",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……イーヴァルディ……",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T08b",
+        "image": "https://images.littleakiba.com/tcg/card6297-large.jpg"
+    },
+    {
+        "name": "一緒に買い物 ルイズ",
+        "code": "ZM/WE13-T09",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "急がないなら、先に行っちゃうから！",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card6298-large.jpg"
+    },
+    {
+        "name": "ぺったんこなルイズ",
+        "code": "ZM/WE13-T10",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "邪魔しないで！　その犬はね、人の胸触って、\n大平原呼ばわりしたんだから！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card6299-large.jpg"
+    },
+    {
+        "name": "秘密兵器 イルククゥ",
+        "code": "ZM/WE13-T11",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "キュルケ「秘密兵器を用意したわ。入って！」",
+        "ability": [
+            "【C】 During your turn, all your other Characters get +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《魔法》 Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card6300-large.jpg"
+    },
+    {
+        "name": "サモン・サーヴァント",
+        "code": "ZM/WE13-T12",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（射：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)"
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card6301-large.jpg"
+    },
+    {
+        "name": "理想のお部屋 ルイズ",
+        "code": "ZM/WE13-T13",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "シエスタ「大変です！　ミス・ヴァリエール！」",
+        "ability": [
+            "【C】 If your Stock is 2 or less, this card gains the following ability. 『【A】 When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card6302-large.jpg"
+    },
+    {
+        "name": "聖国のルイズ",
+        "code": "ZM/WE13-T14",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "やっぱりサイトってば、私のこと、\n大好きでしょうがないんだわ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Void 《虚無》"
+        ],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card6303-large.jpg"
+    },
+    {
+        "name": "ディスペル発動！",
+        "code": "ZM/WE13-T15",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "デルフリンガー「俺にディスペルをかけろ！」",
+        "ability": [
+            "● CONCENTRATION Choose 1 of your 《魔法》 or 《使い魔》Characters, during this turn, it gets +3500 Power. Place the top 3 cards from your Deck into Waiting Room. If there is a Climax among those cards, place this card into Stock."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card6304-large.jpg"
+    },
+    {
+        "name": "大いなる槍",
+        "code": "ZM/WE13-T16",
+        "rarity": "TD",
+        "expansion": "Zero no Tsukaima F",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "サイト「発射！」",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "ZM",
+        "release": "WE13",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card6305-large.jpg"
+    }
+]

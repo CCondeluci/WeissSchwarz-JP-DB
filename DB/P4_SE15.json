@@ -1,0 +1,1022 @@
+[
+    {
+        "name": "自称特別捜査隊 陽介",
+        "code": "P4/SE15-01",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【S】［REST this card］Choose 1 of your 《ジュネス》 Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Headphones 《ヘッドフォン》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card8389-large.jpg"
+    },
+    {
+        "name": "「鋼のシスコン番長」鳴上 悠",
+        "code": "P4/SE15-02",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If this card is on Stage, this card's name is also 「「鋼のシスコン番長」主人公」",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】［①］When this card's battle opponent with Level 2 or higher becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 Character or Character with 「菜々子」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card8390-large.jpg"
+    },
+    {
+        "name": "お手伝い 菜々子",
+        "code": "P4/SE15-03",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "菜々子もお手伝いする！",
+        "ability": [
+            "【C】If you have 1 or less other Character, this card gets +1000 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』."
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Television 《テレビ》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card8323-large.jpg"
+    },
+    {
+        "name": "「キャプテン・ルサンチマン」花村 陽介",
+        "code": "P4/SE15-04",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "寂れた田舎を踏み台に\n大英雄に俺はなる！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Headphones 《ヘッドフォン》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card8324-large.jpg"
+    },
+    {
+        "name": "自称特別捜査隊 悠",
+        "code": "P4/SE15-05",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】If this card is on Stage, this card's name is also 「自称特別捜査隊 主人公」",
+            "【A】［①］ When this card attacks, if「Ｐ－１グランプリ開戦！」is in the Climax slot, you may pay the cost. If you did, during this turn, this card gets +3000 Power, gains the following ability. 『【A】 This ability only can be activated up to 1 time each turn. If the Damage dealt by this card is cancelled, you may deal 1 damage to your opponent.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card8393-large.jpg"
+    },
+    {
+        "name": "Ｐ－１グランプリ開戦！",
+        "code": "P4/SE15-06",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card8394-large.jpg"
+    },
+    {
+        "name": "「全身凶器の心なき天使」アイギス",
+        "code": "P4/SE15-07",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "その指は機銃 その目は照準器",
+        "ability": [
+            "【C】 If you have no other Characters, this card gets +2000 Power.",
+            "【S】 CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action. 『Choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.』"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card8327-large.jpg"
+    },
+    {
+        "name": "「八高・鋼鉄の生徒会長！」ラビリス",
+        "code": "P4/SE15-08",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "風紀の乱れにチェーンナックル！",
+        "ability": [
+            "【A】 When is card is placed on Stage from Hand, during this turn, it gets +1500 Power.",
+            "【A】［①］When 「ラビリスの怒り」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row, during this turn, it gets -4000 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card8328-large.jpg"
+    },
+    {
+        "name": "「男勝りの足技系ドラゴン」里中 千枝",
+        "code": "P4/SE15-09",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If you have 3 or more other 《スポーツ》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card8397-large.jpg"
+    },
+    {
+        "name": "「皆殺しの猛牛総統」シャドウラビリス",
+        "code": "P4/SE15-10",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "女を捨てた肉食獣",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】［①］When this card's battle opponent with Level 2 or higher becomes REVERSE, if 「アステリオス出現」is in the Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row with Level 2 or lower, place it into Clock."
+        ],
+        "attributes": [
+            "Shadow 《影》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card8330-large.jpg"
+    },
+    {
+        "name": "Ｐ－１グランプリの主催者！ クマ総統",
+        "code": "P4/SE15-11",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 2 or higher, show it to your opponent, add it to Hand. Shuffle you Deck afterwards."
+        ],
+        "attributes": [
+            "Shadow 《影》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card8399-large.jpg"
+    },
+    {
+        "name": "機体番号０２４",
+        "code": "P4/SE15-12",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "あなたと一緒に、“彼女”に会いに行けたら、きっと素敵ね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card8332-large.jpg"
+    },
+    {
+        "name": "Ｐ－１グランプリ専属実況 りせ",
+        "code": "P4/SE15-13",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "戦う覚悟はアーユーオッケー！？",
+        "ability": [
+            "【S】［REST 2 Characters］ During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Television 《テレビ》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card8333-large.jpg"
+    },
+    {
+        "name": "未来の婦人警官 千枝",
+        "code": "P4/SE15-14",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "こりゃ愛家で肉丼特盛コースかな！？",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card8334-large.jpg"
+    },
+    {
+        "name": "姉妹の再会 アイギス",
+        "code": "P4/SE15-15",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card8403-large.jpg"
+    },
+    {
+        "name": "運命の対峙 ラビリス",
+        "code": "P4/SE15-16",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［③ Place this card into Memory］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to 1 「「皆殺しの猛牛総統」シャドウラビリス」 from your Hand, place it into any slot on Stage, at the beginning of your next Draw Phase, choose 1 「運命の対峙 ラビリス」 from your Memory, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card8404-large.jpg"
+    },
+    {
+        "name": "ラビリスの怒り",
+        "code": "P4/SE15-17",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ウチの…大事な…約束なんやぁぁぁーッ！",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card8337-large.jpg"
+    },
+    {
+        "name": "アステリオス出現",
+        "code": "P4/SE15-18",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)"
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card8406-large.jpg"
+    },
+    {
+        "name": "仲間との約束 雪子",
+        "code": "P4/SE15-19",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "大丈夫だよ、私たちだっているし",
+        "ability": [
+            "【S】CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card8339-large.jpg"
+    },
+    {
+        "name": "「戦慄のガチムチ皇帝」巽 完二",
+        "code": "P4/SE15-20",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［① Place the top card of your Deck into Clock］ When 「ゲンコと絆」 is in your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character with Cost 0 or lower, place it into Waiting Room, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card8408-large.jpg"
+    },
+    {
+        "name": "「難攻不落の“黒”雪姫」天城 雪子",
+        "code": "P4/SE15-21",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If you have 3 or more other 《扇子》 or 《和服》 Character, this card gets +500 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］』."
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card8409-large.jpg"
+    },
+    {
+        "name": "守るための拳 明彦",
+        "code": "P4/SE15-22",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "求めるものがあるなら、戦え",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card8342-large.jpg"
+    },
+    {
+        "name": "“生涯かけての勝負”完二",
+        "code": "P4/SE15-23",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "さあて…やってやんぜオラァ！！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《魔法》 Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card8343-large.jpg"
+    },
+    {
+        "name": "「剛拳のプロテインジャンキー！」真田 明彦",
+        "code": "P4/SE15-24",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "帰ってきた力の狂信者！",
+        "ability": [
+            "【C】 The Character facing this card gains 『【A】ENCORE ［Place 1 Character from Hand to Waiting Room］』."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card8344-large.jpg"
+    },
+    {
+        "name": "武者修行",
+        "code": "P4/SE15-25",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose up to 2 Characters from your Waiting Room, return them to Hand."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card8413-large.jpg"
+    },
+    {
+        "name": "物体Xの恐怖",
+        "code": "P4/SE15-26",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "雪子「ちょうど良かった！\n事件解決のお祝いに、お弁当食べよう？」",
+        "ability": [
+            "Choose 1 opponent's Front Row Character, placed it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card8346-large.jpg"
+    },
+    {
+        "name": "ゲンコと絆",
+        "code": "P4/SE15-27",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "テメェがオレっつーんなら、分かってンだろ。\n…ゲンコは１番ウソつかねえってな！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card8347-large.jpg"
+    },
+    {
+        "name": "自称特別捜査隊 クマ",
+        "code": "P4/SE15-28",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 SUPPORT During your opponent's turn, all your Characters in front of this card gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it to the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Shadow 《影》",
+            "Animal 《動物》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card8416-large.jpg"
+    },
+    {
+        "name": "「孤高の処刑女王！」桐条 美鶴",
+        "code": "P4/SE15-29",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "孤独な玉座で悪を裁く！",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "【S】［① Place 1 card from Hand to Waiting Room］Until the end of your opponent's next turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card8349-large.jpg"
+    },
+    {
+        "name": "「IQ2000のKY探偵」　白鐘 直斗",
+        "code": "P4/SE15-30",
+        "rarity": "R",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "見た目は子供　頭脳はバケモノ！",
+        "ability": [
+            "【C】 If you have 3 or more other 《男装》 or 《女装》 Characters, this card gets +1000 Power, gains the following ability.『【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may draw 1 card.』",
+            "【A】When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Male Dressing 《男装》",
+            "Detective 《探偵》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card8350-large.jpg"
+    },
+    {
+        "name": "「色欲の猛獣」クマ",
+        "code": "P4/SE15-31",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［Place this card into Waiting Room］When another of your Characters is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous position in REST."
+        ],
+        "attributes": [
+            "Shadow 《影》",
+            "Animal 《動物》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card8419-large.jpg"
+    },
+    {
+        "name": "「史上最凶のエレベーターガール」エリザベス",
+        "code": "P4/SE15-32",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "どちら様にもメギドラオンでございます",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, place this card into Waiting Room.(Return revealed card to its original position)",
+            "【S】［①］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card8352-large.jpg"
+    },
+    {
+        "name": "永い旅路の途中 エリザベス",
+        "code": "P4/SE15-33",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "私も…今は自分で決めた願い事があるのです",
+        "ability": [
+            "【C】 If your Hand has 5 or more cards, this card gets +2000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "God 《神》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card8353-large.jpg"
+    },
+    {
+        "name": "シャドウワーカー隊長 美鶴",
+        "code": "P4/SE15-34",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "さあ、断罪の時間だ！！",
+        "ability": [
+            "【A】 When this card's battle opponent becomes REVERSE, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card8354-large.jpg"
+    },
+    {
+        "name": "潜入捜査 直斗",
+        "code": "P4/SE15-35",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "止めて見せる…必ず！",
+        "ability": [
+            "【C】For each of your other 《男装》 or 《女装》 Characters, this card gets +500 Power.",
+            "【A】［①］ When this card attacks, if 「放送室突入！」 in the Climax slot, you may pay the cost. If you did, draw 2 cards, choose 1 card from your Hand, place it into Waiting Room, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Male Dressing 《男装》",
+            "Detective 《探偵》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card8355-large.jpg"
+    },
+    {
+        "name": "放送室突入！",
+        "code": "P4/SE15-36",
+        "rarity": "C",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "久慈川さん！",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card8424-large.jpg"
+    },
+    {
+        "name": "ファイナルブレイク！ アイギス ファイナルブレイク！アイギス",
+        "code": "P4/SE15-P01",
+        "rarity": "PR",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "お別れであります！\n行きます、ファイナルブレイク！",
+        "ability": [
+            "【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax phase, you may pay this cost. If you did, during this turn, this card gets +4500 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card8428-large.jpg"
+    },
+    {
+        "name": "支援のスペシャリスト 風花",
+        "code": "P4/SE15-P02",
+        "rarity": "PR",
+        "expansion": "Persona 4 The Ultimate",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "何だか、すごい再会になっちゃいましたね",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《魔法》 Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "P4",
+        "release": "SE15",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card8429-large.jpg"
+    }
+]

@@ -1,0 +1,836 @@
+[
+    {
+        "name": "“八高組”Ｐ４主人公",
+        "code": "PQ/SE21-01",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "要は、仲間になろうってことだろ？\n断る理由が無い",
+        "ability": [
+            "【A】 When 「謎に挑む者たち」 is placed into your Climax Slot, if this card is in the Front Row, reveal the top card of your Deck. If that card is a Character with Cost 0 or lower, you may place that Character in any slot on Stage. （If it is not, return revealed card to its original position）",
+            "【A】 ［①］ When the damage dealt by this card is cancelled, you may pay the cost. If you did, draw 1 card."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card18608-large.jpg"
+    },
+    {
+        "name": "“月高組”Ｐ３主人公",
+        "code": "PQ/SE21-02",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "じゃあ、みんな行こう",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】 When this card attacks, if 「謎に挑む者たち」 is in the Climax Slot, during that turn, this card gets +1000 Power, +1 Soul and gains the following ability. 『【A】 This ability can only be activated once each turn. When the damage dealt by this card is cancelled, you may deal 1 Damage to your opponent.』 （Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Headphones 《ヘッドフォン》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card18609-large.jpg"
+    },
+    {
+        "name": "“月高組”天田",
+        "code": "PQ/SE21-03",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "僕だって行けます！！",
+        "ability": [
+            "【A】 During your turn, when this card becomes REVERSE, if this card's battle opponent is level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card18610-large.jpg"
+    },
+    {
+        "name": "“朝の時間”菜々子",
+        "code": "PQ/SE21-04",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "よい…しょと。できたー！",
+        "ability": [
+            "【C】 If you have 2 or more other 《ジュネス》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Television 《テレビ》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card18731-large.jpg"
+    },
+    {
+        "name": "“八高組”陽介",
+        "code": "PQ/SE21-05",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "任せろって。報告、待ってろよ？",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, reveal the top card of your Deck. If that card is a 《ジュネス》 Character, choose 1 of your Character in battle, during that turn, it gets +1000 Power. （Return revealed card to its original position）",
+            "【S】● ASSIST 2500 Level 2［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Junes 《ジュネス》",
+            "Headphones 《ヘッドフォン》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card18612-large.jpg"
+    },
+    {
+        "name": "“月高組”コロマル",
+        "code": "PQ/SE21-06",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "ワフッ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets +X Power. X is equals to the number of your 《魔法》 or 《武器》 Character x500."
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card18613-large.jpg"
+    },
+    {
+        "name": "シャドウ オブ ザ ラビリンス",
+        "code": "PQ/SE21-07",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "9",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Ｐ４主人公「話は後だ。助けに来た」",
+        "ability": [
+            "All your Characters, during that turn, gain the following ability. 『【A】 ［②］ This ability can only be activated once each turn. When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, place that battle opponent into Memory, choose this card and 1 Character in your Back Row, exchange them.』 （The card's state of position does not change）"
+        ],
+        "attributes": [],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card18734-large.jpg"
+    },
+    {
+        "name": "謎に挑む者たち",
+        "code": "PQ/SE21-08",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Ｐ４主人公「分かった。\nここで待ってるから、宜しく頼む」",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to hand)"
+        ],
+        "attributes": [],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card18735-large.jpg"
+    },
+    {
+        "name": "“月高組”風花",
+        "code": "PQ/SE21-09",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "やっぱり、この出し物の中を\n探ってみるしかないようですね…",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 power.",
+            "【S】 CONCENTRATION ［① REST 2 of your Characters］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《魔法》 or 《武器》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card18736-large.jpg"
+    },
+    {
+        "name": "奪われた記憶 善＆玲",
+        "code": "PQ/SE21-10",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "玲「善、一緒に出よ？　わたしも、帰りたい」",
+        "ability": [
+            "【A】 ［Place 1 「謎の二人 玲＆善」 into Clock from Hand］ When this card attacks, if 「守りたい人」 is in the Climax Slot, you may pay the cost. If you did, choose 1 card from your opponent's Waiting Room, place it into Memory, this card gets +4000 Power."
+        ],
+        "attributes": [
+            "Hungry 《腹ペコ》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card18617-large.jpg"
+    },
+    {
+        "name": "謎の二人 玲＆善",
+        "code": "PQ/SE21-11",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "善「気が付いたら、ここにいた。\nその前のことは思い出せない」",
+        "ability": [
+            "【C】 RECOLLECTION For each card in your opponent's Memory, this card gets +500 Power.",
+            "【A】 RECOLLECTION When this card attacks, if your opponent's Memory has Climax, look at the top card of your opponent's Deck, place it on top or at the bottom of the Deck.",
+            "【A】 RECOLLECTION ［① Place the top card of your Deck into Clock］ During the turn this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, if opponent's Memory has a card, you may pay the cost. If you did, deal 4 Damage to your opponent. （Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Hungry 《腹ペコ》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card18708-large.jpg"
+    },
+    {
+        "name": "“八高組”千枝",
+        "code": "PQ/SE21-12",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "よーっし、任せといて！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【C】 RECOLLECTION If your opponent's Memory has a card, this card gains the following ability. 『【S】 ［REST this card］ Choose 1 of your Character, during that turn, it gets +1000 Power.』"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Magic 《魔法》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card18739-large.jpg"
+    },
+    {
+        "name": "“月高組”アイギス",
+        "code": "PQ/SE21-13",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "出力最大。行くであります！",
+        "ability": [
+            "【A】 ［Place this card into Waiting Room］ When your other 《メカ》 Character or Character with 「主人公」 in its name is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during that turn, it gets +1500 Power.",
+            "【S】 ［① Place 1 card into Waiting Room from Hand］ During that turn, this card gets +6000 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card18740-large.jpg"
+    },
+    {
+        "name": "“八高組”りせ",
+        "code": "PQ/SE21-14",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "仲間もたくさんできたし、楽しんじゃお！",
+        "ability": [
+            "【A】 When this card becomes REVERSE during battle, place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, you may place this card into Stock."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Television 《テレビ》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card18711-large.jpg"
+    },
+    {
+        "name": "休息の時間",
+        "code": "PQ/SE21-15",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "コロマル「ガウガウッ！！」",
+        "ability": [
+            "● Choose 1 of your 《魔法》 or 《武器》 Character, during that turn, it gets +4500 Power."
+        ],
+        "attributes": [],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card18742-large.jpg"
+    },
+    {
+        "name": "守りたい人",
+        "code": "PQ/SE21-16",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "善「…玲、怯えなくていい。\n大丈夫だ、守るから」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card18743-large.jpg"
+    },
+    {
+        "name": "“八高組”完二",
+        "code": "PQ/SE21-17",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "シャドウに襲われてもしらねーかんな",
+        "ability": [
+            "【A】 When this card attacks or is being Front Attacked, place the top card of your Deck into Waiting Room. If that card is Level 1 or higher, during that turn, this card gains the following ability. 『【A】 When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may REVERSE that Character』 （Climax is treated as Level 0）"
+        ],
+        "attributes": [
+            "Delinquent 《不良》",
+            "Magic 《魔法》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card18744-large.jpg"
+    },
+    {
+        "name": "“月高組”順平",
+        "code": "PQ/SE21-18",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "くっそ、キリがねーな！",
+        "ability": [
+            "【A】 RECOLLECTION When you use this card's 『ASSIST』, if your opponent's Memory has a card, choose 1 of your Character int battle, during that turn, it gets +1500 Power.",
+            "【S】● ASSIST 1500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card18745-large.jpg"
+    },
+    {
+        "name": "“八高組”雪子",
+        "code": "PQ/SE21-19",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "そっか、こんなところ怖いよね",
+        "ability": [
+            "【C】 All your other 《扇子》 or 《和服》 Characters get +500 Power.",
+            "【S】 ［REST this card］ Choose 1 of your opponent's STAND Character, REST it."
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Magic 《魔法》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card18746-large.jpg"
+    },
+    {
+        "name": "“月高組”明彦",
+        "code": "PQ/SE21-20",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "…なら、答えはひとつだ",
+        "ability": [
+            "【A】 ［①］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, you may place that Character into Memory.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card18717-large.jpg"
+    },
+    {
+        "name": "“月高組”真次郎",
+        "code": "PQ/SE21-21",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "…おめーにプライドはねーのか？",
+        "ability": [
+            "【A】 When your other 《魔法》 or 《武器》 Character attacks, during that turn, it gets +1000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card18748-large.jpg"
+    },
+    {
+        "name": "“八高組”クマ",
+        "code": "PQ/SE21-22",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "八十神高校生にクマはなる！！",
+        "ability": [
+            "【A】 During your opponent's turn, when this card gets REVERSE, if this card's battle opponent has Cost 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Shadow 《影》",
+            "Animal 《動物》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card18719-large.jpg"
+    },
+    {
+        "name": "“八高組”直斗",
+        "code": "PQ/SE21-23",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ここの雰囲気、なんだか…",
+        "ability": [
+            "【A】 ［① Place 1 card into Waiting Room from Hand］ When this card attacks, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Male Dressing 《男装》",
+            "Detective 《探偵》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card18750-large.jpg"
+    },
+    {
+        "name": "“ベルベットルームの住人”エリザベス",
+        "code": "PQ/SE21-24",
+        "rarity": "R",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "それが“必然”なら、あなたがたは\nここで為すべきことがあるのでしょう",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +X Power. X is equals to that Character's Level x500.",
+            "【A】 ［①］ When 「騒がしい食事」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during that turn, it gets +2000 Power and gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, you may draw 1 card.』"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Infirmary 《保健室》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card18721-large.jpg"
+    },
+    {
+        "name": "“月高組”ゆかり",
+        "code": "PQ/SE21-25",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "みんなには内緒だからね！？",
+        "ability": [
+            "【C】 All your other 《魔法》 or 《武器》 Characters get +500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card18722-large.jpg"
+    },
+    {
+        "name": "“ベルベットルームの住人”テオドア",
+        "code": "PQ/SE21-26",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "テオドアと申します。\nいつも姉エリザベスがお世話になっております",
+        "ability": [
+            "【C】 During your opponents' turn, all your other Characters get +500 Power.",
+            "【S】 ［① REST this card］ Choose 1 of your other Character, place it into Waiting Room. If you did, search your Deck for up to 1 Character with 1 or more same trait as that Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Blacksmith 《鍛冶》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card18723-large.jpg"
+    },
+    {
+        "name": "“月高組”美鶴",
+        "code": "PQ/SE21-27",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "君たちは休め。\nここは我々が引き受けよう！",
+        "ability": [
+            "【C】 If your Hand is 6 or more, this card gets +1 Level and +1000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card18754-large.jpg"
+    },
+    {
+        "name": "“ベルベットルームの住人”マリー",
+        "code": "PQ/SE21-28",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "はぁ！？　またあのシゴトすんの？\n聞いてないんだけど",
+        "ability": [
+            "【C】 If your Waiting Room has 1 or less Climax, you cannot play this card from Hand.",
+            "【S】 CONCENTRATION ［①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, until the end of your opponent's next turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Poem 《ポエム》",
+            "God 《神》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card18725-large.jpg"
+    },
+    {
+        "name": "“ベルベットルームの住人”マーガレット",
+        "code": "PQ/SE21-29",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "貴方がたをお客人として、できる限りの\nお手伝いをさせていただきます",
+        "ability": [
+            "【A】 ［Place 1 of your other Character in the Front Row into Waiting Room］ When this card attacks, if 「騒がしい食事」 is in the Climax Slot, you may pay the cost. If you did, look up to the top 2 cards of your Deck, choose up to 1 Character, place it into any slot without a Character on Stage in REST, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Magic 《魔法》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card18726-large.jpg"
+    },
+    {
+        "name": "騒がしい食事",
+        "code": "PQ/SE21-30",
+        "rarity": "C",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "玲「はふはふ！　おいひぃ！！」",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card18727-large.jpg"
+    },
+    {
+        "name": "“特別課外活動部”P3主人公",
+        "code": "PQ/SE21-31",
+        "rarity": "PR",
+        "expansion": "Persona Q Shadow of the Labyrinth",
+        "side": "SE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "いや、僕が行こう",
+        "ability": [
+            "【C】 If you have 2 or more other 《魔法》 or 《武器》 Character, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Headphones 《ヘッドフォン》"
+        ],
+        "set": "PQ",
+        "release": "SE21",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card18758-large.jpg"
+    }
+]

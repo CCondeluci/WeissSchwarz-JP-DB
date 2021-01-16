@@ -1,0 +1,3502 @@
+[
+    {
+        "name": "心を開いたひまわり",
+        "code": "VR/W22-001",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あかねがいたから、私はもう一度、みんなを信じることができた……",
+        "ability": [
+            "【A】［①］When the damage dealt by this card is cancelled, you may pay the cost. If you did, draw 1 card."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Shield 《盾》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card9112-large.jpg"
+    },
+    {
+        "name": "四宮 ひまわり",
+        "code": "VR/W22-002",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私達、嘘つきじゃないって伝えて",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or through 『CHANGE』, look up to 3 cards from the top of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards into Waiting Room.",
+            "【A】［①］ When this card attacks, if 「新たな友達」 is in the Climax Slot, you may pay the cost. If you did, search up to 2 《鍵》 Characters from your Deck, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Shield 《盾》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card9113-large.jpg"
+    },
+    {
+        "name": "体育の時間 ひまわり",
+        "code": "VR/W22-003",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……はぁ、疲れた～",
+        "ability": [
+            "【A】［① Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search you Deck for up to 1 《鍵》 Character, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card9114-large.jpg"
+    },
+    {
+        "name": "ひまわりとドッキング！ あかね",
+        "code": "VR/W22-004",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "行くよ！",
+        "ability": [
+            "【A】 BOND／「心を開いたひまわり」［Place 1 card from Hand into Waiting Room］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「心を開いたひまわり」 from your Waiting Room, return to Hand)",
+            "【S】［③ Place 1 「心を開いたひまわり」from your Stage and this card into Memory］ Choose 1 「ビビッドイエロー」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card9115-large.jpg"
+    },
+    {
+        "name": "工場大好き ひまわり",
+        "code": "VR/W22-005",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "……これ。シンセポリメラーゼ。\nメカノテック社の新しいパイロットプラント",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card get +1000 Power.",
+            "【C】 RECOLLECTION If you have 2 or more 《鍵》 Characters in your Memory, this card gains 『【C】 SUPPORT All Characters in front of this card gets +500 Power.』"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card9116-large.jpg"
+    },
+    {
+        "name": "ビビッドイエロー",
+        "code": "VR/W22-006",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "ビビッドイエロー、オペレーション！",
+        "ability": [
+            "【C】 RECOLLECTION During your turn, if you have 2 or more 《鍵》 Character in your Memory, this card gets +2000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Shield 《盾》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card9117-large.jpg"
+    },
+    {
+        "name": "天才ハッカー ひまわり",
+        "code": "VR/W22-007",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "何、これ……",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【A】 When your opponent plays Event, you may choose 1 Yellow card from your Waiting Room, places it into Stock."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card9118-large.jpg"
+    },
+    {
+        "name": "読者モデル ひまわり",
+        "code": "VR/W22-008",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【S】 CONCENTRATE ［①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card9119-large.jpg"
+    },
+    {
+        "name": "水着のひまわり",
+        "code": "VR/W22-009",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "あかね……裸ん坊",
+        "ability": [
+            "【A】 When this card attacks, place the top card of your Deck into Waiting Room. If that card is a Climax, during this turn, this card gets +4 Souls."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card9120-large.jpg"
+    },
+    {
+        "name": "テクスチャー・オン！ ひまわり",
+        "code": "VR/W22-010",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "イグニッション！　テクスチャー・オン！",
+        "ability": [
+            "【A】 CHANGE ［② Place 1 card from your Hand into Waiting Room, place this card into Memory］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「四宮 ひまわり」 from your Waiting Room, placed it on this card previous slot.",
+            "【S】［REST 2 of your Characters］Choose 1 of your 《鍵》 Character, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card9121-large.jpg"
+    },
+    {
+        "name": "好奇心旺盛 ひまわり",
+        "code": "VR/W22-011",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "あなたが、あの一色健次郎博士の孫だったなんて",
+        "ability": [
+            "【A】 When your other 《鍵》 Characters attacks, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Shield 《盾》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card9122-large.jpg"
+    },
+    {
+        "name": "引きこもり少女 ひまわり",
+        "code": "VR/W22-012",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "…………まあまあ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand. during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card9123-large.jpg"
+    },
+    {
+        "name": "勉強会のお誘い ひまわり",
+        "code": "VR/W22-013",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "…………土曜、ヒマ？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card9124-large.jpg"
+    },
+    {
+        "name": "パレットスーツ装着！ ひまわり",
+        "code": "VR/W22-014",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "遅れてすみません",
+        "ability": [
+            "【S】 ● ASSIST 1500 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Shield 《盾》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card9125-large.jpg"
+    },
+    {
+        "name": "オペレーション！ ビビッドイエロー",
+        "code": "VR/W22-015",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "ビビッドエンジン、セーフティ解除！",
+        "ability": [
+            "【A】 When this card attacks, if 「ビビッドコライダー」 is in the Climax slot, during this turn, this card gets +2000 Power.",
+            "【A】 When this card attacks, if 「ビビッドコライダー」 is in the Climax slot, choose 1 of your other Character, until end of your opponent next turn, it gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Shield 《盾》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card9126-large.jpg"
+    },
+    {
+        "name": "向日葵とひまわり",
+        "code": "VR/W22-016",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card9127-large.jpg"
+    },
+    {
+        "name": "ひまわりのカメラ",
+        "code": "VR/W22-017",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ひまわり「……何……これ？」",
+        "ability": [
+            "Look at up to 4 cards from the top of your Deck, choose 1 《鍵》 Character and show it to your opponent, add it to Hand. Place the remaining cards into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card9128-large.jpg"
+    },
+    {
+        "name": "ネイキッドコライダー",
+        "code": "VR/W22-018",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ネイキッドコライダー！",
+        "ability": [
+            "● Choose 1 of your 《盾》 Character, during this turn, it gets +4000 Power. During this turn, during the next damage you received, if that damage is cancelled, deal 1 Damage to your opponent.(Damage can be cancelled)"
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card9129-large.jpg"
+    },
+    {
+        "name": "新たな友達",
+        "code": "VR/W22-019",
+        "rarity": "CR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あかね「私達の新しい仲間……ううん、友達だよ！」",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)"
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card9130-large.jpg"
+    },
+    {
+        "name": "ビビッドコライダー",
+        "code": "VR/W22-020",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ビビッドコライダー、ファイナルオペレーション！！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card9132-large.jpg"
+    },
+    {
+        "name": "勝気な少女 わかば",
+        "code": "VR/W22-021",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ちょっとでも負けると思ったら\nそこで負けが決まるのよ",
+        "ability": [
+            "【S】［REST 2 of your Characters］ Choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】 CONCENTRATE ［① REST this card］Flip the top 4 cards from your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action. 『Choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.』"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card9133-large.jpg"
+    },
+    {
+        "name": "テクスチャー・オン！ わかば",
+        "code": "VR/W22-022",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "イグニッション！　テクスチャー・オン！",
+        "ability": [
+            "【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Memory.］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「三枝 わかば」 from your Waiting Room, place it into this card previous slot.",
+            "【S】［REST 2 of your Characters］ Choose 1 of your 《鍵》 Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card9131-large.jpg"
+    },
+    {
+        "name": "免許皆伝 わかば",
+        "code": "VR/W22-023",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "天元理心流、喪心撃",
+        "ability": [
+            "【C】 This card cannot Side Attack.",
+            "【A】 When this card attacks, choose up to 1 of your opponent's Front Row Level 0 or below Character. That Character cannot STAND during your opponent's next Stand Phase."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card9134-large.jpg"
+    },
+    {
+        "name": "オペレーション！ ビビッドグリーン",
+        "code": "VR/W22-024",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】This ability can only be activated up to once per turn. When you used 【S】, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card9135-large.jpg"
+    },
+    {
+        "name": "ビビッドグリーン",
+        "code": "VR/W22-025",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ビビッドグリーン、オペレーション！",
+        "ability": [
+            "【C】 RECOLLECTION If your Memory have 2 or more 《鍵》 Character, this card gets +1000 Power.",
+            "【A】 When this card attacks, if 「ビビッドブレード」 is in the Climax slot, until end of your opponent's next turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card9136-large.jpg"
+    },
+    {
+        "name": "三枝 わかば",
+        "code": "VR/W22-026",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ほら、ひまわりちゃん！",
+        "ability": [
+            "【C】 This card cannot Side Attack.",
+            "【A】 This ability can only be activated up to 1 time each turn. When you used 【S】, all your Characters, during this turn, get +2000 Power.",
+            "【A】［②］ When this card attacks, you may pay the cost. If you did, look at up to 2 card from the top of your opponent's Deck, choose up to 1 card, place it at the bottom of the Deck. Place the remaining cards in any order at the top of the Deck."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card9137-large.jpg"
+    },
+    {
+        "name": "可愛いもの好き わかば",
+        "code": "VR/W22-027",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "もしかしたら、フェアリー・ストリートですか？\nガールズ☆ローリー!?　私、いつも 読んでます！",
+        "ability": [
+            "【C】The Character facing this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card9138-large.jpg"
+    },
+    {
+        "name": "わかばとドッキング！ あかね",
+        "code": "VR/W22-028",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "わかばちゃん、行こう！",
+        "ability": [
+            "【A】 BOND／「免許皆伝 わかば」［Place 1 card from Hand into Waiting Room］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「免許皆伝 わかば」 from your Waiting Room, return to Hand)",
+            "【S】［② Place 1 「免許皆伝 わかば」from your Stage and this card into Memory］ Choose 1 「ビビッドグリーン」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card9139-large.jpg"
+    },
+    {
+        "name": "体育の時間 わかば",
+        "code": "VR/W22-029",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "お疲れ様、ひまわりちゃん！",
+        "ability": [
+            "【A】 When this card attacks, if 「楽しい勝負」 is in the Climax Slot, choose 1 of your 《鍵》 Character, during this turn, it gets +2000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card9140-large.jpg"
+    },
+    {
+        "name": "水着のわかば",
+        "code": "VR/W22-030",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "天元理心流の名にかけて、皆は私が守る！",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, places the top 3 cards of your Deck into the Waiting Room.",
+            "【S】 ● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card9141-large.jpg"
+    },
+    {
+        "name": "文武両道 わかば",
+        "code": "VR/W22-031",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "誰が相手であろうとも私は絶対に負けません！",
+        "ability": [
+            "【C】 If you have 2 or more other 《鍵》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card9142-large.jpg"
+    },
+    {
+        "name": "私服のわかば",
+        "code": "VR/W22-032",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "黒騎さんがどうかしたの？",
+        "ability": [
+            "【C】 For each Marker under this card, this card gets +1 Level, +1500 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, you may choose 1 《鍵》 Character from your Waiting Room, place it under this card faced down as a Marker."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card9143-large.jpg"
+    },
+    {
+        "name": "天城 みずは",
+        "code": "VR/W22-033",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ここが軍だったら間違いなく営倉入りよ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《鍵》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Teacher 《先生》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card9144-large.jpg"
+    },
+    {
+        "name": "パレットスーツ装着！ わかば",
+        "code": "VR/W22-034",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "危ない！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card9145-large.jpg"
+    },
+    {
+        "name": "ひまわりの付き人 わかば",
+        "code": "VR/W22-035",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "え？　そ、それは、その……まあいいじゃない",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【A】 When a Climax is placed into your Climax slot, choose 1 of your 《鍵》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card9146-large.jpg"
+    },
+    {
+        "name": "真の強さ わかば",
+        "code": "VR/W22-036",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card9147-large.jpg"
+    },
+    {
+        "name": "ひまわりのボディーガード",
+        "code": "VR/W22-037",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "――！",
+        "ability": [
+            "Choose 1 《鍵》 Character from your Clock, return it to Hand. Choose 1 of your Character, during this turn, it gets +2000 Power. Place this card into Clock."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card9148-large.jpg"
+    },
+    {
+        "name": "天元理心流特訓術",
+        "code": "VR/W22-038",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はいこれ、次はあおいちゃんがやるのよ",
+        "ability": [
+            "You may choose 1 「天元理心流特訓術」 from your Hand, place it into Waiting Room. If you did, place this card into Memory.",
+            "【C】 RECOLLECTION If this card is in your Memory, all your 《鍵》 Characters, get +1000 Power."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card9149-large.jpg"
+    },
+    {
+        "name": "ビビッドブレード",
+        "code": "VR/W22-039",
+        "rarity": "CR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "エンジン臨界、200パーセント！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card9150-large.jpg"
+    },
+    {
+        "name": "楽しい勝負",
+        "code": "VR/W22-040",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この勝負がどんな結果に終わっても、また私と戦ってくれる？",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card9151-large.jpg"
+    },
+    {
+        "name": "明るくまっすぐ あかね",
+        "code": "VR/W22-041",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "私、一色あかねって言うの！　あなたは？",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.",
+            "【A】［①］ When 「世界を救う力」 is placed in your Climax Slot, you may pay the cost. If you did, choose 1 《鍵》 Character from your Waiting Room, add it into Hand, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card9152-large.jpg"
+    },
+    {
+        "name": "一色 あかね",
+        "code": "VR/W22-042",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "えへへっ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】［③ Place 2 cards from Hand into Waiting Room］ When this card attacks, you may pay the cost. If you did, deal 5 damage to your opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card9153-large.jpg"
+    },
+    {
+        "name": "そっけない応答 れい",
+        "code": "VR/W22-043",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "……なんのこと？",
+        "ability": [
+            "【A】［Place 「羽型のあざ」 from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《謎》 Character from your Waiting Room, add it to Hand.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card9154-large.jpg"
+    },
+    {
+        "name": "マヨラー あかね",
+        "code": "VR/W22-044",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "じゃあれいちゃんのハンバーグも、マヨスペシャルに……って、あれ？",
+        "ability": [
+            "【C】 All your other 《鍵》 Characters get +500 Power.",
+            "【S】［①］ Choose 1 of your opponent's Front Row Level 0 or below Character, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card9155-large.jpg"
+    },
+    {
+        "name": "天真爛漫 あかね",
+        "code": "VR/W22-045",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "えへへ。れいちゃんって呼んでいい？",
+        "ability": [
+            "【C】 If your opponent's Stock is 3 or below, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card9156-large.jpg"
+    },
+    {
+        "name": "オペレーション！ ビビッドレッド",
+        "code": "VR/W22-046",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "――これが、友情の力だ！！",
+        "ability": [
+            "【A】［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《鍵》 Character from your Waiting Room, add it to Hand.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Key 《鍵》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card9157-large.jpg"
+    },
+    {
+        "name": "いつでもポジティブ あかね",
+        "code": "VR/W22-047",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "私にできることだったらなんでもするよ！",
+        "ability": [
+            "【A】［① Place card into Waiting Room］ When you other 《鍵》 Character being Front Attacked, you may the cost. If you did, choose 1 of your battling Character, during this turn, it gets +2500."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card9158-large.jpg"
+    },
+    {
+        "name": "テント形態 あかね",
+        "code": "VR/W22-048",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "はわわわっ!?",
+        "ability": [
+            "【A】 RECOLLECTION When you use this card's 『ASSIST』, if your Memory have 2 or more 《鍵》 Characters, choose 1 of your battling Character, during this turn, it gets +1500 Power.",
+            "【S】 ● ASSIST 1500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card9159-large.jpg"
+    },
+    {
+        "name": "滅ぼす者 れい",
+        "code": "VR/W22-049",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "私の使命は、示現エンジンを破壊すること……",
+        "ability": [
+            "【A】［①］ When 「れいの使命」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your Character with Cost 0 or less from your Waiting Room, place it into any slot on Stage, during this turn, that Character gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card9160-large.jpg"
+    },
+    {
+        "name": "ビビッドレッド",
+        "code": "VR/W22-050",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ビビッドレッド、オペレーション！！",
+        "ability": [
+            "【C】 RECOLLECTION If your have 2 or more 《鍵》 Characters in your Memory, this card gets +1000 Power.",
+            "【A】 When is card is placed on Stage from Hand or through the 【S】 effect of 「あかねとドッキング！ れい」, draw 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】 [①] When 「ビビッドパンチ」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of opponent's Character with Level 2 or lower, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Key 《鍵》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card9161-large.jpg"
+    },
+    {
+        "name": "みんなの中心 あかね",
+        "code": "VR/W22-051",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "みんなとだったら、世界だって救えるよ！",
+        "ability": [
+            "【A】 When this card attacks, if 「ネイキッドラング」 is in the Climax Slot, place the top 3 cards from your Deck into Waiting Room. If all of those cards are 《鍵》 Characters, choose 1 Character from your Waiting Room, add it to Hand."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card9162-large.jpg"
+    },
+    {
+        "name": "独りぼっちのれい",
+        "code": "VR/W22-052",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "これ以上、私に優しくしないで",
+        "ability": [
+            "【C】 If you have no other Characters, this card gets +1 Level, +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card9163-large.jpg"
+    },
+    {
+        "name": "『彼ら』の使者 カラス",
+        "code": "VR/W22-053",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "あなたがグズグズしていたからですよ",
+        "ability": [
+            "【C】 For each marker under this card, this card gets +1 Level, +2000 Power.",
+            "【A】 When this card attacks, choose 1 of your 「そっけない応答 れい」, you may place it under this card as a marker."
+        ],
+        "attributes": [
+            "Mystery 《謎》",
+            "Animal 《動物》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card9164-large.jpg"
+    },
+    {
+        "name": "水着のれい",
+        "code": "VR/W22-054",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ここは……？",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +X. X is equal to the number of your Characters with 『SUPPORT』 ×500.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《謎》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card9165-large.jpg"
+    },
+    {
+        "name": "あかねとドッキング！ れい アカネトドッキング！レイ",
+        "code": "VR/W22-055",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 BOND／「いつでもポジティブ あかね」［Place 1 card from Hand into Waiting Room］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「いつでもポジティブ あかね」 from your Waiting Room, return to Hand)",
+            "【S】［② Place 1 「いつでもポジティブ あかね」from your Stage and this card into Memory］ Choose 1 「ビビッドレッド」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card9166-large.jpg"
+    },
+    {
+        "name": "まっすぐな瞳 あかね",
+        "code": "VR/W22-056",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "れいちゃんは？　私をどう思った？",
+        "ability": [
+            "【C】 If you have other Character with Level 3 or higher, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card9167-large.jpg"
+    },
+    {
+        "name": "すれ違う心 れい",
+        "code": "VR/W22-057",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "……私は一人でいい",
+        "ability": [
+            "【A】 CHANGE ［② Place 1 card from Hand to Waiting Room, place this card into Memory］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「黒騎 れい」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card9168-large.jpg"
+    },
+    {
+        "name": "謎の存在 アローン",
+        "code": "VR/W22-058",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "健次郎「羽化しよった……！！」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "Alone 《アローン》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card9169-large.jpg"
+    },
+    {
+        "name": "黒騎 れい",
+        "code": "VR/W22-059",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "……なに？",
+        "ability": [
+            "【C】 For each of your other 《鍵》 or 《アローン》 Character, this card gets +500 Power.",
+            "【A】［①］ When this card is placed on Stage from Hand or through 『CHANGE』, you may pay the cost. If you did, deal 1 Damage to your opponent.(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card9170-large.jpg"
+    },
+    {
+        "name": "しっかりもの もも",
+        "code": "VR/W22-060",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私、ちょっと買い物してくるね",
+        "ability": [
+            "【A】［Place 1 《鍵》 Character into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with 「ドッキング」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Housekeeping 《家事》",
+            "Knapsack 《ランドセル》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card9171-large.jpg"
+    },
+    {
+        "name": "体育の時間 れい",
+        "code": "VR/W22-061",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ホームラン",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card9172-large.jpg"
+    },
+    {
+        "name": "一色 ましろ",
+        "code": "VR/W22-062",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "よ～し、おいで！",
+        "ability": [
+            "【A】 BOND／「すれ違う心 あかね」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「すれ違う心 あかね」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "Science 《科学》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card9173-large.jpg"
+    },
+    {
+        "name": "与えられた力 れい",
+        "code": "VR/W22-063",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……取り返してみせる……",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《謎》 Character or Event, add it to Hand, choose 1 card from Hand, place it into Waiting Room. (If its not, return it to its original position)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card9174-large.jpg"
+    },
+    {
+        "name": "偉大な科学者 健次郎",
+        "code": "VR/W22-064",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "手柄でアローンは倒せんぞ",
+        "ability": [
+            "【S】［② REST 2 of your Characters］ Choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Doll 《人形》",
+            "Science 《科学》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card9175-large.jpg"
+    },
+    {
+        "name": "新聞配達 あかね",
+        "code": "VR/W22-065",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ぶんぶんぶぶ～ん、ぶんぶぶ～ん、\n新聞はいたつぶんぶぶ～ん",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card9176-large.jpg"
+    },
+    {
+        "name": "仲良し姉妹 あかね＆もも",
+        "code": "VR/W22-066",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】［①］ When this card attacks, if 「ビビッドもも、オペレーション！」 is in the Climax slot, you may pay the cost. If you did, choose 1 of your 《鍵》 Character, during this turn, it gets +Ｘ Power. X is equals to the Power of this card."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Housekeeping 《家事》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card9177-large.jpg"
+    },
+    {
+        "name": "人類に訪れた災厄 アローン",
+        "code": "VR/W22-067",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "健次郎「『アローン』め……。やはり来おったか！！」",
+        "ability": [
+            "【S】［Place 1 《謎》 Character from Hand into Waiting Room］ During this turn, this card gets +3500."
+        ],
+        "attributes": [
+            "Alone 《アローン》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card9178-large.jpg"
+    },
+    {
+        "name": "謎の少女 れい",
+        "code": "VR/W22-068",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "……なんなのよ、いきなり……",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card9179-large.jpg"
+    },
+    {
+        "name": "すれ違う心 あかね",
+        "code": "VR/W22-069",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "……れいちゃん？",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card9180-large.jpg"
+    },
+    {
+        "name": "平行世界の少女 れい",
+        "code": "VR/W22-070",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "……取り返してみせる……",
+        "ability": [
+            "【C】 If your Stock has 4 or less cards, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】［①］ When this card attacks, if 「さよならは言わない」 is in the Climax slot, you may pay the cost. If you did, deal 1 Damage to your opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card9181-large.jpg"
+    },
+    {
+        "name": "私であるための証 れい",
+        "code": "VR/W22-071",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "返して！　――返してよ！！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card9182-large.jpg"
+    },
+    {
+        "name": "パレットスーツ装着！ あかね",
+        "code": "VR/W22-072",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "大丈夫。私に任せて！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card9183-large.jpg"
+    },
+    {
+        "name": "つながる心",
+        "code": "VR/W22-073",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose 2 of your STAND Characters, REST them. If 2 or more become REST, choose up to 2 《鍵》 Characters from your Waiting Room, return them to Hand."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card9184-large.jpg"
+    },
+    {
+        "name": "羽型のあざ",
+        "code": "VR/W22-074",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あと……六本……",
+        "ability": [
+            "Choose 1 「謎の存在 アローン」 from your Waiting Room, place it into any slot on Stage. Place this card into Memory.",
+            "【C】You can place up to 10 cards with this card's name into your Deck.",
+            "【C】 RECOLLECTION If this card is in your Memory, all your 「謎の存在 アローン」 get +1000 Power."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card9185-large.jpg"
+    },
+    {
+        "name": "世界を救う力",
+        "code": "VR/W22-075",
+        "rarity": "CR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "れいちゃぁぁ――ん！",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card9186-large.jpg"
+    },
+    {
+        "name": "れいの使命",
+        "code": "VR/W22-076",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……――っ",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card9187-large.jpg"
+    },
+    {
+        "name": "ビビッドパンチ",
+        "code": "VR/W22-077",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ファイナルオペレーション！！",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card9188-large.jpg"
+    },
+    {
+        "name": "ネイキッドラング",
+        "code": "VR/W22-078",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "えぇぃ――っ！",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card9189-large.jpg"
+    },
+    {
+        "name": "ビビッドもも、オペレーション！",
+        "code": "VR/W22-079",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あかね「ビビッドもも、オペレーション！きぃぃぃぃ～～ん！」",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card9190-large.jpg"
+    },
+    {
+        "name": "さよならは言わない",
+        "code": "VR/W22-080",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あかね……",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card9191-large.jpg"
+    },
+    {
+        "name": "ビビッドブルー",
+        "code": "VR/W22-081",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ビビッドブルー、オペレーション！",
+        "ability": [
+            "【C】 RECOLLECTION When you have 2 or more 《鍵》 Characters, this card gets +1500 Power, gains the following ability.『【A】［Place the top card of your Deck into Clock］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, draw 1 card.』"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card9192-large.jpg"
+    },
+    {
+        "name": "二葉 あおい",
+        "code": "VR/W22-082",
+        "rarity": "RR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ドッキング……？",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.",
+            "【A】 When this card attacks, if 「ネイキッドインパクト」 is in the Climax slot, all your Characters, until the end of your opponent's next turn, they get +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card9193-large.jpg"
+    },
+    {
+        "name": "おしとやかな少女 あおい",
+        "code": "VR/W22-083",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ちょっとだけわかった気がするの。そのビビ…って感じ",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】［② REST 2 of your Characters］ Draw 1 card。"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card9194-large.jpg"
+    },
+    {
+        "name": "水着のあおい",
+        "code": "VR/W22-084",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あぁ……怖かった……",
+        "ability": [
+            "【C】 SUPPORT All your 《鍵》 Characters in front of this card gets +1 Level, +500 Power.",
+            "【A】When this card is placed on Stage from Hand, draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card9195-large.jpg"
+    },
+    {
+        "name": "あおいとドッキング！ あかね",
+        "code": "VR/W22-085",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "あははっ、知ってるよそんなこと！",
+        "ability": [
+            "【A】 BOND／「真実の告白 あおい」［Place 1 card from Hand into Waiting Room］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「真実の告白 あおい」 from your Waiting Room, return to Hand)",
+            "【S】［② Place 1 of your 「真実の告白 あおい」 from Stage and this card into Memory］ Choose 1 「ビビッドブルー」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card9196-large.jpg"
+    },
+    {
+        "name": "オペレーション！ ビビッドブルー",
+        "code": "VR/W22-086",
+        "rarity": "R",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ビビッドインパクト、セーフティ解除！",
+        "ability": [
+            "【A】 When this card attacks, if 「オペレーションキー出現！」 is in your Climax slot, during this turn, it gets +1500 Power, gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, you may place that Character to the bottom of the Deck.』"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card9197-large.jpg"
+    },
+    {
+        "name": "朝の特訓 あおい",
+        "code": "VR/W22-087",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "――え？　はっ、はい！",
+        "ability": [
+            "【S】［①］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】［REST 2 of your Characters］ Choose 1 of your 《鍵》 Characters, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card9198-large.jpg"
+    },
+    {
+        "name": "真実の告白 あおい",
+        "code": "VR/W22-088",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私……ほんとは、トマト大嫌いだったの！！",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "【S】［REST 1 of your 《鍵》 Character］ During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card9199-large.jpg"
+    },
+    {
+        "name": "屋上でお弁当 あおい",
+        "code": "VR/W22-089",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "それとね、その勉強会って、もう一人誘っていいかな？",
+        "ability": [
+            "【C】If the Character facing this card is Level 3 or higher, this card gets +7500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card9200-large.jpg"
+    },
+    {
+        "name": "すっかり元気 あおい",
+        "code": "VR/W22-090",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "今度は私が、みんなを守る！",
+        "ability": [
+            "【C】 During your opponent's turn, if you have another Character with Level 2 or higher, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card9201-large.jpg"
+    },
+    {
+        "name": "テクスチャー・オン！ あおい",
+        "code": "VR/W22-091",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "イグニッション！　テクスチャー・オン！",
+        "ability": [
+            "【A】 CHANGE ［① Place 1 card from Hand to Waiting Room, place this card into Memory］At the beginning of your Climax Phase, you may pay this cost. If you do, choose 1 「二葉 あおい」 from your Waiting Room, place it in this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card9202-large.jpg"
+    },
+    {
+        "name": "紫条 悠里",
+        "code": "VR/W22-092",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "……やはりあなたですね？　一色先生",
+        "ability": [
+            "【A】 When this card becomes REVERSE in battle, reveal the top card of your Deck. If that card is Level 2 or higher, you may return this card to your Hand.（Climax is considered Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Science 《科学》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card9203-large.jpg"
+    },
+    {
+        "name": "私服のあおい",
+        "code": "VR/W22-093",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "黒騎さん……？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card9204-large.jpg"
+    },
+    {
+        "name": "おやつの時間 あおい",
+        "code": "VR/W22-094",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あり……がとう……",
+        "ability": [
+            "【C】 If you have 2 or more other 《鍵》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card9205-large.jpg"
+    },
+    {
+        "name": "初めての戦い あおい",
+        "code": "VR/W22-095",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "これが私の武器……！",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card9206-large.jpg"
+    },
+    {
+        "name": "パレットスーツ装着！ あおい",
+        "code": "VR/W22-096",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "あれは！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card9207-large.jpg"
+    },
+    {
+        "name": "オペレーション・コクーンブレイク",
+        "code": "VR/W22-097",
+        "rarity": "U",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "まさに三位一体になる必要があるわね\nでも大丈夫。きっとやれる。……私達なら\n……うん！",
+        "ability": [
+            "If you have a Blue Character, look at up to 2 card from the top of your Deck, choose up to 1 card, add it to Hand, place the remaining on top of the Deck in any order, choose 1 card from your Hand, place it into Waiting Room.",
+            "If you have a Yellow Character, during this turn, your opponent cannot use 『【A】 ENCORE』. (Rule-based 『【A】ENCORE ［③］』 cannot be used as well）",
+            "If you have a Green Character, choose 1 of your Character, during this turn, it gets +3000 Power."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card9208-large.jpg"
+    },
+    {
+        "name": "意外と力もち",
+        "code": "VR/W22-098",
+        "rarity": "C",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "待てぇ、こっちだ！\n……うん！",
+        "ability": [
+            "● Choose 1 of your 《鍵》 Character, during this turn, it gets +2500 Power. Choose 1 Character in battle, during this turn, it gets +5 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card9209-large.jpg"
+    },
+    {
+        "name": "ネイキッドインパクト",
+        "code": "VR/W22-099",
+        "rarity": "CR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はぁぁぁぁ――ッ！！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card9210-large.jpg"
+    },
+    {
+        "name": "オペレーションキー出現！",
+        "code": "VR/W22-100",
+        "rarity": "CC",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "鍵…………!?",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card9211-large.jpg"
+    },
+    {
+        "name": "おやつの時間 あかね",
+        "code": "VR/W22-101",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ごめんね、えへへ",
+        "ability": [
+            "【A】This ability can only be activated up to 2 times each turn. When another of your 《鍵》 Character is placed on Stage from Hand, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card8776-large.jpg"
+    },
+    {
+        "name": "登校中のもも",
+        "code": "VR/W22-102",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "も～！\n新聞配達が休みになると、途端に寝坊するんだから！",
+        "ability": [
+            "【C】 If your have other Character with 「あかね」 in its name, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Housekeeping 《家事》",
+            "Knapsack 《ランドセル》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card8777-large.jpg"
+    },
+    {
+        "name": "初めてのドッキング あかね",
+        "code": "VR/W22-103",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "なんか、ビビってきたの！",
+        "ability": [
+            "【S】［② Place 1 「守るための力 あおい」from your Stage and this card into Memory］ Choose 1 「一つになった二人 ビビッドブルー」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card8778-large.jpg"
+    },
+    {
+        "name": "一つになった二人 ビビッドブルー",
+        "code": "VR/W22-104",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "……私たち、一つになってる！",
+        "ability": [
+            "【C】 RECOLLECTION If you have 2 or more 《鍵》 Characters in Memory, this card gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand or through 【S】 effect of 「初めてのドッキング あかね」, look up to top X cards of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards into Waiting Room. Ｘ is equals to the number of your 《鍵》 Characters."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card8779-large.jpg"
+    },
+    {
+        "name": "守るための力 あおい",
+        "code": "VR/W22-105",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "これなら……私にもできる！\n守ってもらってばかりだった私が……！",
+        "ability": [
+            "【C】 All your other 《鍵》 Characters get +500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card8780-large.jpg"
+    },
+    {
+        "name": "新大島中学2年生 ひまわり",
+        "code": "VR/W22-106",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "……野菜キライ……",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card9212-large.jpg"
+    },
+    {
+        "name": "新大島中学2年生 わかば",
+        "code": "VR/W22-107",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私の名は三枝わかば。天元理心流宗家の跡取りよ",
+        "ability": [
+            "【C】 All your other Character in the Center slot of the Front Row gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card9213-large.jpg"
+    },
+    {
+        "name": "新大島中学2年生 あかね",
+        "code": "VR/W22-108",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "どしたの？",
+        "ability": [
+            "【C】 If this card is the Center slot of the Front Row gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card9214-large.jpg"
+    },
+    {
+        "name": "新大島中学2年生 れい",
+        "code": "VR/W22-109",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……何の用？",
+        "ability": [
+            "【S】 ● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card9215-large.jpg"
+    },
+    {
+        "name": "新大島中学2年生 あおい",
+        "code": "VR/W22-110",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ふふっ。おじいさんも可愛いですよ♪",
+        "ability": [
+            "【C】 For each card in your Level Slot, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card9216-large.jpg"
+    },
+    {
+        "name": "大島の元気娘 あかね",
+        "code": "VR/W22-P01",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "この島やみんなが、大好きです！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Bike 《バイク》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card8796-large.jpg"
+    },
+    {
+        "name": "大好きな友達 あかね＆あおい",
+        "code": "VR/W22-P02",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "凄いよあおいちゃん！",
+        "ability": [
+            "【A】 When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card8797-large.jpg"
+    },
+    {
+        "name": "ビビッときた二人 あかね&あおい",
+        "code": "VR/W22-P03",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "きっと、きっとあおいちゃんとは、\nず～～っとず～～っと仲良しでいられる",
+        "ability": [
+            "【S】［REST 2 of your Characters］ During this turn, this card gets +1 Level, +1500 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "P03",
+        "image": "https://images.littleakiba.com/tcg/card8798-large.jpg"
+    },
+    {
+        "name": "幼い頃のあかね",
+        "code": "VR/W22-P04",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "おか～さ～ん",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top of the Deck."
+        ],
+        "attributes": [
+            "Mayonnaise 《マヨネーズ》",
+            "Knapsack 《ランドセル》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "P04",
+        "image": "https://images.littleakiba.com/tcg/card9217-large.jpg"
+    },
+    {
+        "name": "真夏の海辺 ひまわり",
+        "code": "VR/W22-P05",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "喉乾いたな～",
+        "ability": [
+            "【C】 If you have 3 or more other 《工場》 or 《盾》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Factory 《工場》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "P05",
+        "image": "https://images.littleakiba.com/tcg/card28122-large.jpg"
+    },
+    {
+        "name": "ビビッときた二人 あかね＆わかば",
+        "code": "VR/W22-P06",
+        "rarity": "PR",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あかね「楽しいね、わかばちゃん！」",
+        "ability": [
+            "【A】 RECOLLECTION If this card is in Memory, when a card is placed into Waiting Room from any player's Clock by his/her own effect, that player may place the top 2 cards of his/her Stock into Waiting Room. If he/she did not, place the top card of that player's Deck into Clock.",
+            "【A】［① Place this card into Memory］ When this card becomes REVERSE in battle, if you have 2 or more other 《鍵》 Characters, you may pay the Cost. If you did, draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "P06",
+        "image": "https://images.littleakiba.com/tcg/card28123-large.jpg"
+    },
+    {
+        "name": "しっかりもの もも",
+        "code": "VR/W22-T01",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あっついから気をつけてね",
+        "ability": [
+            "【A】［Place 1 《鍵》 Character into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with 「ドッキング」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Housekeeping 《家事》",
+            "Knapsack 《ランドセル》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card8781-large.jpg"
+    },
+    {
+        "name": "偉大な科学者 健次郎",
+        "code": "VR/W22-T02",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "よくきけ二人とも！ドッキングじゃ！",
+        "ability": [
+            "【S】［② REST 2 of your Characters］ Choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Doll 《人形》",
+            "Science 《科学》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card8782-large.jpg"
+    },
+    {
+        "name": "新聞配達 あかね",
+        "code": "VR/W22-T03",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "多分それは、夢のような未来",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card8783-large.jpg"
+    },
+    {
+        "name": "謎の少女 れい",
+        "code": "VR/W22-T04",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "…………",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mystery 《謎》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card8784-large.jpg"
+    },
+    {
+        "name": "すれ違う心 あかね",
+        "code": "VR/W22-T05",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "……れいちゃん？",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Mayonnaise 《マヨネーズ》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card8785-large.jpg"
+    },
+    {
+        "name": "パレットスーツ装着！ あかね",
+        "code": "VR/W22-T06",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "あおいちゃん、すごい…",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card8786-large.jpg"
+    },
+    {
+        "name": "つながる心",
+        "code": "VR/W22-T07",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あかね「なんだろ……」\nあおい「何か……流れ込んでくる……」",
+        "ability": [
+            "Choose 2 of your STAND Characters, REST them. If 2 become REST, choose up to 2 《鍵》 Characters from your Waiting Room, return them to Hand."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card8787-large.jpg"
+    },
+    {
+        "name": "ネイキッドラング",
+        "code": "VR/W22-T08",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そぉーれっ！",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card8788-large.jpg"
+    },
+    {
+        "name": "真実の告白 あおい",
+        "code": "VR/W22-T09",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私……ほんとは、トマト大嫌いだったの！！",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "【S】［REST 1 of your 《鍵》 Character］ During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card8789-large.jpg"
+    },
+    {
+        "name": "私服のあおい",
+        "code": "VR/W22-T10",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "私一人のために、申し訳ありません。\nでも、一刻も早く島に帰りたくて……",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card8790-large.jpg"
+    },
+    {
+        "name": "おやつの時間 あおい",
+        "code": "VR/W22-T11",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あり……がとう……",
+        "ability": [
+            "【C】 If you have 2 or more other 《鍵》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Noble Daughter 《令嬢》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card8791-large.jpg"
+    },
+    {
+        "name": "初めての戦い あおい",
+        "code": "VR/W22-T12",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "これが私の武器……！",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card8792-large.jpg"
+    },
+    {
+        "name": "パレットスーツ装着！ あおい",
+        "code": "VR/W22-T13",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "出来た……。\nわたしも変身できたよ！見て！あかねちゃん！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Key 《鍵》",
+            "Weapon 《武器》"
+        ],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card8793-large.jpg"
+    },
+    {
+        "name": "オペレーションキー出現！",
+        "code": "VR/W22-T14",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "鍵…………!?",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card8794-large.jpg"
+    },
+    {
+        "name": "ネイキッドインパクト",
+        "code": "VR/W22-T15",
+        "rarity": "TD",
+        "expansion": "Vividred Operation",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "え――ぃっ！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "VR",
+        "release": "W22",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card8795-large.jpg"
+    }
+]

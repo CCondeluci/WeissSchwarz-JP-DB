@@ -1,0 +1,1961 @@
+[
+    {
+        "name": "世界を蹂躙せしもの",
+        "code": "GZL/S54-P01",
+        "rarity": "PR",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card45088-large.jpg"
+    },
+    {
+        "name": "“不屈の闘志”ハルオ",
+        "code": "GZL/S54-P02",
+        "rarity": "PR",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "この〈地球〉を必ず取り戻す",
+        "ability": [
+            "【C】 For each of your other 《アラトラム号》 Character, this card gets ＋500 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card56605-large.jpg"
+    },
+    {
+        "name": "“翼竜型生物”セルヴァム",
+        "code": "GZL/S54-T01",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "歩哨「ん？おい、何だ？」",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card44924-large.jpg"
+    },
+    {
+        "name": "“突然変異”セルヴァム",
+        "code": "GZL/S54-T02",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "マーティン「記録にある地球原産生物のいずれにも該当しないな……」",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card44925-large.jpg"
+    },
+    {
+        "name": "“野生動物”セルヴァム",
+        "code": "GZL/S54-T03",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "アダム「こいつら予定外だぞ！」",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【C】 For each Marker under this card, this card gets ＋2000 Power.",
+            "【自】 When this card is placed on Stage from Hand, choose up to 3 「“野生動物”セルヴァム」 or 「“突然変異”セルヴァム」 or 「“翼竜型生物”セルヴァム」 from your Waiting Room, place them under this card face-up in any order as Marker."
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card44926-large.jpg"
+    },
+    {
+        "name": "“破壊の王”ゴジラ",
+        "code": "GZL/S54-T04",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "滅びるのは、人か、ゴジラか",
+        "ability": [
+            "【A】 During the turn when this card is placed on Stage from Hand, at the beginning of your Attack Phase, you may place all Characters of all players other than this card into Waiting Room. If you did, until end of opponent's next turn, this card gets ＋2000 Power, gains the following Ability.『【A】 This ability can only be activated up to 1 time each turn. When the Damage dealt by this card is cancelled, you may deal Ｘ Damage to your opponent. Ｘ is equal to the number of Soul of this card.』（Damage can be cancelled）",
+            "【A】［③ Place 2 cards from Hand into Waiting Room］ When this card attacks, you may pay the cost. If you did, deal 5 Damage to your opponent.（Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card44927-large.jpg"
+    },
+    {
+        "name": "轟く咆哮",
+        "code": "GZL/S54-T05",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハルオ「散開しろ！」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card44928-large.jpg"
+    },
+    {
+        "name": "“対ゴジラ戦術”ハルオ",
+        "code": "GZL/S54-T06",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "いずれの行程においても、人員を注ぎ込むことでしか達成の目途は立ちません",
+        "ability": [
+            "【C】 All your other《アラトラム号》 Characters gets ＋500 Power.",
+            "【A】［②］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, search your Deck for up to 1 《アラトラム号》 Character and show it to your opponent, add it to hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card44929-large.jpg"
+    },
+    {
+        "name": "“希望を託して ”メトフィエス",
+        "code": "GZL/S54-T07",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あれがゴジラであり、なおかつ単独であるならば、対処の方針はただひとつ。殲滅あるのみです",
+        "ability": [
+            "【A】 When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card44930-large.jpg"
+    },
+    {
+        "name": "“惑星の沿革”ガルグ",
+        "code": "GZL/S54-T08",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "だが俺たちはメカゴジラ開発に失敗し、お前たちの教義も地球人を洗脳しきれなかった。それが歴史だ。『もしも』は夢物語でしかない",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your 《アラトラム号》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card44931-large.jpg"
+    },
+    {
+        "name": "“不安な眼差し”ユウコ・タニ",
+        "code": "GZL/S54-T09",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If your Stock has 2 or less cards, this card gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card44932-large.jpg"
+    },
+    {
+        "name": "“影の協力者”メトフィエス",
+        "code": "GZL/S54-T10",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "人気者だな。我らが不良大尉は",
+        "ability": [
+            "【C】 All your other 「“収監者の告解”ハルオ」 gets ＋2000 Power.",
+            "【A】 BOND／「“収監者の告解”ハルオ」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“収監者の告解”ハルオ」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card44933-large.jpg"
+    },
+    {
+        "name": "“絶望と希望 ”ガルグ",
+        "code": "GZL/S54-T11",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これだから好戦的種族は始末におえん",
+        "ability": [
+            "【C】 For each of your other 《アラトラム号》 Characters, this card gets ＋500 Power."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card44934-large.jpg"
+    },
+    {
+        "name": "“戦いの最前線”ハルオ",
+        "code": "GZL/S54-T12",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "パワードスーツ部隊はトラップポイントへ移動、待機する",
+        "ability": [
+            "【A】【CXCOMBO】 When this card's battle opponent becomes REVERSE, if 「俺は、貴様を……」 is in your Climax Slot, look at up to 4 cards from your top Deck, choose up to 1 《アラトラム号》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, choose 1 of your Character, during this turn, it gets ＋2000 Power."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card44935-large.jpg"
+    },
+    {
+        "name": "“パワードスーツ部隊”ユウコ・タニ",
+        "code": "GZL/S54-T13",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ハルオ「……諸君らの健闘に期待する。以上だ」",
+        "ability": [
+            "【S】【COUNTER】 ASSIST 3000 Level 2 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card44936-large.jpg"
+    },
+    {
+        "name": "“任務継続”メトフィエス",
+        "code": "GZL/S54-T14",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "もちろん、万が一にも我々だけでゴジラと鉢合わせしたら目も当てられない",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +X Power. X is equals to that Character's Level ×500.",
+            "【A】 When this card is placed on Stage from Hand, draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card44937-large.jpg"
+    },
+    {
+        "name": "“収監者の告解”ハルオ",
+        "code": "GZL/S54-T15",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "ハルオ「これが必然だったと思うか？当然の罰だとでも？」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card44938-large.jpg"
+    },
+    {
+        "name": "“希望の先導者”ハルオ",
+        "code": "GZL/S54-T16",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "俺たちは、もう一度ゴジラと戦わなきゃならない。人としての尊厳を取り戻すために",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】［③ Place 2 cards from Hand into Waiting Room, place 1 of your other Character into Waiting Room from Stage］ This ability can only be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, STAND this card."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card44939-large.jpg"
+    },
+    {
+        "name": "“繋ぐ希望”ユウコ・タニ",
+        "code": "GZL/S54-T17",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私は元々パワードスーツ部隊ですから",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】 When this card attacks, choose 1 of your other 《アラトラム号》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《アラトラム号》 Character ×500."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card44940-large.jpg"
+    },
+    {
+        "name": "ゴジラ完全殲滅の可能性と新戦術について",
+        "code": "GZL/S54-T18",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハルオ「なぜいま俺たちが苦しんでいるのか……それは奴に負けたからだ。最後まで戦わず、諦めて逃げ出したからだ」",
+        "ability": [
+            "Search your Deck for up to 1 《アラトラム号》 Character and up to 1 《怪獣》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards. Choose 1 card from your Hand, place it into Waiting Room. Place this card into Clock."
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card44941-large.jpg"
+    },
+    {
+        "name": "俺は、貴様を……",
+        "code": "GZL/S54-T19",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "やってくれたな！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card44942-large.jpg"
+    },
+    {
+        "name": "恒星間移民船アラトラム号",
+        "code": "GZL/S54-T20",
+        "rarity": "TD",
+        "expansion": "Godzilla The Animation",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハルオ「俺たちは何のために、何処へ向かうのか？闇の中、仲間を見捨ててまで命を繋ぐ惨めさを、ただ堪え忍ぶだけなのか。なぜ俺たちは生きている？ 何故……」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "S54",
+        "sid": "T20",
+        "image": "https://images.littleakiba.com/tcg/card44943-large.jpg"
+    },
+    {
+        "name": "“勇ましき巫女”マイナ",
+        "code": "GZL/SE33-01",
+        "rarity": "RR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "歌声は沼底まで届くはず",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card59653-large.jpg"
+    },
+    {
+        "name": "“心優しき巫女”ミアナ",
+        "code": "GZL/SE33-02",
+        "rarity": "RR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "蛇が闇の底に招く",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card59655-large.jpg"
+    },
+    {
+        "name": "“共に行こう”ミアナ",
+        "code": "GZL/SE33-03",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "わたしたち、いっしょ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card59848-large.jpg"
+    },
+    {
+        "name": "“覗く好奇心”ミアナ",
+        "code": "GZL/SE33-04",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card59658-large.jpg"
+    },
+    {
+        "name": "“闇に紛れて”マイナ",
+        "code": "GZL/SE33-05",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card59659-large.jpg"
+    },
+    {
+        "name": "“フツアの少女”マイナ",
+        "code": "GZL/SE33-06",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "アダム「どう見ても人間ですよね…」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card59660-large.jpg"
+    },
+    {
+        "name": "“耳澄ます”フツアの民",
+        "code": "GZL/SE33-07",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "卵が告げる。試練の時だ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card59852-large.jpg"
+    },
+    {
+        "name": "“歩み寄る？”ミアナ",
+        "code": "GZL/SE33-08",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ハル……オィ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card59662-large.jpg"
+    },
+    {
+        "name": "“警戒の目”マイナ",
+        "code": "GZL/SE33-09",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ハルオ「……！」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "《フツア》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card59663-large.jpg"
+    },
+    {
+        "name": "卵の歌",
+        "code": "GZL/SE33-10",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "卵は何も、語らない……",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card59664-large.jpg"
+    },
+    {
+        "name": "卵を讃えよ",
+        "code": "GZL/SE33-11",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ユウコ「顔がそっくり……」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card59856-large.jpg"
+    },
+    {
+        "name": "“猛き咆哮”ゴジラ・アース",
+        "code": "GZL/SE33-12",
+        "rarity": "RR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "3",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "――大地が吼える",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card59857-large.jpg"
+    },
+    {
+        "name": "“進行開始”ゴジラ・アース",
+        "code": "GZL/SE33-13",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card59668-large.jpg"
+    },
+    {
+        "name": "“緋色に染まる”ゴジラ・アース",
+        "code": "GZL/SE33-14",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card59859-large.jpg"
+    },
+    {
+        "name": "“起動”メカゴジラ",
+        "code": "GZL/SE33-15",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ガルグ「いや、我々のメカゴジラはまだ生きてる」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》",
+            "Mecha 《メカ》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card59670-large.jpg"
+    },
+    {
+        "name": "“蘇る決戦兵器”メカゴジラ",
+        "code": "GZL/SE33-16",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "人工知能ユニット。ブロックの半分は生きています。制御可能です！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》",
+            "Mecha 《メカ》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card59671-large.jpg"
+    },
+    {
+        "name": "“地球の支配者”ゴジラ・アース",
+        "code": "GZL/SE33-17",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card59672-large.jpg"
+    },
+    {
+        "name": "“ワーム型”セルヴァム",
+        "code": "GZL/SE33-18",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ガルグ 「これは……」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kaijuu 《怪獣》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card59863-large.jpg"
+    },
+    {
+        "name": "熱線",
+        "code": "GZL/SE33-19",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card59864-large.jpg"
+    },
+    {
+        "name": "増殖都市",
+        "code": "GZL/SE33-20",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ガルグ「このシティという環境そのものが、ビルサルドに無限の活力を与えてくれるのだ」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card59675-large.jpg"
+    },
+    {
+        "name": "“迷いを捨てて”ハルオ",
+        "code": "GZL/SE33-21",
+        "rarity": "RR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ユウコ、俺はもう迷わない",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card59676-large.jpg"
+    },
+    {
+        "name": "“一縷の希望”ユウコ・タニ",
+        "code": "GZL/SE33-22",
+        "rarity": "RR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……先輩は、私の希望だったんですよ？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card59677-large.jpg"
+    },
+    {
+        "name": "“装甲兵器”ヴァルチャー",
+        "code": "GZL/SE33-23",
+        "rarity": "RR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ユウコ「了解！」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card59867-large.jpg"
+    },
+    {
+        "name": "“疑念の渦”ハルオ",
+        "code": "GZL/SE33-24",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "何故止まった？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card59868-large.jpg"
+    },
+    {
+        "name": "“文明の再燃”ガルグ",
+        "code": "GZL/SE33-25",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "まさにナノメタルだった",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card59869-large.jpg"
+    },
+    {
+        "name": "“生物学者”マーティン",
+        "code": "GZL/SE33-26",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "思い出してみたまえ。20世紀、怪獣がどうして生まれたか",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card59870-large.jpg"
+    },
+    {
+        "name": "“戦闘指揮”ハルオ",
+        "code": "GZL/SE33-27",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "またあいつらか……",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card59684-large.jpg"
+    },
+    {
+        "name": "“冷徹なリアリスト”ドルド",
+        "code": "GZL/SE33-28",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "神だなんだを持ち出す必要もない",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card59685-large.jpg"
+    },
+    {
+        "name": "“大司教”メトフィエス",
+        "code": "GZL/SE33-29",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "中へ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card59873-large.jpg"
+    },
+    {
+        "name": "“ワタリドリの翼”ユウコ・タニ",
+        "code": "GZL/SE33-30",
+        "rarity": "R",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "すごい……こんなにも速く、自由に！\nこれがヴァルチャー……ビルサルドの力……",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card59687-large.jpg"
+    },
+    {
+        "name": "“探求心”マーティン",
+        "code": "GZL/SE33-31",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ここの大気は二万年前と同じ組成だ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card59688-large.jpg"
+    },
+    {
+        "name": "“エクシフの祈り”エンダルフ",
+        "code": "GZL/SE33-32",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "こいつこそ、あのゴジラなのだ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card59876-large.jpg"
+    },
+    {
+        "name": "“秘めた信念”メトフィエス",
+        "code": "GZL/SE33-33",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "試練の時だ。ハルオ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card59690-large.jpg"
+    },
+    {
+        "name": "“合理的な思考”ガルグ",
+        "code": "GZL/SE33-34",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "彼らは肉体を捨てて、メカゴジラシティそのものになったと言っていい",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card59691-large.jpg"
+    },
+    {
+        "name": "“森の中で”ユウコ",
+        "code": "GZL/SE33-35",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card59879-large.jpg"
+    },
+    {
+        "name": "“決死の抵抗”ハルオ",
+        "code": "GZL/SE33-36",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これ以上の足止めは無理だ！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card59693-large.jpg"
+    },
+    {
+        "name": "“導きの道”メトフィエス",
+        "code": "GZL/SE33-37",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そこでエクシフは、自らの使命を悟ったのです",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Exif 《エクシフ》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "37",
+        "image": "https://images.littleakiba.com/tcg/card59881-large.jpg"
+    },
+    {
+        "name": "“危機一髪”ユウコ・タニ",
+        "code": "GZL/SE33-38",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "きゃああああああ！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "38",
+        "image": "https://images.littleakiba.com/tcg/card59695-large.jpg"
+    },
+    {
+        "name": "“未来のために”エリオット",
+        "code": "GZL/SE33-39",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "人類の未来のために！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "39",
+        "image": "https://images.littleakiba.com/tcg/card59696-large.jpg"
+    },
+    {
+        "name": "“艦長の決断”モーリ",
+        "code": "GZL/SE33-40",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "またサカキ大尉か！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "40",
+        "image": "https://images.littleakiba.com/tcg/card59697-large.jpg"
+    },
+    {
+        "name": "“強敵に挑む者”ベルベ",
+        "code": "GZL/SE33-41",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "この距離ではだめか",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "41",
+        "image": "https://images.littleakiba.com/tcg/card59885-large.jpg"
+    },
+    {
+        "name": "“若き少尉”アダム",
+        "code": "GZL/SE33-42",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "今は神様の出る幕じゃないでしょう",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "42",
+        "image": "https://images.littleakiba.com/tcg/card59886-large.jpg"
+    },
+    {
+        "name": "“ビルサルドの熱情”ベルベ",
+        "code": "GZL/SE33-43",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "あの時、奴は地下200mにわたるこの開発施設すべてを焼き尽くした。730名の同胞と共にだ！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "43",
+        "image": "https://images.littleakiba.com/tcg/card59887-large.jpg"
+    },
+    {
+        "name": "“文明の結晶”ヴァルチャー",
+        "code": "GZL/SE33-44",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "そしてこれが、完成形だ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Bilusaludo 《ビルサルド》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "44",
+        "image": "https://images.littleakiba.com/tcg/card59888-large.jpg"
+    },
+    {
+        "name": "“見知らぬ場所”ハルオ",
+        "code": "GZL/SE33-45",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "どうやら、まだ天国でも地獄でもないらしい",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "45",
+        "image": "https://images.littleakiba.com/tcg/card59889-large.jpg"
+    },
+    {
+        "name": "“決意を宿す”ユウコ・タニ",
+        "code": "GZL/SE33-46",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "だから私は、先輩が行くところにどこまでもついていく",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "46",
+        "image": "https://images.littleakiba.com/tcg/card59890-large.jpg"
+    },
+    {
+        "name": "ナノメタル",
+        "code": "GZL/SE33-47",
+        "rarity": "U",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハルオ「禍々しいものか……」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "47",
+        "image": "https://images.littleakiba.com/tcg/card59704-large.jpg"
+    },
+    {
+        "name": "前線への覚悟",
+        "code": "GZL/SE33-48",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "さっきの口論でみな動揺した",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "48",
+        "image": "https://images.littleakiba.com/tcg/card59705-large.jpg"
+    },
+    {
+        "name": "銀の涙",
+        "code": "GZL/SE33-49",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハルオ「しっかりしろ、ユウコ！」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "49",
+        "image": "https://images.littleakiba.com/tcg/card59893-large.jpg"
+    },
+    {
+        "name": "全機、出撃！",
+        "code": "GZL/SE33-50",
+        "rarity": "C",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハルオ「まずは足止めだ」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "50",
+        "image": "https://images.littleakiba.com/tcg/card59894-large.jpg"
+    },
+    {
+        "name": "“人類の希望”ハルオ",
+        "code": "GZL/SE33-P01",
+        "rarity": "PR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "俺が先陣を切って戦う",
+        "ability": [
+            "【A】For each of your other Green or 《アラトラム号》 Character, this card gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card56606-large.jpg"
+    },
+    {
+        "name": "“指揮官として”ハルオ",
+        "code": "GZL/SE33-P02",
+        "rarity": "PR",
+        "expansion": "Godzilla The Animation",
+        "side": "SE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "迷ってるんだ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if opponent has 1 or less Character at Front Row, choose 1 opponent's Character with Cost 0 or lower at Front Row, place it to bottom Deck."
+        ],
+        "attributes": [
+            "Gematron Algorithm 《アラトラム号》",
+            "Human 《人類》"
+        ],
+        "set": "GZL",
+        "release": "SE33",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card56607-large.jpg"
+    }
+]

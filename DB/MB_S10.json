@@ -1,0 +1,3289 @@
+[
+    {
+        "name": "雪原の妖精 白レン",
+        "code": "MB/S10-001",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "目障りですから、ここで消えてくださらない？",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card2673-large.jpg"
+    },
+    {
+        "name": "真祖の王族 アルクェイド",
+        "code": "MB/S10-002",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "私をどうにかしたいんなら、\n生まれ変わって出直すことね",
+        "ability": [
+            "【A】［②］When this card attacks, if 「空想具現化」 is in your Climax slot, you may pay this cost. If you do, choose 1 of your opponent's Character with Level 1 or less, place it into Stock, during this turn, this card gets +3000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card2675-large.jpg"
+    },
+    {
+        "name": "とある日のレン",
+        "code": "MB/S10-003",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "…………",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card gets +500 Power.",
+            "【A】［① Discard 1 card from Hand to Waiting Room］When this card is placed on Stage from hand, you may pay this cost. If you do, search your deck for 1 Character with 「志貴」 in its name, show it to your opponent, then place it into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card2677-large.jpg"
+    },
+    {
+        "name": "暴君 アルクェイド",
+        "code": "MB/S10-004",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "わたし、そんな風に暴れたことはないんだけどなー？",
+        "ability": [
+            "【S】［Put this card to REST］Choose 1 of your Characters, during this turn, it gets +1000 Power.",
+            "【S】 CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For every Climax in those cards, choose 1 of your Characters, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card2678-large.jpg"
+    },
+    {
+        "name": "堕ちた真祖 アルクェイド",
+        "code": "MB/S10-005",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "あはははははは！\nやっぱり吸血鬼はこうでなくっちゃ！",
+        "ability": [
+            "【S】［①］During this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card2679-large.jpg"
+    },
+    {
+        "name": "“直死の魔眼”志貴",
+        "code": "MB/S10-006",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "―――教えてやる。これが、モノを殺すってことだ",
+        "ability": [
+            "【A】［①］When this card attacks, if 「十七分割」 is in your Climax slot, you may pay this cost. If you do, during this turn, this card gets +3000 Power, your opponent cannot use 『【A】 ENCORE』.(『【A】 ENCORE［③］』 in the Rules cannot be used as well)"
+        ],
+        "attributes": [
+            "Magic 《魔法》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card2680-large.jpg"
+    },
+    {
+        "name": "遠野家の養子 志貴",
+        "code": "MB/S10-007",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "決める！",
+        "ability": [
+            "【C】If you have 2 or more other 《血》 Characters in your Front Row, this card gets +1500 Power.",
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card2682-large.jpg"
+    },
+    {
+        "name": "白レン",
+        "code": "MB/S10-008",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "どうやったら言うコトを聞いてくれるように\nなるのかしらね、このひねくれ者は……",
+        "ability": [
+            "【S】● ASSIST 1000 Level 0［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)"
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card2683-large.jpg"
+    },
+    {
+        "name": "吸血衝動 アルクェイド",
+        "code": "MB/S10-009",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "生き物らしく死ねると思わないでね",
+        "ability": [
+            "【A】 CHANGE ［Place this card into Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you do, choose 1 「暴走アルクェイド」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card2681-large.jpg"
+    },
+    {
+        "name": "アルクェイド・ブリュンスタッド",
+        "code": "MB/S10-010",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】For each of your other Characters in REST, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card2684-large.jpg"
+    },
+    {
+        "name": "夢魔 レン",
+        "code": "MB/S10-011",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】［①］When this card attacks, if 「ホウマツノユメ」 is in your Climax slot, you may pay this cost. If you do, choose 1 of your opponent's Characters, return it to Hand, during this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Fairy Tale 《童話》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card2685-large.jpg"
+    },
+    {
+        "name": "真祖の姫 アルクェイド",
+        "code": "MB/S10-012",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 4 or higher, this card gets +500 Power, and gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place that card into Stock.』",
+            "【A】When this card is placed on Stage from hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card2686-large.jpg"
+    },
+    {
+        "name": "お節介な志貴",
+        "code": "MB/S10-013",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "アルクェイド、来てるかな…",
+        "ability": [
+            "【A】 BOND／「真祖殺しの真祖 アルクェイド」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「真祖殺しの真祖 アルクェイド」 from your Waiting Room, return to hand)"
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card2688-large.jpg"
+    },
+    {
+        "name": "黒猫 レン",
+        "code": "MB/S10-014",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "琥珀「あ、ダメよ翡翠ちゃん。\nレンちゃんは寝かせておいてあげないと」",
+        "ability": [
+            "【A】When a Climax is revealed during this card's Trigger Check, during this turn, this card gets +4000 Power, +1 Soul."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card2689-large.jpg"
+    },
+    {
+        "name": "吸血鬼 アルクェイド",
+        "code": "MB/S10-015",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "悪いけど貴方じゃ勝ち目はゼロよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Blood 《血》",
+            "Royal Family 《王族》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card2690-large.jpg"
+    },
+    {
+        "name": "遠野 志貴",
+        "code": "MB/S10-016",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【C】If this card is in the Front Row, during your Stand Phase, this card cannot STAND."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card2691-large.jpg"
+    },
+    {
+        "name": "レン",
+        "code": "MB/S10-017",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": ".........",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card2692-large.jpg"
+    },
+    {
+        "name": "真祖殺しの真祖 アルクェイド",
+        "code": "MB/S10-018",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "やるものね、ちょっとだけ本気になっちゃった",
+        "ability": [
+            "【C】If you have another card in the Front Row with 「志貴」 in its name, this card gets +1000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card2693-large.jpg"
+    },
+    {
+        "name": "暴走アルクェイド",
+        "code": "MB/S10-019",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "先に逝きなさい。\nいずれ、みんなソコに連れて行ってあげるから",
+        "ability": [
+            "【A】At the beginning of your Encore Step, place this card into Waiting Room."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card2694-large.jpg"
+    },
+    {
+        "name": "七夜 志貴",
+        "code": "MB/S10-020",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "夏の雪に千切れて消えるのが、\nお互いに幸福なんだろうさ―――",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Master 《マスター》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card2695-large.jpg"
+    },
+    {
+        "name": "宇宙のネコ",
+        "code": "MB/S10-021",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "えっ？あれは太陽？それはスペースデブリ？\nここは宇宙？　これは夢オチ？うわ、最低",
+        "ability": [
+            "All of your Characters, during this turn, get +1000 Power, +1 Soul. At the end of turn, choose 1 of your Characters, place it into Memory."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card2696-large.jpg"
+    },
+    {
+        "name": "七夜としての誇り",
+        "code": "MB/S10-022",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "人生最初で最後の鬼退治だ\nお互い、遠慮なしで燃え尽きようぜ！",
+        "ability": [
+            "If you have 2 or less Yellow Characters, you cannot play this card. Choose 1 of your opponent's Character with Cost 1 or less, place it into Stock."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card2697-large.jpg"
+    },
+    {
+        "name": "空想具現化",
+        "code": "MB/S10-023",
+        "rarity": "CR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "星の息吹よ…！",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to hand)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card2698-large.jpg"
+    },
+    {
+        "name": "十七分割",
+        "code": "MB/S10-024",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "視えた…！",
+        "ability": [
+            "【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card2699-large.jpg"
+    },
+    {
+        "name": "ホウマツノユメ",
+        "code": "MB/S10-025",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "―――フフ、フフフフフ…―――",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to opponent.)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card2700-large.jpg"
+    },
+    {
+        "name": "“分割思考”シオン",
+        "code": "MB/S10-026",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "……戦う、それしかないのですか",
+        "ability": [
+            "【A】CHANGE［Place this card to Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you do, choose 1 「タタリの後継 吸血鬼シオン」 or 「オシリスの砂」 from your Waiting Room, place it in this card's previous slot.",
+            "【A】CHANGE ［② Discard 1 card from hand, place this card into Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you do, choose 1 「霊子ハッカー シオン」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card2702-large.jpg"
+    },
+    {
+        "name": "聖堂騎士 リーズバイフェ",
+        "code": "MB/S10-027",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "相手がなんであろうと、それが魔であるのなら、\n我が盾は聖歌を奏でる",
+        "ability": [
+            "【A】When this card attacks, if 「正式外典ガマリエル」 is in your Climax slot, you may choose 1 card from your Clock, return it to hand. If you do, choose 1 card from your hand, place it into Clock, during this turn, this card gets +4000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Shield 《盾》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card2704-large.jpg"
+    },
+    {
+        "name": "シオン・エルトナム・アトラシア",
+        "code": "MB/S10-028",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "潰れなさい！",
+        "ability": [
+            "【C】If you have 1 or less other Character, this card gets +1000 Power, gains 『【A】 ENCORE ［Discard 1 Character from hand］』."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card2705-large.jpg"
+    },
+    {
+        "name": "聖盾の乙女 リーズバイフェ",
+        "code": "MB/S10-029",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "それは正直、思うところもある。\nだからここで決着をつけよう",
+        "ability": [
+            "【A】When the Character battling this card becomes REVERSE, choose 1 of your 《武器》 Characters, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Shield 《盾》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card2707-large.jpg"
+    },
+    {
+        "name": "“路地裏同盟”シオン",
+        "code": "MB/S10-030",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "戦闘、開始します",
+        "ability": [
+            "【A】When this card attacks, if the Climax 「バレルレプリカ」 is in your Climax slot, during this turn, this card gets +X. X is equals to the number of 《武器》 Characters ×1000."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card2708-large.jpg"
+    },
+    {
+        "name": "有間家の長女 都古",
+        "code": "MB/S10-031",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "当たったら、死ぬかもー！",
+        "ability": [
+            "【S】 CONCENTRATE ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For every Climax in those cards, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card2709-large.jpg"
+    },
+    {
+        "name": "霊子ハッカー シオン",
+        "code": "MB/S10-032",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "申し訳ありませんが、こちらの私は進化しました。\n今の私はもうその悲観には到らない",
+        "ability": [
+            "【A】When this card comes to Stage from hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.",
+            "【A】［Place all your Stock into Waiting Room］When this card attacks, if 「友達のために」 is in your Climax slot and you have 3 or more cards in Stock, you may pay this cost. If you do, choose up to 2 of your opponent's Characters, during this turn, it gets -X Power. X is equals to the number of cards place into Waiting Room from Stock by this ability's cost ×1000."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card2711-large.jpg"
+    },
+    {
+        "name": "メカヒスイ",
+        "code": "MB/S10-033",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ピピ。侵入者、排除",
+        "ability": [
+            "【S】［① Place 1 of your 「ネコアルク」 from Stage to Waiting Room］Choose 1 of your opponent's Front Row Characters, during this turn, it gets -3000 Power."
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card2713-large.jpg"
+    },
+    {
+        "name": "ネコアルク",
+        "code": "MB/S10-034",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ネコ相手に本気で特訓されてもにゃー",
+        "ability": [
+            "【A】［①］When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, choose 1 card from your Level slot and 1 card from your Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card2714-large.jpg"
+    },
+    {
+        "name": "ワラキアの夜",
+        "code": "MB/S10-035",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "もう終わりかね？これでも気を使ったつもりなのだが",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gains the following ability.『【A】When the Character battling this card is Level 1 or higher becomes REVERSE, you may place the top card of your Deck into Stock.』"
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card2715-large.jpg"
+    },
+    {
+        "name": "八極拳士 都古",
+        "code": "MB/S10-036",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】If your opponent has a 《動物》 Character, this card gets +6000 Power.",
+            "【S】● ASSIST 3000 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card2716-large.jpg"
+    },
+    {
+        "name": "タタリの後継 吸血鬼シオン",
+        "code": "MB/S10-037",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of card in your Level slot is 3 or higher, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card2717-large.jpg"
+    },
+    {
+        "name": "リーズバイフェの友人 シオン",
+        "code": "MB/S10-038",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "―――予想通りだ。今ならまだ間に合う。\n待っていてくださいリーズ",
+        "ability": [
+            "【C】All your other 「シオンの友人 リーズバイフェ」 gets +1000 Power.",
+            "【A】 BOND／「シオンの友人 リーズバイフェ」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「シオンの友人 リーズバイフェ」 from your Waiting Room, return to hand)"
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card2718-large.jpg"
+    },
+    {
+        "name": "“二十七祖”ワラキアの夜",
+        "code": "MB/S10-039",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ループループループループループループループループ……！\n登レ登レ数多ノ嘆キ、救エ掬エヌ華ノ生命！\nゴ笑覧アレ虚構ノ現実、周リ廻ッテ行キ着ク先ハ、\n真ッ逆様ニ落チル結末！",
+        "ability": [
+            "【A】［②］When this card is placed on Stage from hand, you may pay this cost. If you do, search your deck for 1 《血》 Character, show it to your opponent, then place it in your hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card2719-large.jpg"
+    },
+    {
+        "name": "有間 都古",
+        "code": "MB/S10-040",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【S】［①］During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card2720-large.jpg"
+    },
+    {
+        "name": "リーズバイフェ・ストリンドヴァリ",
+        "code": "MB/S10-041",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Shield 《盾》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card2721-large.jpg"
+    },
+    {
+        "name": "アトラス院所属 シオン",
+        "code": "MB/S10-042",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card2722-large.jpg"
+    },
+    {
+        "name": "シオンの友人 リーズバイフェ",
+        "code": "MB/S10-043",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "その身にまとった神秘、一切を打ち崩そう―――！",
+        "ability": [
+            "【C】If you have another card in the Front Row with 「シオン」 in its name, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Shield 《盾》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card2723-large.jpg"
+    },
+    {
+        "name": "吸血鬼シオン",
+        "code": "MB/S10-044",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "邪魔するモノは、すべてこの爪と牙で排除してやる……！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card2724-large.jpg"
+    },
+    {
+        "name": "オシリスの砂",
+        "code": "MB/S10-045",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "これより 侵入個体を賢者の石に変換する―――！",
+        "ability": [
+            "【A】When the Character battling this card is Level 2 or higher becomes REVERSE, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Mecha 《メカ》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card2725-large.jpg"
+    },
+    {
+        "name": "“新しい”タタリ",
+        "code": "MB/S10-046",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "さあ、一切の痕跡なくこの砂に融けるがいいオシリス。\nおまえの技術は私が使ってやる",
+        "ability": [
+            "●Choose 1 of your Characters, during this turn, it gets +4500 Power. Place this card into Clock."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card2726-large.jpg"
+    },
+    {
+        "name": "あなたの手で……",
+        "code": "MB/S10-047",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "リーズ「……さあ、眠りなさいシオン。\n今度こそ、悪い夢に捕まらないように」",
+        "ability": [
+            "Choose 1 of your opponent's Characters, during this turn, it gets -4000 Power."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card2727-large.jpg"
+    },
+    {
+        "name": "正式外典ガマリエル",
+        "code": "MB/S10-048",
+        "rarity": "CR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "唄え、ガマリエル！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card2728-large.jpg"
+    },
+    {
+        "name": "バレルレプリカ",
+        "code": "MB/S10-049",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "バレルレプリカ、フルトランス…！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card2730-large.jpg"
+    },
+    {
+        "name": "友達のために",
+        "code": "MB/S10-050",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "リーズ「ん……ここは……シオン？\n私はまだ……残っているの？」",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card2731-large.jpg"
+    },
+    {
+        "name": "遠野 秋葉",
+        "code": "MB/S10-051",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "身の程を知りなさい…！",
+        "ability": [
+            "【C】If you have 2 or more 《血》 Characters, this card gets +1000 Power.",
+            "【A】［①］When this card attacks, if 「赤主・檻髪」 is in your Climax slot, you may pay this cost. If you do, choose 1 Character from your Waiting Room, return it to hand, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card2732-large.jpg"
+    },
+    {
+        "name": "きれい好きなメイドさん 翡翠",
+        "code": "MB/S10-052",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "お客様を、お帰りです",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of card in your Level slot is 2 or higher, this card gets +500 Power, gains 『【A】 ENCORE[Discard 1 Character from hand]』.",
+            "【A】When 「姉妹の絆」 is placed into your Climax slot, during this turn, this card gets +1000 Power, and gains the following ability.［【A】When the Character battling this card becomes REVERSE, you may put that Character to the top of Deck.］"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card2733-large.jpg"
+    },
+    {
+        "name": "割烹着の悪魔 琥珀",
+        "code": "MB/S10-053",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "元気になったら、また遊びに来てくださいまし？",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card gets +500 Power.",
+            "【S】［Put 2 of your Characters to REST］Choose 1 of your 《双子》 Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Wafuku 《和服》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card2734-large.jpg"
+    },
+    {
+        "name": "“混血”秋葉",
+        "code": "MB/S10-054",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card2735-large.jpg"
+    },
+    {
+        "name": "ほがらか家政婦さん 琥珀",
+        "code": "MB/S10-055",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "よーし、私も負けていられませんよー！",
+        "ability": [
+            "【A】［①］When this card attacks, if 「姉妹の絆」 is in your Climax slot, you may pay this cost. If you do, choose 1 Character from your Waiting Room, return it to hand.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Wafuku 《和服》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card2737-large.jpg"
+    },
+    {
+        "name": "浅上女学院の生徒 秋葉",
+        "code": "MB/S10-056",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ゆっっっっくり話を聞かせてもらおうかしら？",
+        "ability": [
+            "【C】 SUPPORT All Characters in your Front Row with Level 2 or higher gets +1000 Power.",
+            "【S】［Put 2 of your 《血》 Characters to REST］Choose 1 Character from your opponent's Waiting Room, place it on top of Deck."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card2738-large.jpg"
+    },
+    {
+        "name": "遠野家の使用人 翡翠",
+        "code": "MB/S10-057",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "志貴様、こちらへどうぞ",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gets +1000 Power.",
+            "【A】［① Discard 1 card from hand］When this card is placed on Stage from hand, you may pay this cost. If you do, search your Deck for 1 「遠野家の使用人 琥珀」, show it to your opponent, then place it into hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card2740-large.jpg"
+    },
+    {
+        "name": "遠野家の当主 秋葉",
+        "code": "MB/S10-058",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "言うことを聞いてくださらないのなら、\n力づくでも帰っていただきます！",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card gets +1 Level.",
+            "【A】 CHANGE ［Discard 1 card from hand, place this card to Waiting Room］At the beginning of your Climax Phase, you may pay this cost. If you do, choose 1 「“紅赤朱”秋葉」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card2742-large.jpg"
+    },
+    {
+        "name": "姉想い 翡翠",
+        "code": "MB/S10-059",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "無事ですか、姉さん？",
+        "ability": [
+            "【C】If you have 2 or more other 《双子》 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card2743-large.jpg"
+    },
+    {
+        "name": "“ドクターアンバー”琥珀",
+        "code": "MB/S10-060",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そう、ここは終末世界。\nそしてフードを被った謎の黒幕こと、私―――",
+        "ability": [
+            "【S】［③ Place 1 of your Level 2 or higher card on Stage with 「秋葉」 in its name into Waiting Room, put this card to REST］Choose 1 「Ｇ秋葉」 from your Waiting Room, place it on Stage in any slot.",
+            "【S】● ASSIST 2000 Level 1［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Wafuku 《和服》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card2744-large.jpg"
+    },
+    {
+        "name": "遠野家の使用人 琥珀",
+        "code": "MB/S10-061",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "中々に楽しくなってきましたよー♪",
+        "ability": [
+            "【C】If you have another 「遠野家の使用人 翡翠」, this card gets +1500 Power.",
+            "【C】All of your other 「遠野家の使用人 翡翠」 gets +1500 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Wafuku 《和服》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card2745-large.jpg"
+    },
+    {
+        "name": "Ｇ秋葉",
+        "code": "MB/S10-062",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "一度きついお灸をすえてさしあげます",
+        "ability": [
+            "【A】［①］When this card is placed to Stage from hand or through a Character's 【起】 ability, you may pay this cost. If you do, choose 1 of your opponent's Characters with Level 2 or less, place it into Waiting Room.",
+            "【S】［① Discard 1 card from hand］During this turn, this card gets +5500 Power."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card2746-large.jpg"
+    },
+    {
+        "name": "翡翠",
+        "code": "MB/S10-063",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "……書庫の整理はこれで完了、です……",
+        "ability": [
+            "【A】 BOND／「ほがらか家政婦さん 琥珀」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「ほがらか家政婦さん 琥珀」 from your Waiting Room, return to hand)",
+            "【S】［Put this card to REST］Choose 1 of your 「琥珀」 Characters, during this turn, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card2747-large.jpg"
+    },
+    {
+        "name": "チャイナ服の琥珀＆翡翠",
+        "code": "MB/S10-064",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "てややーっ！",
+        "ability": [
+            "【A】［Put 1 of your STAND Character to REST］When your other Character is placed on Stage, you may pay this cost. If you do, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card2748-large.jpg"
+    },
+    {
+        "name": "仲良し姉妹 翡翠＆琥珀",
+        "code": "MB/S10-065",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "琥珀「はい、せーのっ」\n琥珀＆翡翠「ぶいなのだー！",
+        "ability": [
+            "【A】［①］When this card attacks, you may pay this cost. If you do, choose up to 2 of your Characters, during this turn, they get +1000 Power."
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Wafuku 《和服》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card2749-large.jpg"
+    },
+    {
+        "name": "パジャマの秋葉",
+        "code": "MB/S10-066",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "……貴女たちがしろと言うからしたんだけど、\n怖い話ってこういう感じでいいの？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card2750-large.jpg"
+    },
+    {
+        "name": "志貴の付き人 翡翠",
+        "code": "MB/S10-067",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "琥珀「しぃ！いい感じでお昼寝している\n翡翠ちゃんを起こしてはいけません！」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card2751-large.jpg"
+    },
+    {
+        "name": "“紅赤朱”秋葉",
+        "code": "MB/S10-068",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "人助けが似合う柄ではありませんが、\n本気で戦ってあげる",
+        "ability": [
+            "【A】At the beginning of your Draw Phase, choose 1 of your other Front Row Characters with Level 1 or lower, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card2752-large.jpg"
+    },
+    {
+        "name": "制服の秋葉",
+        "code": "MB/S10-069",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "え―――兄さん、それはどういう―――",
+        "ability": [
+            "【A】［②］When this card attacks, if 「赤主遍生・緋の火槌」 is in your Climax slot, you may pay this cost. If you do, deal 1 damage to your opponent, during this turn, this card gets +3000 Power.(This damage can be cancelled)"
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card2753-large.jpg"
+    },
+    {
+        "name": "軌間 紅摩",
+        "code": "MB/S10-070",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 1,
+        "flavor_text": "鬼を必要とするものは、\nその果てに鬼に食われるのが習わしだ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card2754-large.jpg"
+    },
+    {
+        "name": "全人類ご主人様計画",
+        "code": "MB/S10-071",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "4",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "これより全人類ご主人様フェイス3に移行します！",
+        "ability": [
+            "Search your deck for up to 3 《メイド》 Characters with Cost 0 or lower, place them in different slots on Stage. Shuffle your deck afterwards."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card2755-large.jpg"
+    },
+    {
+        "name": "夢の終わり",
+        "code": "MB/S10-072",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それが良いものであったか\n悪いものであったかは、さて―――",
+        "ability": [
+            "●Choose 1 of your Characters, during this turn, it gets +2000 Power, and the following ability.『【A】When the card battling this card becomes REVERSE, you may place that card on top of deck.』At the end of turn, place that Character to Memory."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card2756-large.jpg"
+    },
+    {
+        "name": "赤主・檻髪",
+        "code": "MB/S10-073",
+        "rarity": "CR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "全てを奪いつくして差し上げます…！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card2757-large.jpg"
+    },
+    {
+        "name": "赤主遍生・緋の火槌",
+        "code": "MB/S10-074",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "遠野の檻髪、味わいなさい！",
+        "ability": [
+            "【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card2759-large.jpg"
+    },
+    {
+        "name": "姉妹の絆",
+        "code": "MB/S10-075",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "琥珀「志貴さんが協力してくださるなら、\n永久凍土なみに頑なな秋葉さまも一撃です！」",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card2760-large.jpg"
+    },
+    {
+        "name": "黒鍵の使い手 シエル",
+        "code": "MB/S10-076",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "消えなさい、脱落者。\n貴方はその天秤から転げ落ちた",
+        "ability": [
+            "【C】 EXPERIENCE During your opponent's turn, If the total Level of cards in your Level slot is 1 or higher, this card gets +1500 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card2761-large.jpg"
+    },
+    {
+        "name": "正義の吸血鬼 さつき",
+        "code": "MB/S10-077",
+        "rarity": "RR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "ダメ！",
+        "ability": [
+            "【A】When 「固有結界・枯渇庭園」 is placed into your Climax slot, if this card is in the Front Row, you may choose 1 《血》 Character with Level 1 or less from your Waiting Room, place it into Front Row in any empty slot."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card2763-large.jpg"
+    },
+    {
+        "name": "埋葬機関第七位 シエル",
+        "code": "MB/S10-078",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "埋葬機関第七位の名、伊達ではないと理解できました？",
+        "ability": [
+            "【A】When this card is placed on Stage from hand, if you have 2 or more other 《武器》 Characters, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card2764-large.jpg"
+    },
+    {
+        "name": "第五魔法の継承者 青子",
+        "code": "MB/S10-079",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "んー！",
+        "ability": [
+            "【A】When this card attacks, place the top card of your deck into Waiting Room. If that card is a Climax, draw 1 card, then choose 1 card from your hand, place into Waiting Room."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card2765-large.jpg"
+    },
+    {
+        "name": "“混沌”ネロ・カオス",
+        "code": "MB/S10-080",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "断末魔にのたうち、苦悶をもって\nこの世界を裂いてこそ、超越者の末路に相応しい！",
+        "ability": [
+            "【S】［③］Search your deck for up to 1 《動物》 with Level 1 or lower, place it on Stage in any slot. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Blood 《血》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card2767-large.jpg"
+    },
+    {
+        "name": "代行者 シエル",
+        "code": "MB/S10-081",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "私が手にかけた人々を上回る死を体験して、\n私はようやく、シエルという代行者になったのです",
+        "ability": [
+            "【A】［①］When this card attacks, if 「死徒の根絶」 is in your Climax slot, you may pay this cost. If you do, draw 1 card, during this turn, this card gets +3000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card2768-large.jpg"
+    },
+    {
+        "name": "シエル",
+        "code": "MB/S10-082",
+        "rarity": "R",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "蓄え、奪いつくした命の清算を、ここで購い果てるがいい！",
+        "ability": [
+            "【A】 EXPERIENCE ［④］When this card is placed on Stage from hand, If the total Level of cards in your Level slot is 6 or higher, you may pay this cost. If you do, during this turn, this card gains the following ability.『【A】This ability can only be used 1 time each turn. When this card attacks, you may put this card to STAND.』"
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card2769-large.jpg"
+    },
+    {
+        "name": "志貴の先輩 シエル",
+        "code": "MB/S10-083",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "後は私に任せて、遠野君は先に帰って下さい",
+        "ability": [
+            "【A】 BOND／「“直死の魔眼”志貴」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「“直死の魔眼”志貴」 from your Waiting Room, return to hand)",
+            "【S】［③］Choose 1 of your opponent's Character. That Character cannot STAND during your opponent's next Stand Phase."
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card2771-large.jpg"
+    },
+    {
+        "name": "弓塚 さつき",
+        "code": "MB/S10-084",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ちょっと痛いけど、ごめんなさいっ！",
+        "ability": [
+            "【A】 ALARM If this card is on top of your Clock, at the beginning of your Climax Phase, you may choose 1 card in your Level slot and 1 card from your Waiting Room, exchange them."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card2772-large.jpg"
+    },
+    {
+        "name": "“路地裏同盟”さつき",
+        "code": "MB/S10-085",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "新生路地裏同盟、はりきってやっていこ～！",
+        "ability": [
+            "【A】 CHANGE ［① Discard 1 card from hand, place this card into Waiting Room］At the beginning of your Climax Phase, you may pay this cost. If you do, choose 1 「正義の吸血鬼 さつき」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card2773-large.jpg"
+    },
+    {
+        "name": "無類のカレー好き シエル",
+        "code": "MB/S10-086",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "…ま、この街にはお節介焼きが多いんで、\n放っておいても解決はするんでしょうけど",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Charater's Level ×500.",
+            "【A】When this card is played on Stage from hand, draw 1 card, then choose 1 card from your hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card2774-large.jpg"
+    },
+    {
+        "name": "破壊特化の魔術師 青子",
+        "code": "MB/S10-087",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "仕方ない、また弱小組織の下請けで\n路銀を稼ぐとするか",
+        "ability": [
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)",
+            "【S】［②］During this turn, this card gets +5000 Power."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card2775-large.jpg"
+    },
+    {
+        "name": "新米薄幸吸血鬼 さつき",
+        "code": "MB/S10-088",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "うん、いい調子いい調子♪",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gains the following ability.『【C】 SUPPORT During your opponent's turn, all your Characters in front of this card gets +500 Power.』"
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card2776-large.jpg"
+    },
+    {
+        "name": "“異端狩り”シエル",
+        "code": "MB/S10-089",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "死の淵への刹那こそが、\n貴方に与えられた最後の改心です",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card2777-large.jpg"
+    },
+    {
+        "name": "魔法使い 青子",
+        "code": "MB/S10-090",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "これでも忙しい身でさ。\n縁があったらまた会いましょう",
+        "ability": [
+            "【A】At the beginning of your Climax Phase, your opponent will look at the top of his/her deck, place it on top or bottom of deck."
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card2778-large.jpg"
+    },
+    {
+        "name": "聖典所持者 シエル",
+        "code": "MB/S10-091",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "どちらがより優れた聖典の担い手か、\n決着を着けましょう―――！",
+        "ability": [
+            "【A】［②］When this card attacks, if 「第七聖典」 is in your Climax slot, you may pay this cost. If you do, search your deck for 1 《武器》 Character, show it to your opponent, then place it into hand. Shuffle your deck afterwards, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Curry 《カレー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card2779-large.jpg"
+    },
+    {
+        "name": "ミハイル・ロア・バルダムヨォン",
+        "code": "MB/S10-092",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "……やれやれ。これじゃあ本当に、\nオレを止められるヤツはいなくなっちまったぜ？",
+        "ability": [
+            "【A】When this card becomes REVERSE in battle, you may return this card into your deck. If you do, shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card2780-large.jpg"
+    },
+    {
+        "name": "ネコアルク・カオス",
+        "code": "MB/S10-093",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "終わった……何もかも終わっちまった……\n人生は空しい……もう生きてる理由もない……",
+        "ability": [
+            "【S】● ASSIST 1500 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card2781-large.jpg"
+    },
+    {
+        "name": "“ミス・ブルー”青子",
+        "code": "MB/S10-094",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "トランク一つの気ままな一人旅だからさ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Magic 《魔法》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card2782-large.jpg"
+    },
+    {
+        "name": "ネロ・カオス",
+        "code": "MB/S10-095",
+        "rarity": "C",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "そのか細い首、頭をなでるように叩き折ってくれる",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Blood 《血》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card2783-large.jpg"
+    },
+    {
+        "name": "タタリ再演",
+        "code": "MB/S10-096",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ワラキアの夜「フィナーレとは悲劇にしろ喜劇にしろ、\n終焉は華やかであるべきだ」",
+        "ability": [
+            "If you have 2 or less Blue Characters, you cannot play this card from hand.",
+            "Draw up to 2 cards, then choose 1 card from your hand, place it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card2784-large.jpg"
+    },
+    {
+        "name": "666の獣",
+        "code": "MB/S10-097",
+        "rarity": "U",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "6",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いいぞ…！影として消えるなど言語道断。\n潔い死などまったくの裏腹よ……",
+        "ability": [
+            "Search your deck for up to 2 《動物》 Characters, place them on Stage in different slots. Shuffle your deck afterwards."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card2785-large.jpg"
+    },
+    {
+        "name": "固有結界・枯渇庭園",
+        "code": "MB/S10-098",
+        "rarity": "CR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "体が…、弾けて…！",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card2786-large.jpg"
+    },
+    {
+        "name": "第七聖典",
+        "code": "MB/S10-099",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "セブン……コード、スクエア！",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card2788-large.jpg"
+    },
+    {
+        "name": "死徒の根絶",
+        "code": "MB/S10-100",
+        "rarity": "CC",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "タタリは完全に消滅―――エルトナムが起こした\n不老不死への道も潰えたという事ですね",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card2789-large.jpg"
+    },
+    {
+        "name": "天真爛漫 アルクェイド",
+        "code": "MB/S10-101",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "楽勝！ぶいにゃのだー！",
+        "ability": [
+            "【A】［①］When this card is placed on Stage from Hand, you may pay this cost. If you do, during this turn, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card2662-large.jpg"
+    },
+    {
+        "name": "使い魔 レン",
+        "code": "MB/S10-102",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "……危ないのは、志貴の方",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card2663-large.jpg"
+    },
+    {
+        "name": "すこしばかり戯れようか？",
+        "code": "MB/S10-103",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card2665-large.jpg"
+    },
+    {
+        "name": "錬金術師 シオン",
+        "code": "MB/S10-104",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "未来を計算するのが、私達アトラスの錬金術師",
+        "ability": [
+            "【S】［①］During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card2666-large.jpg"
+    },
+    {
+        "name": "使い魔 白レン",
+        "code": "MB/S10-105",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "やめて、返して！\nそれ私の、私のカニなのにーーーーーーぃ！",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card gets +500 Power.",
+            "【S】［Put 2 of your Characters to REST］Choose 1 of your Characters, during this turn, it gains 『【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］』."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card2668-large.jpg"
+    },
+    {
+        "name": "メルティブラッド",
+        "code": "MB/S10-106",
+        "rarity": "PR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "戦いの系譜は流転する…",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card2670-large.jpg"
+    },
+    {
+        "name": "生粋のお嬢様 秋葉",
+        "code": "MB/S10-107",
+        "rarity": "PR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "この街をまかされた遠野家の当主として、\n当然の義務を果たしてくるわ",
+        "ability": [
+            "【A】When another of your battling Character becomes REVERSE, during this turn, this card gets +1000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card2671-large.jpg"
+    },
+    {
+        "name": "知識の研鑽 シオン",
+        "code": "MB/S10-108",
+        "rarity": "PR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "もとからある機能をなくしてでも、\n今の環境にあわせてより最適化していく。\nこれを進化と言うのです",
+        "ability": [
+            "【S】［① Put this card to REST］Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card2672-large.jpg"
+    },
+    {
+        "name": "夢魔　白レン",
+        "code": "MB/S10-109",
+        "rarity": "PR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "まあ。心のこもってないお世辞とは言え、\n拙い賛辞、感謝いたしますわ",
+        "ability": [
+            "【C】During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card2669-large.jpg"
+    },
+    {
+        "name": "“新しいタタリ”吸血鬼シオン",
+        "code": "MB/S10-110",
+        "rarity": "PR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 SUPPORT All Characters in front of this card gets +500 Power.",
+            "【A】 When you Level Up, choose 1 of your Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card2703-large.jpg"
+    },
+    {
+        "name": "お屋敷の秩序 翡翠",
+        "code": "MB/S10-111",
+        "rarity": "PR",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "志貴様がお休み中です。お静かに",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Twins 《双子》",
+            "Maid 《メイド》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card7112-large.jpg"
+    },
+    {
+        "name": "吸血鬼 アルクェイド",
+        "code": "MB/S10-T01",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "悪いけど貴方じゃ勝ち目はゼロよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card2648-large.jpg"
+    },
+    {
+        "name": "遠野 志貴",
+        "code": "MB/S10-T02",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "カタチがある以上、消え去るのが最低限の決まりごとだ",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【C】If this card is in the Front Row, during your Stand Phase, this card cannot STAND."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card2649-large.jpg"
+    },
+    {
+        "name": "レン",
+        "code": "MB/S10-T03",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "………",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Familiar 《使い魔》",
+            "Animal 《動物》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card2650-large.jpg"
+    },
+    {
+        "name": "アルクェイド・ブリュンスタッド",
+        "code": "MB/S10-T04",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "あー、気持ちよかったー♪",
+        "ability": [
+            "【C】For each of your other Characters in REST, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card2651-large.jpg"
+    },
+    {
+        "name": "真祖の姫 アルクェイド",
+        "code": "MB/S10-T05",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "その死を以って、我が微笑を止めてみせよ",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 4 or higher, this card gets +500 Power, and gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place that card into Stock.』",
+            "【A】When this card is placed on Stage from hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card2652-large.jpg"
+    },
+    {
+        "name": "十七分割",
+        "code": "MB/S10-T06",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "視えた…！",
+        "ability": [
+            "【A】When this card is placed into your Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card2653-large.jpg"
+    },
+    {
+        "name": "有間 都古",
+        "code": "MB/S10-T07",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "行ってきまーす！",
+        "ability": [
+            "【S】［①］During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card2654-large.jpg"
+    },
+    {
+        "name": "リーズバイフェ・ストリンドヴァリ",
+        "code": "MB/S10-T08",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "私はリーズバイフェ・ストリンドヴァリ。\n主の為に祈る、小さきものたちを守護する盾の騎士",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Shield 《盾》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card2655-large.jpg"
+    },
+    {
+        "name": "アトラス院所属 シオン",
+        "code": "MB/S10-T09",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あの状況でそんなコトを考えていたのですかアナタは！",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power.",
+            "【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Weapon 《武器》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card2656-large.jpg"
+    },
+    {
+        "name": "吸血鬼シオン",
+        "code": "MB/S10-T10",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "邪魔するモノは、すべてこの爪と牙で排除してやる……！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card2657-large.jpg"
+    },
+    {
+        "name": "八極拳士 都古",
+        "code": "MB/S10-T11",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "もう、悔い改めろバカネコーーー！",
+        "ability": [
+            "【C】If your opponent has a 《動物》 Character, this card gets +6000 Power.",
+            "【S】● ASSIST 3000 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card2658-large.jpg"
+    },
+    {
+        "name": "タタリの後継 吸血鬼シオン",
+        "code": "MB/S10-T12",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "……そこをどけ敗者。\n奈落に落ちた役者に次は無いと謳ったのは貴様自身だ",
+        "ability": [
+            "【C】 EXPERIENCE If the total Level of card in your Level slot is 3 or higher, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Alchemy 《錬金術》",
+            "Blood 《血》"
+        ],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card2659-large.jpg"
+    },
+    {
+        "name": "バレルレプリカ",
+        "code": "MB/S10-T13",
+        "rarity": "TD",
+        "expansion": "Melty Blood",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "バレルレプリカ、フルトランス…！",
+        "ability": [
+            "【C】All of your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is triggered, place this card into your hand. You may place 1 card from the top of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "MB",
+        "release": "S10",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card2660-large.jpg"
+    }
+]

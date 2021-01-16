@@ -1,0 +1,3382 @@
+[
+    {
+        "name": "闇医者の娘のはしくれ マコ",
+        "code": "KLK/S27-001",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "人はしっけつしすると死んでしまうのです！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +X Power. X is equals to that Character's Level x500.",
+            "【A】 ［Place 1 card into Waiting Room from Hand, place 1 「“暴走”流子」 on your Field into Memory］ When 「だから、今度は私の番！」 is placed into your Climax Slot, you may pay the cost. If you did, choose up to 1 《服》 or 《家族》 Character, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card11314-large.jpg"
+    },
+    {
+        "name": "どうにもとまらないマコ",
+        "code": "KLK/S27-002",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私の人生信号はいっつも黄色だよ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets +X Power. X is equals to the number of your 《服》 or 《家族》 Characters x500.",
+            "【A】 This ability ability can only be activated once each turn. During the turn this card is placed on Stage from Hand, when the damage dealt by this card is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to your opponent. X is equals to that card's Level +1. （Climax is treated as Level 0. Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card11315-large.jpg"
+    },
+    {
+        "name": "心配するマコ",
+        "code": "KLK/S27-003",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "セコンド席があったらマコがついて介抱してあげるのに",
+        "ability": [
+            "【C】 All your other 《服》 or 《家族》 Characters get +500 Power.のキャラすべてに、パワーを＋500。",
+            "【C】 Your other Character in the center slot of Front Row gains the following ability. 『【C】 This card cannot be chosen by your opponent's ability.』"
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card11316-large.jpg"
+    },
+    {
+        "name": "喧嘩部部長 マコ",
+        "code": "KLK/S27-004",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "だって、やっと掴んだ贅沢だもん！もう貧乏には戻れないもん！",
+        "ability": [
+            "【C】 If you have 3 or more other 《服》 or 《家族》 Characters, this card gets +1000 Power and gains 『【A】 ENCORE ［Place 1 Character into Waiting Room from Hand］』."
+        ],
+        "attributes": [
+            "Family 《家族》",
+            "Clothes 《服》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card11317-large.jpg"
+    },
+    {
+        "name": "大阪観光 マコ",
+        "code": "KLK/S27-005",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あれが大阪の新名所、なにわスカイタワー！",
+        "ability": [
+            "【A】 When this card attacks, during that turn, this card gets +X Power. X is equals to the number of your other 《服》 or 《家族》 Characters x500."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card11318-large.jpg"
+    },
+    {
+        "name": "2年甲組 流子",
+        "code": "KLK/S27-006",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "く～…",
+        "ability": [
+            "【A】 When this card's battle opponent becomes REVERSE, place that Character into Stock."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card11319-large.jpg"
+    },
+    {
+        "name": "喧嘩部所属 流子",
+        "code": "KLK/S27-007",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "バカ！目を覚ませ！",
+        "ability": [
+            "【C】 For each of your other 《服》 or 《家族》 Character, this card gets +500 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE and is Level 2 or higher, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card11320-large.jpg"
+    },
+    {
+        "name": "パジャマの流子",
+        "code": "KLK/S27-008",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "神衣は今、洗濯中だ！",
+        "ability": [
+            "【A】 BOND／「喧嘩部部長 マコ」 ［Place the top card from your Deck to Clock］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「喧嘩部部長 マコ」 from your Waiting Room, return it to Hand）",
+            "【S】 ［①］ During that turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card11321-large.jpg"
+    },
+    {
+        "name": "不動のマコ",
+        "code": "KLK/S27-009",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "流子「てめー！マコに何しやがった！」",
+        "ability": [
+            "【A】 This ability can only be activated twice each turn. When your Character is placed into Clock from Hand, during that turn, this card gets +2000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card11322-large.jpg"
+    },
+    {
+        "name": "コロッケを食べるマコ",
+        "code": "KLK/S27-010",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "おいしいでしょ",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, choose 1 of your Yellow Character in battle, during that turn, it gets +1000 Power.",
+            "【S】● ASSIST 1500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card11323-large.jpg"
+    },
+    {
+        "name": "“超”マイペースお母さん 好代",
+        "code": "KLK/S27-011",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "たいしたものはないけど、どんどん食べてちょーだい",
+        "ability": [
+            "【S】 ［REST 2 of your Characters］ Choose 1 of your 《服》 or 《家族》 Character, during that turn, it gets +1 Soul and gains the following ability. 『【C】 This card cannot Side Attack.』"
+        ],
+        "attributes": [
+            "Family 《家族》",
+            "Croquette 《コロッケ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card11324-large.jpg"
+    },
+    {
+        "name": "がっついてるからガッツ",
+        "code": "KLK/S27-012",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ワン！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Family 《家族》",
+            "Animal 《動物》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card11325-large.jpg"
+    },
+    {
+        "name": "メガネのマコ",
+        "code": "KLK/S27-013",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "私達、本当にキラキラだよね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Family 《家族》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card11326-large.jpg"
+    },
+    {
+        "name": "時代錯誤の悪ガキ 又郎",
+        "code": "KLK/S27-014",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "すんげぇ腕なんだよ。半分裸みたいな格好でハサミふるってさ",
+        "ability": [
+            "【S】 ［②］ Choose 1 of your opponent's Character, during that turn, it gets -500 Power, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Family 《家族》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card11327-large.jpg"
+    },
+    {
+        "name": "満艦飾家に居候 流子",
+        "code": "KLK/S27-015",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "マコ「ぼやぼやしてないで食べる！」",
+        "ability": [
+            "【A】 When 「いただきまーす！」 is placed into your Climax Slot, if this card is in the Front Row, reveal the top card of your Deck. If that card is a 《服》 or 《家族》 Character, all your Characters, during that turn, get +2000 Power. （Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card11328-large.jpg"
+    },
+    {
+        "name": "町の闇医者 薔薇蔵",
+        "code": "KLK/S27-016",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "心配すんな。死んだ奴からはクレームはこねえよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Family 《家族》",
+            "Doctor 《医者》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card11329-large.jpg"
+    },
+    {
+        "name": "怪しいコロッケ",
+        "code": "KLK/S27-017",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "好代「やだねぇ。一応、毒じゃないものしか入れてませんよ」",
+        "ability": [
+            "Choose 1 of your Character, during that turn, it gets +3000 Power. At the end of the turn, place that Character into Stock."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card11330-large.jpg"
+    },
+    {
+        "name": "古典的な罠",
+        "code": "KLK/S27-018",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "流子「マコ！あぶない！」",
+        "ability": [
+            "● Choose 1 of your Character, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card11331-large.jpg"
+    },
+    {
+        "name": "だから、今度は私の番！",
+        "code": "KLK/S27-019",
+        "rarity": "CR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ダメェ～～～",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to hand)"
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card11332-large.jpg"
+    },
+    {
+        "name": "いただきまーす！",
+        "code": "KLK/S27-020",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "マコ「疲労回復疾病快癒元気溌剌って感じだよ！」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card11333-large.jpg"
+    },
+    {
+        "name": "繭星降誕を謀る羅暁",
+        "code": "KLK/S27-021",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "皐月は所詮、生命戦維を着る器ではなかったということだ",
+        "ability": [
+            "【C】 For each marker under this card, this card gets +1 Level and +2000 Power.",
+            "【A】 When this card is placed on Stage from Hand, you may place 1 marker from under your「凄まじい気迫 皐月」, under this card as a marker.",
+            "【A】 ［①］ When this card attacks, if 「神羅纐纈、絶対服従！」 is in the Climax Slot, you may pay the cost. If you did, choose 1 《服》 Character from your Waiting Room, place it under this card faced down as a marker."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "CEO 《CEO》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card11334-large.jpg"
+    },
+    {
+        "name": "運命の糸車 縫",
+        "code": "KLK/S27-022",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "遊びも全力で。じゃなきゃ、人生楽しくないよ",
+        "ability": [
+            "【C】 If all your Characters are 《服》, this card gets +2000 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your opponent's Character with Level 2 or lower, you may place it into Waiting Room. If you did, your opponent chooses up to Character with Level 0 or lower in his/her Waiting Room, place it into that Character's previous slot."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card11335-large.jpg"
+    },
+    {
+        "name": "糸引く縫",
+        "code": "KLK/S27-023",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "裸のキミが見たいな！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, if your opponent's Front Row has 1 or less Character, choose your opponent's Character in the Front Row, during that turn, it gets -3000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card11336-large.jpg"
+    },
+    {
+        "name": "ハサミの持ち主 縫",
+        "code": "KLK/S27-024",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "見たでしょ、僕がさっき極制服を倒すところ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets -1500 Power.",
+            "【A】 When 「不意打ちの告白」 is placed into your Climax Slot, if this card is in the Front Row, search your Deck for up to 1 「ハサミの持ち主 縫」, place it into any slot on Stage, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card11337-large.jpg"
+    },
+    {
+        "name": "身をかわす縫",
+        "code": "KLK/S27-025",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "うっ",
+        "ability": [
+            "【A】 ［Place this card into Waiting Room］ When this card is being Front Attacked, you may pay the cost. If you did, choose up to 1 「運命の糸車 縫」 from your Hand, place it into this card's previous slot as the defending Character."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card11338-large.jpg"
+    },
+    {
+        "name": "REVOCS社CEO 羅暁",
+        "code": "KLK/S27-026",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "待たせたな、鳳凰丸",
+        "ability": [
+            "【C】 For each marker under this card, this card gets +1 Level and +3000 Power.",
+            "【A】 When this card attacks, choose 1 of your other 「羅暁の秘書 鳳凰丸」 you may place it under this card faced down as a marker.",
+            "【A】 ［① Place the top card of your Deck into Clock, reveal 1 「既製服 縫」 from Hand, place it under this card faced down as a marker］ When this card becomes REVERSE during battle, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "CEO 《CEO》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card11339-large.jpg"
+    },
+    {
+        "name": "高次縫製師 縫",
+        "code": "KLK/S27-027",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ステキステキ！こんなの隠してたなんて、さすがは纏博士だわ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】 ［Place 1 「変装」 into Waiting Room from Hand, REST this card］ Choose 1 Character from your Clock, return it to Hand, place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card11340-large.jpg"
+    },
+    {
+        "name": "鬼龍院家筆頭執事 黒井戸",
+        "code": "KLK/S27-028",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "皐月お嬢様、その服の持ち出しはお母様から固く禁じられています",
+        "ability": [
+            "【A】 When you refresh Deck, you may place this card into Stock.",
+            "【S】 ［① REST this card］ Choose 1 card from your Clock, return it to Hand, choose 1 card from your Hand, place it into Clock."
+        ],
+        "attributes": [
+            "Butler 《執事》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card11341-large.jpg"
+    },
+    {
+        "name": "“精神仮縫い”羅暁",
+        "code": "KLK/S27-029",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "戦力のつもりだったかもしれないが、こうすれば私の駒になる",
+        "ability": [
+            "【C】 All your other Characters get +500 Power.",
+            "【S】 ［① REST this card］ Choose 1 of your Character with marker, during that turn, it gets +2500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "CEO 《CEO》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card11342-large.jpg"
+    },
+    {
+        "name": "既製服 縫",
+        "code": "KLK/S27-030",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "モン ミニョン プレタポルテ！",
+        "ability": [
+            "【C】 If you have 2 or more other 《服》 Character, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card11343-large.jpg"
+    },
+    {
+        "name": "羅暁の秘書 鳳凰丸",
+        "code": "KLK/S27-031",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "まさか羅暁様の精神仮縫いを破るとは…",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《服》 Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Secretary 《秘書》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card11344-large.jpg"
+    },
+    {
+        "name": "気まぐれな縫",
+        "code": "KLK/S27-032",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "キミ、邪魔だよ",
+        "ability": [
+            "【A】 ［②］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, search your Deck for up to 1 《服》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card11345-large.jpg"
+    },
+    {
+        "name": "風紀部トラップ開発員 大暮",
+        "code": "KLK/S27-033",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ありがとう、纏さん",
+        "ability": [
+            "【A】 ［①］ When this card becomes REVERSE during battle, reveal the top card of your Deck. If that card is Level 1 or higher, you may pay the cost. If you did, return this card to Hand. （Climax is treated as Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Discipline Committee 《風紀委員》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card11346-large.jpg"
+    },
+    {
+        "name": "皐月の母 羅暁",
+        "code": "KLK/S27-034",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ご苦労だったな",
+        "ability": [
+            "【C】 If you have no other Character in the Front Row, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "CEO 《CEO》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card11347-large.jpg"
+    },
+    {
+        "name": "テニス部部長 函館",
+        "code": "KLK/S27-035",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "このテニス部主将、函館臣子とテニスの試合をやるというのか！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card11348-large.jpg"
+    },
+    {
+        "name": "ボクシング部部長 袋田",
+        "code": "KLK/S27-036",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ボクサーにとっての制服、それはこのグローブにトランクス！その他！",
+        "ability": [
+            "【S】● ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card11349-large.jpg"
+    },
+    {
+        "name": "謎の少女 縫",
+        "code": "KLK/S27-037",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "皐月「何をしにきた、針目縫」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card11350-large.jpg"
+    },
+    {
+        "name": "変装",
+        "code": "KLK/S27-038",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "じゃじゃーん",
+        "ability": [
+            "Choose 1 of your Character, place it into Waiting Room. If you did, choose 1 《服》 Character with Level 2 or lower in your Clock, place it into any slot on Stage, place this card into Clock."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card11351-large.jpg"
+    },
+    {
+        "name": "不意打ちの告白",
+        "code": "KLK/S27-039",
+        "rarity": "CR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そう、僕だよ。キミのお父さんを殺したのは",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card11352-large.jpg"
+    },
+    {
+        "name": "神羅纐纈、絶対服従",
+        "code": "KLK/S27-040",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "神羅纐纈はすべての生命戦維の上に立つ",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card11353-large.jpg"
+    },
+    {
+        "name": "新しい自分へ 流子",
+        "code": "KLK/S27-041",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "私達はもっと強くならなけりゃいけない",
+        "ability": [
+            "【A】 When this card attacks, if 「セーラー服とは卒業するものだ」 is in the Climax Slot, during that turn, this card gets +4500 Power.",
+            "【A】 When this card attacks, if 「セーラー服とは卒業するものだ」 is in the Climax Slot, if your Level is 2 or higher, choose 1 card from your opponent's Waiting Room, you may place it on top of the Deck."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card11354-large.jpg"
+    },
+    {
+        "name": "決めて着るから決着！ 流子",
+        "code": "KLK/S27-042",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "これが本当の人衣一体だぁぁぁ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 「純潔」 from your Waiting Room, you may place it into Memory. If you did, choose 1 「流子の一張羅 鮮血」 from your Waiting Room, place it under this card faced down as a marker.",
+            "【A】［① Reveal 1 《服》 Character from Hand, place it under this card faced down as a marker］ When this card becomes REVERSE during battle, you may pay the cost. If you did, REST this card.",
+            "【A】 ［②］ At the beginning of your Encore Step, you may pay the cost. If you did, deal X Damage to your opponent. X is equals to the number of marker under this card. （Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card11355-large.jpg"
+    },
+    {
+        "name": "深まる絆 流子",
+        "code": "KLK/S27-043",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "鮮血「お互いボロボロだ。無理はするな」",
+        "ability": [
+            "【A】 ［Place 1 Climax into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《服》 or 《家族》 Character from your Waiting Room, return it to Hand.",
+            "【A】 When your other 《服》 or 《家族》 Character becomes REVERSE during battle, choose 1 of your Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card11356-large.jpg"
+    },
+    {
+        "name": "鮮血奪還！ 流子",
+        "code": "KLK/S27-044",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お前の相手をしてる暇はない！",
+        "ability": [
+            "【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「赤手甲」 and show it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】 CONCENTRATION ［①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《服》 or 《家族》 Character, during that turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card11357-large.jpg"
+    },
+    {
+        "name": "流子の一張羅 鮮血",
+        "code": "KLK/S27-045",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "流子に手を出すな。私は許さない",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other Character with a marker, during that turn, it gets +1000 Power.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Blood 《血》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card11358-large.jpg"
+    },
+    {
+        "name": "鮮血との出会い 流子",
+        "code": "KLK/S27-046",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "な、なんだ、この破廉恥な格好は！？",
+        "ability": [
+            "【A】 ［① Place 1 card into Waiting Room from Hand, place this card into Memory］ When this card becomes REVERSE during battle, you may pay the cost. If you did, choose 1 「“暴走”流子」from your Waiting Room, place it into this card's previous slot in REST.",
+            "【A】 RECOLLECTION If this card is in Memory, when a card is placed into Waiting Room from any player's Clock by his/her own effect, that player may place the top 2 cards of his/her Stock into Waiting Room. If he/she does not, place the top card of that player's Deck into Clock."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card11359-large.jpg"
+    },
+    {
+        "name": "“暴走”流子",
+        "code": "KLK/S27-047",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "皐月「いかん！それが狙いか、針目縫」",
+        "ability": [
+            "【C】 This card cannot become REVERSE due to your opponent's Character's 【A】 effect.",
+            "【A】 When this card is placed into Waiting Room from Stage, place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card11360-large.jpg"
+    },
+    {
+        "name": "宣戦布告！ 流子",
+        "code": "KLK/S27-048",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "…またゆっくり話をきかせてもらうぜ、鬼龍院皐月！",
+        "ability": [
+            "【C】 All your other 《服》 Characters get +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, REST this card.",
+            "【A】 When 「因縁の戦い」 is placed into your Climax Slot, if this card is in the Front Row, STAND this card, choose up to 1 Character with Level 1 or lower from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card11361-large.jpg"
+    },
+    {
+        "name": "流子の父 一身",
+        "code": "KLK/S27-049",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "誰だ、お前は",
+        "ability": [
+            "【A】 ［Place this card into Waiting Room］ When your other 《服》 Character becomes REVERSE during battle, if this card is in the Back Row, you may pay the cost. If you did, REST that Character."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card11362-large.jpg"
+    },
+    {
+        "name": "鮮血と共に 皐月",
+        "code": "KLK/S27-050",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "お前の力をかしてくれ、鮮血",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other Character whose Level is the highest, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card11363-large.jpg"
+    },
+    {
+        "name": "純潔を身に纏う流子",
+        "code": "KLK/S27-051",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ぶっ壊してやるよ！",
+        "ability": [
+            "【A】 ［②］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 「つながる血 流子」 from your Waiting Room, place it into any slot on Stage in REST."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card11364-large.jpg"
+    },
+    {
+        "name": "ヌーディスト・ビーチの一員 黄長瀬",
+        "code": "KLK/S27-052",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "やっぱりお前も服に呑み込まれちまったな",
+        "ability": [
+            "【A】 ［Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, all players return all cards from their Waiting Room to Deck, shuffle those Decks afterwards."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Mohawk 《モヒカン》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card11365-large.jpg"
+    },
+    {
+        "name": "届いた声 鮮血",
+        "code": "KLK/S27-053",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "流子、無茶だ！",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, reveal the top card of your Deck. If that card is a 《服》 or 《家族》 Character, choose 1 of your Character, during that turn, it gets +1000 Power. （Return revealed card to its original position）",
+            "【S】● ASSIST 2500 Level 2 ［① Place this card from Hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Blood 《血》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card11366-large.jpg"
+    },
+    {
+        "name": "気持ちは一緒！ マコ",
+        "code": "KLK/S27-054",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "だって鮮血ちゃん着てるのは、一番好きだからでしょう！？",
+        "ability": [
+            "【C】 If there is a marker under this card, this card gets +1500 Power and gains 《服》.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 「流子の一張羅 鮮血」 from your Waiting Room, place it under this card faced down as a marker."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card11367-large.jpg"
+    },
+    {
+        "name": "鮮血を身に纏う皐月",
+        "code": "KLK/S27-055",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "未練ではない！執念と言ってもらおうか！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 「流子の一張羅 鮮血」 from your Waiting Room, you may place it under this card faced down as a marker.",
+            "【A】 When your opponent's STAND Character becomes REST, if there is a marker under this card, during that turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card11368-large.jpg"
+    },
+    {
+        "name": "“片太刀バサミの女”を捜す流子",
+        "code": "KLK/S27-056",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ちょっとつきあってもらうぞ、鮮血",
+        "ability": [
+            "【C】 When you have 2 or more other 《服》 or 《家族》 Character, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card11369-large.jpg"
+    },
+    {
+        "name": "隣の席 マコ",
+        "code": "KLK/S27-057",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "三つ星だからね！",
+        "ability": [
+            "【C】 If this card is in the center slot of Front Row, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card11370-large.jpg"
+    },
+    {
+        "name": "転校生 流子",
+        "code": "KLK/S27-058",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "奴は偉いのか？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card11371-large.jpg"
+    },
+    {
+        "name": "しゃべるセーラー服 鮮血",
+        "code": "KLK/S27-059",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "私を着てくれ！",
+        "ability": [
+            "【A】 ［① Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《服》 or 《家族》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Blood 《血》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card11372-large.jpg"
+    },
+    {
+        "name": "難波金満高校 宝多",
+        "code": "KLK/S27-060",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "わてらが金つかわんで誰が使うっちゅーねん！",
+        "ability": [
+            "【A】 ［② Place 1 「難波金満高校 宝多」 into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to 3 Character with Level 0 or lower from your Waiting Room, place them into separate slot on Stage."
+        ],
+        "attributes": [
+            "Money 《銭》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card11373-large.jpg"
+    },
+    {
+        "name": "鮮血との力 流子",
+        "code": "KLK/S27-061",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "これでいけるぜ！",
+        "ability": [
+            "【A】 ACCELERATION ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, during that turn, this card gets +3500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card11374-large.jpg"
+    },
+    {
+        "name": "空を見上げる皐月",
+        "code": "KLK/S27-062",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ああ、これで解放される。鬼龍院の宿業から",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card11375-large.jpg"
+    },
+    {
+        "name": "裸のヌーディスト 美木杉",
+        "code": "KLK/S27-063",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "さらばだ",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Narcissist 《ナルシスト》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card11376-large.jpg"
+    },
+    {
+        "name": "つながる血 流子",
+        "code": "KLK/S27-064",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "わかる、これがお前か鮮血！",
+        "ability": [
+            "【A】 ［Place 1 card into Waiting Room from Hand］ When this card attacks, if 「人衣一体、神衣鮮血！」 is in the Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand, during that turn, this card gets +4000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card11377-large.jpg"
+    },
+    {
+        "name": "謎の男 美木杉",
+        "code": "KLK/S27-065",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "答えは自分で見つけることだ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Narcissist 《ナルシスト》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card11378-large.jpg"
+    },
+    {
+        "name": "純潔",
+        "code": "KLK/S27-066",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "羅暁「純潔に心をゆだねなさい流子…」",
+        "ability": [
+            "● Choose 1 of your 《服》 Character, during that turn, it gets +3500 Power."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card11379-large.jpg"
+    },
+    {
+        "name": "赤手甲",
+        "code": "KLK/S27-067",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "美木杉「効率よく血を与えることができるぞ」",
+        "ability": [
+            "Choose up to 2 Characters from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card11380-large.jpg"
+    },
+    {
+        "name": "セーラー服とは卒業するものだ",
+        "code": "KLK/S27-068",
+        "rarity": "CR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "鮮血―――――",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card11381-large.jpg"
+    },
+    {
+        "name": "因縁の戦い",
+        "code": "KLK/S27-069",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "流子「教えてもらうぜ、鬼龍院皐月！」",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, choose up to 1 Red card from your Waiting Room, place it into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card11382-large.jpg"
+    },
+    {
+        "name": "人衣一体、神衣鮮血！",
+        "code": "KLK/S27-070",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "やめておけ。私はもう絶対に鮮血を脱がない",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card11383-large.jpg"
+    },
+    {
+        "name": "野望を抱く皐月",
+        "code": "KLK/S27-071",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "母を倒すのは私の大望だ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【A】 ［①］ When 「人衣圧倒、神衣純潔！」 is placed into your Climax Slot, place the top 3 cards of your Deck into Waiting Room. If all those cards are 《服》 Characters, you may pay the cost. If you did, search your Deck for up to 1 《服》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card11384-large.jpg"
+    },
+    {
+        "name": "守りたい世界のために 皐月",
+        "code": "KLK/S27-072",
+        "rarity": "RR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "その世界を守るため、一緒に戦ってくれ！",
+        "ability": [
+            "【C】 If your Waiting Room has 3 or more 「本能字学園へ」, this card in your Hand gets -1 Level.",
+            "【C】 If there is a marker under this card, this card gets +1500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose up to 1 card from the top of your Clock, place it into Waiting Room, choose 1 「純潔」 from your Waiting Room, place it under this card faced down as a marker."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card11385-large.jpg"
+    },
+    {
+        "name": "決戦を前に 皐月",
+        "code": "KLK/S27-073",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "この本能字学園にお迎えすることも決まったぞ",
+        "ability": [
+            "【C】 If there is 2 or more Character in your opponent's Front Row, this card gets +1000 Power.",
+            "【S】 CONCENTRATION ［① REST 2 of your Characters］ Flip the top 4 cards of your Deck into Waiting Room. For each Climax among those cards, draw up to 1 card."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card11386-large.jpg"
+    },
+    {
+        "name": "大望の第一歩 皐月",
+        "code": "KLK/S27-074",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "三都制圧襲学旅行、作戦開始！",
+        "ability": [
+            "【A】 ［① Place 1 card into Waiting Room from Hand］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, search your Deck for up to 1 《服》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card11387-large.jpg"
+    },
+    {
+        "name": "天才ハッカー 犬牟田",
+        "code": "KLK/S27-075",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "やれやれ、なんなのかな。この蒟蒻問答は",
+        "ability": [
+            "【C】 SUPPORT All your 《服》 Characters in front of this card get +1 Level and +500 Power.",
+            "【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card11388-large.jpg"
+    },
+    {
+        "name": "凄まじい気迫 皐月",
+        "code": "KLK/S27-076",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "何！？",
+        "ability": [
+            "【C】 If there is a marker under this card, this card gets +1500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 「純潔」 from your Waiting Room, you may place it under this card faced down as a marker."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card11389-large.jpg"
+    },
+    {
+        "name": "志高く 皐月",
+        "code": "KLK/S27-077",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "だが貴様に人間の自由を守るという志があるなら、今は全力で戦え！",
+        "ability": [
+            "【A】 ［Place the top card of your Deck into Clock］ When this card attacks, if 「我が行動に一点の曇り無し！」 is in the Climax Slot, you may pay the cost. If you did, draw 1 card, during that turn, this card gets +X Power. X is equals to the number of your other 《服》 Characters x500.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card11390-large.jpg"
+    },
+    {
+        "name": "皐月の幼なじみ 蛇崩",
+        "code": "KLK/S27-078",
+        "rarity": "R",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "くっ",
+        "ability": [
+            "【C】 When there is a marker under this card, this card gets +2000 Power.",
+            "【C】 If you have 2 or more other 《服》 Characters, this card gains 『【A】 ENCORE ［Place 1 Character into Waiting Room from Hand］』.",
+            "【A】 When this card is placed on Stage from Waiting Room, you may place the top card of your Deck under this card as a marker."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Music 《音楽》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card11391-large.jpg"
+    },
+    {
+        "name": "裁縫部部長 伊織",
+        "code": "KLK/S27-079",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "三つ星極制服、誂の装！",
+        "ability": [
+            "【S】 ［REST 2 of your Characters］ Choose 1 of your 《服》 Character, during that turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card11392-large.jpg"
+    },
+    {
+        "name": "風紀を取り締まる蟇郡",
+        "code": "KLK/S27-080",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "いいかげんにしろお前達。皐月様の御前であるぞ",
+        "ability": [
+            "【C】 If your Clock has 3 or more cards, this card gets +1000 Power.",
+            "【A】 ACCELERATION ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, during that turn, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Discipline Committee 《風紀委員》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card11393-large.jpg"
+    },
+    {
+        "name": "実家はコンニャク製造業 猿投山",
+        "code": "KLK/S27-081",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "それ以上北関東を馬鹿にすると、貴様も石灰まぜてゆであげるぞ",
+        "ability": [
+            "【C】 If your Hand is 5 or more, this card gets +1000 Power.",
+            "【C】 This card gets +X Power. X is equals to the Character's level facing this card x2000."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card11394-large.jpg"
+    },
+    {
+        "name": "曲の冒頭へ 蛇崩",
+        "code": "KLK/S27-082",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "アンコールは超スタンダードにいきましょう",
+        "ability": [
+            "【A】 ［① Place the top card of your Deck into Clock.］ When 「本能字四天王、極戦装束！」 is placed into your Climax Slot, you may pay the cost. If you did, during that turn, this card gets +1000 Power and gains the following ability. 『【C】 When this card attacks, choose 1 of your opponent's Character in the Back Row instead, you may Front Attack that card as the defending character.』"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Music 《音楽》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card11395-large.jpg"
+    },
+    {
+        "name": "勝機を見いだす皐月",
+        "code": "KLK/S27-083",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "私が逆転の可能性を信じているのは貴様のおかげだよ！",
+        "ability": [
+            "【C】 For each of your other 《服》 Characters, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card11396-large.jpg"
+    },
+    {
+        "name": "天眼通を超える心眼通 猿投山",
+        "code": "KLK/S27-084",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "お前の心の動きが手に取るようにわかるぞ",
+        "ability": [
+            "【A】 ［Place 1 card into Waiting Room from Hand］ When 「本能字四天王、極戦装束！」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, look at the top 2 cards of your opponent's Deck and choose up to 1 card, place it at the bottom of the Deck. After that, place the remaining cards on top of the Deck in any order, during that turn, this card gets +4000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card11397-large.jpg"
+    },
+    {
+        "name": "皐月の執事 揃",
+        "code": "KLK/S27-085",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お湯はたっぷりわかしておきます",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other Character with 「皐月」 in its name, during that turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "Butler 《執事》",
+            "Tea 《お茶》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card11398-large.jpg"
+    },
+    {
+        "name": "摩天楼の最上階で 皐月",
+        "code": "KLK/S27-086",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "だが、諸君らの戦いはこれからだ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《服》 Character, during that turn, this card gets +2000 Power. （Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card11399-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 犬牟田",
+        "code": "KLK/S27-087",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "解析完了",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《服》 Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card11400-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 蛇崩",
+        "code": "KLK/S27-088",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "あら、簡単に倒しちゃつまんないでしょ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Music 《音楽》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card11401-large.jpg"
+    },
+    {
+        "name": "絶対的な恐怖 皐月",
+        "code": "KLK/S27-089",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "この鬼龍院皐月の先を行く者がいるなど、断じてありえん！",
+        "ability": [
+            "【C】 During your opponent's turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card11402-large.jpg"
+    },
+    {
+        "name": "変身するたび変態 蟇郡",
+        "code": "KLK/S27-090",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "死縛の装の本当のおそろしさ、見せてやろう！",
+        "ability": [
+            "【A】 When this card attacks, if 「本能字四天王、極戦装束！」 is in the Climax Slot, choose 1 of your other 《服》 Character or Character with 「マコ」 in its name, until the end of your opponent's next turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Discipline Committee 《風紀委員》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card11403-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 猿投山",
+        "code": "KLK/S27-091",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "よし、男の意地見せてみろ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card11404-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 蟇郡",
+        "code": "KLK/S27-092",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "弁明はきかん。即刻処罰する！",
+        "ability": [
+            "【S】 ● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Discipline Committee 《風紀委員》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card11405-large.jpg"
+    },
+    {
+        "name": "データ主義 犬牟田",
+        "code": "KLK/S27-093",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "鮮血「だが嫌な感じだ。丸裸にされるような」",
+        "ability": [
+            "【A】 When this card attacks, if 「本能字四天王、極戦装束！」 is in the Climax Slot, look up to the top 2 cards of your Deck, choose up to 2 cards with Level 0 or lower and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room. （Climax is treated as Level 0）"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card11406-large.jpg"
+    },
+    {
+        "name": "微笑む皐月",
+        "code": "KLK/S27-094",
+        "rarity": "C",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "流石だな",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card11407-large.jpg"
+    },
+    {
+        "name": "純潔",
+        "code": "KLK/S27-095",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "皐月「その服の名は、純潔」",
+        "ability": [
+            "Look up to the top 4 cards your Deck, choose up to 1 《服》 Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card11408-large.jpg"
+    },
+    {
+        "name": "揃の紅茶",
+        "code": "KLK/S27-096",
+        "rarity": "U",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "最初は苦かったお前のお茶も、今ではこんなにおいしいと感じる",
+        "ability": [
+            "● Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.",
+            "Choose 1 of your 《服》 Character, during that turn, it gets +3500 Power."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card11409-large.jpg"
+    },
+    {
+        "name": "本能字学園へ",
+        "code": "KLK/S27-097",
+        "rarity": "CR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "皐月「よし。取り戻すぞ、我々の学園を！」",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card11410-large.jpg"
+    },
+    {
+        "name": "我が行動に一点の曇り無し！",
+        "code": "KLK/S27-098",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この姿は神衣が最も力をふるえる姿！",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card11411-large.jpg"
+    },
+    {
+        "name": "人衣圧倒、神衣純潔！",
+        "code": "KLK/S27-099",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ほう…素晴らしいな",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card11412-large.jpg"
+    },
+    {
+        "name": "本能字四天王、極戦装束！",
+        "code": "KLK/S27-100",
+        "rarity": "CC",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "四天王「三つ星極制服最終形態！」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card11413-large.jpg"
+    },
+    {
+        "name": "ちびマコ",
+        "code": "KLK/S27-101",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "友情で勝つということは人生で勝つということです",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during that turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card11414-large.jpg"
+    },
+    {
+        "name": "ちび流子",
+        "code": "KLK/S27-102",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "人の食べかけのレモンを盗むなんて、ませてるじゃねえか",
+        "ability": [
+            "【A】 At the beginning of your opponent's Attack Phase, you may move this card into the empty Center slot in the Front Row."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card11415-large.jpg"
+    },
+    {
+        "name": "ちび“人衣一体”流子",
+        "code": "KLK/S27-103",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "人衣一体、神衣鮮血！",
+        "ability": [
+            "【A】 At the beginning of your Draw Phase, place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card11416-large.jpg"
+    },
+    {
+        "name": "ちび皐月",
+        "code": "KLK/S27-104",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "服を着た豚共、その真実に屈服せよ！",
+        "ability": [
+            "【A】 ［① Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《服》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card11417-large.jpg"
+    },
+    {
+        "name": "水着の流子",
+        "code": "KLK/S27-P01",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "いくぞ、鮮血！",
+        "ability": [
+            "【A】 When your other 《服》 or 《家族》 Character attacks, during that turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card10680-large.jpg"
+    },
+    {
+        "name": "流子とデート 鮮血",
+        "code": "KLK/S27-P02",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "慌てるな、流子",
+        "ability": [
+            "【S】 ［REST 1 of your 《服》 or 《家族》 Character］ During that turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Blood 《血》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card11418-large.jpg"
+    },
+    {
+        "name": "わけのわからない満艦飾一家",
+        "code": "KLK/S27-P03",
+        "rarity": "PR",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 ［Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, during that turn, this card gets +3500 Power."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "P03",
+        "image": "https://images.littleakiba.com/tcg/card11419-large.jpg"
+    },
+    {
+        "name": "隣の席 マコ",
+        "code": "KLK/S27-T01",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "そっか、転校生だったのか。よろしくね！",
+        "ability": [
+            "【C】 If this card is in the center slot of Front Row, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card10658-large.jpg"
+    },
+    {
+        "name": "転校生 流子",
+        "code": "KLK/S27-T02",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "あんたがこの学校で一番偉いんだって？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card10659-large.jpg"
+    },
+    {
+        "name": "しゃべるセーラー服 鮮血",
+        "code": "KLK/S27-T03",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "四の五の言うな！だったら力ずくでも着られてやる！",
+        "ability": [
+            "【A】 ［① Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《服》 or 《家族》 Character, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Blood 《血》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card10660-large.jpg"
+    },
+    {
+        "name": "鮮血との力 流子",
+        "code": "KLK/S27-T04",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "今度は私の番だね！",
+        "ability": [
+            "【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, during that turn, this card gets +3500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card10661-large.jpg"
+    },
+    {
+        "name": "つながる血 流子",
+        "code": "KLK/S27-T05",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "……",
+        "ability": [
+            "【A】 ［Place 1 card into Waiting Room from Hand］ When this card attacks, if 「人衣一体、神衣鮮血！」 is in the Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand, during that turn, this card gets +4000 Power.",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card10662-large.jpg"
+    },
+    {
+        "name": "謎の男 美木杉",
+        "code": "KLK/S27-T06",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "そもそも僕は、女の子にしか貸しはつくらないんだ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Teacher 《先生》",
+            "Narcissist 《ナルシスト》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card10663-large.jpg"
+    },
+    {
+        "name": "赤手甲",
+        "code": "KLK/S27-T07",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "美木杉「次からはこの赤手甲を使うんだ」",
+        "ability": [
+            "Choose up to 2 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card10664-large.jpg"
+    },
+    {
+        "name": "人衣一体、神衣鮮血！",
+        "code": "KLK/S27-T08",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "神衣を着るってことは、\nおまえと一体になるってこと！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during that turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card10665-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 犬牟田",
+        "code": "KLK/S27-T09",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "彼女の情報を掴みました",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《服》 Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card10666-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 蛇崩",
+        "code": "KLK/S27-T10",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "あーらら。蟇くんも猿くんも犬くんもみっともないわね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Music 《音楽》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card10667-large.jpg"
+    },
+    {
+        "name": "絶対的な恐怖 皐月",
+        "code": "KLK/S27-T11",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "その服、どこで手に入れた",
+        "ability": [
+            "【C】 During your opponent's turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card10668-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 猿投山",
+        "code": "KLK/S27-T12",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "だーからー、こーして制裁したろうがよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card10669-large.jpg"
+    },
+    {
+        "name": "生徒会四天王 蟇郡",
+        "code": "KLK/S27-T13",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "自分の命より友情を選ぶというのか",
+        "ability": [
+            "【S】 ● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Discipline Committee 《風紀委員》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card10670-large.jpg"
+    },
+    {
+        "name": "我が行動に一点の曇り無し！",
+        "code": "KLK/S27-T14",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "天下に乳房をさらそうと、\n恥も無ければ怯みもない！！",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card10671-large.jpg"
+    },
+    {
+        "name": "人衣圧倒、神衣純潔！",
+        "code": "KLK/S27-T15",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "今、見せてやろう",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card10672-large.jpg"
+    },
+    {
+        "name": "流浪の女子高生 流子",
+        "code": "KLK/S27-T16",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "面白い。この学校なら手がかりが掴めそうだ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +1000 Power.",
+            "【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card10673-large.jpg"
+    },
+    {
+        "name": "もう一つの神衣の持ち主 皐月",
+        "code": "KLK/S27-T17",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "やっと面白くなった",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other Character, during that turn, it gets +1 Level and +1000 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card10674-large.jpg"
+    },
+    {
+        "name": "“超”ド天然少女 マコ",
+        "code": "KLK/S27-T18",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "流子ちゃん、あなたの友達は鮮血ちゃんだけじゃない。\n私もだからね！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card10675-large.jpg"
+    },
+    {
+        "name": "“親友”流子&マコ",
+        "code": "KLK/S27-T19",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "マコ「私も、私の家族も、みんな流子ちゃんのこと大好きだよ！」\n流子「ああ、よくわかってるよ」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】 When a Climax is placed into your Climax Slot, during that turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card10676-large.jpg"
+    },
+    {
+        "name": "支配する生徒会長 皐月",
+        "code": "KLK/S27-T20",
+        "rarity": "TD",
+        "expansion": "Kill la Kill",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "答えが知りたければ腕で聞け",
+        "ability": [
+            "【C】 During your opponent's turn, all your other Characters get +500 Power.",
+            "【S】 ［② REST 2 of your Characters］ Draw 1 card."
+        ],
+        "attributes": [
+            "Clothes 《服》",
+            "Weapon 《武器》"
+        ],
+        "set": "KLK",
+        "release": "S27",
+        "sid": "T20",
+        "image": "https://images.littleakiba.com/tcg/card10677-large.jpg"
+    }
+]

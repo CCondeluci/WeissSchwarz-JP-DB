@@ -1,0 +1,286 @@
+[
+    {
+        "name": "家族と絆 流子＆マコ",
+        "code": "KLK/SP03-01",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【自】［(1) あなたの【スタンド】しているキャラを2枚【レスト】する］ この能力は1ターンにつき1回まで発動する。あなたのカードがマーカー置場以外からマーカー置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《服》か《家族》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+        ],
+        "attributes": [
+            "Family 《家族》"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "01",
+        "image": "https://www.encoredecks.com/images/JP/SP03/01.gif"
+    },
+    {
+        "name": "\"人衣一体\"鮮血",
+        "code": "KLK/SP03-02",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【永】 他のあなたの、《服》か《家族》のキャラすべてに、パワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。",
+            "【起】［このカードの下のマーカーを1枚控え室に置く］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "服",
+            "血"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "02",
+        "image": "https://www.encoredecks.com/images/JP/SP03/02.gif"
+    },
+    {
+        "name": "片太刀鋏武滾流猛怒 流子",
+        "code": "KLK/SP03-03",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋4000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、「流子の一張羅 鮮血」か「\"人衣一体\"鮮血」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「因縁の戦い」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "03",
+        "image": "https://www.encoredecks.com/images/JP/SP03/03.gif"
+    },
+    {
+        "name": "\"暴走\"流子",
+        "code": "KLK/SP03-04",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 このカードが手札から舞台に置かれた時か「鮮血との出会い 流子」の【自】の効果で舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）",
+            "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "04",
+        "image": "https://www.encoredecks.com/images/JP/SP03/04.gif"
+    },
+    {
+        "name": "\"鮮血更衣\"流子",
+        "code": "KLK/SP03-05",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【自】 あなたのクライマックス置場に「セーラー服とは卒業するものだ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "05",
+        "image": "https://www.encoredecks.com/images/JP/SP03/05.gif"
+    },
+    {
+        "name": "\"神衣純潔\"皐月",
+        "code": "KLK/SP03-06",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《服》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "06",
+        "image": "https://www.encoredecks.com/images/JP/SP03/06.gif"
+    },
+    {
+        "name": "人類の生存のために 皐月",
+        "code": "KLK/SP03-07",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「純潔」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+            "【自】［このカードの下のマーカーを1枚控え室に置く］ 他のあなたの「決めて着るから決着！ 流子」が手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を見てよい。そうしたら、あなたはそのカードをそのキャラの下にマーカーとして裏向きに置く。"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "07",
+        "image": "https://www.encoredecks.com/images/JP/SP03/07.gif"
+    },
+    {
+        "name": "迷いなき志 皐月",
+        "code": "KLK/SP03-08",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+            "【自】 相手のアタックフェイズの始めに、あなたの控え室に「因縁の戦い」があるなら、そのターン中、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "08",
+        "image": "https://www.encoredecks.com/images/JP/SP03/08.gif"
+    },
+    {
+        "name": "野望のために 縫",
+        "code": "KLK/SP03-09",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《服》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【自】［(4) 手札を3枚控え室に置き、このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「羅暁」を含むキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【スタンド】する。"
+        ],
+        "attributes": [
+            "服",
+            "眼帯"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "09",
+        "image": "https://www.encoredecks.com/images/JP/SP03/09.gif"
+    },
+    {
+        "name": "冬の光景 流子",
+        "code": "KLK/SP03-10",
+        "rarity": "PS",
+        "expansion": "Kill la Kill Power-Up Set",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－1。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "服",
+            "武器"
+        ],
+        "set": "KLK",
+        "release": "SP03",
+        "sid": "10",
+        "image": "https://www.encoredecks.com/images/JP/SP03/10.gif"
+    }
+]

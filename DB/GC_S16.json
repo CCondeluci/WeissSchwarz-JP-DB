@@ -1,0 +1,3825 @@
+[
+    {
+        "name": "リーダーの風格 涯",
+        "code": "GC/S16-001",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "まずは生き延びろ。全てはそれからだ",
+        "ability": [
+            "【A】［①] When this card attacks, if ｢攻撃開始｣ is in the Climax Slot, you may pay the cost. If you did, during this turn, this card gets +2000 Power and gains the following ability 『【A】 When this card's battle opponent becomes REVERSE, you may choose 1 of your Characters, return it to Hand.』",
+            "【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card6079-large.jpg"
+    },
+    {
+        "name": "重要な選択 涯",
+        "code": "GC/S16-002",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "お前はもう、この世界の虚構を知っている。\n知ってなお、淘汰される側でいることを選ぶのか？",
+        "ability": [
+            "【S】［① REST 1 of your Characters］ Reveal the top card of your Deck. If that card is Level 1 or higher, choose 1 of your Characters, during this turn, it gets +1000 Power, +1 Soul.（Climax is treated as Level 0. Return the revealed card to its original position）"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card6080-large.jpg"
+    },
+    {
+        "name": "“第一感染者”真名",
+        "code": "GC/S16-003",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "トリトンは私のナイトなんでしょう？\nだから、これからも私を守って",
+        "ability": [
+            "【A】 BOND／「運命を受け入れる涯」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「運命を受け入れる涯」 from your Waiting Room, return to Hand)",
+            "【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card6081-large.jpg"
+    },
+    {
+        "name": "桜満 真名",
+        "code": "GC/S16-004",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "大丈夫、怖がらないで。\nたのしいことしましょ、集――",
+        "ability": [
+            "【C】 During your turn, this card gets +2000 Power.",
+            "【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card6082-large.jpg"
+    },
+    {
+        "name": "運命を受け入れる涯",
+        "code": "GC/S16-005",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "もう時間がない。――取り出せ、集。\n俺の心を。俺達の友情の証を",
+        "ability": [
+            "【C】 During your turn, all your other Characters gets +1000 Power.",
+            "【A】 You can only use this ability 1 time per turn. When you use 『SHIFT』, until the end of your opponent's turn, this card gains 『【C】SUPPORT All your Characters in front of this card gets +500 Power.』."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card6083-large.jpg"
+    },
+    {
+        "name": "共闘を誓う涯",
+        "code": "GC/S16-006",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "よくやったな、集",
+        "ability": [
+            "【C】 If your Stock is 6 or more, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 When your other 《葬儀社》 Character attacks, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card6084-large.jpg"
+    },
+    {
+        "name": "恙神 涯",
+        "code": "GC/S16-007",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "……たった一人の女をこの手で抱きたい。だから戦っています",
+        "ability": [
+            "【A】 When this card attacks, if 「再会の抱擁」 is in the Climax Slot, until the end of your opponent's next turn, this card gets +2000 Power and gains the following ability.『【C】The Character facing this card gets -1 Soul.』",
+            "【A】 When this card is being Front Attacked, look at the top card of your Deck, place it on top of the Deck or into Waiting Room.",
+            "【A】◆ SHIFT Level 3 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card6085-large.jpg"
+    },
+    {
+        "name": "城戸 研二",
+        "code": "GC/S16-008",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "出番でしょ？俺のヴォイド",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card6086-large.jpg"
+    },
+    {
+        "name": "潜入捜査 涯",
+        "code": "GC/S16-009",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "緊張しているのか、集",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, place the top card of your Stock into Waiting Room. （Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card6087-large.jpg"
+    },
+    {
+        "name": "失った痛み 集",
+        "code": "GC/S16-010",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "もし涯がいたら、こんなときどうするかなって",
+        "ability": [
+            "【A】CHANGE［③ Place this card into Waiting Room］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「新たなる決意 集」 from your Waiting Room, place it into this card's previous slot.",
+            "【S】［REST this card］ Choose 1 of your Characters, during this turn, it gets +1 Level, +1000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card6088-large.jpg"
+    },
+    {
+        "name": "月島 アルゴ",
+        "code": "GC/S16-011",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "葬儀社の看板は重てぇぞ。\n――この程度でビビんなよオラァ！",
+        "ability": [
+            "【C】 During your turn, if your Stock is 4 or more, this card gets +1500 Power.",
+            "【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card6089-large.jpg"
+    },
+    {
+        "name": "新たなる決意 集",
+        "code": "GC/S16-012",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each marker below this card, this card gets +1000 Power.",
+            "【A】 When this card attacks, if ｢覚醒する“王の能力”｣ is in the Climax Slot, choose 1 of your other Characters, place X cards from the top of your Deck under this card as a marker. X is equals to that Character's Level."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card6090-large.jpg"
+    },
+    {
+        "name": "大雲",
+        "code": "GC/S16-013",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 During your turn, your other Character in the Center Slot of the Front Row gets +500 Power.",
+            "【C】SUPPORT All your Characters in front of this card gets +1 Level."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card6091-large.jpg"
+    },
+    {
+        "name": "“葬儀社”四分儀\n\"Undertaker\" Shibungi",
+        "code": "GC/S16-014",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "流石ですね、シナリオを飛ばしますか。\n――ただ、少し急ぎ過ぎでは……？",
+        "ability": [
+            "【C】During your turn, all your other Characters get +500 Power.",
+            "【S】［REST 2 of your Characters］ Look at the top card of your Deck, place it on the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card6092-large.jpg"
+    },
+    {
+        "name": "“葬儀社”アルゴ\n\"Undertaker\" Arugo",
+        "code": "GC/S16-015",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "いい眺めが見てえんだよ。\n――涯と一緒に",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card6093-large.jpg"
+    },
+    {
+        "name": "葬儀社の司令塔 涯\nUndertaker Leader Gai",
+        "code": "GC/S16-016",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "俺たちは、こういう事態に備えてきた。\n――生き残りたければ、俺の指示に従え！",
+        "ability": [
+            "【C】 All your other「秘めたる能力 集」 gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your Characters, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card6094-large.jpg"
+    },
+    {
+        "name": "若き首領 涯\nYoung Leader Gai",
+        "code": "GC/S16-017",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "それが未来の一つの顔だというなら、\nいまは祝福してやるさ。新たな王の誕生を――",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card6095-large.jpg"
+    },
+    {
+        "name": "秘めたる能力 集\nHidden Power Shu",
+        "code": "GC/S16-018",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "やれるッ!! 僕を信じてよ、涯！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card6096-large.jpg"
+    },
+    {
+        "name": "“葬儀社”大雲\n\"Undertaker\" Ohgumo",
+        "code": "GC/S16-019",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "気にせず、あなたはあなたの仕事を\nしてください。――グッドラック",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card6097-large.jpg"
+    },
+    {
+        "name": "“葬儀社”涯\n\"Undertaker\" Gai",
+        "code": "GC/S16-020",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "勝負だ。淘汰されるのは俺の方か……、\nあるいは世界か――",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card6098-large.jpg"
+    },
+    {
+        "name": "ロストクリスマス",
+        "code": "GC/S16-021",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いやぁぁぁぁぁぁぁぁぁぁぁぁ――ッッ！！",
+        "ability": [
+            "Choose 1 of your opponent's Characters in the Front Row with Level 2 or lower, place it into Stock."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card6099-large.jpg"
+    },
+    {
+        "name": "崩壊の危機",
+        "code": "GC/S16-022",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ツグミ「あんたのせいよ、集。\nあんたが来ないから。ヴォイドを使わないから！」",
+        "ability": [
+            "● If you do not have any 《葬儀社》 Characters, this card cannot be played from Hand. Choose 1 of your Characters, during this turn, it gets +4000 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card6100-large.jpg"
+    },
+    {
+        "name": "攻撃開始",
+        "code": "GC/S16-023",
+        "rarity": "CR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "やれっ！集!!",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card6101-large.jpg"
+    },
+    {
+        "name": "再会の抱擁",
+        "code": "GC/S16-024",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "涯「……やっと……お前に届いた……」",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card6102-large.jpg"
+    },
+    {
+        "name": "覚醒する“王の能力”\nAwaken \"The Power of Kings\"",
+        "code": "GC/S16-025",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "真名「ならヴォイドを集めて。強いヴォイドを。\n――あなたの右腕は、そうやって\n未来を紡ぎだすためのものなのだから」",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card6103-large.jpg"
+    },
+    {
+        "name": "魅惑のビーチ 祭",
+        "code": "GC/S16-026",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ほら、はやくっ",
+        "ability": [
+            "【C】 All your other Characters get +500 Power.",
+            "【A】 At the beginning of your Main Phase, look at the top card of your Deck, place it at the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Swimsuit 《水着》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card6104-large.jpg"
+    },
+    {
+        "name": "桜満 集",
+        "code": "GC/S16-027",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "僕は、王になる",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【S】［① REST 2 of your Characters］ Reveal the top card of your Deck. If that card is Level 1 or higher, during this turn, this card gets +1000 Power and gains the following ability.『【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may place that Character into Clock.』（Climax is treated as Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card6105-large.jpg"
+    },
+    {
+        "name": "うつむく集",
+        "code": "GC/S16-028",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "もう、全部終わったんだよね――",
+        "ability": [
+            "【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following actions.『Choose 1 card in your Clock, return it to Hand, place the top card of your Deck into Clock.』"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card6106-large.jpg"
+    },
+    {
+        "name": "学園の花音",
+        "code": "GC/S16-029",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "何かわからないことがあったら聞いてね",
+        "ability": [
+            "【A】［①］When a Climax appears during your Character's Trigger Check, you may pay the cost. If you did, choose 1 of your Characters, until the end of the opponent's next turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card6107-large.jpg"
+    },
+    {
+        "name": "遠くを見据えるいのり",
+        "code": "GC/S16-030",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "涯は、強くない。\n――だから助けてほしいの、集に",
+        "ability": [
+            "【A】 When this card attacks, if 「女神の微笑み」 is in the Climax Slot, during this turn, this card gets +1000 Power and gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』",
+            "【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card6108-large.jpg"
+    },
+    {
+        "name": "空を見上げる集",
+        "code": "GC/S16-031",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "その人と心を通わせれば、\n僕の力も変わっていくんだろうか？",
+        "ability": [
+            "【A】When this card attacks, place the top card of your Stock into Waiting Room.",
+            "【A】When this card attacks, if ｢王の素質｣ is in the Climax Slot, return the top card of your Stock into Hand, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card6109-large.jpg"
+    },
+    {
+        "name": "優しい言葉 祭",
+        "code": "GC/S16-032",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "私ね、集はきっといい王様になると思うな。\nだから……",
+        "ability": [
+            "【A】［①] When this card attacks, if 「私の大好きな王様」 is in your Climax Slot, you may pay the cost. If you did, all your other Characters, during this turn, gets +4500 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card6110-large.jpg"
+    },
+    {
+        "name": "校条 祭",
+        "code": "GC/S16-033",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "大丈夫、私は集のいいところ、いっぱい知ってるよ",
+        "ability": [
+            "【A】 BOND／「空を見上げる集」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「空を見上げる集」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card6111-large.jpg"
+    },
+    {
+        "name": "寒川 潤",
+        "code": "GC/S16-034",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "集さん。僕を殺してください",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +1 Level, +500 Power.",
+            "【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card6112-large.jpg"
+    },
+    {
+        "name": "草間 花音",
+        "code": "GC/S16-035",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "――でもホント。\n人生、望んだようにはいかないよね",
+        "ability": [
+            "【S】［Reveal the top card of your Deck］ You can only activate this ability 1 time per turn. If the card revealed by this ability's cost is Level 1 or higher, during this turn, this card gets +1500 Power.（Climax is treated as Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card6113-large.jpg"
+    },
+    {
+        "name": "守るべき存在 集",
+        "code": "GC/S16-036",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "いのりは！僕の……！",
+        "ability": [
+            "【S】［①］During this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card6114-large.jpg"
+    },
+    {
+        "name": "制服のいのり",
+        "code": "GC/S16-037",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "心配？裏切られたのに",
+        "ability": [
+            "【S】［①］Reveal the top card of your Deck. If that card is Level 1 or higher, choose 1 of your Characters, during this turn, it gets +2000 Power.（Climax is treated as Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card6115-large.jpg"
+    },
+    {
+        "name": "見守る祭",
+        "code": "GC/S16-038",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私もできるだけ協力するから",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】［① REST this card］ Choose 1 of your other Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card6116-large.jpg"
+    },
+    {
+        "name": "魂館 颯汰",
+        "code": "GC/S16-039",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ここにいたって、無事って保障はないんだろ。\nだったら動く方がいいじゃん",
+        "ability": [
+            "【C】 If your Stock is 3 or more, this card gets +1000 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card6117-large.jpg"
+    },
+    {
+        "name": "学園の集",
+        "code": "GC/S16-040",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "僕にはわからないんだ。\nみんなと何を話したらいいのか",
+        "ability": [
+            "【C】 If you have 1 or less other Character, this card gets +1500 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card6118-large.jpg"
+    },
+    {
+        "name": "突然の居候 いのり",
+        "code": "GC/S16-041",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ねぇ、集……おなかへった",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card6119-large.jpg"
+    },
+    {
+        "name": "寒川 谷尋",
+        "code": "GC/S16-042",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "いいじゃんか颯汰。やれるっていうんだし",
+        "ability": [
+            "【C】All your other Characters gain the following ability.『【C】This card cannot Side Attack.』"
+        ],
+        "attributes": [
+            "Student Council 《生徒会》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card6120-large.jpg"
+    },
+    {
+        "name": "供奉院 亞里沙",
+        "code": "GC/S16-043",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "……分かっています。\n私は、クホウインアリサですから",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Student Council 《生徒会》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card6121-large.jpg"
+    },
+    {
+        "name": "魅惑のビーチ 亞里沙",
+        "code": "GC/S16-044",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "でもこんな状況だからこそ、\nゆとりが大切じゃないかしら？",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Student Council 《生徒会》",
+            "Swimsuit 《水着》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card6122-large.jpg"
+    },
+    {
+        "name": "私服のいのり",
+        "code": "GC/S16-045",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "やってみたいの、私が。\n……いい？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card6123-large.jpg"
+    },
+    {
+        "name": "後夜祭のステージ",
+        "code": "GC/S16-046",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Look at the top card of your Deck, place it on top of your Deck or into Waiting Room. Place this card into Stock."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card6124-large.jpg"
+    },
+    {
+        "name": "ゲノムレゾナンスゲージ",
+        "code": "GC/S16-047",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ツグミ「ぶっちゃけ言えば、\nヴォイドの強さを計る装置みたいなものね」",
+        "ability": [
+            "Choose 1 of your opponent's Characters, during this turn, it gets -4000 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card6125-large.jpg"
+    },
+    {
+        "name": "王の素質",
+        "code": "GC/S16-048",
+        "rarity": "CR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card6126-large.jpg"
+    },
+    {
+        "name": "女神の微笑み",
+        "code": "GC/S16-049",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "集、楽しそう",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card6127-large.jpg"
+    },
+    {
+        "name": "私の大好きな王様",
+        "code": "GC/S16-050",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "集に、あげる。私、の……",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card6128-large.jpg"
+    },
+    {
+        "name": "優しい気持ち いのり",
+        "code": "GC/S16-051",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "涯が言っていた。\n心の在り方で、ヴォイドも形を変えるって",
+        "ability": [
+            "【A】［①］When this card attacks, if 「勇気の試練」 is in your Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】When this card becomes REVERSE in battle, the opponent may choose 1 Character from your Waiting Room, place it on top of your Deck."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card6129-large.jpg"
+    },
+    {
+        "name": "集のパートナー いのり",
+        "code": "GC/S16-052",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "お願い…私を、使って…",
+        "ability": [
+            "【A】CHANGE［② Place 1 card from your Hand into Waiting Room, place this card into Waiting Room］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「楪 いのり」 from your Waiting Room, place it into this card's previous slot.",
+            "【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card6130-large.jpg"
+    },
+    {
+        "name": "添い寝するいのり",
+        "code": "GC/S16-053",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "これが……好き？",
+        "ability": [
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《葬儀社》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card6131-large.jpg"
+    },
+    {
+        "name": "迷いを見抜くいのり",
+        "code": "GC/S16-054",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "みんなが、じゃなくて……、\n集は、どうしたいの？",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card get +1000 Power.",
+            "【A】You can only activate this ability 1 time per turn. When you use 『SHIFT』, until the end of your opponent's next turn, this card gains the following ability.『【C】All your other Characters gets +500 Power.』"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card6132-large.jpg"
+    },
+    {
+        "name": "悲痛な叫び いのり",
+        "code": "GC/S16-055",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "やめさせないと……起きちゃう……あのひと……が……",
+        "ability": [
+            "【A】 This ability can only be activated 1 time per turn. When your other Character with 『SHIFT』 is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card6133-large.jpg"
+    },
+    {
+        "name": "幼少の真名",
+        "code": "GC/S16-056",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "海から来たんだもの。あなたは今日からトリトン。\n――すてきな名前でしょ？",
+        "ability": [
+            "【A】［① Place 1 Character from your Stage into Waiting Room］ When this card attacks, if ｢あの夏の思い出｣ is in the Climax Slot, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 2 or lower, place it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card6134-large.jpg"
+    },
+    {
+        "name": "楪 いのり",
+        "code": "GC/S16-057",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私なら…止められる",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「エウテルペ」 is in the Climax Slot, you may pay the cost. If you did, choose up to 2 Characters from your Waiting Room, return it to Hand, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card6135-large.jpg"
+    },
+    {
+        "name": "オートインセクト ふゅーねる",
+        "code": "GC/S16-058",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 BOND／「添い寝するいのり」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「添い寝するいのり」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card6136-large.jpg"
+    },
+    {
+        "name": "桜満 春夏",
+        "code": "GC/S16-059",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "おいしいもの食べながら、\nじっくり聞かせてもらうから",
+        "ability": [
+            "【C】 If the opponent's Stock is 3 or less, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Science 《科学》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card6137-large.jpg"
+    },
+    {
+        "name": "嘘界＝ヴァルツ・誠",
+        "code": "GC/S16-060",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "初めまして。桜満集君。\nあなたを逮捕します",
+        "ability": [
+            "【S】［①］Place the top card of your opponent's Deck into Waiting Room, choose 1 card from your opponent's Waiting Room, place it on top of the Deck."
+        ],
+        "attributes": [
+            "Army 《軍隊》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card6138-large.jpg"
+    },
+    {
+        "name": "傲慢な態度 ダリル",
+        "code": "GC/S16-061",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……冗談はやめてよ。\n僕にその脂身に触れって言うの？",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your Characters which is not Red, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card6139-large.jpg"
+    },
+    {
+        "name": "EGOIST いのり",
+        "code": "GC/S16-062",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "集「エゴイストの生ライブ!?」",
+        "ability": [
+            "【C】 If you have 2 or more other Characters with 『SUPPORT』, this card gets +1000 Power.",
+            "【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card6140-large.jpg"
+    },
+    {
+        "name": "幼少の集",
+        "code": "GC/S16-063",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ダイジョブさ。おれを信じろよ！",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card6141-large.jpg"
+    },
+    {
+        "name": "魂の歌声 いのり",
+        "code": "GC/S16-064",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "この歌は、もう違うの",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《葬儀社》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card6142-large.jpg"
+    },
+    {
+        "name": "ふゅーねる\nFyu-Neru",
+        "code": "GC/S16-065",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ぴっ！",
+        "ability": [
+            "【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.",
+            "【A】◆ SHIFT LEVEL 0 (At the start of your Main Phase, choose a red card from your hand and this card in Clock, you may swap them.)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card6143-large.jpg"
+    },
+    {
+        "name": "別れの言葉 いのり",
+        "code": "GC/S16-066",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お別れ……言ってからにしようって。思ったから……",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card6144-large.jpg"
+    },
+    {
+        "name": "平凡な高校生 集",
+        "code": "GC/S16-067",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "でも、これでいいのかな？\n僕にももっと、やれることってないのかな……",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card6145-large.jpg"
+    },
+    {
+        "name": "幼少の涯",
+        "code": "GC/S16-068",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ねえ……ホントに飛ぶの？",
+        "ability": [
+            "【C】 If you have another Character with 「集」 in its name, this card gets +1 Level, +1000 Power."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card6146-large.jpg"
+    },
+    {
+        "name": "ダリル・ヤン\nDaryl Yan",
+        "code": "GC/S16-069",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "いい？ 僕は自分の好きにやる。\nもしジャマしたら、パパに言いつけるからね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card6147-large.jpg"
+    },
+    {
+        "name": "純粋な気持ち いのり",
+        "code": "GC/S16-070",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "……ずっと側に居ても、いい？",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card6148-large.jpg"
+    },
+    {
+        "name": "ウェブアーティスト いのり\nWeb Artist Inori",
+        "code": "GC/S16-071",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "桜満集は、臆病なヒト？",
+        "ability": [
+            "【A】When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card6149-large.jpg"
+    },
+    {
+        "name": "ヴォイドゲノムの真実\nTruth of the Void Genome",
+        "code": "GC/S16-072",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "集「これは……!?」",
+        "ability": [
+            "Choose up to 2 Characters from your Waiting Room, return them to hand."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card6150-large.jpg"
+    },
+    {
+        "name": "エウテルペ",
+        "code": "GC/S16-073",
+        "rarity": "CR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card6151-large.jpg"
+    },
+    {
+        "name": "あの夏の思い出",
+        "code": "GC/S16-074",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "こうして僕らは出会い、\n一つの夏を共に過ごしたんだ。\nロストクリスマスの年――\nみんなが笑顔で過ごせた最後の夏を――",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card6152-large.jpg"
+    },
+    {
+        "name": "勇気の試練\nTrial of Courage",
+        "code": "GC/S16-075",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "とって",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card6153-large.jpg"
+    },
+    {
+        "name": "水着のツグミ",
+        "code": "GC/S16-076",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ねね、どうなの？アヤねえ",
+        "ability": [
+            "【A】［① Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《葬儀社》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card6154-large.jpg"
+    },
+    {
+        "name": "篠宮 綾瀬",
+        "code": "GC/S16-077",
+        "rarity": "RR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ぼやぼやしてると死ぬわよ！",
+        "ability": [
+            "【C】The Character facing this card gets -1 Soul.",
+            "【A】［① Place 1 card from Hand into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your opponent's Characters, STAND it and move it into an empty slot on your opponent's Stage, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card6155-large.jpg"
+    },
+    {
+        "name": "ポジティブ思考 ツグミ",
+        "code": "GC/S16-078",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "くよくよしてても仕方なし。\nせっかくだから楽しみませんとっ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or higher add it to your Hand, choose 1 card from your Hand, place it into Waiting Room.（Otherwise return it to its original position. Climax is treated as Level 0）",
+            "【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +500."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card6156-large.jpg"
+    },
+    {
+        "name": "振袖姿のツグミ",
+        "code": "GC/S16-079",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あたしにハズカシイことした責任は取ってもらうかんね！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 2 or more 《葬儀社》 Characters, choose 1 of your Characters, during this turn, it gets +1000 Power.",
+            "【S】● ASSIST 1000 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card6157-large.jpg"
+    },
+    {
+        "name": "恋する乙女 綾瀬",
+        "code": "GC/S16-080",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "すっ……好きとか……そんなじゃないわよ！\n尊敬してるの、私は！",
+        "ability": [
+            "【A】When 「取り戻した自信」 is placed into your Climax slot, if this card is in the Front Row, search your Deck for up to 1 「篠宮 綾瀬」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.",
+            "【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card6158-large.jpg"
+    },
+    {
+        "name": "オペレーター ツグミ",
+        "code": "GC/S16-081",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "アヤねえ、接続よろし？",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.",
+            "【A】 This ability can only be activated 2 times per turn. When your other 《葬儀社》 Character is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card6159-large.jpg"
+    },
+    {
+        "name": "勝気な綾瀬",
+        "code": "GC/S16-082",
+        "rarity": "R",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "ハンパな気分だと死ぬわよ。\nどうする、やるの、やらないの？",
+        "ability": [
+            "【A】 When this card attacks, if 「出撃」 is in the Climax Slot, during this turn, this card gets +2000 Power and gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may draw 1 card.』"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card6160-large.jpg"
+    },
+    {
+        "name": "車椅子の少女 綾瀬",
+        "code": "GC/S16-083",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ヒトの手は借りないって決めてるの",
+        "ability": [
+            "【A】 BOND／「リーダーの風格 涯」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「リーダーの風格 涯」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card6161-large.jpg"
+    },
+    {
+        "name": "ムードメーカー ツグミ",
+        "code": "GC/S16-084",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "だってこんなご時世だもん。\n言ったもん勝ちだと違う？",
+        "ability": [
+            "【C】 During your opponent's turn, your other Character in the Center slot of the Front Row gets +1500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card6162-large.jpg"
+    },
+    {
+        "name": "姉御肌 綾瀬",
+        "code": "GC/S16-085",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "なに悲劇のボクに酔ってるの！\nいい加減目を覚ましなさいよ！",
+        "ability": [
+            "【A】 CHANGE ［② Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「しっかり者 綾瀬」 from your Waiting Room, place it on this card's previous slot.",
+            "【S】［REST this card］ Choose 1 of your Characters, until the end of your opponent's next turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card6163-large.jpg"
+    },
+    {
+        "name": "しっかり者 綾瀬",
+        "code": "GC/S16-086",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "エンドレイヴは涯がくれた足なの",
+        "ability": [
+            "【A】［Return 2 Characters from your Waiting Room into Deck. Shuffle the Deck afterwards］ When this card attacks, reveal the top card of your Deck. If that card is Level 1 or higher, you may pay the cost. If you did, until the end of your opponent's next turn, this card gets +2000 Power.(Climax is treated as Level 0. Return revealed to its original position)",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card6164-large.jpg"
+    },
+    {
+        "name": "“葬儀社”ツグミ",
+        "code": "GC/S16-087",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "今回は、かなり大がかりなオペレーションになるはずよ",
+        "ability": [
+            "【C】 If your Stock is 4 or more, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.",
+            "【A】 When this card attacks, if 「情報戦の要」 is in the Climax Slot, you may draw 1 card."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card6165-large.jpg"
+    },
+    {
+        "name": "不意打ち 集",
+        "code": "GC/S16-088",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "…………！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, you may reveal your Hand. If you did, if there are no cards with Level 0 or lower among those cards, search your Deck for up to 1 ｢学園の集｣, show it to your opponent, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card6166-large.jpg"
+    },
+    {
+        "name": "呆れ顔 綾瀬",
+        "code": "GC/S16-089",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "……",
+        "ability": [
+            "【C】 During your opponent's turn, if you have 2 or less other Characters, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card6167-large.jpg"
+    },
+    {
+        "name": "フランクな性格 ツグミ",
+        "code": "GC/S16-090",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "働かざる者食うべからずー。\nはーい、じゃあついてきてー",
+        "ability": [
+            "【C】 If your opponent's Clock is 4 or more, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card6168-large.jpg"
+    },
+    {
+        "name": "“葬儀社”綾瀬",
+        "code": "GC/S16-091",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "知りたいなら、とりあえず、明日の模擬戦に勝つことね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card6169-large.jpg"
+    },
+    {
+        "name": "有能なパイロット 綾瀬",
+        "code": "GC/S16-092",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "了解！こっちも準備オーケーよ！",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card6170-large.jpg"
+    },
+    {
+        "name": "強い心 ツグミ",
+        "code": "GC/S16-093",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "余計な心配とかしなくていいからね、集！",
+        "ability": [
+            "【C】 If this card has a marker under it, it gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or higher, you may place it under this card as a marker.（Otherwise return it to its original position. Climax is treated as Level 0）"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card6171-large.jpg"
+    },
+    {
+        "name": "風変わりな子 ツグミ",
+        "code": "GC/S16-094",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "まーまー。これで機嫌直したまえよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card6172-large.jpg"
+    },
+    {
+        "name": "ふっきれた思い 集",
+        "code": "GC/S16-095",
+        "rarity": "C",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "僕は、僕にできるやり方で、やるしかない",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card6173-large.jpg"
+    },
+    {
+        "name": "綾瀬機シュタイナー",
+        "code": "GC/S16-096",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "綾瀬「次のターゲットは？」",
+        "ability": [
+            "Search your Deck for up to 1 Climax, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card6174-large.jpg"
+    },
+    {
+        "name": "渾身の一撃",
+        "code": "GC/S16-097",
+        "rarity": "U",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ミサイルぅぅぅぅ……\nキイィィィィィィック！",
+        "ability": [
+            "Look at up to X cards from the top of your Deck, choose up to 2 cards, add it to Hand. Place the remaining cards into the Waiting Room. X is equals to the number of your 《葬儀社》 Characters."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card6175-large.jpg"
+    },
+    {
+        "name": "取り戻した自信",
+        "code": "GC/S16-098",
+        "rarity": "CR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いいでしょ。これ、私のヴォイド",
+        "ability": [
+            "【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card6176-large.jpg"
+    },
+    {
+        "name": "出撃",
+        "code": "GC/S16-099",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "シュタイナー、出ます！",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card6177-large.jpg"
+    },
+    {
+        "name": "情報戦の要",
+        "code": "GC/S16-100",
+        "rarity": "CC",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "まもなく、降下開始よ",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card6178-large.jpg"
+    },
+    {
+        "name": "此処にいる意味 いのり\nReason for Being Here Inori",
+        "code": "GC/S16-101",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "涯は、私に名前をくれたの\n名前も……自分も……何も無かった私に、名前をくれたの",
+        "ability": [
+            "【S】［REST 1 of your 《葬儀社》 Characters］During this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card5380-large.jpg"
+    },
+    {
+        "name": "決断の時 集\nTime of Determination Shu",
+        "code": "GC/S16-102",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "わかった……。僕も一緒に行くよ",
+        "ability": [
+            "【C】 SUPPORT All your Level 2 and above Characters in front of this card get +1000 Power.",
+            "【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card5312-large.jpg"
+    },
+    {
+        "name": "望む未来の為に 涯\nFor the Desired Future Gai",
+        "code": "GC/S16-103",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "全てを俺に預け、ただ俺の命令に従え",
+        "ability": [
+            "【S】［①］During this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card5381-large.jpg"
+    },
+    {
+        "name": "“歌姫”いのり\n\"Songstress\" Inori",
+        "code": "GC/S16-104",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "信じて。――できる、絶対に。\n私はもう、あなたのものだから",
+        "ability": [
+            "【C】If you have 2 or more 《葬儀社》 Characters, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 《葬儀社》 Character in your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card5396-large.jpg"
+    },
+    {
+        "name": "歪な共犯関係",
+        "code": "GC/S16-105",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "集「……僕も、共犯だね」\n涯「馬鹿な奴だ」",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card5397-large.jpg"
+    },
+    {
+        "name": "“The Everlasting Guilty Crown”真名",
+        "code": "GC/S16-106",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "集も絶対、私のことが好きなはずよ。\n私たちには、完璧な運命があるのだから――",
+        "ability": [
+            "【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card6179-large.jpg"
+    },
+    {
+        "name": "“告白”真名",
+        "code": "GC/S16-107",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "あなたと私の遺伝子で、新しい世界を作りましょう",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card6180-large.jpg"
+    },
+    {
+        "name": "スクルージ＆キャロル",
+        "code": "GC/S16-108",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "キャロル「スクルージ。わたしを、つかって。\nこわれるくらいに。メチャクチャに」",
+        "ability": [
+            "【S】［①］Choose 1 of your opponent's Front Row Characters with Level 0 or less, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card6181-large.jpg"
+    },
+    {
+        "name": "“真摯な誓い”集＆いのり",
+        "code": "GC/S16-109",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "集「僕は君のためにここに来たんだ。君を守りたくて……。だから――」",
+        "ability": [
+            "【S】［①］Choose 1 of your opponent's Front Row Characters with Level 0 or lower, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card6182-large.jpg"
+    },
+    {
+        "name": "“運命の邂逅”集＆いのり\n\"Destined Meeting\" Shu & Inori",
+        "code": "GC/S16-110",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "これは力。人の心を紡いで形となす――“ 罪の王冠 (ギルティクラウン)”",
+        "ability": [
+            "【A】When this card attacks, if 「死にゆくものへ餞を」 is in the Climax Slot, you may choose 1 Character in your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Music 《音楽》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card5315-large.jpg"
+    },
+    {
+        "name": "死にゆくものへ餞を\nFarewell Gift to the Dying",
+        "code": "GC/S16-111",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "俺たちは淘汰される者に葬送の歌を送り続ける",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card5316-large.jpg"
+    },
+    {
+        "name": "“My Dearest”いのり",
+        "code": "GC/S16-112",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "一緒に来て、集",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "112",
+        "image": "https://images.littleakiba.com/tcg/card6183-large.jpg"
+    },
+    {
+        "name": "“Departures ～あなたにおくるアイの歌～”いのり",
+        "code": "GC/S16-113",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "……あなたを守るため",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "113",
+        "image": "https://images.littleakiba.com/tcg/card6184-large.jpg"
+    },
+    {
+        "name": "綾瀬＆ツグミ",
+        "code": "GC/S16-114",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ツグミ「心拍数絶賛上昇ちゅう～」\n綾瀬「黙んなさいよ、ツグミ!!」",
+        "ability": [
+            "【C】During your opponent's turn, all your other Characters get +500 Power."
+        ],
+        "attributes": [
+            "Operator 《オペレーター 》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "114",
+        "image": "https://images.littleakiba.com/tcg/card6185-large.jpg"
+    },
+    {
+        "name": "上目遣い いのり",
+        "code": "GC/S16-115",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "好きな人？それは友達のこと？",
+        "ability": [
+            "【A】 When another of your battling Characters become REVERSE, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "115",
+        "image": "https://images.littleakiba.com/tcg/card6186-large.jpg"
+    },
+    {
+        "name": "ちみ集",
+        "code": "GC/S16-116",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "涯も色々と大変なんだね…",
+        "ability": [
+            "【A】 BOND／「ちみいのり」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ちみいのり」 from your Waiting Room, return to Hand)"
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "116",
+        "image": "https://images.littleakiba.com/tcg/card6189-large.jpg"
+    },
+    {
+        "name": "ちみいのり",
+        "code": "GC/S16-117",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "く～きゅるるる…",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "117",
+        "image": "https://images.littleakiba.com/tcg/card6188-large.jpg"
+    },
+    {
+        "name": "ちみ綾瀬",
+        "code": "GC/S16-118",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "勝手に食べちゃダメよ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Wheelchair 《車椅子》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "118",
+        "image": "https://images.littleakiba.com/tcg/card6190-large.jpg"
+    },
+    {
+        "name": "ちみツグミ",
+        "code": "GC/S16-119",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "おおスイーツ発見",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "119",
+        "image": "https://images.littleakiba.com/tcg/card6191-large.jpg"
+    },
+    {
+        "name": "溢れる愛しさ いのり",
+        "code": "GC/S16-121",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私、集と一緒にいてたくさんの気持ちをもらったよ",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "121",
+        "image": "https://images.littleakiba.com/tcg/card7139-large.jpg"
+    },
+    {
+        "name": "復活したイヴ 真名",
+        "code": "GC/S16-122",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "謝っても許してあげないんだから",
+        "ability": [
+            "【C】 During your turn, your other Character in the center slot of Front Row gets +1000 Power.",
+            "【A】 This ability can only be activated once each turn. When you use 『SHIFT』, during that turn, this card gains the following ability. 『【C】 All your other Characters get +1000 Power.』"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "122",
+        "image": "https://images.littleakiba.com/tcg/card22657-large.jpg"
+    },
+    {
+        "name": "運命を受け入れる涯",
+        "code": "GC/S16-123",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "終わることは許されないというわけか",
+        "ability": [
+            "【C】 For each of your other 《葬儀社》 Character or Character with 「真名」 in its name, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "123",
+        "image": "https://images.littleakiba.com/tcg/card22658-large.jpg"
+    },
+    {
+        "name": "淘汰の終着点 涯",
+        "code": "GC/S16-124",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "常に選ばれ、それを勝手に手放してきたお前には……絶対にわからない！",
+        "ability": [
+            "【C】 If your Deck has 5 or less cards, this card gets -1 Level in your Hand.",
+            "【C】 If you have 2 or more other 《葬儀社》 Characters, this card gets +2000 Power.",
+            "【A】 This ability can only be activated once each turn. During the turn this card is placed on Stage from Hand, when the damage dealt by this card is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to your opponent. X is equals to that card's Level +1. (Climax is treated as Level 0. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "124",
+        "image": "https://images.littleakiba.com/tcg/card22659-large.jpg"
+    },
+    {
+        "name": "いのりを想う集",
+        "code": "GC/S16-125",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your Character, during that turn, it gets +1000 Power.",
+            "【A】 [① Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "125",
+        "image": "https://images.littleakiba.com/tcg/card22660-large.jpg"
+    },
+    {
+        "name": "歪んだ王国 集＆いのり",
+        "code": "GC/S16-126",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "優しさになんか何の意味もない。クズは区別しなくちゃならない",
+        "ability": [
+            "【A】 When your other 《葬儀社》 Character attacks, during that turn, this card gets +1500 Power.",
+            "【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, choose 1 Green card from your Hand and this card in Clock. you may exchange them)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "126",
+        "image": "https://images.littleakiba.com/tcg/card22661-large.jpg"
+    },
+    {
+        "name": "“入れ物”いのり",
+        "code": "GC/S16-127",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "だから私、入れ物でしかないのに、普通の人みたいに恋できたの",
+        "ability": [
+            "【C】 All your other 《葬儀社》 Characters get +500 Power.",
+            "【S】 CONCENTRATION [① REST this card] Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "127",
+        "image": "https://images.littleakiba.com/tcg/card22662-large.jpg"
+    },
+    {
+        "name": "歌に浮かぶ面影 いのり",
+        "code": "GC/S16-128",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "私、集に沢山の気持ちをもらったよ",
+        "ability": [
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during that turn, this card gets +6000 Power.",
+            "【A】 When this card attacks, if 「エウテルべ」 is in the Climax Slot, choose 1 Character from your Waiting Room, you may return it to Hand."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "128",
+        "image": "https://images.littleakiba.com/tcg/card22663-large.jpg"
+    },
+    {
+        "name": "エウテルペ",
+        "code": "GC/S16-129",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate: When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "129",
+        "image": "https://images.littleakiba.com/tcg/card22664-large.jpg"
+    },
+    {
+        "name": "“ちんちくりん”ツグミ",
+        "code": "GC/S16-130",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "おだまり！　あんたはもやしっ子よ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《葬儀社》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If it is not, return revealed card to its original position)",
+            "【A】 At the beginning of your opponent's Attack Phase, you may move this card into another empty slot in the Front Row."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "130",
+        "image": "https://images.littleakiba.com/tcg/card22665-large.jpg"
+    },
+    {
+        "name": "目標に励む綾瀬",
+        "code": "GC/S16-131",
+        "rarity": "PR",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "皆は久しぶりよね",
+        "ability": [
+            "【A】 ［② Place 1 Character into Waiting Room from Stage］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 of your opponent's Character with Level higher than your opponent's Level, place it at the bottom of the Deck.",
+            "【S】● ASSIST 2500 Level 2［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "131",
+        "image": "https://images.littleakiba.com/tcg/card22666-large.jpg"
+    },
+    {
+        "name": "“葬儀社”四分儀\n\"Undertaker\" Shibungi",
+        "code": "GC/S16-T01",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "流石ですね、シナリオを飛ばしますか。\n――ただ、少し急ぎ過ぎでは……？",
+        "ability": [
+            "【C】During your turn, all your other Characters get +500 Power.",
+            "【S】［REST 2 of your Characters］ Look at the top card of your Deck, place it on the top or bottom of the Deck."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card5383-large.jpg"
+    },
+    {
+        "name": "“葬儀社”アルゴ\n\"Undertaker\" Arugo",
+        "code": "GC/S16-T02",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "いい眺めが見てえんだよ。\n――涯と一緒に",
+        "ability": [
+            "【C】SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card5384-large.jpg"
+    },
+    {
+        "name": "葬儀社の司令塔 涯\nUndertaker Leader Gai",
+        "code": "GC/S16-T03",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "俺たちは、こういう事態に備えてきた。\n――生き残りたければ、俺の指示に従え！",
+        "ability": [
+            "【C】 All your other「秘めたる能力 集」 gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your Characters, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card5385-large.jpg"
+    },
+    {
+        "name": "若き首領 涯\nYoung Leader Gai",
+        "code": "GC/S16-T04",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "それが未来の一つの顔だというなら、\nいまは祝福してやるさ。新たな王の誕生を――",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card5386-large.jpg"
+    },
+    {
+        "name": "秘めたる能力 集\nHidden Power Shu",
+        "code": "GC/S16-T05",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "やれるッ!! 僕を信じてよ、涯！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card5387-large.jpg"
+    },
+    {
+        "name": "“葬儀社”大雲\n\"Undertaker\" Ohgumo",
+        "code": "GC/S16-T06",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "気にせず、あなたはあなたの仕事を\nしてください。――グッドラック",
+        "ability": [
+            "【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)"
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card5388-large.jpg"
+    },
+    {
+        "name": "“葬儀社”涯\n\"Undertaker\" Gai",
+        "code": "GC/S16-T07",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "勝負だ。淘汰されるのは俺の方か……、\nあるいは世界か――",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Undertaker 《葬儀社》",
+            "Weapon 《武器》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card5389-large.jpg"
+    },
+    {
+        "name": "覚醒する“王の能力”\nAwaken \"The Power of Kings\"",
+        "code": "GC/S16-T08",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "真名「ならヴォイドを集めて。強いヴォイドを。\n――あなたの右腕は、そうやって\n未来を紡ぎだすためのものなのだから」",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card5390-large.jpg"
+    },
+    {
+        "name": "ふゅーねる\nFyu-Neru",
+        "code": "GC/S16-T09",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ぴっ！",
+        "ability": [
+            "【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.",
+            "【A】◆ SHIFT LEVEL 0 (At the start of your Main Phase, choose a red card from your hand and this card in Clock, you may swap them.)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card5314-large.jpg"
+    },
+    {
+        "name": "平凡な高校生 集\nOrdinary High School Student Shu",
+        "code": "GC/S16-T10",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "でも、これでいいのかな？\n僕にももっと、やれることってないのかな……",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card5391-large.jpg"
+    },
+    {
+        "name": "ダリル・ヤン\nDaryl Yan",
+        "code": "GC/S16-T11",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "いい？ 僕は自分の好きにやる。\nもしジャマしたら、パパに言いつけるからね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card5392-large.jpg"
+    },
+    {
+        "name": "純粋な気持ち いのり\nPure Feelings Inori",
+        "code": "GC/S16-T12",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "……ずっと側に居ても、いい？",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card5313-large.jpg"
+    },
+    {
+        "name": "ウェブアーティスト いのり\nWeb Artist Inori",
+        "code": "GC/S16-T13",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "桜満集は、臆病なヒト？",
+        "ability": [
+            "【A】When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Undertaker 《葬儀社》"
+        ],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card5393-large.jpg"
+    },
+    {
+        "name": "ヴォイドゲノムの真実\nTruth of the Void Genome",
+        "code": "GC/S16-T14",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "集「これは……!?」",
+        "ability": [
+            "Choose up to 2 Characters from your Waiting Room, return them to hand."
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card5394-large.jpg"
+    },
+    {
+        "name": "勇気の試練\nTrial of Courage",
+        "code": "GC/S16-T15",
+        "rarity": "TD",
+        "expansion": "Guilty Crown",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "とって",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "GC",
+        "release": "S16",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card5395-large.jpg"
+    }
+]

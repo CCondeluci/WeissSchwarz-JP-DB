@@ -1,0 +1,2910 @@
+[
+    {
+        "name": "“見送る”クリス",
+        "code": "KS/W55-001",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 During your turn, your other Character in the Center slot of the Front Row gets ＋1500 Power.",
+            "【S】 CONCENTRATION ［① REST 2 of your Characters］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 Yellow or 《冒険者》 Character and show it to your opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thief 《盗賊》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card41150-large.jpg"
+    },
+    {
+        "name": "“鉄壁クルセイダー”ダクネス",
+        "code": "KS/W55-002",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "私に力で勝てる気か？",
+        "ability": [
+            "【A】 When this card attacks, if you have other 《冒険者》 or 《魔法》 Character, during this turn, this card gets ＋1500 Power.",
+            "【A】【CXCOMBO】 When this card's battle opponent becomes REVERSE, if 「私の心までは屈し……」 is in your Climax slot, search your Deck for up to 1 《冒険者》 or 《魔法》 Character and show it to your opponent, add it to Hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card41151-large.jpg"
+    },
+    {
+        "name": "“地獄の公爵”バニル",
+        "code": "KS/W55-003",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "一発キツいの食らわしてくれるわ！",
+        "ability": [
+            "【C】 During your turn, this card gets ＋2000 Power.",
+            "【A】 This ability can only be activated once each turn. During the turn this card is placed on Stage from Hand or by 『CHANGE』, when the damage dealt by this card is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to your opponent. X is equals to that card's Level +1. （Climax is treated as Level 0. Damage can be cancelled）",
+            "【A】［Place this card into Waiting Room］ At the beginning of your opponent's Draw Phase, you may pay the cost. If you did, choose 1 「“仮面の力”ダクネス」 from your Waiting Room, place it into this card's previous slot on Stage, during this turn, it gets ＋2500 Power."
+        ],
+        "attributes": [
+            "Mask 《仮面》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card41152-large.jpg"
+    },
+    {
+        "name": "“走り出せ”ダクネス",
+        "code": "KS/W55-004",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私が前に出よう",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】［①］ When this card attacks, if 「初めての高揚感」 is in your Climax Slot, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gets ＋2000 Power, gains the following Ability. 『【A】 This ability can only be activated once each turn. When the damage dealt by this card is cancelled, you may deal 2 Damage to your opponent.』（Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card41153-large.jpg"
+    },
+    {
+        "name": "“ソゲキッ”カズマ",
+        "code": "KS/W55-005",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そこで俺が新たなスキルを習得した。そのスキルの名は……",
+        "ability": [
+            "【A】 When this card becomes REVERSE, you may choose 1 card from your opponent's Clock, place it into Waiting Room. If you did, your opponent",
+            "place the top card of his/her Deck into Clock.",
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 0 or below, you may place that Character into Stock. If you did, place 1 card from the bottom of your opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card41154-large.jpg"
+    },
+    {
+        "name": "“おとり役”カズマ",
+        "code": "KS/W55-006",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "お前の餌は俺だぁ！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】［Place this card to bottom Deck］ Choose up to 1 「“麗しき水の女神”アクア」with Level lower than your Level, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card41155-large.jpg"
+    },
+    {
+        "name": "“大事なもの”クリス",
+        "code": "KS/W55-007",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "いやああああ!!",
+        "ability": [
+            "【A】【CXCOMBO】 When 「ぱんつ返してー!!」 is placed into your Climax Slot,",
+            "choose 1 of your other Character, during this turn, it gains the following Ability. 『【A】 When this card's battle opponent becomes REVERSE, look at up to 4 cards from the top of your Deck, choose up to 1 Yellow or 《冒険者》 Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room.』",
+            "【S】［REST this card］ Choose 1 of your Yellow or 《冒険者》 Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thief 《盗賊》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card41156-large.jpg"
+    },
+    {
+        "name": "“アルカンレティア観光”ダクネス",
+        "code": "KS/W55-008",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "見ろカズマ！",
+        "ability": [
+            "【A】［① Place the top card of your Deck into Clock］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, look at up",
+            "to 2 cards from your top Deck, choose up to 2 Yellow Characters and show them to opponent, add them to Hand, place the remaining cards into",
+            "Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card41157-large.jpg"
+    },
+    {
+        "name": "水着のダクネス",
+        "code": "KS/W55-009",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "す、すごいこと……！",
+        "ability": [
+            "【C】 If your Stock has 2 or less cards, this card gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card41158-large.jpg"
+    },
+    {
+        "name": "“露払い役”ダクネス",
+        "code": "KS/W55-010",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ふん……",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《冒険者》 or 《魔法》 Characters, during this turn, it gets +X Power. X is equals to the number of your other 《冒険者》 or 《魔法》 Characters x500.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card41159-large.jpg"
+    },
+    {
+        "name": "“仮面の力”ダクネス",
+        "code": "KS/W55-011",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "小僧！聞くがいい、我が力により……どうしようカズマ！体が乗っ取られてしまった！",
+        "ability": [
+            "【A】［①］ At the beginning of your opponent's Attack Phase, you may pay",
+            "the cost. If you did, choose 1 of your 《冒険者》 or 《魔法》 Character and this card, put them to STAND and exchange them.",
+            "【A】 During your opponent's turn, when the damage you received didn't cancel, if this card is in the Front Row, look at the top card of your Deck, place it at the top of your Deck or Waiting Room.",
+            "【A】 CHANGE ［Place this card into Waiting Room］ At the beginning of your Climax phase, you may pay the Cost. If you did, choose 1 「“地獄の公爵”バニル」from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card41160-large.jpg"
+    },
+    {
+        "name": "“走り出せ”カズマ",
+        "code": "KS/W55-012",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "みんな用意はいいな!?",
+        "ability": [
+            "【C】 RECOLLECTION If there is 2 or more 「名家の紋章」 in your Memory, this card gets －1 Level in your Hand.",
+            "【A】 When this card is placed on Stage from Hand, look up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《冒険者》 or 《女神》 Character."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card41161-large.jpg"
+    },
+    {
+        "name": "“当主の威厳”ダクネスの父",
+        "code": "KS/W55-013",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "どうだね？庭の散歩でもしてきては",
+        "ability": [
+            "【A】【CLOCK】 ALARM If this card is at the top of the Clock, at the beginning of your Climax Phase, choose 1 of your 《煩悩》 Character, during this turn, it gets ＋3000 Power."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card41162-large.jpg"
+    },
+    {
+        "name": "“証人尋問”セナ",
+        "code": "KS/W55-014",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ありがとうございます！",
+        "ability": [
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, search your Deck for up to 1 Character with 「クリス」 or 「ミツルギ」 or 「クレメア」 or 「フィオ」 in its name and show it to your opponent, add it to hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card41163-large.jpg"
+    },
+    {
+        "name": "“名家のお嬢様”ダクネス",
+        "code": "KS/W55-015",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "頼む！私と一緒に来て、父を説得してくれないか！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your 《冒険者》 or 《魔法》 Character, during this turn, it gets ＋1500 Power.",
+            "【A】 CHANGE ［Place this card into Waiting Room］ At the beginning of your Climax phase, you may pay the Cost. If you did, choose 1 「“露払い役”ダクネス」 from your Waiting Room, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card41164-large.jpg"
+    },
+    {
+        "name": "“じゃんけん最強”カズマ",
+        "code": "KS/W55-016",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "俺、じゃんけんに負けたこと無ぇから",
+        "ability": [
+            "【A】 EXPERIENCE When this card is placed on Stage from Hand, if the total Level of cards in your Level slot is 2 or higher, play a game of Rock-Paper-Scissors with your opponent until you lose, if you win 4 or more games, you may deal 4 Damage to your opponent.（Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card41165-large.jpg"
+    },
+    {
+        "name": "“新たなクエスト”カズマ",
+        "code": "KS/W55-017",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each of your other 《冒険者》 or 《女神》 Characters, this card gets +500 Power.",
+            "【A】【CXCOMBO】 When this card attacks, if 「次なる冒険へ！」 is in your Climax Slot, reveal the top card of your Deck. If that card is a 《冒険者》 or 《女神》 Character, add it to Hand.（If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card41166-large.jpg"
+    },
+    {
+        "name": "“見送る”荒くれ者",
+        "code": "KS/W55-018",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "フッ……",
+        "ability": [
+            "【C】 During your turn, Your other Character with 「カズマ」 in its name",
+            "gets ＋1500 Power.",
+            "【A】 When your other Character's battle opponent becomes REVERSE, choose 1 of your 《冒険者》 Character, during this turn, it gets ＋3000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Mohawk 《モヒカン》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card41167-large.jpg"
+    },
+    {
+        "name": "“百発百中”ダクネス",
+        "code": "KS/W55-019",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "カズマ見ろ！こいつら私の剣でもちゃんと当たる！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card with Level 3 or higher gets +2000 Power.",
+            "【A】 This ability can only be activated up to 1 time each turn. When your other 《冒険者》 or 《魔法》 Character is placed on Stage from Hand,",
+            "choose 1 of your other Character, until end of opponent's next turn, it",
+            "gets ＋1 Level."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card41168-large.jpg"
+    },
+    {
+        "name": "“固い意志”ダクネス",
+        "code": "KS/W55-020",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "遠慮などせず、もっとどんどん来い！",
+        "ability": [
+            "【A】 At the beginning of opponent's Attack Phase, you may move this card into an empty slot in the Front Row with an opponent's Character facing it.",
+            "【A】 When this card becomes REVERSE, if this card battling opponent's Level higher than your opponent's Level, you may place that Character into Stock. If you did, place 1 card from the bottom of your opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card41169-large.jpg"
+    },
+    {
+        "name": "“臨時執事”カズマ",
+        "code": "KS/W55-021",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "お嬢様の幸せが、自分の望みです",
+        "ability": [
+            "【C】 All your Character with 「ダクネス」 in its name at Front Row gets ＋1000 Power, gains the following Ability. 『【C】 This card cannot STAND during Standby Phase.』",
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from the top of your Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the total number of Trigger among those cards x2000."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card41170-large.jpg"
+    },
+    {
+        "name": "“証人その３”クレメア＆フィオ",
+        "code": "KS/W55-022",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "セナ「公衆の面前で下着を剥ぐぞと脅されたのですね？」",
+        "ability": [
+            "【C】 All your other 「“証人その２”ミツルギ」 gets ＋1000 Power and ＋1 Soul.",
+            "【A】 BOND／「“証人その２”ミツルギ」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“証人その２”ミツルギ」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card41171-large.jpg"
+    },
+    {
+        "name": "“感激する”御者",
+        "code": "KS/W55-023",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "この世知辛い世に、まだあなたたちのような本物の冒険者がいたとは……",
+        "ability": [
+            "【A】［②］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, search your Deck for up to 1 《冒険者》 or 《魔法》 Character and show it to your opponent, add it to hand, shuffle the Deck afterwards."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card41172-large.jpg"
+    },
+    {
+        "name": "“恍惚とする”ダクネス",
+        "code": "KS/W55-024",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "そして、そんな状態の私を追いかけてく――!!",
+        "ability": [
+            "【A】 At the beginning of your opponent's Attack Phase, choose 1 of your opponent's Front Row Character, you may move it into another empty slot in the Front Row."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card41173-large.jpg"
+    },
+    {
+        "name": "“凛とした”ダクネス",
+        "code": "KS/W55-025",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "裁判長、私の話を聞いてもらえないだろうか",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this",
+            "card gets ＋1500 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 「名家の紋章」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Passion 《煩悩 》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card41174-large.jpg"
+    },
+    {
+        "name": "“二代目”バニル",
+        "code": "KS/W55-026",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "残機が一人減ったので、二代目バニルということだ！",
+        "ability": [
+            "【A】【CXCOMBO】［Reveal 1 Character from your Hand, place it into Stock］ When this card attacks, you may pay the cost. If you did, choose",
+            "1 「とびきりの破滅願望」 from your Climax Slot, return it to Hand."
+        ],
+        "attributes": [
+            "Mask 《仮面》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card41175-large.jpg"
+    },
+    {
+        "name": "“仮面の悪魔”バニル",
+        "code": "KS/W55-027",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "我がダンジョンへようこそ冒険者よ！",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 0 or below, you may place that Character into Stock. If you did, place 1 card from the bottom of your opponent's Stock into Waiting Room.",
+            "【A】［③ Place 1 Climax from Hand into Waiting Room］ When this card is placed into Waiting Room from Stage, you may pay the Cost. If you did, choose up to 1 「“仮面の力”ダクネス」 from your Hand, place it into any slot on Stage in REST."
+        ],
+        "attributes": [
+            "Mask 《仮面》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card41176-large.jpg"
+    },
+    {
+        "name": "“証人その１”クリス",
+        "code": "KS/W55-028",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "なんか呼び出されちゃった……",
+        "ability": [
+            "【C】 If you have 1 or less Character at Back Row, this card cannot attack.",
+            "【A】 At the beginning of your Climax Phase, reveal the top card of your",
+            "Deck. If that card is Character with Level 0 or lower, place the top card of your Stock into Waiting Room.（Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thief 《盗賊》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card41177-large.jpg"
+    },
+    {
+        "name": "“証人その２”ミツルギ",
+        "code": "KS/W55-029",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "でも、あれは元はと言えば僕から―",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Weapon 《武器》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card41178-large.jpg"
+    },
+    {
+        "name": "“フリーズ”カズマ",
+        "code": "KS/W55-030",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "フリーズ!!",
+        "ability": [
+            "【A】［① Place 1 card from Hand into Waiting Room］ When you use this card's 『助太刀』, you may pay the cost. If you did, choose 1 of your opponent's Character with Cost 1 or higher, during this turn, it gets －1 Soul.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Thief 《盗賊》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card41179-large.jpg"
+    },
+    {
+        "name": "“恥じらう”セナ",
+        "code": "KS/W55-031",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 2,
+        "flavor_text": "もちろんサトウさんの実績は知っています、しかし……",
+        "ability": [
+            "【C】 If your Hand has 5 or less cards, this card gets ＋4500 Power.",
+            "【A】 ENCORE ［Place 1 《冒険者》 or 《メガネ》 Character from Hand into Waiting Room］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
+        ],
+        "attributes": [
+            "Glasses 《メガネ》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card41180-large.jpg"
+    },
+    {
+        "name": "名家の紋章",
+        "code": "KS/W55-032",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "裁判長「それは、ダスティネス家の紋章!?」",
+        "ability": [
+            "Look at up to 3 cards from your top Deck, choose up to 1 Yellow card and",
+            "up to 1 Red card and up to 1 Blue card and show them to opponent, add them to Hand, place the remaining cards into Waiting Room, choose 1 card",
+            "from your Hand, place it into Waiting Room. Send this card to Memory."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card41181-large.jpg"
+    },
+    {
+        "name": "潜伏スキル",
+        "code": "KS/W55-033",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "まずは俺一人で行ってくるから、お前らはここで待っててくれ",
+        "ability": [
+            "All of your 《冒険者》 or 《女神》 Characters get ＋2500 Power, gains the following Ability. 『【C】 This card cannot be chosen by opponent's effects.』 Place this card at the bottom Deck."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card41182-large.jpg"
+    },
+    {
+        "name": "うそ発見器",
+        "code": "KS/W55-034",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "これが何か知っているか？嘘を看破する魔道具だ",
+        "ability": [
+            "Your opponent look at the top card of his/her Deck, and declare it's a 0 or 1 or 2 or 3.（Return that card to its original position）",
+            "You declare whether it's true or false.",
+            "Your opponent reveal the top card of his/her Deck. If that card's Level",
+            "matches your opponent's declaration and you declare true, you draw up to 2 cards. If that card's Level does not match your opponent's declaration and you declare false, you draw up to 2 cards.（Climax is considered Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card41183-large.jpg"
+    },
+    {
+        "name": "チキンレース",
+        "code": "KS/W55-035",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "カズマ「―今、その危険なゲームの障害物に彼女が選ばれていた」",
+        "ability": [
+            "Choose 1 of your opponent's Character with highest Power, that Character",
+            "cannot Stand during your opponent's next Standby Phase."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card41184-large.jpg"
+    },
+    {
+        "name": "私の心までは屈し……",
+        "code": "KS/W55-036",
+        "rarity": "CR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "しゅ、しゅ……しゅごいことー!!!!",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card41185-large.jpg"
+    },
+    {
+        "name": "初めての高揚感",
+        "code": "KS/W55-037",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "初めてクルセイダーとしてまともに活躍している気がする！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Yellow card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card41186-large.jpg"
+    },
+    {
+        "name": "次なる冒険へ！",
+        "code": "KS/W55-038",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to your opponent)"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card41187-large.jpg"
+    },
+    {
+        "name": "とびきりの破滅願望",
+        "code": "KS/W55-039",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ついに始まる最後の戦い！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Yellow card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card41188-large.jpg"
+    },
+    {
+        "name": "ぱんつ返してー!!",
+        "code": "KS/W55-040",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 2 of your Yellow Characters, during that turn, they get +2000 Power, +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card41189-large.jpg"
+    },
+    {
+        "name": "水着のめぐみん",
+        "code": "KS/W55-041",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "わたしだってあと一、二年もすればゆんゆんも泣いて謝る体になって……",
+        "ability": [
+            "【C】 You cannot play Events and 『ASSIST』 from Hand.",
+            "【A】 This ability can only be activated up to 1 time each turn. When this card becomes REVERSE in battle, place the top card of your Deck into Waiting Room. If that card is Level 2 or higher, you may put this card to REST.（Climax is considered Level 0.）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card41195-large.jpg"
+    },
+    {
+        "name": "“バニーガール”ゆんゆん",
+        "code": "KS/W55-042",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "さあ、この私と勝負しなさい！",
+        "ability": [
+            "【C】 If all of your Characters are 《魔法》, this card gets ＋2000 Power.",
+            "【A】【CXCOMBO】 When this card's battle opponent becomes REVERSE, if 「ライト・オブ・セイバー！」 is in your Climax Slot, place up to 1 card from your top Deck into Stock, reveal the top card of your Deck. If that card is Level 1 or higher, add it to Hand.（Climax is considered Level 0. If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card41196-large.jpg"
+    },
+    {
+        "name": "“爆裂娘”めぐみん",
+        "code": "KS/W55-043",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "撃っていいんですか!?",
+        "ability": [
+            "【C】 If 「水着のめぐみん」 is in your Clock, this card gets -1 Level in your Hand.",
+            "【A】 When this card is placed on Stage from Hand, place 3 cards from your top Deck into Waiting Room. If 1 or more 《冒険者》 or 《魔法》 Character are among those cards, place up to 1 card from your top Deck into Stock. If it is 2 or more, choose 1 of your opponent's Character, during this turn, it gets －4000 Power. If it is 3 or more, you may deal 1 Damage to your opponent.（Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card41197-large.jpg"
+    },
+    {
+        "name": "“氷の魔女”ウィズ",
+        "code": "KS/W55-044",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "カースド・クリスタルプリズン！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of",
+            "your Deck. If that card is 《冒険者》 or 《魔法》 Character, you may deal",
+            "1 Damage to your opponent. （Damage can be cancelled. Return revealed card to its original position）",
+            "【A】【CXCOMBO】［② Place 《冒険者》 or 《魔法》 Character from Hand into Waiting Room］ This ability can only be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, if 「カースド・クリスタルプリズン！」 is in your Climax Slot, you may pay the cost. IF you",
+            "did, put this card to STAND, until end of opponent's turn, your opponent cannot use Character's 【S】 effect on Stage."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card41198-large.jpg"
+    },
+    {
+        "name": "“うなされる”ウィズ",
+        "code": "KS/W55-045",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When your other battling Character becomes REVERSE, choose 1 of your Character, during this turn, it gets ＋1000 Power.",
+            "【S】［① REST this card］ Choose 1 of your 《冒険者》 or 《魔法》 Character, during this turn, it gains the following Ability. 『【A】 When this card's battle opponent becomes REVERSE, you may choose 1 Character",
+            "from your Waiting Room, return it to Hand.』"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card41199-large.jpg"
+    },
+    {
+        "name": "“嬉し気な”ウィズ",
+        "code": "KS/W55-046",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "バニルさんを倒してスパイ疑惑が晴れたとか！おめでとうございます！",
+        "ability": [
+            "【C】 Your other Character in the Center slot of the Front Row gets ＋500 Power.",
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Spirit/Ghost 《霊》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card41200-large.jpg"
+    },
+    {
+        "name": "“もぐもぐ”めぐみん",
+        "code": "KS/W55-047",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "……！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《冒険者》 or 《魔法》 Character, during this turn, it gets ＋1000 Power.",
+            "【A】 When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, add it to Hand. （Climax is considered Level 0. If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card41201-large.jpg"
+    },
+    {
+        "name": "“待ち伏せ”ゆんゆん",
+        "code": "KS/W55-048",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なんという偶然！なんという運命のいたずら！",
+        "ability": [
+            "【A】［① Place the top card of your Deck into Clock］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, search your Deck for up to 1 「めぐみん」 and show it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】 RESONANCE ［① Reveal 1 「めぐみん」 from Hand, REST this card］ Look at up to 4 cards from the top of your Deck, choose up to 1 《冒険者》 or 《魔法》 Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card41202-large.jpg"
+    },
+    {
+        "name": "“目を輝かせる”めぐみん",
+        "code": "KS/W55-049",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "湯治に参りましょう！",
+        "ability": [
+            "【C】 For each of your other 《冒険者》 or 《魔法》 Characters, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card41203-large.jpg"
+    },
+    {
+        "name": "“ちょっと恥ずかしい”ゆんゆん",
+        "code": "KS/W55-050",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "我が名はゆんゆん！",
+        "ability": [
+            "【C】 If all of your Characters are 《冒険者》 or 《魔法》, this card gets +1500 Power, and gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card41204-large.jpg"
+    },
+    {
+        "name": "“走り出せ”めぐみん",
+        "code": "KS/W55-051",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "我が力、見せてあげましょう！",
+        "ability": [
+            "【C】 For each of your other 《冒険者》 or 《魔法》 Character, this card gets ＋500 Power.",
+            "【A】【CXCOMBO】 When this card attacks, if 「新・爆裂魔法」 is in your Climax Slot, choose up to 1 card with Level 1 or higher from your Waiting Room, place it into Stock, reveal the top card of your Deck. If that card is Level 1 or higher, add it to Hand. （Climax is considered Level 0. If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card41205-large.jpg"
+    },
+    {
+        "name": "“永遠のライバル”ゆんゆん",
+        "code": "KS/W55-052",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "皆さんおかえりなさい。さぁめぐみん！今日こそ勝負よ！",
+        "ability": [
+            "【C】 If you have 「“爆裂娘”めぐみん」 on Stage, this card gets -1 Level in your Hand.",
+            "【C】 For each of your other 「“爆裂娘”めぐみん」, this card gets ＋2000 Power.",
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card41206-large.jpg"
+    },
+    {
+        "name": "“パワーアップする爆裂魔法”めぐみん",
+        "code": "KS/W55-053",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 For each of your other 《冒険者》 or 《魔法》 Characters, this card gets +500 Power.",
+            "【A】 When this card is placed on Stage from Hand, choose up to 1 Character with Level lower than your Level from your Hand, place it into",
+            "any slot on Stage, during this turn, this card gets ＋2000 Power.",
+            "【A】［③ Place 2 cards from Hand into Waiting Room］ When this card attacks, you may pay the cost. If you did, deal 5 Damage to your opponent. （Damage can be cancelled）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card41207-large.jpg"
+    },
+    {
+        "name": "“連戦連勝”めぐみん",
+        "code": "KS/W55-054",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "今日も勝ち！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from the top of your Deck into Waiting Room. If there is a Climax among those cards, you may place the top card from your opponent's top Deck into Waiting Room. If you did, choose 1 card from your opponent's Waiting Room, place it on top Deck.",
+            "【A】 BOND／「“バニーガール”ゆんゆん」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“バニーガール”ゆんゆん」 from your Waiting Room, return it to Hand）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card41208-large.jpg"
+    },
+    {
+        "name": "ちょむすけ",
+        "code": "KS/W55-055",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】【CLOCK】 ALARM If this card is at the top of the Clock, at the beginning of your Climax Phase, choose 1 of your Character with 「めぐみん」 in its name, during this turn, it gains the following Ability.『【A】 When this card becomes REVERSE, if this card's battle opponent's Level is 1 or lower, you may REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card41210-large.jpg"
+    },
+    {
+        "name": "“輝く笑顔”めぐみん",
+        "code": "KS/W55-056",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "私たち友達ですよね",
+        "ability": [
+            "【C】 Your other 《冒険者》 or 《魔法》 Character in the Center slot of the Front Row gets ＋1500 Power.",
+            "【A】【CXCOMBO】［Place 1 「湯気の中で」 from Climax Slot into Clock］ At the beginning of your Encore Step, you may pay the cost. If you did, place up t 1 card from your top Deck into Stock, choose up to 1 《冒険者》 or 《魔法》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card41211-large.jpg"
+    },
+    {
+        "name": "“ハッとする”ゆんゆん",
+        "code": "KS/W55-057",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ハッ……",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is 0 or lower, you may REVERSE that Character.",
+            "【S】［Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ If you have other 「めぐみん」, choose 1 of your opponent's Character, move it into another empty slot in the Front Row."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card41212-large.jpg"
+    },
+    {
+        "name": "“雑貨屋店主”ウィズ",
+        "code": "KS/W55-058",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "バニル「我らが商売に協力するが吉と出た！」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose ` of your other 《冒険者》 or 《魔法》 Character, during this turn, it gets ＋2000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card41213-large.jpg"
+    },
+    {
+        "name": "“発育勝負”ゆんゆん",
+        "code": "KS/W55-059",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "子供じゃないっていうなら、またあの勝負をしてもいいわよ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other Character with 「めぐみん」 in its name and this card. Choose 1 Character with highest Power, during this turn, it gets ＋1 Soul, choose",
+            "1 Character with the lowest Power, during this turn, it gets －1 Soul."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card41214-large.jpg"
+    },
+    {
+        "name": "“ひとりぼっちのバースデー”ゆんゆん",
+        "code": "KS/W55-060",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "うふふふふ！おめでとう！",
+        "ability": [
+            "【C】 If you have no other Character, this card gets ＋1 Level and ＋1500 Power.",
+            "【A】 When this card becomes REVERSE in battle, during that turn, you cannot use 『【A】 ENCORE』.(『【A】 ENCORE［③］』 in the Rules cannot be used as well)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card41215-large.jpg"
+    },
+    {
+        "name": "“デッドリーポイズンスライム”ハンス",
+        "code": "KS/W55-061",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "だが、まだだ……すぐにお前たちを食らって食らいつくしてくれる……",
+        "ability": [
+            "【A】 ［①］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, you may place that Character into Memory.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Slime 《スライム》",
+            "Poison 《毒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card41216-large.jpg"
+    },
+    {
+        "name": "“ナイスアシスト”ウィズ",
+        "code": "KS/W55-062",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "カズマ「サンキュー！ウィズ！」",
+        "ability": [
+            "【A】 When you used this card's 『ASSIST』, if all of your Characters are 《冒険者》 or 《魔法》, you may palce the top card of your Deck into Stock.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card41217-large.jpg"
+    },
+    {
+        "name": "ハンス",
+        "code": "KS/W55-063",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "お……",
+        "ability": [
+            "【S】［Place 2 cards from Hand into Waiting Room, place this card into Waiting Room］ Choose 1 Character with Level lower than your Level, place it into this card's previous slot on Stage."
+        ],
+        "attributes": [
+            "Slime 《スライム》",
+            "Poison 《毒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card41218-large.jpg"
+    },
+    {
+        "name": "“やる気いっぱい”ゆんゆん",
+        "code": "KS/W55-064",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "さぁ水晶、その力を示して！",
+        "ability": [
+            "【A】［Place 1 「“魔力不足”めぐみん」 from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 《冒険者》 or 《魔法》 Character from your Waiting Room, return it to Hand.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed into Waiting Room from Stage, you may pay the Cost. If you did, choose 1 「“魔力不足”めぐみん」 from your Waiting Room, place it into any slot on Stage in REST."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card41219-large.jpg"
+    },
+    {
+        "name": "“受けて立つ”めぐみん",
+        "code": "KS/W55-065",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "では、どこからでもかかってきなさい！",
+        "ability": [
+            "【A】 This ability can only be activated up to 3 times each turn. When your other Character is placed on Stage from Waiting Room, during this turn, this card gets ＋2000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card41220-large.jpg"
+    },
+    {
+        "name": "“懐かしい仲間との再会”ウィズ",
+        "code": "KS/W55-066",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "なんとか持ち直しました！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from the top of your Deck into Waiting Room, during this turn, this card gets +X Power. X is equals to the number of 《冒険者》 or 《魔法》 Characters among those cards ×1000."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card41221-large.jpg"
+    },
+    {
+        "name": "“魔力不足”めぐみん",
+        "code": "KS/W55-067",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "カズマ、爆裂魔法発動に必要な魔力が足りませーん",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card41222-large.jpg"
+    },
+    {
+        "name": "“おみやげ持参”ゆんゆん",
+        "code": "KS/W55-068",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "も、もしもーし？",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your opponent's Character at Front Row, during this turn, it gets ＋3000 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When your 「“もぐもぐ”めぐみん」 is placed into Waiting Room from Stage, if this card is in Waiting Room, you may pay the cost. If you did, place this card into any",
+            "slot on Stage in REST."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card41278-large.jpg"
+    },
+    {
+        "name": "“湯上がり”ウィズ",
+        "code": "KS/W55-069",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "あっ、お帰りなさい",
+        "ability": [
+            "【A】 This ability can only be activated up to 1 time each turn. When you used 【S】, choose 1 of your Characters, during this turn, it gets ＋X Power. X is equal to the number of your 《冒険者》 or 《魔法》 Character ×500."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card41223-large.jpg"
+    },
+    {
+        "name": "“意義あり！”めぐみん",
+        "code": "KS/W55-070",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ですが、こんな証言など証拠にもなりませんよ！",
+        "ability": [
+            "【A】 When you used this card's 『ASSIST』, choose 1 of your Characters in battle, during this turn, it gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, place that Character into Memory.』",
+            "【S】【COUNTER】 ASSIST 3000 Level 2 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card41224-large.jpg"
+    },
+    {
+        "name": "“夢の中で”ウィズ",
+        "code": "KS/W55-071",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "はっ……",
+        "ability": [
+            "【A】 When this card attacks, during this turn, this card gets ＋X Power.",
+            "X is equal to the number of your other 《冒険者》 or 《魔法》 Character ×1000.",
+            "【A】 When this card becomes REVERSE in battle, during that turn, you cannot use 『【A】 ENCORE』.(『【A】 ENCORE［③］』 in the Rules cannot be used as well)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card41225-large.jpg"
+    },
+    {
+        "name": "“魔王軍幹部の実力”ウィズ",
+        "code": "KS/W55-072",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 This card gets －2 Level on Stage.",
+            "【C】 For each of your other Character with Level 0 or lower, this card gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card41226-large.jpg"
+    },
+    {
+        "name": "“ライバル登場”ゆんゆん",
+        "code": "KS/W55-073",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "ふぅ……",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +X Power. X is equal to the number of your Character with 『ASSIST』×1000.",
+            "【A】 When this card is placed on Stage from Hand, if you have 4 or more other 《冒険者》 or 《魔法》 Characters, you may choose 1 《冒険者》 or 《魔法》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card41227-large.jpg"
+    },
+    {
+        "name": "仲良くなる水晶",
+        "code": "KS/W55-074",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Choose up to 1 Character with 「めぐみん」 in its name and up to 1 Character with 「ゆんゆん」 in its name from your Waiting Room, return them to Hand, choose 1 card from your Hand, place it into Waiting Room.",
+            "Both players reveal their Hand."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card41228-large.jpg"
+    },
+    {
+        "name": "新・爆裂魔法",
+        "code": "KS/W55-075",
+        "rarity": "CR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "穿て！エクスプロージョン！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card41229-large.jpg"
+    },
+    {
+        "name": "ライト・オブ・セイバー！",
+        "code": "KS/W55-076",
+        "rarity": "CR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はあああっ！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card41230-large.jpg"
+    },
+    {
+        "name": "湯気の中で",
+        "code": "KS/W55-077",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ライバルを自称する私の追っかけですから……",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Red card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card41231-large.jpg"
+    },
+    {
+        "name": "カースド・クリスタルプリズン！",
+        "code": "KS/W55-078",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 2 of your Red Characters, during that turn, they get +3000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card41232-large.jpg"
+    },
+    {
+        "name": "“走り出せ”アクア",
+        "code": "KS/W55-079",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "さぁ、行くわよ！",
+        "ability": [
+            "【A】【CXCOMBO】［①］ When this card's battle opponent becomes REVERSE, if 「女神の名において」 is in your Climax slot, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 3 《冒険者》 or 《女神》 or 《アクシズ教徒》 Characters and show them to opponent,",
+            "add them to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card41233-large.jpg"
+    },
+    {
+        "name": "“麗しき水の女神”アクア",
+        "code": "KS/W55-080",
+        "rarity": "RR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "我が親愛なるアクシズ教徒たちよ！",
+        "ability": [
+            "【C】 If you have 4 or more 《冒険者》 or 《女神》 or 《アクシズ教徒》 Characters, this card gets -1 Level in your Hand.",
+            "【C】 During your turn, if all of your Characters are 《冒険者》 or 《女神》 or 《アクシズ教徒》, this card gets ＋2000 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, place the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card41234-large.jpg"
+    },
+    {
+        "name": "水着のエリス",
+        "code": "KS/W55-081",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "気を付けてくださいね",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card get +500 Power.",
+            "【S】［① REST this card］ Reveal the top card of your Deck. If that card",
+            "is a 《冒険者》 or 《女神》 Character, add it to Hand.（If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card41235-large.jpg"
+    },
+    {
+        "name": "“魂の救済”アクア",
+        "code": "KS/W55-082",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "安らかに眠りなさい……",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《冒険者》 or 《女神》 or 《アクシズ教徒》Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.(If not, return revealed card to its original position)",
+            "【A】［②］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, return all cards from your Waiting Room into the Deck, shuffle your Decks afterwards."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card41236-large.jpg"
+    },
+    {
+        "name": "“魔法の実力も運の内”アクア",
+        "code": "KS/W55-083",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ブレッシング！",
+        "ability": [
+            "【C】 During opponent's turn, all of your Characters get ＋500 Power.",
+            "【S】 CONCENTRATION ［① REST 2 of your Characters］ Flip the top 4 cards of your Deck, place them into Waiting Room. If there is a 「“街を歩けば”アクシズ教徒」 among those cards, choose 1 《女神》 or 《アクシズ教徒》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card41237-large.jpg"
+    },
+    {
+        "name": "水着のアクア",
+        "code": "KS/W55-084",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "この私にドンと任せればいいと思うの！",
+        "ability": [
+            "【C】 If you have other 「“トラブルメーカー”アクア」, this card gets ＋3000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card41238-large.jpg"
+    },
+    {
+        "name": "“怒れる拳”アクア",
+        "code": "KS/W55-085",
+        "rarity": "R",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ゴッドォオオオ――",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】 At the beginning of your Climax Phase, choose up to 3 「“街を歩けば”アクシズ教徒」 from your Waiting Room, place them under this card face-up in any order as Marker.",
+            "【A】【CXCOMBO】 When this card attacks, if 「女神の怒り」 is in your Climax Slot, your opponent place X cards from his/her top Deck into Waiting Room. If there is a Climax among those cards, choose the Character facing this card with Level 3 or lower, place it into Clock. X",
+            "is equal to the number of Marker under this card.",
+            "【A】 At the end of turn, place all Markers under this card into Waiting Room."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card41239-large.jpg"
+    },
+    {
+        "name": "“おとり役”アクア",
+        "code": "KS/W55-086",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "カズマさあああああん!!",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from the top of your Deck into Waiting Room. If there is a Character with Level 0",
+            "or lower among those cards, during this turn, even if this Character Side Attacks, no Soul is deducted.",
+            "【A】 When this card becomes REVERSE, reveal the top card of your Deck.",
+            "If that card is a Character with Level 0 or lower, add it to Hand. （If not, return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card41240-large.jpg"
+    },
+    {
+        "name": "“ここだけの秘密”エリス",
+        "code": "KS/W55-087",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "この事は、ナイショですよ？",
+        "ability": [
+            "【C】 During opponent's turn, all your other 《冒険者》 or 《女神》 Characters get ＋1000 Power.",
+            "【A】【CXCOMBO】［①］ When 「では、いってらっしゃい」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 《冒険者》 or 《女神》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card41241-large.jpg"
+    },
+    {
+        "name": "“我こそは”アクア",
+        "code": "KS/W55-088",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "私は水の女神、アクアその人なのだから！",
+        "ability": [
+            "【C】 During opponent's turn, for each of your other 《冒険者》 or 《女神》 or 《アクシズ教徒》 Character, this card gets ＋1000 Power.",
+            "【C】 If your opponent has 《死》 Character, this card gains 『【C】 BODYGUARD』."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card41242-large.jpg"
+    },
+    {
+        "name": "“街を歩けば”アクシズ教徒",
+        "code": "KS/W55-089a",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あ～ら！ちょっと～!!",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【C】 All your other 「“街を歩けば”アクシズ教徒」 and 「“にっこり笑顔”アクシズ教徒」 gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Axis Cult 《アクシズ教徒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "089a",
+        "image": "https://images.littleakiba.com/tcg/card41243-large.jpg"
+    },
+    {
+        "name": "“街を歩けば”アクシズ教徒",
+        "code": "KS/W55-089b",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なにか、お礼をさせてはもらえないかしら？",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【C】 All your other 「“街を歩けば”アクシズ教徒」 and 「“にっこり笑顔”アクシズ教徒」 gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Axis Cult 《アクシズ教徒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "089b",
+        "image": "https://images.littleakiba.com/tcg/card41244-large.jpg"
+    },
+    {
+        "name": "“街を歩けば”アクシズ教徒",
+        "code": "KS/W55-089c",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あーっ、なんてこと！今あたしの手元にあるのはアクシズ教団への入信書！",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【C】 All your other 「“街を歩けば”アクシズ教徒」 and 「“にっこり笑顔”アクシズ教徒」 gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Axis Cult 《アクシズ教徒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "089c",
+        "image": "https://images.littleakiba.com/tcg/card41245-large.jpg"
+    },
+    {
+        "name": "“街を歩けば”アクシズ教徒",
+        "code": "KS/W55-089d",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "サトウカズマってどんな字を書くの？書いてみて、お兄ちゃん！",
+        "ability": [
+            "【C】 You can have any number of cards with the same name as this card in your Deck.",
+            "【C】 All your other 「“街を歩けば”アクシズ教徒」 and 「“にっこり笑顔”アクシズ教徒」 gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Axis Cult 《アクシズ教徒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "089d",
+        "image": "https://images.littleakiba.com/tcg/card41246-large.jpg"
+    },
+    {
+        "name": "“うっかりメイド”アクア",
+        "code": "KS/W55-090",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "今でもしっかり残ってて、邪悪な存在が立ち入れないようになってるはずよ！",
+        "ability": [
+            "【A】 When a Climax is placed into your Climax slot, reveal the top card",
+            "of your Deck, during this turn, this card gets ＋X Power. X is equal to the Level of the revealed card ×3000. （Climax is considered Level 0. Return revealed card to its original position）"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card41247-large.jpg"
+    },
+    {
+        "name": "“ピュリフィケーション”アクア",
+        "code": "KS/W55-091",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "え？う、うん、出来るわよ！",
+        "ability": [
+            "【A】［②］ When you used this card's 『ASSIST』, you may pay the cost. If you did, choose 1 of your battling Character, during this turn, it gains the following Ability. 『【C】 All of your opponent's Character lose Trait in Deck.』",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1000 Power)"
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card41248-large.jpg"
+    },
+    {
+        "name": "“にっこり笑顔”アクシズ教徒",
+        "code": "KS/W55-092",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your opponent's Character that is not 《アクシズ教徒》, during this turn, it gets －1000 Power."
+        ],
+        "attributes": [
+            "Axis Cult 《アクシズ教徒》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card41249-large.jpg"
+    },
+    {
+        "name": "“困惑する”エリス",
+        "code": "KS/W55-093",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 This ability can only be activated up to 1 time each turn. When you used 【S】, during this turn, this card gets ＋X Power. X is equal to the number of your other 《冒険者》 or 《女神》 Character ×500.",
+            "【A】 ENCORE ［Place 1 《冒険者》 or 《女神》 Character from Hand into Waiting Room］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
+        ],
+        "attributes": [
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card41250-large.jpg"
+    },
+    {
+        "name": "“ほろ酔い”アクア",
+        "code": "KS/W55-094",
+        "rarity": "C",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "すみませーん！シュワシュワじゃんじゃん持ってきてー！",
+        "ability": [
+            "【C】 If you have 1 or less Character at Back Row, this card cannot attack.",
+            "【C】 For each of your other 「“ほろ酔い”アクア」 at Front Row, this card",
+            "gets ＋2000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card41251-large.jpg"
+    },
+    {
+        "name": "浄化の力",
+        "code": "KS/W55-095",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あはははは、あはははは",
+        "ability": [
+            "【COUNTER】 Choose 1 of your opponent's Character with Level 1 or lower, put it to REST."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card41252-large.jpg"
+    },
+    {
+        "name": "私財差し押さえ",
+        "code": "KS/W55-096",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "3",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【COUNTER】 Place all the opponent's Stock into Waiting Room, at the end",
+            "of turn, your opponent then places the equal amount of cards from the top of the Deck into Stock."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card41253-large.jpg"
+    },
+    {
+        "name": "アクシズ教義",
+        "code": "KS/W55-097",
+        "rarity": "U",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "エリスの胸は、パッド入り～～～～!!",
+        "ability": [
+            "Draw up to 2 cards, choose 1 card from your Hand, place it into Waiting",
+            "Room, choose up to 3 「“街を歩けば”アクシズ教徒」 from your Waiting Room,",
+            "place it under 「“怒れる拳”アクア」 face-up in any order as Marker."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card41254-large.jpg"
+    },
+    {
+        "name": "女神の名において",
+        "code": "KS/W55-098",
+        "rarity": "CR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 2 of your Blue Characters, during that turn, they get +3000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card41255-large.jpg"
+    },
+    {
+        "name": "女神の怒り",
+        "code": "KS/W55-099",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ゴッド!!レクイエムゥゥゥゥゥ!!",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card41256-large.jpg"
+    },
+    {
+        "name": "では、いってらっしゃい",
+        "code": "KS/W55-100",
+        "rarity": "CC",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それではカズマさん。もうここには来ないことを、陰ながら祈っています",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KS",
+        "release": "W55",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card41257-large.jpg"
+    },
+    {
+        "name": "ぷちバニル",
+        "code": "KS/W55-101",
+        "rarity": "PR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "このすば\nq",
+        "ability": [
+            "【C】 If your Stock has 2 or less cards, this card cannot attack."
+        ],
+        "attributes": [
+            "Mask 《仮面》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card41258-large.jpg"
+    },
+    {
+        "name": "ぷちウィズ",
+        "code": "KS/W55-102",
+        "rarity": "PR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "このすば――",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from the top of your Deck into Waiting Room. If there is a Climax is among those cards, during this turn, this card gains the following Ability. 『【A】 When this card becomes REVERSE, if this card's battle opponent's Cost is 0 or lower, you may REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card41259-large.jpg"
+    },
+    {
+        "name": "ぷちゆんゆん",
+        "code": "KS/W55-103",
+        "rarity": "PR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "このすばっ！",
+        "ability": [
+            "【A】 This ability can only be activated up to 2 times each turn. When your other 《冒険者》 or 《魔法》 Character is placed on Stage from Hand,",
+            "during this turn, this card gets ＋1000 Power."
+        ],
+        "attributes": [
+            "Adventurer 《冒険者》",
+            "Magic 《魔法》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card41260-large.jpg"
+    },
+    {
+        "name": "ぷちエリス",
+        "code": "KS/W55-104",
+        "rarity": "PR",
+        "expansion": "Kono Subarashii Sekai ni Shukufuku wo! 2",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "このすば♪",
+        "ability": [
+            "【C】 This card cannot Direct Attack.",
+            "【C】 The Character facing this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』."
+        ],
+        "attributes": [
+            "Goddess 《女神》"
+        ],
+        "set": "KS",
+        "release": "W55",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card41261-large.jpg"
+    }
+]

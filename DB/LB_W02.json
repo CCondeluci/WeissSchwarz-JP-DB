@@ -1,0 +1,3777 @@
+[
+    {
+        "name": "あたしたちが付き合おう\nWe'll Date",
+        "code": "LB/W02-000",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "000",
+        "image": "https://images.littleakiba.com/tcg/card718-large.jpg"
+    },
+    {
+        "name": "笹瀬川 佐々美\nSasegawa Sasami",
+        "code": "LB/W02-001",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "さあ、来なさいっ！",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power.",
+            "【S】［② Put this card to REST］ Search your deck for up to 1 《スポーツ》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card491-large.jpg"
+    },
+    {
+        "name": "鈴＆理樹\nRin & Riki",
+        "code": "LB/W02-002",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "一緒にいこう、恭介",
+        "ability": [
+            "【A】［①］When this card attacks, if 「鈴と共にある日々」 is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's characters, return it to hand.",
+            "【自】 絆／「“リーダー”恭介」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“リーダー”恭介」を1枚選び、手札に戻す)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card492-large.jpg"
+    },
+    {
+        "name": "“気高き子猫”鈴\n\"High Strung Kitten\" Rin",
+        "code": "LB/W02-003",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ふかーっ！",
+        "ability": [
+            "【C】During your turn, all your other characters get +500 Power.",
+            "【A】This skill can be used up to 2 times per turn. When you use a 【S】, choose 1 of your characters, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card493-large.jpg"
+    },
+    {
+        "name": "“リーダー”恭介\n\"Leader\" Kyousuke",
+        "code": "LB/W02-004",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ミッションスタート！",
+        "ability": [
+            "【A】［①］When this card attacks, if 「リーダーの帰還」 is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's characters, return it to hand.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card495-large.jpg"
+    },
+    {
+        "name": "“ナース服”小毬",
+        "code": "LB/W02-005",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ミッションスタート！",
+        "ability": [
+            "【A】If you have 2 or more other 《お菓子》 characters, this card gets +1000 Power.",
+            "【A】During your turn, all your other characters get +X Power. X is equal to that character's level x 500."
+        ],
+        "attributes": [
+            "Fairy Tale 《童話》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card496-large.jpg"
+    },
+    {
+        "name": "“バニーガール”唯湖",
+        "code": "LB/W02-006",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "私はいつでも本気だ",
+        "ability": [
+            "【A】When a Level 2 or Above character battling this card becomes REVERSE, choose 1 of your characters, during this turn, it gets +1 Soul.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card497-large.jpg"
+    },
+    {
+        "name": "来ヶ谷 唯湖",
+        "code": "LB/W02-007",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ああ、キミは死なないよ。心配は要らない。",
+        "ability": [
+            "【C】All your other 「三枝 葉留佳」 characters get +1000 Power.",
+            "【S】［②］Choose 1 of your opponent's Level 0 or below characters, return it to hand."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card498-large.jpg"
+    },
+    {
+        "name": "ソフト部三人組",
+        "code": "LB/W02-008",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "佐々美先輩、加勢いたしますっ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card499-large.jpg"
+    },
+    {
+        "name": "“ウェディングドレス”鈴",
+        "code": "LB/W02-009",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "…それは…プロポーズか？",
+        "ability": [
+            "【A】When this card is played to stage, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］During this turn, when your yellow characters use an ability, you may pay the markers under this card to place in waiting room instead of stock."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card500-large.jpg"
+    },
+    {
+        "name": "鈴＆佐々美",
+        "code": "LB/W02-010",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card501-large.jpg"
+    },
+    {
+        "name": "“お菓子好き”小毬",
+        "code": "LB/W02-011",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "甘いものを食べると、ちょっとは元気出るよ",
+        "ability": [
+            "【C】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)",
+            "【A】When this card attacks, if 「二人だけの観測会」 is in the climax slot, you may choose 1 of your opponent's characters, return it to hand.",
+            "【S】［③］Your opponent chooses 1 card from hand and places it in stock."
+        ],
+        "attributes": [
+            "Sweets 《お菓子》",
+            "Fairy Tale 《童話》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card502-large.jpg"
+    },
+    {
+        "name": "神北 小毬",
+        "code": "LB/W02-012",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あなたの目が、もう少し、ほんのちょっとだけ見えるようになりますように",
+        "ability": [
+            "【C】All your other 「“ウェディングドレス”鈴」 gets +1000 Power.",
+            "【C】 ALARM When this card is at the top of your clock, all your yellow characters gain the following ability.『【C】This card cannot be targeted by your opponent's effects.』"
+        ],
+        "attributes": [
+            "Sweets 《お菓子》",
+            "Fairy Tale 《童話》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card503-large.jpg"
+    },
+    {
+        "name": "井ノ原 真人",
+        "code": "LB/W02-013",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "今！！俺の怒りが…有頂天に達したぁッ！！",
+        "ability": [
+            "【A】When this card is played to stage, choose 1 of your characters in STAND, put it to REST."
+        ],
+        "attributes": [
+            "Muscle 《筋肉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card504-large.jpg"
+    },
+    {
+        "name": "鈴＆小毬",
+        "code": "LB/W02-014",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "りんちゃんと私、お友達だから",
+        "ability": [
+            "【A】When your opponent levels up, place the top card of your deck into stock.",
+            "【S】［③］During this turn, all your characters get +1 Soul."
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card505-large.jpg"
+    },
+    {
+        "name": "“深窓のクイーンオブハート”唯湖",
+        "code": "LB/W02-015",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "断罪してやろう",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card506-large.jpg"
+    },
+    {
+        "name": "恭介＆鈴",
+        "code": "LB/W02-016",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "",
+        "ability": [
+            "【S】［④］You opponent chooses 1 card from hand and places it in waiting room."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card507-large.jpg"
+    },
+    {
+        "name": "“神なるノーコン”鈴",
+        "code": "LB/W02-017",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "うっさい、手元がくるっただけだっ",
+        "ability": [
+            "【A】When the character battling this card becomes REVERSE, you may return this card to hand.",
+            "【S】● ASSIST 3000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card508-large.jpg"
+    },
+    {
+        "name": "猫使いの秘密兵器",
+        "code": "LB/W02-018",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この道六十五年の匠がこりこりにこだわった猫じゃらしだ",
+        "ability": [
+            "Choose 1 of your opponent's front row level 0 or below characters, return it to hand.",
+            "Place this card in stock."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card509-large.jpg"
+    },
+    {
+        "name": "夢の中へ",
+        "code": "LB/W02-019",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "…くかー",
+        "ability": [
+            "Choose 1 of your opponent's Level 1 or below characters, place it in stock."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card510-large.jpg"
+    },
+    {
+        "name": "お背中流しますよー",
+        "code": "LB/W02-020",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ほら、ちゃんときれいにしてあげるから、おとなしくしましょうー",
+        "ability": [
+            "Choose 1 of your characters, during this turn, it gets +2500 Power and +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card511-large.jpg"
+    },
+    {
+        "name": "コールドゲームだ",
+        "code": "LB/W02-021",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "謙吾「茶番だあぁぁぁーーーーーーーーーっ！！」",
+        "ability": [
+            "If you do not have 《スポーツ》 characters on stage, this card cannot be played from hand.",
+            "If you do not have a yellow card in your clock or level slot, this card cannot be played from hand.",
+            "Your opponent chooses 1 card from hand and places it in stock."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card512-large.jpg"
+    },
+    {
+        "name": "相合傘",
+        "code": "LB/W02-022",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そうだな…雨の日には、私の頭が働かなくなるのかもしれないな",
+        "ability": [
+            "Choose 2 of your characters, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card513-large.jpg"
+    },
+    {
+        "name": "鈴と共にある日々",
+        "code": "LB/W02-023",
+        "rarity": "CR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あー、もうけんかしちゃめっ",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Characters, return to his/her hand)"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card514-large.jpg"
+    },
+    {
+        "name": "リーダーの帰還",
+        "code": "LB/W02-024",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "みんな、揃ってるな",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card515-large.jpg"
+    },
+    {
+        "name": "二人だけの観測会",
+        "code": "LB/W02-025",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私と一緒。両思いだ",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card516-large.jpg"
+    },
+    {
+        "name": "“猫まみれ”鈴",
+        "code": "LB/W02-026",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "それが猫の魔力だ",
+        "ability": [
+            "【C】For each of your other 《動物》 characters, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card603-large.jpg"
+    },
+    {
+        "name": "“着ぐるみ”クド",
+        "code": "LB/W02-027",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "…わふ？",
+        "ability": [
+            "【C】If you have 5 or more stock, this card gets +1500 Power.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card604-large.jpg"
+    },
+    {
+        "name": "棗 鈴",
+        "code": "LB/W02-028",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "猫をもてあそぶような奴にはお仕置きだ…",
+        "ability": [
+            "【C】All your other 「“おめかし”小毬」 get +1000 Power.",
+            "【S】［Put this card to REST］Choose 1 of your characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card605-large.jpg"
+    },
+    {
+        "name": "“マスコット”クド\n\"Mascot\" Kud",
+        "code": "LB/W02-029",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ふつつかものですがよろしくお願いしますっ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card607-large.jpg"
+    },
+    {
+        "name": "クド＆佐々美\nKud & Sasami",
+        "code": "LB/W02-030",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "笹瀬川さんはいいひとなのですね",
+        "ability": [
+            "【C】 ALARM When this is at the top of your clock, all your green characters gain the following ability.『【A】When the character battling this card becomes REVERSE, you may place this card in stock.』"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card608-large.jpg"
+    },
+    {
+        "name": "三枝 葉留佳",
+        "code": "LB/W02-031",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "秘技！ビー玉転がし！",
+        "ability": [
+            "【A】When a Level 2 or Above character battling this card becomes REVERSE, you may place the top card of your deck in stock.",
+            "【A】When this card attacks, if 「たった一つの取り柄」 is in the climax slot, place the top card of your deck in stock, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card609-large.jpg"
+    },
+    {
+        "name": "“トラブルメーカー”葉留佳",
+        "code": "LB/W02-032",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "泥船に乗った気で、お任せあれっ",
+        "ability": [
+            "【C】All your other characters with 「佳奈多」 in the name get +500 Power.",
+            "【A】 BOND／「“風紀の番人”佳奈多」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「“風紀の番人”佳奈多」 from your waiting room and place it into your hand)"
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card610-large.jpg"
+    },
+    {
+        "name": "神北 小次郎",
+        "code": "LB/W02-033",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "だれがじーさんじゃあああああああああああああああああああ\nあああああああああああああああああああああああっ！！",
+        "ability": [
+            "【S】［①］Choose 1 of your characters, during this turn, it gets +1500 Power.",
+            "【S】［①］Place this card in memory."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card611-large.jpg"
+    },
+    {
+        "name": "“風紀の番人”佳奈多",
+        "code": "LB/W02-034",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "学園の綱紀粛正にご協力を、という意味よ",
+        "ability": [
+            "【A】When this card attacks, if 「優等生のフリをした偽善者」 is in the climax slot, during this turn, this card gets +3000 Power.",
+            "【S】［② Put this card to REST］Search your deck for up to 1 character with 「葉留佳」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Class Rep 《委員長》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card612-large.jpg"
+    },
+    {
+        "name": "真人＆謙吾",
+        "code": "LB/W02-035",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "鈴「馬鹿が二体か…困った幼なじみどもだな…」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Muscle 《筋肉》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card613-large.jpg"
+    },
+    {
+        "name": "“ポニーガール”鈴",
+        "code": "LB/W02-036",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "ぴんちの時にあらわれる、それがエースだ",
+        "ability": [
+            "【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)",
+            "【A】When this card attacks, if 「そよ風のハミング」 is in the climax slot, place the top card of your deck into stock, during this turn, this card gets +3000 Power.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card614-large.jpg"
+    },
+    {
+        "name": "能美 クドリャフカ",
+        "code": "LB/W02-037",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "がんばりますっ",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power.",
+            "【S】［①］During this turn, all your other characters get 《動物》."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card615-large.jpg"
+    },
+    {
+        "name": "クド＆佳奈多",
+        "code": "LB/W02-038",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "1",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "異常ナシ（ヴゼ・ノルマルノ）！",
+        "ability": [
+            "【C】All your other 《動物》 characters get +500 Power.のあなたのキャラすべてに、パワーを＋500。",
+            "【S】［Put this card to REST］Choose 1 of your characters, place it in stock."
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card616-large.jpg"
+    },
+    {
+        "name": "“普通の少年”理樹",
+        "code": "LB/W02-039",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "鈴「理樹は単純だからな」",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card617-large.jpg"
+    },
+    {
+        "name": "“女王猫”佐々美",
+        "code": "LB/W02-040",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 0,
+        "flavor_text": "ソフトボール部、次期キャプテン候補のこのわたくし、笹瀬川佐々美に勝てると思って？",
+        "ability": [
+            "【C】All your other 「“最強の男児”謙吾」 get +1000 Power.",
+            "【S】● ASSIST 2000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card618-large.jpg"
+    },
+    {
+        "name": "“エプロン”葉留佳",
+        "code": "LB/W02-041",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "最近はシフォンケーキの勉強もしてるんだけどね。難しい",
+        "ability": [
+            "【A】When this card is played to stage, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］During this turn, when your green characters use an ability, you may pay the markers under this card to place in waiting room instead of stock."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card619-large.jpg"
+    },
+    {
+        "name": "“最強の男児”謙吾",
+        "code": "LB/W02-042",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "100戦無敗",
+        "ability": [
+            "【S】［①］Choose 1 of your opponent's characters, during this turn, it gets -500 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card620-large.jpg"
+    },
+    {
+        "name": "新たな挑戦者",
+        "code": "LB/W02-043",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "During this turn, all your characters get +1500 Power."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card621-large.jpg"
+    },
+    {
+        "name": "緊急事態",
+        "code": "LB/W02-044",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "え？そこを妥協！？",
+        "ability": [
+            "●Choose up to 2 of your characters, during this turn, they get +1000 Power."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card622-large.jpg"
+    },
+    {
+        "name": "お掃除大すき♪",
+        "code": "LB/W02-045",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そうじっ、おそうじっ、おおそうじ～っ♪",
+        "ability": [
+            "Choose up to 2 of your characters, put them in STAND."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card623-large.jpg"
+    },
+    {
+        "name": "ぶらっくほわいと",
+        "code": "LB/W02-046",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あなたは自分のクロックすべてを、クロック置場に好きな順番で置く。このカードをストック置場に置く。",
+        "ability": [
+            "Place your cards in clock in any order.",
+            "Place this card in stock."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card624-large.jpg"
+    },
+    {
+        "name": "勉強会",
+        "code": "LB/W02-047",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いつかの家庭科部室は覚えてますか、リキ？",
+        "ability": [
+            "Choose 1 of your characters, during this turn, it gains the following ability.『【C】Until you use this card's ability, the cost of stock to place in waiting room to use this card's abilities is -2.』"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card625-large.jpg"
+    },
+    {
+        "name": "たった一つの取り柄",
+        "code": "LB/W02-048",
+        "rarity": "CR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あは…自惚れ屋さんだよ、理樹くん",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card626-large.jpg"
+    },
+    {
+        "name": "そよ風のハミング",
+        "code": "LB/W02-049",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "…ん？　起きた？",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul.",
+            "(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card628-large.jpg"
+    },
+    {
+        "name": "優等生のフリをした偽善者",
+        "code": "LB/W02-050",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "…ずっと私はウソツキだから。物心ついたときからね",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card629-large.jpg"
+    },
+    {
+        "name": "“華麗なる剣聖”唯湖",
+        "code": "LB/W02-051",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "虚之太刀・朧月！！其太刀、雲海に朧なる月の如し！",
+        "ability": [
+            "【A】When this card becomes REVERSE in battle, you may choose 1 of your opponent's cards in waiting room, place it on top of the deck.",
+            "【S】［①］Choose 1 of your opponent's Front Row Level 0 or Below Characters, place it in waiting room."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card630-large.jpg"
+    },
+    {
+        "name": "“捜査官”葉留佳",
+        "code": "LB/W02-052",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "三枝葉留佳はヤクタタズからジョブチェンジした！",
+        "ability": [
+            "【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, choose 1 of your characters from your waiting room, return it to hand.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Marble 《ビー玉》",
+            "Police 《警察》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card631-large.jpg"
+    },
+    {
+        "name": "西園 美魚",
+        "code": "LB/W02-053",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "この日傘がなければ、傍らにいることもできないかも知れません",
+        "ability": [
+            "【A】 BOND／「西園 美鳥」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「西園 美鳥」 from your waiting room and place it into your hand)",
+            "【S】［② Place this card in waiting room］Choose 1 「西園 美鳥」 from your waiting room,, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card632-large.jpg"
+    },
+    {
+        "name": "棗＆直枝\n054",
+        "code": "LB/W02-054",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "西園「…やはりカップリングはこだわりが大切ですよね…」",
+        "ability": [
+            "【S】［② Put this card in REST］Deal 1 damage to your opponent."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card634-large.jpg"
+    },
+    {
+        "name": "直枝 理樹\n055",
+        "code": "LB/W02-055",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "可能性はある。",
+        "ability": [
+            "【A】［①］When this card attacks, if 「リトルバスターズ！」 is in your climax slot, you may pay the cost. If you do, choose 1 character from your waiting room, return it to hand.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card635-large.jpg"
+    },
+    {
+        "name": "“姉御肌”唯湖\n056",
+        "code": "LB/W02-056",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "なに、模造刀だ。斬れはしない",
+        "ability": [
+            "【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)",
+            "【A】When this card attacks, if 「いつかの未来のために」 is in your climax slot, choose 1 of your characters in waiting room, return it to hand.",
+            "【S】［③］Choose 1 of your characters in waiting room, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card636-large.jpg"
+    },
+    {
+        "name": "“赤ずきん”美魚\n057",
+        "code": "LB/W02-057",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "責任、取ってくださいね。",
+        "ability": [
+            "【C】If you have 7 or more stock, this card gets +2500 Power.",
+            "【A】When this card becomes REVERSE, if the character battling this card is Level 0 or Below, you may put that character to REVERSE."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card637-large.jpg"
+    },
+    {
+        "name": "二木 佳奈多\n058",
+        "code": "LB/W02-058",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "…別に。お礼を言われるようなことは、してないわよ",
+        "ability": [
+            "【C】 ALARM When this card is at the top of your clock, if you are at Level 2 or Above, all your red cards gain the following ability. 『【自】When this card becomes REVERSE, if the character battling this card is the same level as this card or below, you may put that character to REVERSE.』"
+        ],
+        "attributes": [
+            "Class Rep 《委員長》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card638-large.jpg"
+    },
+    {
+        "name": "夏服の葉留佳\n059",
+        "code": "LB/W02-059",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "テンション、回復、回復！",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card gain the following ability. 『【A】When this card becomes REVERSE in battle, if your stock is less than your opponent's, you may place this card in stock.』",
+            "【S】［② Put this card to REST］Search your deck for up to 1 character with 「唯湖」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card639-large.jpg"
+    },
+    {
+        "name": "西園 美鳥\n060",
+        "code": "LB/W02-060",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "うーん、できれば美魚って呼んでほしいんだけどなあ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Shadow 《影》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card640-large.jpg"
+    },
+    {
+        "name": "葉留佳＆佳奈多\n061",
+        "code": "LB/W02-061",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "いいの、いいの！はいチーズ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Marble 《ビー玉》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card641-large.jpg"
+    },
+    {
+        "name": "“騒がし乙女”葉留佳\n062",
+        "code": "LB/W02-062",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "シャカシャカヘイっ！！",
+        "ability": [
+            "【A】This ability can be used up to 2 times in 1 turn. When you use a 【S】 ability, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card642-large.jpg"
+    },
+    {
+        "name": "葉留佳＆美魚\n063",
+        "code": "LB/W02-063",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "葉留佳「エロいなぁー…理樹くんエロいなぁーっ」\n西園「あまつさえ混ざりたいとか考えてませんか」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Marble 《ビー玉》",
+            "Book 《本》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card643-large.jpg"
+    },
+    {
+        "name": "“名探偵”唯湖\n064",
+        "code": "LB/W02-064",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ちょっとここを使えば、誰でもこれくらいは浮かぶものだよ",
+        "ability": [
+            "【A】When this card is played to stage, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］During this turn, when your red characters use an ability, you may pay the markers under this card to place in waiting room instead of stock."
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card644-large.jpg"
+    },
+    {
+        "name": "“筋肉馬鹿”真人\n065",
+        "code": "LB/W02-065",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ちゃんと考えて筋肉って言ってんだよ、この野郎めが！",
+        "ability": [
+            "【A】［①］When this card attacks, if 「託されるもの」 is in your climax slot, you may pay the cost. If you do, choose 1 of your characters from waiting room, return it to hand.",
+            "【A】When you Level Up, place this card in waiting room."
+        ],
+        "attributes": [
+            "Muscle 《筋肉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card645-large.jpg"
+    },
+    {
+        "name": "唯湖＆葉留佳\n066",
+        "code": "LB/W02-066",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "そういうわけで、今日は姉御の日ー。姉御っ姉御っ",
+        "ability": [
+            "【A】［①］When you use this card's 「ASSIST」, you may pay the cost. If you do, choose 1 of your opponent's cards in waiting room, place it on top of the deck.",
+            "【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Music 《音楽》",
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card646-large.jpg"
+    },
+    {
+        "name": "“文学少女”美魚\n067",
+        "code": "LB/W02-067",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "翼のあるものを縛り付けるなんて、できませんよ",
+        "ability": [
+            "【S】［②］Choose 1 of your characters in waiting room, return it to hand. Choose 1 card from hand, place it in waiting room."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card647-large.jpg"
+    },
+    {
+        "name": "鏡よ、鏡\n068",
+        "code": "LB/W02-068",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "あなたは、だれ？",
+        "ability": [
+            "Choose 1 character from your waiting room with the same name as your characters on stage, return it to hand."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card648-large.jpg"
+    },
+    {
+        "name": "朝焼けに眠る\n069",
+        "code": "LB/W02-069",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "…これからは…楽しいことがたくさん待ってんのかな",
+        "ability": [
+            "Choose 1 of your opponent's front row characters, place it in waiting room."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card649-large.jpg"
+    },
+    {
+        "name": "非現実的な光景\n070",
+        "code": "LB/W02-070",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お別れの挨拶は終わった？",
+        "ability": [
+            "Choose 1 card from your opponent's waiting room, place it in memory.",
+            "Place this card in memory."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card650-large.jpg"
+    },
+    {
+        "name": "クリムゾンレッドの腕章\n071",
+        "code": "LB/W02-071",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "3",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "つまらないことをしているのは、あなたでしょう",
+        "ability": [
+            "Choose 1 of your opponent's Front Row Level 1 or Below characters, place it in waiting room.",
+            "Place this card in stock."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card651-large.jpg"
+    },
+    {
+        "name": "耳掃除\n072",
+        "code": "LB/W02-072",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そうかそうか。穴をほじられるのが気持ちいいか",
+        "ability": [
+            "Choose 1 of your Level 2 or Below characters from waiting room, place it on stage in REST."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card652-large.jpg"
+    },
+    {
+        "name": "リトルバスターズ！\n073",
+        "code": "LB/W02-073",
+        "rarity": "CR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "本当に、楽しそうで…それが、今の生活の、象徴のようで…",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card653-large.jpg"
+    },
+    {
+        "name": "いつかの未来のために\n074",
+        "code": "LB/W02-074",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "恋してる、って方の、好きだ",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card654-large.jpg"
+    },
+    {
+        "name": "託されるもの\n075",
+        "code": "LB/W02-075",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お別れだ、理樹",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card656-large.jpg"
+    },
+    {
+        "name": "“メルヘン少女”小毬\n076",
+        "code": "LB/W02-076",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ずっと笑顔でいられるって言うのが、一番の幸せだよ",
+        "ability": [
+            "【C】All your other 「“着ぐるみ”クド」 get +1000 Power.",
+            "【S】● ASSIST 1000 Level 0 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1000 Power)"
+        ],
+        "attributes": [
+            "Sweets 《お菓子》",
+            "Fairy Tale 《童話》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card657-large.jpg"
+    },
+    {
+        "name": "“天然素材”美魚\n077",
+        "code": "LB/W02-077",
+        "rarity": "RR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "わたしを、知りたいと思うのですか？",
+        "ability": [
+            "【A】When this card attacks, if 「２つの長い影」 is in the climax slot, draw 1 card.",
+            "【S】［③］Place the top card of your clock into waiting room."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card658-large.jpg"
+    },
+    {
+        "name": "古式 みゆき\n078",
+        "code": "LB/W02-078",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私は…あなたの夢まで奪ってしまった…",
+        "ability": [
+            "【A】When you use 『ASSIST』, choose 1 of your characters doing battle, during this turn, it gets +500 Power.",
+            "【A】 BOND／「宮沢 謙吾」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「宮沢 謙語」 from your waiting room and place it into your hand)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card659-large.jpg"
+    },
+    {
+        "name": "“ほんわかきゅーと”小毬\n079",
+        "code": "LB/W02-079",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ほわぁっ、ど、どうしよう～っ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Sweets 《お菓子》",
+            "Maid 《メイド》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card660-large.jpg"
+    },
+    {
+        "name": "宮沢 謙吾\n080",
+        "code": "LB/W02-080",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "…全力で来るがいい。俺は真っ向、立ち向かうッ！！",
+        "ability": [
+            "【A】［①］When this card attacks, if 「危機一髪！」 is in the climax slot, you may pay the cost. If you do, draw 1 card.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card662-large.jpg"
+    },
+    {
+        "name": "“小悪魔少女”美鳥\n081",
+        "code": "LB/W02-081",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "影のない女の子は嫌い？",
+        "ability": [
+            "【C】All your other 「“天然素材”美魚」 get +1000 Power.",
+            "【S】［①］During this turn, this card does not receive soul reduction from side attacking."
+        ],
+        "attributes": [
+            "Shadow 《影》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card663-large.jpg"
+    },
+    {
+        "name": "“ミステリックブルー”美魚\n082",
+        "code": "LB/W02-082",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "最後にあなたとこの場所に来られて良かった",
+        "ability": [
+            "【A】［Place this card in waiting room］When another of your characters is placed in waiting room from stage, if this card is in the back row, you may pay the cost. If you do, place that card in its previous slot in REST."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card664-large.jpg"
+    },
+    {
+        "name": "クド＆小毬\n083",
+        "code": "LB/W02-083",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ふたり揃ってステキにムテキですっ",
+        "ability": [
+            "【A】When you level up, place the top card of your deck into stock.",
+            "【S】［② Put this card in REST］Place the top card of your clock into the waiting room."
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card665-large.jpg"
+    },
+    {
+        "name": "棗 恭介\n084",
+        "code": "LB/W02-084",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "さあ、おまえら準備はいいか？",
+        "ability": [
+            "【C】 ALARM If this card is in the top of your clock, all your blue cards gain 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card666-large.jpg"
+    },
+    {
+        "name": "マスク・ザ・斉藤\n085",
+        "code": "LB/W02-085",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "ふ…これから激動のランキングが始まるぜ、はりゃほれうまうーっ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card667-large.jpg"
+    },
+    {
+        "name": "クドリャフカ・アナトリエヴナ・ストルガツ\n086",
+        "code": "LB/W02-086",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "私の、もうひとつの名前です",
+        "ability": [
+            "【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)",
+            "【A】When this card attacks, if 「深夜の儀式」 is in the climax slot, draw 1 card.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card668-large.jpg"
+    },
+    {
+        "name": "“３姉妹”クド\n087",
+        "code": "LB/W02-087",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Unknown",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "実は私はストレルカのお姉さんなのですが",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power.",
+            "【S】［①］Choose 1 of your 《動物》 characters, during this turn it gets +500 Power."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card669-large.jpg"
+    },
+    {
+        "name": "不思議の国のクド\n088",
+        "code": "LB/W02-088",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "わふっ、おはようございまふ",
+        "ability": [
+            "【C】During your opponent's turn, all your other characters get +500 Power.",
+            "【S】［② Put this character to REST］Search your deck for up to 1 character with 「小毬」 in the name, show it to your opponent and place it in your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card670-large.jpg"
+    },
+    {
+        "name": "美魚＆美鳥\n089",
+        "code": "LB/W02-089",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "さて、あたしはだーれだ？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Shadow 《影》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card671-large.jpg"
+    },
+    {
+        "name": "クド＆ストレルカ\n090",
+        "code": "LB/W02-090",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ストレルカは私より賢いんですよ～",
+        "ability": [
+            "【A】When this card is played to stage, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］During this turn, when your blue characters use an ability, you may pay the markers under this card to place in waiting room instead of stock."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card672-large.jpg"
+    },
+    {
+        "name": "“マネージャー”美魚\n091",
+        "code": "LB/W02-091",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "…アイドルデビューするのですか？",
+        "ability": [
+            "【C】All your other 《スポーツ》 characters get +500 Power.",
+            "【S】［Put this card to REST］Choose 1 of your cards from hand, place it in stock."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card673-large.jpg"
+    },
+    {
+        "name": "“おめかし”小毬\n092",
+        "code": "LB/W02-092",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "一生懸命おめかししてきたんだよ",
+        "ability": [
+            "【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Fairy Tale 《童話》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card674-large.jpg"
+    },
+    {
+        "name": "あめりかんな遊び\n093",
+        "code": "LB/W02-093",
+        "rarity": "R",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "フライングディスクです。あめりかんな遊びですよ。",
+        "ability": [
+            "Search your deck for up to 1 《動物》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card675-large.jpg"
+    },
+    {
+        "name": "ロイヤルプリンセスパフェ\n094",
+        "code": "LB/W02-094",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "だってこれ、この下のスポンジはもちろん朝に焼き立てで…",
+        "ability": [
+            "Choose 1 card in your clock, return it to hand.",
+            "Place this card in memory."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card676-large.jpg"
+    },
+    {
+        "name": "両手いっぱいの本\n095",
+        "code": "LB/W02-095",
+        "rarity": "U",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "読んだ本の数だけ、世界が広がります",
+        "ability": [
+            "If you do not have any 《本》 characters, this card cannot be played from hand. Draw 2 cards, choose 1 card from your hand, place it in waiting room."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card677-large.jpg"
+    },
+    {
+        "name": "鮮やかなしまぱん\n096",
+        "code": "LB/W02-096",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "今度は全部見られたぁーーーっ！！",
+        "ability": [
+            "●You may choose 1 card from your hand and place it in stock.",
+            "Choose 1 of your characters, during this turn, it gains the following ability. 『【A】When this card is placed in waiting room from stage, you may place this card on its previous slot in REST.』"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card678-large.jpg"
+    },
+    {
+        "name": "友情の証\n097",
+        "code": "LB/W02-097",
+        "rarity": "C",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "リトルバスターズは不滅だ…",
+        "ability": [
+            "●You may draw 1 card.",
+            "Choose 1 of your characters, during this turn, it gains the following ability. 『【A】When this card is placed in waiting room from stage, you may place this card on its previous slot in REST.』"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card679-large.jpg"
+    },
+    {
+        "name": "危機一髪！\n098",
+        "code": "LB/W02-098",
+        "rarity": "CR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "う…うおおおぉぉぉおぉぉぉぉぉぉーーーーっっ！！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card680-large.jpg"
+    },
+    {
+        "name": "深夜の儀式\n099",
+        "code": "LB/W02-099",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はい…どきどき…優しくしてください",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card681-large.jpg"
+    },
+    {
+        "name": "２つの長い影\n100",
+        "code": "LB/W02-100",
+        "rarity": "CC",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "…わたしと同じリズムです",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card683-large.jpg"
+    },
+    {
+        "name": "あたしたちが付き合おう",
+        "code": "LB/W02-101",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "「そうしたら何もかもうまくいくんじゃないか？」",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card28048-large.jpg"
+    },
+    {
+        "name": "The confidence of Rin",
+        "code": "LB/W02-101e",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "For you, for me and for ones, it is the best way that two of us are together. I belive so, Riki.",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "101e",
+        "image": "https://images.littleakiba.com/tcg/card719-large.jpg"
+    },
+    {
+        "name": "“いつも仲良し”鈴と小毬\n102",
+        "code": "LB/W02-102",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "…一番のなかよしさんだから",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card722-large.jpg"
+    },
+    {
+        "name": "“わんこ娘”クド\n103",
+        "code": "LB/W02-103",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "わ、わふー･･････とらぶるてりぶるあくしでんとです･･････",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power.",
+            "【S】［①］All your other characters get 《動物》."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card723-large.jpg"
+    },
+    {
+        "name": "黄昏の街を見下ろす鈴と小毬\n104",
+        "code": "LB/W02-104",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "…一番の仲良しさんだから、かな",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card726-large.jpg"
+    },
+    {
+        "name": "“天然ほわほわガール”小毬\n105",
+        "code": "LB/W02-105",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お菓子を食べると、ちょっと幸せになります",
+        "ability": [
+            "【C】 SUPPORT All your characters in front of this card get 《お菓子》."
+        ],
+        "attributes": [
+            "Sweets 《お菓子》",
+            "Fairy Tale 《童話》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card728-large.jpg"
+    },
+    {
+        "name": "“ライバル”佐々美\n106",
+        "code": "LB/W02-106",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "こんなところで奇遇ね、わが最強のライバル、棗鈴",
+        "ability": [
+            "【C】For each of your opponent's 「“神なるノーコン”鈴」, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card731-large.jpg"
+    },
+    {
+        "name": "“人見知り”鈴\n107",
+        "code": "LB/W02-107",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "よ、よろしく",
+        "ability": [
+            "【A】 BOND／「“普通の少年”理樹」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「“普通の少年”理樹」 from your waiting room and place it into your hand)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card733-large.jpg"
+    },
+    {
+        "name": "“素っ気無し 愛想無し 配慮無し”佳奈多\n108",
+        "code": "LB/W02-108",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "そうよ。あなたは気がつかなかった",
+        "ability": [
+            "【S】［①］During this turn, treat this card as 「三枝 葉留佳」."
+        ],
+        "attributes": [
+            "Class Rep 《委員長》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card735-large.jpg"
+    },
+    {
+        "name": "“イタズラっ子”葉留佳\n109",
+        "code": "LB/W02-109",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "…クラス、一緒だったら良かったのにね",
+        "ability": [
+            "【C】All your other 《ビー玉》 characters get +500 Power.",
+            "【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)",
+            "【S】［①］During this turn, this card gets《スポーツ》,《音楽》,《お菓子》."
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "109",
+        "image": "https://images.littleakiba.com/tcg/card739-large.jpg"
+    },
+    {
+        "name": "“エレガント”唯湖\n110",
+        "code": "LB/W02-110",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "よし、ちょうどいい。今日もお茶会としゃれ込もうか",
+        "ability": [
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Music 《音楽》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "110",
+        "image": "https://images.littleakiba.com/tcg/card744-large.jpg"
+    },
+    {
+        "name": "“ボケまくり”沙耶\n111",
+        "code": "LB/W02-111",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "ゲーム…スタート",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "111",
+        "image": "https://images.littleakiba.com/tcg/card746-large.jpg"
+    },
+    {
+        "name": "“がんばり担当”クド\n112",
+        "code": "LB/W02-112",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 2,
+        "flavor_text": "ふぁいとですーっ",
+        "ability": [
+            "【S】● ASSIST 3000 Level 2 ［② Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "112",
+        "image": "https://images.littleakiba.com/tcg/card749-large.jpg"
+    },
+    {
+        "name": "“物静か”美魚\n113",
+        "code": "LB/W02-113",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "みなさん、がんばってるじゃないですか。\nわたしも心から応援したくなってきました",
+        "ability": [
+            "【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)",
+            "【C】 SUPPORT All the characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "113",
+        "image": "https://images.littleakiba.com/tcg/card752-large.jpg"
+    },
+    {
+        "name": "“非情な諜報員”沙耶\n114",
+        "code": "LB/W02-114",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "じゃ、殺す。今すぐ殺す。とりあえず殺す。",
+        "ability": [
+            "【S】［③］Choose 1 of your opponent's Front Row Level 1 or below Character, place it in Waiting Room."
+        ],
+        "attributes": [
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "114",
+        "image": "https://images.littleakiba.com/tcg/card757-large.jpg"
+    },
+    {
+        "name": "“わかりやすい”佳奈多\n115",
+        "code": "LB/W02-115",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "お礼よ。取っておきなさい",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power."
+        ],
+        "attributes": [
+            "Class Rep 《委員長》",
+            "Twins 《双子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "115",
+        "image": "https://images.littleakiba.com/tcg/card760-large.jpg"
+    },
+    {
+        "name": "“闇の執行部部長”時風\n116",
+        "code": "LB/W02-116",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "わかった。 ゲームスタートといこう",
+        "ability": [
+            "【S】［③］Choose 1 of your opponent's Front Row Level 1 or below characters, return it to hand.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Mask 《仮面》",
+            "Weapon 《武器》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "116",
+        "image": "https://images.littleakiba.com/tcg/card762-large.jpg"
+    },
+    {
+        "name": "鈴＆佐々美\n117",
+        "code": "LB/W02-117",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "お前らとケンカしてもしょーがない。\nむえきなあらそいだ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "117",
+        "image": "https://images.littleakiba.com/tcg/card770-large.jpg"
+    },
+    {
+        "name": "不思議の国のクド\n118",
+        "code": "LB/W02-118",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "だから、ずっと、ずっと、すきだったんです",
+        "ability": [
+            "【C】During your opponent's turn, all your other characters get +500 Power.",
+            "【S】［② Put this character to REST］Search your deck for up to 1 character with 「小毬」 in the name, show it to your opponent and place it in your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "118",
+        "image": "https://images.littleakiba.com/tcg/card777-large.jpg"
+    },
+    {
+        "name": "“おめかし”小毬\n119",
+        "code": "LB/W02-119",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "一生懸命おめかししてきたんだよ",
+        "ability": [
+            "【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Fairy Tale 《童話》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "119",
+        "image": "https://images.littleakiba.com/tcg/card778-large.jpg"
+    },
+    {
+        "name": "“トラブルメーカー”葉留佳\n120",
+        "code": "LB/W02-120",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "いやー、だってアレ私が考えた結末ですヨ",
+        "ability": [
+            "【C】All your other characters with 「佳奈多」 in the name get +500 Power.",
+            "【A】 BOND／「“風紀の番人”佳奈多」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「“風紀の番人”佳奈多」 from your waiting room and place it into your hand)"
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "120",
+        "image": "https://images.littleakiba.com/tcg/card779-large.jpg"
+    },
+    {
+        "name": "“犬まみれ”佐々美",
+        "code": "LB/W02-121",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ちょっと、くすぐったいですわぁっ！！",
+        "ability": [
+            "【C】For each of your opponent's Characters in STAND, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "121",
+        "image": "https://images.littleakiba.com/tcg/card755-large.jpg"
+    },
+    {
+        "name": "水着の鈴",
+        "code": "LB/W02-122",
+        "rarity": "PR",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "似合ってる…か？",
+        "ability": [
+            "【C】 All your other 《動物》 Characters get +500 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Swimsuit 《水着》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "122",
+        "image": "https://images.littleakiba.com/tcg/card28049-large.jpg"
+    },
+    {
+        "name": "“マスコット”クド\nT01",
+        "code": "LB/W02-T01",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card782-large.jpg"
+    },
+    {
+        "name": "神北 小次郎\nT02",
+        "code": "LB/W02-T02",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【S】［①］Choose 1 of your characters, during this turn, it gets +1500 Power.",
+            "【S】［①］Place this card in memory."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card783-large.jpg"
+    },
+    {
+        "name": "“ポニーガール”鈴\nT03",
+        "code": "LB/W02-T03",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "ぴんちの時にあらわれる、それがエースだ",
+        "ability": [
+            "【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)",
+            "【A】When this card attacks, if 「そよ風のハミング」 is in the climax slot, place the top card of your deck into stock, during this turn, this card gets +3000 Power.",
+            "【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card786-large.jpg"
+    },
+    {
+        "name": "緊急事態\nT04",
+        "code": "LB/W02-T04",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "●Choose up to 2 of your characters, during this turn, they get +1000 Power."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card791-large.jpg"
+    },
+    {
+        "name": "能美 クドリャフカ\nT05",
+        "code": "LB/W02-T05",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power.",
+            "【S】［①］During this turn, all your other characters get 《動物》."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card792-large.jpg"
+    },
+    {
+        "name": "“普通の少年”理樹\nT06",
+        "code": "LB/W02-T06",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card793-large.jpg"
+    },
+    {
+        "name": "“女王猫”佐々美\nT07",
+        "code": "LB/W02-T07",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】All your other 「“最強の男児”謙吾」 get +1000 Power.",
+            "【S】● ASSIST 2000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card795-large.jpg"
+    },
+    {
+        "name": "“エプロン”葉留佳\nT08",
+        "code": "LB/W02-T08",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】When this card is played to stage, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.",
+            "【S】［Put this card to REST］During this turn, when your green characters use an ability, you may pay the markers under this card to place in waiting room instead of stock."
+        ],
+        "attributes": [
+            "Marble 《ビー玉》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card797-large.jpg"
+    },
+    {
+        "name": "“最強の男児”謙吾\nT09",
+        "code": "LB/W02-T09",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "",
+        "ability": [
+            "【S】［①］Choose 1 of your opponent's characters, during this turn, it gets -500 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card799-large.jpg"
+    },
+    {
+        "name": "そよ風のハミング\nT10",
+        "code": "LB/W02-T10",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul.",
+            "(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card800-large.jpg"
+    },
+    {
+        "name": "優等生のフリをした偽善者\nT11",
+        "code": "LB/W02-T11",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】All your characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card802-large.jpg"
+    },
+    {
+        "name": "あめりかんな遊び\nT12",
+        "code": "LB/W02-T12",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "Search your deck for up to 1 《動物》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card803-large.jpg"
+    },
+    {
+        "name": "“ミステリックブルー”美魚\nT13",
+        "code": "LB/W02-T13",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】［Place this card in waiting room］When another of your characters is placed in waiting room from stage, if this card is in the back row, you may pay the cost. If you do, place that card in its previous slot in REST."
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Parasol 《日傘》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card804-large.jpg"
+    },
+    {
+        "name": "クド＆小毬\nT14",
+        "code": "LB/W02-T14",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】When you level up, place the top card of your deck into stock.",
+            "【S】［② Put this card in REST］Place the top card of your clock into the waiting room."
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card805-large.jpg"
+    },
+    {
+        "name": "棗 恭介\nT15",
+        "code": "LB/W02-T15",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 ALARM If this card is in the top of your clock, all your blue cards gain 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card807-large.jpg"
+    },
+    {
+        "name": "ロイヤルプリンセスパフェ\nT16",
+        "code": "LB/W02-T16",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "Choose 1 card in your clock, return it to hand.",
+            "Place this card in memory."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card808-large.jpg"
+    },
+    {
+        "name": "“３姉妹”クド\nT17",
+        "code": "LB/W02-T17",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【C】 SUPPORT All the characters in front of this card get +500 Power.",
+            "【S】［①］Choose 1 of your 《動物》 characters, during this turn it gets +500 Power."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card809-large.jpg"
+    },
+    {
+        "name": "美魚＆美鳥\nT18",
+        "code": "LB/W02-T18",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Book 《本》",
+            "Shadow 《影》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card811-large.jpg"
+    },
+    {
+        "name": "“おめかし”小毬\nT19",
+        "code": "LB/W02-T19",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "",
+        "ability": [
+            "【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Fairy Tale 《童話》",
+            "Sweets 《お菓子》"
+        ],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card812-large.jpg"
+    },
+    {
+        "name": "２つの長い影\nT20",
+        "code": "LB/W02-T20",
+        "rarity": "TD",
+        "expansion": "Little Busters!",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【C】All your characters get +1000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "W02",
+        "sid": "T20",
+        "image": "https://images.littleakiba.com/tcg/card814-large.jpg"
+    }
+]

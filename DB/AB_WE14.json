@@ -1,0 +1,995 @@
+[
+    {
+        "name": "作戦会議 かなで\nStrategy Meeting, Kanade",
+        "code": "AB/WE14-01",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "あたしに向いている作戦ね",
+        "ability": [
+            "【C】 If you have 1 or less other Characters, this card gets +1000 Power and gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "01",
+        "image": "https://images.littleakiba.com/tcg/card7246-large.jpg"
+    },
+    {
+        "name": "天使の翼　かなで\nAngelic Wings, Kanade",
+        "code": "AB/WE14-02",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ううん、飾り。そのほうが天使らしいからだって",
+        "ability": [
+            "【C】 For each of your other 《死》 Characters, this card gets +500 Power.",
+            "【A】 ［①］ When this card attacks, if 「別れの時」 is in the Climax Slot, you may pay the cost. If you did, search your Deck for up to 1 《生徒会》 Character, show it to your opponent, add it to hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "02",
+        "image": "https://images.littleakiba.com/tcg/card7243-large.jpg"
+    },
+    {
+        "name": "心配するかなで\nWorrying, Kanade",
+        "code": "AB/WE14-03",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "無理しちゃダメ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.",
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your other 《死》 Characters, during this turn it gets +1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "03",
+        "image": "https://images.littleakiba.com/tcg/card7232-large.jpg"
+    },
+    {
+        "name": "クールビューティー 岩沢\nCool Beauty, Iwasawa",
+        "code": "AB/WE14-04",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "私が救われたように、こうして誰かを救っていくんだ…",
+        "ability": [
+            "【A】 ［Place this card into Memory］ If 「ガルデモの思い出」 is placed into the Climax Slot, you may pay the cost. If you did, choose 1 「憧れの実現 ユイ」 from Hand, place it on this card's Previous Slot."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Music 《音楽》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "04",
+        "image": "https://images.littleakiba.com/tcg/card7272-large.jpg"
+    },
+    {
+        "name": "憧れの実現 ユイ\nRealization of Aspiring, Yui",
+        "code": "AB/WE14-05",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ユイにゃんは才能に驕ることなく、地道に\nストリートライブとか、積み重ねてきてますから",
+        "ability": [
+            "【C】 RECOLLECTION If your Memory has 2 or more 《音楽》 Characters, this card gets +1000 Power.",
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】 When this card attacks, if 「ガルデモの思い出」 is in the Climax Slot, all your 《死》 Characters get +3500 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Music 《音楽》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "05",
+        "image": "https://images.littleakiba.com/tcg/card7273-large.jpg"
+    },
+    {
+        "name": "青空の下のかなで\nUnder the Blue Sky, Kanade",
+        "code": "AB/WE14-06",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【C】 If you have 2 or more other 《死》 Characters, this card gets +1000 Power.",
+            "【C】 The card facing this card gets -1 Soul。",
+            "【S】 ［①］ When this card attacks, you may pay the cost. If you did, choose 1 of your 《死》 Characters, during this turn it gets, +1 Soul."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "06",
+        "image": "https://images.littleakiba.com/tcg/card7274-large.jpg"
+    },
+    {
+        "name": "いつでも一緒 関根＆入江\nAlways Together, Sekine & Irie",
+        "code": "AB/WE14-07",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "入江「ユイ、歌うか弾くか、\nどっちかに専念したほうがいいんじゃないのぉ？」",
+        "ability": [
+            "【A】 BOND／「クールビューティー 岩沢」 ［①］ (When this card is played onto Stage, you may pay the cost. If you did, choose 1 「クールビューティー 岩沢」 in your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Music 《音楽》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "07",
+        "image": "https://images.littleakiba.com/tcg/card7275-large.jpg"
+    },
+    {
+        "name": "ユイ＆日向\nYui & Hinata",
+        "code": "AB/WE14-08",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "日向「ずっと…ずっと、そばに居てやんよ」",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power.",
+            "【A】 When this card becomes REVERSE in battle, reveal the top card of your Deck. If that card is a 《音楽》 Character, place this card into Memory. (Return the revealed card to its original position)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Music 《音楽》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "08",
+        "image": "https://images.littleakiba.com/tcg/card7247-large.jpg"
+    },
+    {
+        "name": "あどけない瞳 かなで\nAngelic Eyes, Kanade",
+        "code": "AB/WE14-09",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ふーん…",
+        "ability": [
+            "【A】 When this card attacks, choose 1 of your other 《死》 Characters, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "09",
+        "image": "https://images.littleakiba.com/tcg/card7278-large.jpg"
+    },
+    {
+        "name": "催眠術師 直井\nHypnotism, Naoi",
+        "code": "AB/WE14-10",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "洗濯ばさみの有能さに気づくんだ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets +1 Level, +1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "10",
+        "image": "https://images.littleakiba.com/tcg/card7249-large.jpg"
+    },
+    {
+        "name": "静かな佇まい かなで\nPeaceful Appearance, Kanade",
+        "code": "AB/WE14-11",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "…そうね",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "11",
+        "image": "https://images.littleakiba.com/tcg/card7280-large.jpg"
+    },
+    {
+        "name": "かなで＆音無\nKanade & Otonashi",
+        "code": "AB/WE14-12",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "音無「あのさ……ここに…残らないか…？」",
+        "ability": [
+            "【S】 ［①］ During this turn, this card gets +X Power. X is equals to the number of your 《死》 Characters ×500."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "12",
+        "image": "https://images.littleakiba.com/tcg/card7254-large.jpg"
+    },
+    {
+        "name": "野球少女 ユイ\nBaseball Girl, Yui",
+        "code": "AB/WE14-13",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "じゃ、やりますか",
+        "ability": [
+            "【C】 During your turn, all your other 《音楽》 Characters, get +500 Power.",
+            "【C】 SUPPORT All your Characters in front of this card with Level 2 or above, get +1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Music 《音楽》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "13",
+        "image": "https://images.littleakiba.com/tcg/card7253-large.jpg"
+    },
+    {
+        "name": "何気ない仕草 かなで\nCasual Behavior, Kanade",
+        "code": "AB/WE14-14",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "…あの人たちとずっと一緒に居たい？",
+        "ability": [
+            "【C】 RECOLLECTION During your turn, if your Memory has 2 or more cards, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "14",
+        "image": "https://images.littleakiba.com/tcg/card7283-large.jpg"
+    },
+    {
+        "name": "入江＆ひさ子\nIrie & Hisako",
+        "code": "AB/WE14-15",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ひっどいボーカルだったな",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Music 《音楽》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "15",
+        "image": "https://images.littleakiba.com/tcg/card7284-large.jpg"
+    },
+    {
+        "name": "ピンクのケープ かなで\nPink Cape, Kanade",
+        "code": "AB/WE14-16",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うん…",
+        "ability": [
+            "【S】● ASSIST 3000 LEVEL 2 [① Place this card to Waiting Room from Hand] (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "16",
+        "image": "https://images.littleakiba.com/tcg/card7235-large.jpg"
+    },
+    {
+        "name": "ガルデモの思い出\nMemories of GirlDeMo",
+        "code": "AB/WE14-17",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed into the Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "17",
+        "image": "https://images.littleakiba.com/tcg/card7286-large.jpg"
+    },
+    {
+        "name": "別れの時\nThe Moment of Farewells",
+        "code": "AB/WE14-18",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お願い…結弦。もう一度、言って",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Flame： When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)"
+        ],
+        "attributes": [],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "18",
+        "image": "https://images.littleakiba.com/tcg/card7244-large.jpg"
+    },
+    {
+        "name": "冬の日のゆり\nWinter's Day, Yuri",
+        "code": "AB/WE14-19",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ったく、仕方がないわね…",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of your Deck or into Waiting Room.",
+            "【A】 BOND／「ピンクのケープ かなで」 ［①］ (When this card is played onto Stage, you may pay the cost. If you did, choose 1 「ピンクのケープ かなで」 in your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "19",
+        "image": "https://images.littleakiba.com/tcg/card7288-large.jpg"
+    },
+    {
+        "name": "戦線への勧誘 ゆり\nInvitation to the Battle Front, Yuri",
+        "code": "AB/WE14-20",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ようこそ、『死んでたまるか戦線』へ",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《死》 Character, place it into Clock. (Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "20",
+        "image": "https://images.littleakiba.com/tcg/card7289-large.jpg"
+    },
+    {
+        "name": "不敵な視線 ゆり\nFearless Gaze, Yuri",
+        "code": "AB/WE14-21",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "おかしな価値観をお持ちのようで",
+        "ability": [
+            "【S】 CONCENTRATION ［①］ Flip 4 cards from the top of your Deck into Waiting Room. For every Climax among those cards, perform the following action. 『Choose 1 《死》 Character in your Waiting Room, return it to Hand, choose 1 card in Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "21",
+        "image": "https://images.littleakiba.com/tcg/card7290-large.jpg"
+    },
+    {
+        "name": "武芸達者 椎名\nSkillful in Martial Arts, Shiina",
+        "code": "AB/WE14-22",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "…なに用だ",
+        "ability": [
+            "【A】 You can only activate this ability once per turn. When you use 【起】, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "22",
+        "image": "https://images.littleakiba.com/tcg/card7256-large.jpg"
+    },
+    {
+        "name": "伝令役 遊佐\nMessenger, Yusa",
+        "code": "AB/WE14-23",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "全員無事です",
+        "ability": [
+            "【C】 All your other 《死》 Characters get +500 Power.",
+            "【A】 You can only activate this ability once per turn. When you use 【起】, choose 1 of your Characters, during this turn, that card gets +1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Operator 《オペレーター 》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "23",
+        "image": "https://images.littleakiba.com/tcg/card7292-large.jpg"
+    },
+    {
+        "name": "単独行動 ゆり\nIndependent Action, Yuri",
+        "code": "AB/WE14-24",
+        "rarity": "R",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "タイミング的には、どんぴしゃね",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.",
+            "【A】 ［①］ When this card attacks, if 「戦いの後」 is in the Climax Slot, you may pay the cost. If you did, choose 1 Character in your Waiting Room, return it to Hand, choose 1 of your 《死》 Characters, until the end of your Opponent's next turn, it gets +3000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "24",
+        "image": "https://images.littleakiba.com/tcg/card7293-large.jpg"
+    },
+    {
+        "name": "英語は苦手 TK\nBad English, TK",
+        "code": "AB/WE14-25",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "Knockin' on heaven's door.",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card, gets +500 Power."
+        ],
+        "attributes": [
+            "Death 《死》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "25",
+        "image": "https://images.littleakiba.com/tcg/card7258-large.jpg"
+    },
+    {
+        "name": "野田＆大山\nNoda & Ohyama",
+        "code": "AB/WE14-26",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "野田「俺が動くのはゆりっぺの助けになる時だけだ」",
+        "ability": [
+            "【A】 ［② Place this card into Memory］ When this card becomes REVERSE during battle, you may pay the cost. If you did, choose 1 《死》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "26",
+        "image": "https://images.littleakiba.com/tcg/card7259-large.jpg"
+    },
+    {
+        "name": "みんなの大黒柱 ゆリ\nEveryone's Backbone, Yuri",
+        "code": "AB/WE14-27",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "今の問答だけで十分。何が起きたかわかったわ。",
+        "ability": [
+            "【A】 When this card becomes REVERSE in battle, choose 1 of your 《死》 Characters, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "27",
+        "image": "https://images.littleakiba.com/tcg/card7260-large.jpg"
+    },
+    {
+        "name": "天才ハッカー 竹山\nGenius Hacker, Takeyama",
+        "code": "AB/WE14-28",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ゆり「彼、ハンドルネーム・竹山くんを作戦チームに登用」",
+        "ability": [
+            "【C】 ALARM When this card is at the top of your Clock, all your 《死》 Characters gain the following ability. 『【A】 When this card attacks, choose 1 of your Characters, during this turn it gets +500 Power.』"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "28",
+        "image": "https://images.littleakiba.com/tcg/card7297-large.jpg"
+    },
+    {
+        "name": "水着のゆり\nSwimsuit, Yuri",
+        "code": "AB/WE14-29",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ほかのみんなは？",
+        "ability": [
+            "【C】 For each of your other Characters in REST, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "29",
+        "image": "https://images.littleakiba.com/tcg/card7298-large.jpg"
+    },
+    {
+        "name": "噛ませ犬 藤巻\nActing Tough, Fujimaki",
+        "code": "AB/WE14-30",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "俺も忘れてもらっちゃ困るぜ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Death 《死》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "30",
+        "image": "https://images.littleakiba.com/tcg/card7263-large.jpg"
+    },
+    {
+        "name": "理不尽な要求 ゆり\nIrrational Demand, Yuri",
+        "code": "AB/WE14-31",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "…いい？あの席の前を引き当てなさい",
+        "ability": [
+            "【S】 ［REST 1 of your Characters］ During this turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "31",
+        "image": "https://images.littleakiba.com/tcg/card7264-large.jpg"
+    },
+    {
+        "name": "脱ぎ足りない高松\nNot Removing Enough Clothes, Takamatsu",
+        "code": "AB/WE14-32",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "今度は下も脱ぐか…",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Glasses 《メガネ》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "32",
+        "image": "https://images.littleakiba.com/tcg/card7301-large.jpg"
+    },
+    {
+        "name": "それぞれの道 ゆり\nRespective Path, Yuri",
+        "code": "AB/WE14-33",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "どの道を選ぶのかは、皆に任せるわ",
+        "ability": [
+            "【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Memory］ At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「単独行動 ゆり」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "33",
+        "image": "https://images.littleakiba.com/tcg/card7268-large.jpg"
+    },
+    {
+        "name": "戦線の名コンビ 日向＆音無\nBattle Front's Best Combo, Hinata & Otonashi",
+        "code": "AB/WE14-34",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "日向「…はは…ありがとな」 音無「こちらこそ。すげぇ世話になった」",
+        "ability": [
+            "【A】 ［Return 2 Characters from your Waiting Room into your Deck. Shuffle your Deck afterwards］ When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Sports 《スポーツ》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "34",
+        "image": "https://images.littleakiba.com/tcg/card7267-large.jpg"
+    },
+    {
+        "name": "姉妹のような二人 かなで＆ゆり\nJust Like Sisters, Kanade & Yuri",
+        "code": "AB/WE14-35",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "ゆり「…でも、なんとなく嬉しいな…ゆりって呼んでくれて」",
+        "ability": [
+            "【C】 During this card's battle, you cannot play Events and 『ASSIST』 from Hand."
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Weapon 《武器》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "35",
+        "image": "https://images.littleakiba.com/tcg/card7304-large.jpg"
+    },
+    {
+        "name": "戦いの後\nAfter the Battle",
+        "code": "AB/WE14-36",
+        "rarity": "C",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "N/A",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "えっ…えっ！？それはっ、その…",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "36",
+        "image": "https://images.littleakiba.com/tcg/card7240-large.jpg"
+    },
+    {
+        "name": "おやすみ かなで",
+        "code": "AB/WE14-P01",
+        "rarity": "PR",
+        "expansion": "Angel Beats! EB Vol.02",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Death 《死》",
+            "Student Council 《生徒会》"
+        ],
+        "set": "AB",
+        "release": "WE14",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card22000-large.jpg"
+    }
+]

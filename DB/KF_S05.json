@@ -1,0 +1,3291 @@
+[
+    {
+        "name": "キング",
+        "code": "KF/S05-001",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "カモンベイビー",
+        "ability": [
+            "【C】 For each card in your Level Slot, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Male Dressing 《男装》",
+            "Rose 《薔薇》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card6212-large.jpg"
+    },
+    {
+        "name": "京＆庵",
+        "code": "KF/S05-002",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "京「八神……」\n庵「京……貴様を殺すのは、この俺だ！」",
+        "ability": [
+            "【C】 If you have 「日輪と月輪」 in your Waiting Room, this card gets +1 Soul.",
+            "【A】 When 「660年前の因縁」 is placed into your Climax Slot, choose 1 「日輪と月輪」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Orochi 《オロチ》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card6078-large.jpg"
+    },
+    {
+        "name": "チャン＆チョイ",
+        "code": "KF/S05-003",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "チャン「フンフンフンフンフンフン」\nチョイ「キラーんでやんす」",
+        "ability": [
+            "【C】 ALARM If this card is at the top of your Clock, all your 《先生》 or 《暗黒街》 or 《不良》 Characters get +1000 Power.",
+            "【A】 CHANGE ［Place this card to Clock］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「正義の教育者キム」from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card6254-large.jpg"
+    },
+    {
+        "name": "封ずる者 庵",
+        "code": "KF/S05-004",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "喜べ……　アンコールに応えてやる。\n骨の髄まで炎に焼かれるがいい！",
+        "ability": [
+            "【A】［①］ When this card attacks, if 「三神技之弐」 is in the Climax Slot, you may pay the cost. If you did, choose 1 of your opponent's Character, return it to Hand.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card6247-large.jpg"
+    },
+    {
+        "name": "正義の教育者キム",
+        "code": "KF/S05-005",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "罪を憎んで人を憎まず！\nこれからは、共に正義のために闘いましょう！",
+        "ability": [
+            "【C】 If you have 「チャン＆チョイ」 in your Clock, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Teacher 《先生》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card6249-large.jpg"
+    },
+    {
+        "name": "炎の貴公子 京",
+        "code": "KF/S05-006",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "立ち上がる根性は認めてやるが……\nアンタ、もう負けてんだよ。",
+        "ability": [
+            "【A】［①］ When this card attacks, if 「完全勝利」 is in the Climax Slot, you may pay the cost. If you did, choose 1 of your opponent's Character, return it to Hand, during this turn, this card gets +3000 Power.",
+            "【A】 CHANGE ［Place this card into Waiting Room］ At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「暴走庵」from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Sun 《日輪》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card6250-large.jpg"
+    },
+    {
+        "name": "暴走庵",
+        "code": "KF/S05-007",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "シャァァァァアアアッッッ！！",
+        "ability": [
+            "【A】 When this card attacks, place all your other Characters in the Front Row into your Waiting Room. If 2 is placed, you may place the top card of your Clock into Waiting Room."
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card6251-large.jpg"
+    },
+    {
+        "name": "払う者 京",
+        "code": "KF/S05-008",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ハンデが必要かい？",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Sun 《日輪》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card6253-large.jpg"
+    },
+    {
+        "name": "フリーエージェント マリー",
+        "code": "KF/S05-009",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ふーっ I did it！ あはあっ",
+        "ability": [
+            "【S】● ASSIST 1500 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card6267-large.jpg"
+    },
+    {
+        "name": "マチュア＆バイス",
+        "code": "KF/S05-010",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "マチュア「楽しかったわ。ありがとう」\nバイス「満月の夜にまた逢おうか」",
+        "ability": [
+            "【C】 All your other Character with 「庵」 or 「ルガール」 in its name get +1000 power.",
+            "【S】 CONCENTRATE ［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《オロチ》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card6266-large.jpg"
+    },
+    {
+        "name": "二階堂 紅丸",
+        "code": "KF/S05-011",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "シビレな！",
+        "ability": [
+            "【C】 If you have other 《神器》 or 《神》 or 《鉢巻》 Character, this card gets +1000 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』."
+        ],
+        "attributes": [
+            "Narcissist 《ナルシスト》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card6265-large.jpg"
+    },
+    {
+        "name": "吹き荒ぶ風のゲーニッツ",
+        "code": "KF/S05-012",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 1,
+        "flavor_text": "あなたがたのために祈りましょう\n神のご加護のあらんことを……",
+        "ability": [
+            "【C】 All your opponent's Characters in the Front Row get +1000 Power, gain 《オロチ》.",
+            "【A】［⑥］ At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, all your opponent's Characters in the Front Row, during this turn, gain the following ability.『【A】When this card attacks, choose 1 your other Character in the Front Row, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "God 《神》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card6264-large.jpg"
+    },
+    {
+        "name": "矢吹 真吾",
+        "code": "KF/S05-013",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "アレレ？　元気がないですよ！\nハッスルハッスル！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【S】［② REST this card］ Search your Deck for up to 1 《神器》 or 《パン》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Bread 《パン》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card6263-large.jpg"
+    },
+    {
+        "name": "藤堂 香澄",
+        "code": "KF/S05-014",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ちょ～う重ね当てっ！",
+        "ability": [
+            "【S】［REST this card］ Choose 1 of your other Character, during this turn, it gets +1000 Power, gains 《鉢巻》."
+        ],
+        "attributes": [
+            "Headband 《鉢巻》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card6262-large.jpg"
+    },
+    {
+        "name": "ブルー・マリー",
+        "code": "KF/S05-015",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "アント～ン　アーユーレディ？",
+        "ability": [
+            "【C】 If you have 3 or more other Character with Level 0 or lower, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card6261-large.jpg"
+    },
+    {
+        "name": "八神 庵",
+        "code": "KF/S05-016",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "月を見るたび思い出せ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card6260-large.jpg"
+    },
+    {
+        "name": "アーデルハイド",
+        "code": "KF/S05-017",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ローズ「完璧ですわお兄様！　我が家系にふさわしい、究極の勝利ですわ！」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Rose 《薔薇》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card6259-large.jpg"
+    },
+    {
+        "name": "テコンドー界の至宝キム",
+        "code": "KF/S05-018",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "鳳凰脚！",
+        "ability": [
+            "【A】 When this card attacks, you may place the top card of your Deck to your Waiting Room. If you did, for each 【ソウル】 in that card's Trigger Icon, during this turn, this card gets +1 Soul.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Teacher 《先生》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card6258-large.jpg"
+    },
+    {
+        "name": "蹴撃の麗人キング",
+        "code": "KF/S05-019",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "知らなかったのかい、坊や。\n薔薇には刺があるものなんだよ。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Male Dressing 《男装》",
+            "Rose 《薔薇》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card6257-large.jpg"
+    },
+    {
+        "name": "紫炎と緑炎",
+        "code": "KF/S05-020",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "庵「貴様に用は無い……」",
+        "ability": [
+            "● Choose 1 of your Character, return it to Hand. If your did, your opponent chooses 1 of his/her Character, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card6256-large.jpg"
+    },
+    {
+        "name": "日輪と月輪",
+        "code": "KF/S05-021",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "京「八神……」\n庵「京……」",
+        "ability": [
+            "● If you do not have a Character with 「京」 or 「庵」 in its name, you cannot play this card from Hand. Choose 1 of your Character, during this turn, it gets +2500 Power, +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card6255-large.jpg"
+    },
+    {
+        "name": "禁千弐百拾壱式・八稚女",
+        "code": "KF/S05-022",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "3",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "遊びは終わりだ！\n泣け！　叫べ　そして　死ね！",
+        "ability": [
+            "Choose 1 of your Character, during this turn, it gets +1 Soul. Choose the Character facing that card with Level 2 or lower, return it to Hand. Your opponent places the top card of his/her Stock into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card6862-large.jpg"
+    },
+    {
+        "name": "三神技之弐",
+        "code": "KF/S05-023",
+        "rarity": "CR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "散れ！",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card6863-large.jpg"
+    },
+    {
+        "name": "660年前の因縁",
+        "code": "KF/S05-024",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "京「いくぜ！！」\n庵「いくぞ！！」",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Character, during this turn, gets +3 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card6865-large.jpg"
+    },
+    {
+        "name": "完全勝利",
+        "code": "KF/S05-025",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "パーフェクト！",
+        "ability": [
+            "【C】All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card6866-large.jpg"
+    },
+    {
+        "name": "冷徹なる暗殺者ハイデルン",
+        "code": "KF/S05-026",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "分かったかね？これが戦闘のプロと\nそうでない者との差だ",
+        "ability": [
+            "【C】 All your other 《軍隊》 Characters get +500 Power.",
+            "【A】 When your opponent uses 『【A】 ENCORE』, you may place the top card of your Deck into Stock. (This includes the rule-based 『【A】 ENCORE ［③］』)"
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Eyepatch 《眼帯》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card6867-large.jpg"
+    },
+    {
+        "name": "悪のカリスマ ギース",
+        "code": "KF/S05-027",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "烈風拳！！\nダブル烈風拳！！",
+        "ability": [
+            "【A】 When this card attacks, if 「羅生門」 is in the Climax Slot, place the top card of your Deck into Stock, during this turn, this card gets +X Power. X is equals to the number of your other 《暗黒街》 or 《不良》 or 《悪魔》 Characters x1000.",
+            "【S】［Place 1 《暗黒街》 or 《不良》 or 《悪魔》 Character from Hand to Waiting Room］ Choose 1 of your opponent's Character, during this turn, it gets -1000 Power."
+        ],
+        "attributes": [
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card6868-large.jpg"
+    },
+    {
+        "name": "サイレントソルジャー レオナ",
+        "code": "KF/S05-028",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "引き続き任務を継続……\nバックアップお願いします",
+        "ability": [
+            "【C】 All your other 《軍隊》 Characters gets +500 Power.",
+            "【S】［REST this card］ Choose 1 of your 《軍隊》 Character, during this turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Orochi 《オロチ》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card6870-large.jpg"
+    },
+    {
+        "name": "クラーク・スティル",
+        "code": "KF/S05-029",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "任務、完了",
+        "ability": [
+            "【A】 CHANGE ［Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「ラルフ・ジョーンズ」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Army 《軍隊》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card6871-large.jpg"
+    },
+    {
+        "name": "忠実なるギースの影ビリー",
+        "code": "KF/S05-030",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ヘイヘイヘイ！",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【A】 CHANGE ［① Place this card into Clock］At the beginning of your Draw Phase, you may pay this cost. If you did, choose 1 「悪のカリスマ ギース」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card6873-large.jpg"
+    },
+    {
+        "name": "シェン・ウー",
+        "code": "KF/S05-031",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "楽しませてくれよっ！",
+        "ability": [
+            "【A】［Place the top card of your Deck into Clock］ When you use this card's 『ASSIST』, you may pay this cost. If you did, choose 1 of your Character, during this turn, it gets +1500 Power.",
+            "【S】● ASSIST 1500 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Traitless 《特徴なし》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card6874-large.jpg"
+    },
+    {
+        "name": "略奪者アッシュ",
+        "code": "KF/S05-032",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 2,
+        "flavor_text": "みんな大したことないネ。\nもう飽きちゃった。オ・ルヴォアール♪",
+        "ability": [
+            "【C】 This card gains all Traits from all other Characters on Stage. For each unique Trait this card has, this card gets +1000 Power.",
+            "【A】 When 「ジェルミナール」 is placed into your Climax Slot, place up to 1 card from the top of your Clock into Stock, during this turn, your opponent cannot play Events or 『ASSIST』 from Hand.",
+            "【A】 When the Character battling this card becomes REVERSE, place that Character into Memory."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card6875-large.jpg"
+    },
+    {
+        "name": "柔道家 大門",
+        "code": "KF/S05-033",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "頭に日の丸！\n日本男児はこうでないとな",
+        "ability": [
+            "【S】［①］ Choose 1 of your other Character, during this turn, it gets +1500 Power, gains 《鉢巻》."
+        ],
+        "attributes": [
+            "Headband 《鉢巻》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card6877-large.jpg"
+    },
+    {
+        "name": "ギース・ハワード",
+        "code": "KF/S05-034",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ただ忠実なだけの番犬などいらぬ\n……それを忘れるな、ビリー",
+        "ability": [
+            "【S】［① REST this card］Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock.",
+            "【S】［①］Choose 1 of your other Character, during this turn, it gets +1500 Power, gains 《暗黒街》."
+        ],
+        "attributes": [
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card6878-large.jpg"
+    },
+    {
+        "name": "ラルフ・ジョーンズ",
+        "code": "KF/S05-035",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "任務、完了",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)",
+            "【A】 CHANGE ［① Place this card into Clock］At the beginning of your Draw Phase, you may pay this cost. If you did, choose 1 「レオナ・ハイデルン」 from your Waiting Room, place it into this card's previous slot. (At the beginning of your Draw Phase, if this card is not on Stage, this ability cannot be activated)"
+        ],
+        "attributes": [
+            "Army 《軍隊》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card6879-large.jpg"
+    },
+    {
+        "name": "レオナ・ハイデルン",
+        "code": "KF/S05-036",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "この力……使いたくなかった\nごめんなさい",
+        "ability": [
+            "【C】 If your have another 《オロチ》 Character, this card gets +2000 Power, gains the following ability. 『【A】 When this card attacks, place all your other Characters in the Front Row into Waiting Room.』",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Orochi 《オロチ》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card6880-large.jpg"
+    },
+    {
+        "name": "大門 五郎",
+        "code": "KF/S05-037",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "受身がなっとらん",
+        "ability": [
+            "【C】 The Character facing this card, gains the following ability.『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』"
+        ],
+        "attributes": [
+            "Headband 《鉢巻》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card6881-large.jpg"
+    },
+    {
+        "name": "エリザベート・ブラントルシュ",
+        "code": "KF/S05-038",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あなたの生き様、見せてもらいましょう",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card6882-large.jpg"
+    },
+    {
+        "name": "ビリー・カーン",
+        "code": "KF/S05-039",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "どりゃりゃりゃー",
+        "ability": [
+            "【C】 If your have 3 or more other Characters, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card6883-large.jpg"
+    },
+    {
+        "name": "ライデン",
+        "code": "KF/S05-040",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "アイアム、ライデン！",
+        "ability": [
+            "【C】 For each of your other STAND Characters, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Mask 《仮面》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card6884-large.jpg"
+    },
+    {
+        "name": "嘲笑う火影アッシュ",
+        "code": "KF/S05-041",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "緑の炎で燃やしても灰の色は同じだヨ。\n屈辱のネズミ色さ。アハハハ♪",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card6885-large.jpg"
+    },
+    {
+        "name": "ネームレス",
+        "code": "KF/S05-042",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "すぐに迎えにいく……必ず！",
+        "ability": [
+            "【A】 When this card attacks, if 「真実の探求者」 is in the Climax Slot, all your other Characters, during this turn, get +1000 Power."
+        ],
+        "attributes": [
+            "Clone 《クローン》",
+            "Remodified 《改造》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card6886-large.jpg"
+    },
+    {
+        "name": "静かなる傭兵クラーク",
+        "code": "KF/S05-043",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "訓練じゃ得られない物がある。\nもっと「実戦」で経験を積むんだな",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Glasses 《メガネ》",
+            "Army 《軍隊》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card6887-large.jpg"
+    },
+    {
+        "name": "Ж'ネームレス",
+        "code": "KF/S05-044",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "いつもそばにいる……\nそんな気がするんだ……",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Clone 《クローン》",
+            "Remodified 《改造》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card6888-large.jpg"
+    },
+    {
+        "name": "挑発",
+        "code": "KF/S05-045",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "アッシュ「キミに、ボクは止められないよ……」",
+        "ability": [
+            "● Choose 1 of your Character, during this turn, it gets +2000 Power, gains 1 Trait of your choice."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card6889-large.jpg"
+    },
+    {
+        "name": "メンバーセレクト",
+        "code": "KF/S05-046",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Select your team member",
+        "ability": [
+            "Choose 1 Character from your Clock, return it to Hand. Place this card into Memory."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card6890-large.jpg"
+    },
+    {
+        "name": "使命と誇り",
+        "code": "KF/S05-047",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "我が心は決して折れません",
+        "ability": [
+            "All your Characters, during this turn, gain the following ability. 『【A】 ENCORE ［①］』",
+            "Place this card into Stock."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card6891-large.jpg"
+    },
+    {
+        "name": "羅生門",
+        "code": "KF/S05-048",
+        "rarity": "CR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ハァ～～～　ヘァッ！！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card6892-large.jpg"
+    },
+    {
+        "name": "ジェルミナール",
+        "code": "KF/S05-049",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ボンボヤージ",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card6894-large.jpg"
+    },
+    {
+        "name": "真実の探求者",
+        "code": "KF/S05-050",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "まだ倒れるわけにはいかない……\n真実にたどり着くまではな",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card6895-large.jpg"
+    },
+    {
+        "name": "草薙 京",
+        "code": "KF/S05-051",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "へへっ…燃えたろ？",
+        "ability": [
+            "【C】 If 「日本チーム」is your Waiting Room, this card gets +1500 Power.",
+            "【A】 When 「裏百八式・大蛇薙」 is placed into your Climax Slot, during this turn, this card gets +1000 Power, gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place it to the top of the Deck.』"
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Sun 《日輪》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card6902-large.jpg"
+    },
+    {
+        "name": "クリス",
+        "code": "KF/S05-052",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "楽しかったです\nハイ！！",
+        "ability": [
+            "【A】 When this card becomes REVERSE, if the Character battling this card is Level 0 or lower, you may REVERSE that card.",
+            "【A】 CHANGE ［Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1「挑発するシェルミー」from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card6904-large.jpg"
+    },
+    {
+        "name": "アンディ・ボガード",
+        "code": "KF/S05-053",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "残影拳！！",
+        "ability": [
+            "【C】 If you have 2 or more other 《動物》 or 《鉢巻》 or 《忍》 Characters, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Ninja 《忍》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card6906-large.jpg"
+    },
+    {
+        "name": "華麗なる女忍者 舞",
+        "code": "KF/S05-054",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "よっ、日本一!!",
+        "ability": [
+            "【A】［①］ When this card attacks, if 「花嵐」 is in the Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】［②］ When this card attacks, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Ninja 《忍》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card6907-large.jpg"
+    },
+    {
+        "name": "テリー＆アンディ",
+        "code": "KF/S05-055",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "テリー「OK！」アンディ「よし！」",
+        "ability": [
+            "【C】 If 「餓狼伝説チーム」 is in your Waiting Room, this card gets +1500 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Animal 《動物》",
+            "Ninja 《忍》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card6909-large.jpg"
+    },
+    {
+        "name": "テリー・ボガード",
+        "code": "KF/S05-056",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "スタンドアップ！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or through 『CHANGE』, if your Deck has 5 or less cards, return all the cards from your Waiting Room into the Deck. If you did, search your Deck for up to 1 「餓狼伝説チーム」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.",
+            "【A】［①］ When this card attacks, if 「バスターウルフ」 is in the Climax Slot, you may pay the cost. If you did, choose 1 Event from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card6910-large.jpg"
+    },
+    {
+        "name": "オメガ・ルガール",
+        "code": "KF/S05-057",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "跡形も無く散れぇぇい！",
+        "ability": [
+            "【A】［④］ When this card becomes REVERSE in battle, you may pay the cost. If your did, deal 3 damage to your opponent, return this card into your Deck, shuffle your Deck afterwards. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card6911-large.jpg"
+    },
+    {
+        "name": "シェルミー",
+        "code": "KF/S05-058",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "おおむね大好評よ?",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【S】［① REST this card］ Choose 1 of your 《オロチ》 or 《竜》 Character, during this turn, it gains the following ability.『【A】 When this card becomes REVERSE, if the Level of the Character battling this card is equals or lower than this card's Level, you may REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card6912-large.jpg"
+    },
+    {
+        "name": "ジョー・ヒガシ",
+        "code": "KF/S05-059",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "よっしゃああ！",
+        "ability": [
+            "【A】 CHANGE ［Place this card to Clock］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「テリー・ボガード」 from your Waiting Room, place it into this card's previous slot.",
+            "【S】 CONCENTRATE ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action.『 Choose 1 《動物》 or 《忍》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room.』"
+        ],
+        "attributes": [
+            "Headband 《鉢巻》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card6913-large.jpg"
+    },
+    {
+        "name": "挑発するシェルミー",
+        "code": "KF/S05-060",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ラタター、ラタター、ラッタッター、ラタラタラッタッター、アハッ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card6914-large.jpg"
+    },
+    {
+        "name": "山崎 竜二",
+        "code": "KF/S05-061",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "100年早ェんだよ！",
+        "ability": [
+            "【A】［③］When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 of your opponent's 『SUPPORT』 Character, place it into Waiting Room.",
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card6915-large.jpg"
+    },
+    {
+        "name": "猛き炎の伝承者 京",
+        "code": "KF/S05-062",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "俺の……勝ちだ！",
+        "ability": [
+            "【A】［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Event from your Waiting Room, return it to Hand.",
+            "【A】［④］ When you play an Event, you may pay the cost. If you did, deal 3 Damage to your opponent. (Damage can be cancelled)",
+            "【A】ENCORE [Place 1 Character from Hand into Waiting Room] (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, return this card to it's previous slot in REST)"
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Sun 《日輪》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card6916-large.jpg"
+    },
+    {
+        "name": "如月 影二",
+        "code": "KF/S05-063",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "我が忍術の前に敵はなし",
+        "ability": [
+            "【S】 CONCENTRATE ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Ninja 《忍》",
+            "Weapon 《武器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card6917-large.jpg"
+    },
+    {
+        "name": "デュオロン",
+        "code": "KF/S05-064",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "闇に棲まうとも闇に支配されず。\n影に寄り添うとも影の理では生きぬ……",
+        "ability": [
+            "【S】［③ REST this card］ Choose 1 Character with Level 1 or lower from your Waiting Room, place it on Stage in any slot."
+        ],
+        "attributes": [
+            "Spirit/Ghost 《霊》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card6918-large.jpg"
+    },
+    {
+        "name": "KUSANAGI",
+        "code": "KF/S05-065",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ヘッ……こいつが俺の“草薙の拳”ってヤツだぜ！",
+        "ability": [
+            "【A】［Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with 「京」 in its name from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Clone 《クローン》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card6919-large.jpg"
+    },
+    {
+        "name": "ワイルドウルフ テリー",
+        "code": "KF/S05-066",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "Get Ready！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card6920-large.jpg"
+    },
+    {
+        "name": "禍忌",
+        "code": "KF/S05-067",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "人の持つ可能性とやら、見せてもらおう。",
+        "ability": [
+            "【A】［②］ When this card placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card6921-large.jpg"
+    },
+    {
+        "name": "不知火 舞",
+        "code": "KF/S05-068",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "蝶のように舞い、蜂のように刺す……\nどう？　これが不知火流よ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Ninja 《忍》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card6922-large.jpg"
+    },
+    {
+        "name": "七枷 社",
+        "code": "KF/S05-069",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "でかいんだよ！　強いんだよ！\n暴れっぱなしなんだよ！",
+        "ability": [
+            "【C】 If you have 2 or more 《オロチ》 or 《竜》 Characters, this card gets +1000 Power.",
+            "【A】［②］ When this card becomes REVERSE in battle, you may pay the cost. If you did, choose 1 《オロチ》 or 《竜》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card6923-large.jpg"
+    },
+    {
+        "name": "日本チーム",
+        "code": "KF/S05-070",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "京「そこに一生這いつくばってるつもりか？ちったぁ意地ってもんを見せてみろよ！」",
+        "ability": [
+            "If you do not have a Character with 「京」 or 「紅丸」 or 「五郎」 in its name, you cannot play this card from Hand.",
+            "Choose up to 2 Characters from your Waiting Room, return them to Hand."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card6924-large.jpg"
+    },
+    {
+        "name": "餓狼伝説チーム",
+        "code": "KF/S05-071",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "テリー「一応、大会では常連なんでね。このくらいの活躍は当然さ！」",
+        "ability": [
+            "If you do not have a Character with 「テリー」 or 「アンディ」 or 「ジョー」 in its name, you cannot play this card from Hand.",
+            "All your Character, during this turn, get +2000 Power."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card6925-large.jpg"
+    },
+    {
+        "name": "百拾四式・荒咬み",
+        "code": "KF/S05-072",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ボディが……がら空きだぜ！",
+        "ability": [
+            "Choose 1 Event from your Waiting Room, return it to Hand. Place this card into Memory."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card6926-large.jpg"
+    },
+    {
+        "name": "裏百八式・大蛇薙",
+        "code": "KF/S05-073",
+        "rarity": "CR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "おおぉぉぉぉ～！\n喰らいやがれ～ッ！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card6927-large.jpg"
+    },
+    {
+        "name": "花嵐",
+        "code": "KF/S05-074",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "とおぉぉぉ～っ！",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card6928-large.jpg"
+    },
+    {
+        "name": "バスターウルフ",
+        "code": "KF/S05-075",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "アーユーＯＫ？",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card6930-large.jpg"
+    },
+    {
+        "name": "氷の美少女クーラ",
+        "code": "KF/S05-076",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あはっ」４人がかりなんて\nちょっとヒキョーだったかな♪",
+        "ability": [
+            "【C】 All your other 《改造》 or 《クローン》 Characters get +500 Power.",
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【A】［①］ When 「ダイアモンドエッジ」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of opponent's Character with Level 0 or lower, STAND it, move it to an empty slot on your opponent's Stage."
+        ],
+        "attributes": [
+            "Remodified 《改造》",
+            "Doll 《人形》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card6931-large.jpg"
+    },
+    {
+        "name": "セーラー服のアテナ",
+        "code": "KF/S05-077",
+        "rarity": "RR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "カーンペキ！でしょ？",
+        "ability": [
+            "【A】 When this card attacks, if 「スーパーフェニックスインフィニティー」 in the Climax Slot, search your Deck for up to 1 「サイコソルジャーチーム」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Psychic Power 《超能力》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card6933-large.jpg"
+    },
+    {
+        "name": "アックス小隊の新人ウィップ",
+        "code": "KF/S05-078",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私とウッドドゥには死角はないわ",
+        "ability": [
+            "【A】 When the Character battling this card becomes REVERSE, draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Clone 《クローン》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card6935-large.jpg"
+    },
+    {
+        "name": "お転婆娘ユリ",
+        "code": "KF/S05-079",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "余裕っチ！！",
+        "ability": [
+            "【A】 CHANGE ［Place this card into Clock］ At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「リョウ・サカザキ」 from your Waiting Room, place it into this card's previous slot.",
+            "【S】 CONCENTRATE ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. Search your Deck for up to X 《竜》 or 《動物》 Characters, show them to your opponent, add them to Hand. Shuffle your Deck afterwards. Choose X cards from your Hand, places them into Waiting Room. X is equals to the number of Climaxes among those cards."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card6936-large.jpg"
+    },
+    {
+        "name": "リョウ・サカザキ",
+        "code": "KF/S05-080",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "武器を持ったヤツが相手なら、覇王翔吼拳を使わざるを得ない！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand or through 『CHANGE』, if your Deck has 5 or less cards, return all cards from your Waiting Room into the Deck. If you did, shuffle your Deck afterwards, choose 1 of your opponent's Character, you may either STAND it and place it to an empty slot on your opponent's Stage, or choose 1 of your opponent's other Character, STAND both and exchange them."
+        ],
+        "attributes": [
+            "Dragon 《竜》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card6938-large.jpg"
+    },
+    {
+        "name": "クーラ・ダイアモンド",
+        "code": "KF/S05-081",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "いくよっ　おっきーの！",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)",
+            "【A】 CHANGE ［Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「Kを超えるもの」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Remodified 《改造》",
+            "Doll 《人形》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card6939-large.jpg"
+    },
+    {
+        "name": "Kを超えるもの",
+        "code": "KF/S05-082",
+        "rarity": "R",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ブラックアウト",
+        "ability": [
+            "【A】 At the beginning of opponent's Attack Phase, you may move this card to any empty slot in the Front Row.",
+            "【A】 When this card is being Front Attacked, look at the top card of your Deck, place it on top of the Deck or into Waiting Room."
+        ],
+        "attributes": [
+            "Remodified 《改造》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card6940-large.jpg"
+    },
+    {
+        "name": "麻宮 アテナ",
+        "code": "KF/S05-083",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "アテナ、行きまーす",
+        "ability": [
+            "【S】［③ Place this card into Waiting Room］ Choose 1 Character with Level equal or lower than your Level and with 「アテナ」 in its name from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Psychic Power 《超能力》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card6941-large.jpg"
+    },
+    {
+        "name": "ユリ・サカザキ",
+        "code": "KF/S05-084",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "バビっとやっつけちゃうぞっ！",
+        "ability": [
+            "【C】If you have 5 or more cards in your Hand, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card6942-large.jpg"
+    },
+    {
+        "name": "K'",
+        "code": "KF/S05-085",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "チッ…まだくすぶってやがる\n不完全燃焼もいいところだぜ……",
+        "ability": [
+            "【C】 If you have 2 or more other 《改造》 or 《クローン》 Characters, this card gets +1500 Power.",
+            "【A】［①］ When this card attacks, if 「ネスツの落し子」is in the Climax slot, you may pay the cost. If you did, search your Deck for up to 1 《改造》 or 《クローン》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Remodified 《改造》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card6943-large.jpg"
+    },
+    {
+        "name": "椎 拳崇",
+        "code": "KF/S05-086",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "我ながらバッチリきまったで！\nアテナ、ちゃんと見ててくれたかいな？",
+        "ability": [
+            "【C】 ALARM If this card is at the top of your Clock, all your other 《超能力》 or 《酒》 or 《竜》 Characters get +1000 Power.",
+            "【A】 CHANGE ［Place this card into Clock］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「セーラー服のアテナ」 from your Waiting Room, place it into this card's previous slot."
+        ],
+        "attributes": [
+            "Psychic Power 《超能力》",
+            "Dragon 《竜》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card6944-large.jpg"
+    },
+    {
+        "name": "ウィップ",
+        "code": "KF/S05-087",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "ここがあなたのデッドラインよ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Army 《軍隊》",
+            "Clone 《クローン》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card6945-large.jpg"
+    },
+    {
+        "name": "鎮 元斎",
+        "code": "KF/S05-088",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "どうしたんじゃ？\nまだまだ飲み足りんぞい",
+        "ability": [
+            "【C】 If your Waiting Room has a 《酒》 Character, this card gets +2000 power.",
+            "【S】［REST this card］ Search your Deck up to 1 《超能力》 or 《酒》 Character or Event, place it into Waiting Room. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Alcohol 《酒》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card6946-large.jpg"
+    },
+    {
+        "name": "ラモン",
+        "code": "KF/S05-089",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "メキシコの風が俺の勝利を呼ぶぜ",
+        "ability": [
+            "【C】 All your other 《改造》 or 《クローン》 Characters get +500 Power."
+        ],
+        "attributes": [
+            "Eyepatch 《眼帯》",
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card6947-large.jpg"
+    },
+    {
+        "name": "ロバート・ガルシア",
+        "code": "KF/S05-090",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ワイが「最強の虎」や\n「無敵の龍」とちゃうで",
+        "ability": [
+            "【A】［②］ When this card attacks, you may pay the cost. If you did, draw 1 card."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card6948-large.jpg"
+    },
+    {
+        "name": "アイシクル・ドール クーラ",
+        "code": "KF/S05-091",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "クーラいい子だもんっ",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Remodified 《改造》",
+            "Doll 《人形》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card6949-large.jpg"
+    },
+    {
+        "name": "タクマ・サカザキ",
+        "code": "KF/S05-092",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "闘いをなめるなっ\n出直せぃ！",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, if you have 「龍虎の拳チーム」 in your Waiting Room, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】● ASSIST 1500 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)"
+        ],
+        "attributes": [
+            "Dragon 《竜》",
+            "Mask 《仮面》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card6950-large.jpg"
+    },
+    {
+        "name": "マキシマ",
+        "code": "KF/S05-093",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "”ボディ”は自慢の一つでな\n並みのヤツじゃ壊せんぞ",
+        "ability": [
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Mecha 《メカ》",
+            "Remodified 《改造》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card6951-large.jpg"
+    },
+    {
+        "name": "“龍の気”拳崇",
+        "code": "KF/S05-094",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "体の奥からあふれてくるこの力……\nこれが“龍の気”の力かいな……！？",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Psychic Power 《超能力》",
+            "Dragon 《竜》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card6952-large.jpg"
+    },
+    {
+        "name": "サイコソルジャーチーム",
+        "code": "KF/S05-095",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "アテナ「私の力で誰かを幸せにできれば……　……うん！アテナいっきまーす」",
+        "ability": [
+            "If you do not have a Character with 「アテナ」 or 「拳崇」 or 「元斎」 in its name, you cannot play this card from Hand.",
+            "Place up to 2 cards from the top of your Clock into Waiting Room. Place this card to Memory."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card6953-large.jpg"
+    },
+    {
+        "name": "龍虎の拳チーム",
+        "code": "KF/S05-096",
+        "rarity": "U",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "リョウ「極限流道場は、現在入門者募集中！……ゴホン。入門者大募集中！」",
+        "ability": [
+            "If you do not have a Character with 「タクマ」 or 「リョウ」 or 「ロバート」 in its name, you cannot play this card from Hand.",
+            "Draw 2 card, choose 1 card from Hand, place it into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card6954-large.jpg"
+    },
+    {
+        "name": "コンティニュー",
+        "code": "KF/S05-097",
+        "rarity": "C",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "コンティニュー？",
+        "ability": [
+            "● Choose 1 of your battling Character, during this turn, it gains 1 Trait of your choice, gains the following ability.『【A】 When this card is placed into Waiting Room from Stage, you may place this card in its previous slot in REST.』"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card6955-large.jpg"
+    },
+    {
+        "name": "スーパーフェニックスインフィニティー",
+        "code": "KF/S05-098",
+        "rarity": "CR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ヒロアキ",
+        "ability": [
+            "【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +3 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card6956-large.jpg"
+    },
+    {
+        "name": "ネスツの落し子",
+        "code": "KF/S05-099",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "テメェらが束になっても負ける気がしねぇよ",
+        "ability": [
+            "【C】All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card6957-large.jpg"
+    },
+    {
+        "name": "ダイアモンドエッジ",
+        "code": "KF/S05-100",
+        "rarity": "CC",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いくよっ　すっごくおっきーの",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card6958-large.jpg"
+    },
+    {
+        "name": "復讐の紫炎 庵",
+        "code": "KF/S05-101",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "そのまま……死ね！",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card6977-large.jpg"
+    },
+    {
+        "name": "駆け上がる紅蓮 京",
+        "code": "KF/S05-102",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "少しは燃えさせてくれよ？",
+        "ability": [
+            "【A】 When another of your Characters becomes REVERSE in battle, during this turn, this card gets +1000 Power..",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Sun 《日輪》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card6978-large.jpg"
+    },
+    {
+        "name": "アッシュ・クリムゾン",
+        "code": "KF/S05-103",
+        "rarity": "PR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "ショウタイムをご覧のみなさん、ボンジュール♪",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Flame 《炎》",
+            "Protagonist 《主人公》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card6980-large.jpg"
+    },
+    {
+        "name": "永遠のサイキックアイドル アテナ",
+        "code": "KF/S05-104",
+        "rarity": "PR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "アテナいっきまーす",
+        "ability": [
+            "【S】［REST 1 of your 《超能力》 Character］ During this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Psychic Power 《超能力》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card6981-large.jpg"
+    },
+    {
+        "name": "最強の称号 KOF",
+        "code": "KF/S05-105",
+        "rarity": "PR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "ラ イ バ ル な ど 、 い な い 。",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card6982-large.jpg"
+    },
+    {
+        "name": "ムエタイマジック キング",
+        "code": "KF/S05-106",
+        "rarity": "PR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ここでは男も女もない 要は強いか弱いか…それだけさ",
+        "ability": [
+            "【A】[①] When this card attacks, you may pay the cost. If you did, choose 1 of your opponent's Back Row Character with Level 0 or lower, return it to Hand."
+        ],
+        "attributes": [
+            "Male Dressing 《男装》",
+            "Rose 《薔薇》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card6983-large.jpg"
+    },
+    {
+        "name": "サイコソルジャー アテナ",
+        "code": "KF/S05-107",
+        "rarity": "PR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "すごい歓声…… みんなー！ ありがとー！",
+        "ability": [
+            "【A】 ENCORE ［②］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Psychic Power 《超能力》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "107",
+        "image": "https://images.littleakiba.com/tcg/card6984-large.jpg"
+    },
+    {
+        "name": "極限小町 ユリ",
+        "code": "KF/S05-108",
+        "rarity": "PR",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "やさしいユリお姉さんが師範をつとめる極限流道場のお申しこみはこちら！",
+        "ability": [
+            "【C】 All your other Characters with 「サカザキ」 in its name get +500 Power."
+        ],
+        "attributes": [
+            "Sports 《スポーツ》",
+            "Class Rep 《委員長》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "108",
+        "image": "https://images.littleakiba.com/tcg/card6985-large.jpg"
+    },
+    {
+        "name": "八神 庵",
+        "code": "KF/S05-T01",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "月を見るたび思い出せ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Sacred Treasure 《神器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card6960-large.jpg"
+    },
+    {
+        "name": "払う者 京",
+        "code": "KF/S05-T02",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ハンデが必要かい？",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Sacred Treasure 《神器》",
+            "Sun 《日輪》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card6961-large.jpg"
+    },
+    {
+        "name": "ブルー・マリー",
+        "code": "KF/S05-T03",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "アント～ン　アーユーレディ？",
+        "ability": [
+            "【C】 If you have 3 or more other Level 0 Characters, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card6962-large.jpg"
+    },
+    {
+        "name": "テコンドー界の至宝キム",
+        "code": "KF/S05-T04",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "鳳凰脚！",
+        "ability": [
+            "【A】 When this card attacks, you may place the top card of your Deck into Waiting Room. If you did, for each 【ソウル】 in that card's Trigger Icon, during this turn, this card gets +1 Soul.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Teacher 《先生》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card6963-large.jpg"
+    },
+    {
+        "name": "紫炎と緑炎",
+        "code": "KF/S05-T05",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "庵「貴様に用は無い……」",
+        "ability": [
+            "● Choose 1 of your Character, return it to Hand. If you did, your opponent chooses 1 of his/her Character, return it to Hand."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card6964-large.jpg"
+    },
+    {
+        "name": "完全勝利",
+        "code": "KF/S05-T06",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "パーフェクト！",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card6965-large.jpg"
+    },
+    {
+        "name": "ワイルドウルフ テリー",
+        "code": "KF/S05-T07",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "Get Ready！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Animal 《動物》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card6966-large.jpg"
+    },
+    {
+        "name": "シェルミー",
+        "code": "KF/S05-T08",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "おおむね大好評よ",
+        "ability": [
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power.",
+            "【S】［① REST this card］ Choose 1 of your 《オロチ》 or 《竜》 Character, during this turn, it gains the following ability.『【A】 When this card becomes REVERSE, if the Level of the Character battling this card is equals or lower than this card's Level, you may REVERSE that Character.』"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card6967-large.jpg"
+    },
+    {
+        "name": "如月 影二",
+        "code": "KF/S05-T09",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "我が忍術の前に敵はなし",
+        "ability": [
+            "【S】 CONCENTRATE ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Ninja 《忍》",
+            "Weapon 《武器》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card6968-large.jpg"
+    },
+    {
+        "name": "挑発するシェルミー",
+        "code": "KF/S05-T10",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ラタター、ラタター、ラッタッター、ラタラタラッタッター、アハッ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card6969-large.jpg"
+    },
+    {
+        "name": "禍忌",
+        "code": "KF/S05-T11",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "人の持つ可能性とやら、見せてもらおう。",
+        "ability": [
+            "【A】［②］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you do, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Traitless 《特徴なし》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card6970-large.jpg"
+    },
+    {
+        "name": "不知火 舞",
+        "code": "KF/S05-T12",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "蝶のように舞い、蜂のように刺す……\nどう？　これが不知火流よ！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Fan 《扇子》",
+            "Ninja 《忍》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card6971-large.jpg"
+    },
+    {
+        "name": "山崎 竜二",
+        "code": "KF/S05-T13",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "100年早ェんだよ！",
+        "ability": [
+            "【A】［③］When you use this card's 「ASSIST」, you may pay the cost. If you did, choose 1 of your opponent's 『SUPPORT』 Character, place it into Waiting Room.",
+            "【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)"
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Gangster 《暗黒街》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card6972-large.jpg"
+    },
+    {
+        "name": "七枷 社",
+        "code": "KF/S05-T14",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "でかいんだよ！　強いんだよ！暴れっぱなしなんだよ！",
+        "ability": [
+            "【C】 If you have 2 or more 《オロチ》 or 《竜》 Characters, this card gets +1000 Power.",
+            "【A】［②］ When the Character battling this card becomes REVERSE, you may pay the cost. If you do, choose 1 《オロチ》 or 《竜》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Orochi 《オロチ》",
+            "Music 《音楽》"
+        ],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card6973-large.jpg"
+    },
+    {
+        "name": "裏百八式・大蛇薙",
+        "code": "KF/S05-T15",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "おおぉぉぉぉ～！喰らいやがれ～ッ！",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card6974-large.jpg"
+    },
+    {
+        "name": "花嵐",
+        "code": "KF/S05-T16",
+        "rarity": "TD",
+        "expansion": "The King of Fighters",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "とおぉぉぉ～っ！",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "KF",
+        "release": "S05",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card6975-large.jpg"
+    }
+]

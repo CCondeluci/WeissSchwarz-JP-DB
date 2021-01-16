@@ -1,0 +1,651 @@
+[
+    {
+        "name": "秋葉＆妹子",
+        "code": "MH/WE03-001",
+        "rarity": "PR",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "誰も見たことないもの見て、\n誰も知らなかったことを知らなきゃいけないの！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Mecha 《メカ》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card3448-large.jpg"
+    },
+    {
+        "name": "マシロ･ブラン･ド･ヴィントブルーム",
+        "code": "MH/WE03-002",
+        "rarity": "R",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "そなたも見てみよ。雪じゃぞ、雪っ",
+        "ability": [
+            "【C】 All your other Characters with 「アリカ」 in its name gets +500 Power.",
+            "【A】 When the Character battling your other Character becomes REVERSE, choose 1 of your Character, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Royal Family 《王族》",
+            "Master 《マスター》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card3409-large.jpg"
+    },
+    {
+        "name": "獅子堂 秋葉",
+        "code": "MH/WE03-003",
+        "rarity": "R",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "これで、最後だからね！",
+        "ability": [
+            "【S】 ［⑥］ Return all your opponent's Characters with Level 3 or lower in the Front Row to Hand."
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card3410-large.jpg"
+    },
+    {
+        "name": "宇宙をかける少女 秋葉",
+        "code": "MH/WE03-004",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ほのか「一緒にきて、宇宙をかける少女…」",
+        "ability": [
+            "【S】 ［REST 1 of your Character］ During that turn, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Colony 《コロニー》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card3411-large.jpg"
+    },
+    {
+        "name": "アリカ･ユメミヤ",
+        "code": "MH/WE03-005",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "マシロちゃんは、私が絶対に守ってみせる！",
+        "ability": [
+            "【C】 During your turn, if 「マシロ･ブラン･ド･ヴィントブルーム」 is in your Level Slot, this card gets +2000 Power.",
+            "【A】 When this card attacks, if 「空を舞う乙女」 is in the Climax Slot, choose 1 of your other Character, you may return it to Hand."
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Jewel 《宝石》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card3412-large.jpg"
+    },
+    {
+        "name": "アリカ＆マシロ",
+        "code": "MH/WE03-006",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "そなたがいてくれれば、\nわらわも安心じゃ…",
+        "ability": [
+            "【C】 During your turn, this card gets +1000 Power.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Master 《マスター》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card3413-large.jpg"
+    },
+    {
+        "name": "いつき＆ほのか",
+        "code": "MH/WE03-007",
+        "rarity": "R",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ほのか「ICPは邪魔…」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, choose 1 of your Character which is not Green, during that turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Police 《警察》",
+            "Psychic Power 《超能力》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card3433-large.jpg"
+    },
+    {
+        "name": "元気っ子 命",
+        "code": "MH/WE03-008",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "なんだ、お前も一人なのか",
+        "ability": [
+            "【S】 [Place 1 card into Waiting Room from Hand] During that turn, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Weapon 《武器》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card3434-large.jpg"
+    },
+    {
+        "name": "神凪 いつき",
+        "code": "MH/WE03-009",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "そこのあなた！止まりなさい！",
+        "ability": [
+            "【A】 When you use this card's 『ASSIST』, choose 1 Character from your Clock, you may return it to Hand. If you did, choose 1 card from your Hand, place it into Clock.",
+            "【S】● ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)"
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Police 《警察》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card3435-large.jpg"
+    },
+    {
+        "name": "舞衣＆アリカ",
+        "code": "MH/WE03-010",
+        "rarity": "R",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "舞衣「行くわよ、アリカちゃん」",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, your opponent declares 0, 1, 2 or 3. Reveal the top card of your Deck, if that card is a Character with Level equal to the number declared by your opponent, place it into any slot on Stage. (Otherwise return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Element 《エレメント》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card3437-large.jpg"
+    },
+    {
+        "name": "決意の舞衣",
+        "code": "MH/WE03-011",
+        "rarity": "R",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "戦うのに信念とか、覚悟とか、そんなの…！",
+        "ability": [
+            "【C】 If there is a marker under this card, this card gets +1 Level and +2000 Power.",
+            "【A】 When this card place into Waiting Room from Stage, if 「封印された鬼神」 is in your Climax Slot, place this card into it's previous position in REST, place the top card of your Deck under this card as a marker."
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Waitress 《ウェイトレス》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card3418-large.jpg"
+    },
+    {
+        "name": "ミドリ",
+        "code": "MH/WE03-012",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "貴様らごときに、我らを止められるか…？",
+        "ability": [
+            "【A】 ［①］ When you Level Up, you may pay the cost. If you did, deal 1 Damage to your opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Weapon 《武器》",
+            "Sickness 《病気》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card3439-large.jpg"
+    },
+    {
+        "name": "河合 ほのか",
+        "code": "MH/WE03-013",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "キングには、クイーンが必要…",
+        "ability": [
+            "【A】 [②] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with 「秋葉」 in its name from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Psychic Power 《超能力》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card3420-large.jpg"
+    },
+    {
+        "name": "アリカ＆ニナ",
+        "code": "MH/WE03-014",
+        "rarity": "R",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ニナ「あんたも、ちゃんとやりなさいよ」",
+        "ability": [
+            "【C】 For each of your other 《宝石》 Characters, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Jewel 《宝石》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card3421-large.jpg"
+    },
+    {
+        "name": "ナツキ＆シズル",
+        "code": "MH/WE03-015",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "シズル「うちが、ナツキを守ります」",
+        "ability": [
+            "【C】 If 「マシロ･ブラン･ド･ヴィントブルーム」 is in your Level Slot, all your other 《エレメント》 Characters get +500 Power.",
+            "【C】 SUPPORT All your Characters in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Jewel 《宝石》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card3422-large.jpg"
+    },
+    {
+        "name": "ニナ＆エルスティン",
+        "code": "MH/WE03-016",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "エルスティン「久しぶりに二人きりだから、\n甘えちゃおうかな」",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Swimsuit 《水着》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card3423-large.jpg"
+    },
+    {
+        "name": "ニナ･ウォン",
+        "code": "MH/WE03-017",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 2,
+        "flavor_text": "あなたが蒼天の青玉の継承者だとしても",
+        "ability": [
+            "【C】 For each 《エレメント》 Character in your Level Slot, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Element 《エレメント》",
+            "Jewel 《宝石》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card3445-large.jpg"
+    },
+    {
+        "name": "空を舞う乙女",
+        "code": "MH/WE03-018",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "",
+        "ability": [
+            "【A】 When this card is placed into the Climax Slot from Hand, place the top card of your Deck into Stock, all your Characters, during this turn, get +1 Soul."
+        ],
+        "attributes": [],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card3446-large.jpg"
+    },
+    {
+        "name": "封印された鬼神",
+        "code": "MH/WE03-019",
+        "rarity": "C",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "私は、ただ…大切な人を守りたい…",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card3426-large.jpg"
+    },
+    {
+        "name": "“クイーン”秋葉",
+        "code": "MH/WE03-020",
+        "rarity": "PR",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "そんなの知らないわよ。何よ。クイーンだキングだって",
+        "ability": [
+            "【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck up to 1 《メカ》 Character and show it to your opponent, add it to Hand. Shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card3450-large.jpg"
+    },
+    {
+        "name": "Qテクター秋葉",
+        "code": "MH/WE03-021",
+        "rarity": "PR",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "えへへ、やったね！",
+        "ability": [
+            "【S】 ［REST 1 of your 《警察》 and 《超能力》 Character］ During that turn, this card gets +2500 Power."
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Weapon 《武器》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card3449-large.jpg"
+    },
+    {
+        "name": "秋葉と愉快な仲間たち",
+        "code": "MH/WE03-022",
+        "rarity": "PR",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "宇宙は少女のともだちさっ",
+        "ability": [
+            "【C】 During your turn, for each of your other 《コロニー》 Characters, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Mecha 《メカ》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card7072-large.jpg"
+    },
+    {
+        "name": "“怪奇課”いつき",
+        "code": "MH/WE03-023",
+        "rarity": "PR",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "連れて行きなさい！　あのコロニーに",
+        "ability": [
+            "【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your deck for up to 1 《コロニー》 Character and show it to your opponent, add it to Hand. Shuffle your Deck afterwards.",
+            "【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Police 《警察》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card7073-large.jpg"
+    },
+    {
+        "name": "“守護者”ほのか",
+        "code": "MH/WE03-024",
+        "rarity": "PR",
+        "expansion": "Sora wo Kakeru Shoujo/Mai-Hime & Mai-Otome",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "私がクイーンを守る…",
+        "ability": [
+            "【C】 All your other 《コロニー》 Characters get +500 Power."
+        ],
+        "attributes": [
+            "Colony 《コロニー》",
+            "Psychic Power 《超能力》"
+        ],
+        "set": "MH",
+        "release": "WE03",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card7074-large.jpg"
+    }
+]

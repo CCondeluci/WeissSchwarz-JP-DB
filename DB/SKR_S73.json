@@ -1,0 +1,3419 @@
+[
+    {
+        "name": "出撃命令 神山",
+        "code": "SKR/S73-001",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "帝国華撃団・花組、出撃せよ！",
+        "ability": [
+            "【A】At the beginning of your Attack Phase, if this card is at Front Row, you may place the top card of your Deck into Waiting Room. If that card is a 《華撃団》 Character, during this turn, this card gets +2000 Power.",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card57444-large.jpg"
+    },
+    {
+        "name": "100人分身 あざみ",
+        "code": "SKR/S73-002",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ふふふ……本物、どれかわかる？",
+        "ability": [
+            "【C】If this card is at Front Row, all your 《華撃団》 Character gets +1500 Power.",
+            "【A】【CXCOMBO】[(1) Place 1 《華撃団》 Character from Hand into Waiting Room] When 「それが二人の……望月流奥義！！」 is placed into your Climax Slot, if this card is at Front Row, and you have other 「“帝国華撃団・花組隊長” 神山」, you may pay the cost. If you did, choose up to 1 「100人分身 あざみ」 from your Waiting Room, place it into any slot on Stage, search your Deck for up to 1 「100人分身 あざみ」, place it into any slot on Stage, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card57446-large.jpg"
+    },
+    {
+        "name": "望月流忍者 あざみ",
+        "code": "SKR/S73-003",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "まかせて。あざみの忍術で、敵を突破する！",
+        "ability": [
+            "【C】All your other 《華撃団》 Character gets +500 Power, gains 『【A】ENCORE [(2)]』."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card57448-large.jpg"
+    },
+    {
+        "name": "任務を遂行 あざみ",
+        "code": "SKR/S73-004",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……任務完了。\nこれにてごめん",
+        "ability": [
+            "【C】During your turn, if you have other 「“帝国華撃団・花組隊長” 神山」, all your other 「100人分身 あざみ」 gains the following Ability. 『【A】[(3)] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal X Damage to opponent. X is equal to the number of your 「100人分身 あざみ」.』(Damage can be cancelled)",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card57450-large.jpg"
+    },
+    {
+        "name": "出撃準備完了！ あざみ",
+        "code": "SKR/S73-005",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "――里の掟　３９条。\n挑戦なくして、勝利なし",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《華撃団》 Character x500.",
+            "【A】[Return 2 Character from your Waiting Room into Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gets +1 Soul."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card57451-large.jpg"
+    },
+    {
+        "name": "“霊子戦闘機・無限”あざみ機",
+        "code": "SKR/S73-006",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "11000",
+        "soul": 3,
+        "flavor_text": "あざみが一番手！先手必勝、いざ参る!!",
+        "ability": [
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「望月流忍者 あざみ」 from your Waiting Room, place it under this card face-up as Marker.",
+            "【A】This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, when this card dealt Damage is cancelled, if this card has Marker, place the top card of your Deck into Waiting Room, deal X Damage to opponent. X is equal to that card's Level +1. (Climax is considered Level 0. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card57453-large.jpg"
+    },
+    {
+        "name": "倫敦の黒騎士 ランスロット",
+        "code": "SKR/S73-007",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ねぇ……あたしと勝負しようよ！",
+        "ability": [
+            "【A】When your other Character becomes REVERSE, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "London 《倫敦》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card57455-large.jpg"
+    },
+    {
+        "name": "帝劇の御庭番 あざみ",
+        "code": "SKR/S73-008",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "不審な声……、もしかして侵入者？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《華撃団》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】【CXCOMBO】When this card attacks, if 「望月流忍法・無双手裏剣」 is in your Climax Slot, and you have 2 or more other 《華撃団》 Character, during this turn, this card gets +2500 Power, gains the following Ability. 『【A】At the end of this card's attack, you may place this card into Stock.』"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card57456-large.jpg"
+    },
+    {
+        "name": "騎士道精神 アーサー",
+        "code": "SKR/S73-009",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "騎士の戦い、その身に刻みつけてあげるよ",
+        "ability": [
+            "【C】You cannot play Event and 『ASSIST』 from Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "London 《倫敦》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card57457-large.jpg"
+    },
+    {
+        "name": "特別な一日 あざみ",
+        "code": "SKR/S73-010",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "修行あるのみ……ニンニン！",
+        "ability": [
+            "【C】For each of your other 《華撃団》 Character, this card gets +500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card57458-large.jpg"
+    },
+    {
+        "name": "おまんじゅう一直線！ あざみ",
+        "code": "SKR/S73-011",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "むっ、怪しい気配。……でも、おまんじゅうが……",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《華撃団》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card57459-large.jpg"
+    },
+    {
+        "name": "倫敦華撃団“霊子戦闘機・ブリドヴェン”",
+        "code": "SKR/S73-012",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "やれやれ……\nランスロットにも、困ったものだね",
+        "ability": [
+            "【C】If you have 2 or more other 《伯林》 or 《上海》 or 《倫敦》Character, this card gets +4000 Power.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「世界華撃団大戦」 is in your Climax Slot, and you have 2 or more other 《伯林》 or 《上海》 or 《倫敦》Character, you may pay the cost. If you did, deal 1 Damage to opponent, during this turn, this card gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, place up to 2 cards from your top Deck into Stock.』(Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "London 《倫敦》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card57461-large.jpg"
+    },
+    {
+        "name": "“口寄せの術”八丹斎&あざみ",
+        "code": "SKR/S73-013",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "八丹斎「臨！　兵！　闘！　者！」\nあざみ「皆！　陣！　列！　在！　前！」",
+        "ability": [
+            "【A】This Ability can be activated up to 1 time each turn. When your other 「本物の忍者 あざみ」 is placed on Stage from Hand, you may place the top card of your Deck into Stock.",
+            "【A】BOND／「本物の忍者 あざみ」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「本物の忍者 あざみ」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card57463-large.jpg"
+    },
+    {
+        "name": "大興奮！ あざみ",
+        "code": "SKR/S73-014",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "すごい大きさ！ あざみも乗りたい！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】When your other 《華撃団》 Character attacks, during this turn, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card57464-large.jpg"
+    },
+    {
+        "name": "“倫敦華撃団・円卓の騎士”団長 アーサー",
+        "code": "SKR/S73-015",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "そろそろ、決着をつける時だ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《華撃団》 Character, during this turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "London 《倫敦》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card57465-large.jpg"
+    },
+    {
+        "name": "甘えるあざみ",
+        "code": "SKR/S73-016",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "……え？\nな、なに、誠十郎……？",
+        "ability": [
+            "【C】SUPPORT All your 《華撃団》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 2 or higher, place it into Stock. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card57466-large.jpg"
+    },
+    {
+        "name": "“倫敦華撃団・円卓の騎士”団員 ランスロット",
+        "code": "SKR/S73-017",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "あの時の決着、つけようよ！",
+        "ability": [
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "London 《倫敦》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card57467-large.jpg"
+    },
+    {
+        "name": "本物の忍者 あざみ",
+        "code": "SKR/S73-018",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "そんな掟なんて、絶対に守らない！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card57468-large.jpg"
+    },
+    {
+        "name": "Live & Interactive Picture System",
+        "code": "SKR/S73-019",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "神山「久しぶりに会えて、俺も嬉しいよ。\nえっと……」",
+        "ability": [
+            "Choose and perform 1 of the following Ability.",
+            "『If you have 《華撃団》 Character, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』",
+            "『Choose 1 《華撃団》 Character from your Clock, return it to Hand, place the top card of your Deck into Clock.』",
+            "『During this turn, all your Character gets +2000 Power.』",
+            "『During this turn, all your Character gets +1 Soul.』"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card57469-large.jpg"
+    },
+    {
+        "name": "これが二人の……望月流奥義!!",
+        "code": "SKR/S73-020",
+        "rarity": "CR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いっけえええええええ!!!!",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card57470-large.jpg"
+    },
+    {
+        "name": "望月流忍法・無双手裏剣",
+        "code": "SKR/S73-021",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "望月流忍法……奥義！",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card57472-large.jpg"
+    },
+    {
+        "name": "重魔導起動！ クラリス",
+        "code": "SKR/S73-022",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "これが……私たちの戦いの物語です！",
+        "ability": [
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card57473-large.jpg"
+    },
+    {
+        "name": "出撃準備 クラリス",
+        "code": "SKR/S73-023",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "私の重魔導で、道を切り開きます！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《華撃団》 Character, choose 1 of your Character, during this turn, it gets +2000 Power. (Return revealed card to its original position)",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card57475-large.jpg"
+    },
+    {
+        "name": "お散歩クラリス",
+        "code": "SKR/S73-024",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "今日もいいお天気、ウキウキしちゃいますね",
+        "ability": [
+            "【C】All your other 《華撃団》 Character gets +500 Power.",
+            "【S】[(2) REST this card] Search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card57477-large.jpg"
+    },
+    {
+        "name": "大胆な押し倒し クラリス",
+        "code": "SKR/S73-025",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "あなたを……あ、あい……",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「Arbitre d'enfer」 is in your Climax Slot, search your Deck for up to 1 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards, until end of opponent's next turn, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card57478-large.jpg"
+    },
+    {
+        "name": "上海華撃団 “霊子戦闘機・王龍”",
+        "code": "SKR/S73-026",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "シャオロン「上海華撃団、参上!!」",
+        "ability": [
+            "【C】If you have 2 or more other 《華撃団》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[(1)] When this card's battle opponent becomes REVERSE, if 「世界華撃団大戦」 is in your Climax Slot, you may pay the cost. If you did, choose up to 1 Character from your Waiting Room, return it to Hand, send this card to Memory, at the beginning of your next Draw Phase, choose 1 「上海華撃団 “霊子戦闘機・王龍”」from your Memory, place it into any slot on Stage."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Shanghai 《上海》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "026",
+        "image": "https://images.littleakiba.com/tcg/card57480-large.jpg"
+    },
+    {
+        "name": "“霊子戦闘機・無限”クラリス機",
+        "code": "SKR/S73-027",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "私の力はみんなを守るために！",
+        "ability": [
+            "【C】If this card has Marker, this card gains 『【C】SUPPORT All your Character in front of this card gets +1000 Power.』.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「重魔導起動！ クラリス」 from your Waiting Room, place it under this card face-up as Marker.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "027",
+        "image": "https://images.littleakiba.com/tcg/card57482-large.jpg"
+    },
+    {
+        "name": "伯林華撃団 “霊子戦闘機・アイゼンイェーガー”",
+        "code": "SKR/S73-028",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "Ｊａｗｏｈｌ！\n(ルビ：ヤーヴォール)",
+        "ability": [
+            "【C】If you have 2 or more other 《華撃団》 Character, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《華撃団》 Character.",
+            "【A】【CXCOMBO】[(3) Place 1 card from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, if 「世界華撃団大戦」 is in your Climax Slot, you may pay the cost. If you did, STAND this card."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Berlin 《伯林》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card57484-large.jpg"
+    },
+    {
+        "name": "図書館でのひととき クラリス",
+        "code": "SKR/S73-029",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「文学少女 クラリス」 from your Waiting Room, place it into any slot on Stage.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「今日は……月が綺麗だね」 is in your Climax Slot, and you have other 「“帝国華撃団・花組隊長” 神山」, you may pay the cost. If you did, place that battle opponent into Clock, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "029",
+        "image": "https://images.littleakiba.com/tcg/card57486-large.jpg"
+    },
+    {
+        "name": "ケーキに夢中 マルガレーテ",
+        "code": "SKR/S73-030",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ふふふ、この国のスイーツセンス……悪くないわ",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if opponent has 1 or less Character at Front Row, choose 1 opponent's Character with Cost 0 or lower at Front Row, place it to bottom Deck.",
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other 《華撃団》 Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Berlin 《伯林》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "030",
+        "image": "https://images.littleakiba.com/tcg/card57488-large.jpg"
+    },
+    {
+        "name": "炎の飯使い シャオロン",
+        "code": "SKR/S73-031",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "アツアツの上海神龍炒飯だぜ！\nさあ、食えよ!!",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《伯林》 or 《上海》 or 《倫敦》Character, during this turn, this card gets +2000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《華撃団》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《華撃団》 Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Shanghai 《上海》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "031",
+        "image": "https://images.littleakiba.com/tcg/card57489-large.jpg"
+    },
+    {
+        "name": "“伯林華撃団・シュヴァルツシュテルン”隊員 マルガレーテ",
+        "code": "SKR/S73-032",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あなたたちが勝てる確率は……「０％」\n(0%ルビ：ヌル・プロッツェント)",
+        "ability": [
+            "【A】When this card attacks, choose 1 of your other 《華撃団》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《華撃団》 Character x500."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Berlin 《伯林》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "032",
+        "image": "https://images.littleakiba.com/tcg/card57490-large.jpg"
+    },
+    {
+        "name": "“上海華撃団・五神龍”隊員 ユイ",
+        "code": "SKR/S73-033",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "華撃団大戦……私たちとあたるまで、\n負けちゃダメだからね！",
+        "ability": [
+            "【C】During your turn, this card gets +2000 Power.",
+            "【C】If the Character facing this card is Cost 0 or lower, this card cannot become REVERSE."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Shanghai 《上海》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card57491-large.jpg"
+    },
+    {
+        "name": "文学少女 クラリス",
+        "code": "SKR/S73-034",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "本を探す時間も大切なんですよ",
+        "ability": [
+            "【C】If this card has no Marker, this card gets +3000 Power.",
+            "【A】When this card is placed on Stage from Hand or by 「図書館でのひととき クラリス」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《華撃団》 Character, place it under this card face-down as Marker. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card57492-large.jpg"
+    },
+    {
+        "name": "“上海華撃団・五神龍”隊長 シャオロン",
+        "code": "SKR/S73-035",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "全身全霊でこい！\n瞬きする間にほふってやるっ！",
+        "ability": [
+            "【C】If 「神龍軒の看板娘 ユイ」 is in your Clock, this card gets -1 Level in your Hand.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the bottom card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Shanghai 《上海》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "035",
+        "image": "https://images.littleakiba.com/tcg/card57493-large.jpg"
+    },
+    {
+        "name": "特別な一日 クラリス",
+        "code": "SKR/S73-036",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "う～ん、どの本を読むか迷っちゃいます",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《華撃団》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【A】When this card attacks, choose 1 of your other Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card57494-large.jpg"
+    },
+    {
+        "name": "神龍軒の看板娘 ユイ",
+        "code": "SKR/S73-037",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ニイーハァオ♪ さっそくお店にごあんなーい！",
+        "ability": [
+            "【C】Your other Character at the Center Slot of Front Row gets +500 Power.",
+            "【A】[(1)] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 《伯林》 or 《上海》 or 《倫敦》Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Shanghai 《上海》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card57495-large.jpg"
+    },
+    {
+        "name": "舞台女優 初穂&クラリス",
+        "code": "SKR/S73-038",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】When this card attacks, choose 1 of your 《華撃団》 Character, during this turn, it gets +1 Level and +1000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card57496-large.jpg"
+    },
+    {
+        "name": "お姫様抱っこ 神山",
+        "code": "SKR/S73-039",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なんだか……ちょっと照れるな……",
+        "ability": [
+            "【C】All your other 「お姫様抱っこ クラリス」 gets +500 Power, gains 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』.",
+            "【A】BOND／「お姫様抱っこ クラリス」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「お姫様抱っこ クラリス」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "039",
+        "image": "https://images.littleakiba.com/tcg/card57497-large.jpg"
+    },
+    {
+        "name": "興味深々 エリス",
+        "code": "SKR/S73-040",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "歌舞伎はいいものだ……奥が深い。堪能したぞ",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Berlin 《伯林》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "040",
+        "image": "https://images.littleakiba.com/tcg/card57498-large.jpg"
+    },
+    {
+        "name": "お姫様抱っこ クラリス",
+        "code": "SKR/S73-041",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ふふっ、恥ずかしかったですね！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card57499-large.jpg"
+    },
+    {
+        "name": "“伯林華撃団・シュヴァルツシュテルン”隊長 エリス",
+        "code": "SKR/S73-042",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "無用だ。３秒で片付ける",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When this card is placed on Stage from Hand, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Berlin 《伯林》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card57500-large.jpg"
+    },
+    {
+        "name": "見つめてクラリス",
+        "code": "SKR/S73-043",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "ふふっ、今日はどんな本を読もうかな",
+        "ability": [
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card57501-large.jpg"
+    },
+    {
+        "name": "こいこい！",
+        "code": "SKR/S73-044",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Shuffle your Deck, reveal the top card of your Deck. If that card is a Character that has the same name with your Character on Stage, search your Deck for up to 2 《華撃団》 Character and show them to opponent, add them to Hand, shuffle your Deck afterwards, choose 1 of your Character, during this turn, it gets +3000 Power. (Return revealed card to its original position)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card57502-large.jpg"
+    },
+    {
+        "name": "今日は……月が綺麗だね",
+        "code": "SKR/S73-045",
+        "rarity": "CR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いっけえええええええ!!!!",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card57503-large.jpg"
+    },
+    {
+        "name": "Arbitre d'enfer",
+        "code": "SKR/S73-046",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "POOL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "Arbitre d'enfer！\n(ルビ：アルビトル・ダンフェール)",
+        "ability": [
+            "【C】All your Characters get +1000 Power, +1 Soul.",
+            "(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card57505-large.jpg"
+    },
+    {
+        "name": "世界華撃団大戦",
+        "code": "SKR/S73-047",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "アナウンサー「会場で、そして中継でご覧のみなさま、お待たせしました！\n２年に一度の平和の祭典……」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card57506-large.jpg"
+    },
+    {
+        "name": "勇気をもらうさくら",
+        "code": "SKR/S73-048",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "不思議です。\nこうしていると……不安が消えていくみたい",
+        "ability": [
+            "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 《華撃団》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card57508-large.jpg"
+    },
+    {
+        "name": "帝劇の元気印 初穂",
+        "code": "SKR/S73-049",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "は～、さっぱりだぜ！気持ちい～！",
+        "ability": [
+            "【A】【CXCOMBO】At the beginning of your Encore Step, if 「東雲神社の御神神楽ハンマー！」 is in your Climax Slot, if this card is at Front Row, and your Stock has 5 or less cards, and the Character facing this card is REVERSE, you may choose 1 《華撃団》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card57510-large.jpg"
+    },
+    {
+        "name": "正義の為に さくら",
+        "code": "SKR/S73-050",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "わたしは今、あなたを……自分の弱い心を斬る!!",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】EXPERIENCE [(2) Place 2 cards from Hand into Waiting Room] When 「天剣・千本桜」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《華撃団》 Character, you may pay the cost. If you did, perform the following Abilities once each in any order.",
+            "『Deal 1 Damage to opponent.』",
+            "『Deal X Damage to opponent. X is equal to the number of cards with Level 3 or higher in your Level Slot.』",
+            "(Climax is considered Level 0. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card57512-large.jpg"
+    },
+    {
+        "name": "嵐を呼ぶ乙女 初穂",
+        "code": "SKR/S73-051",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "へへん、ケンカと祭りならアタシの出番だぜ？",
+        "ability": [
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if all your Character are 《華撃団》, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room, place up to 1 card from your top Deck into Stock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card57514-large.jpg"
+    },
+    {
+        "name": "蒼天に咲く剣 さくら",
+        "code": "SKR/S73-052",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "天剣、ここにあり！",
+        "ability": [
+            "【C】All your other 《華撃団》 Character gets +500 Power.",
+            "【S】[(1) REST this card] Look at up to 2 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card57516-large.jpg"
+    },
+    {
+        "name": "魂の一撃 初穂",
+        "code": "SKR/S73-053",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "一気に行くぜぇ！",
+        "ability": [
+            "【C】All your other 《華撃団》 Character gets +500 Power.",
+            "【S】[REST this card] Choose 1 of your 《華撃団》 Character, until end of opponent's next turn, it gets +500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card57518-large.jpg"
+    },
+    {
+        "name": "さくらの相棒“霊子甲冑・三式光武”",
+        "code": "SKR/S73-054",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "さくら「この剣で、平和を切り開く！」",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「蒼天に咲く剣 さくら」 from your Waiting Room, place it under this card face-up as Marker.",
+            "【A】When this card attacks, if this card has Marker, during this turn, this card gets +X Power. X is equal to opponent's Character x500.",
+            "【A】[(1) Send this card to Memory] When this card becomes REVERSE, if this card has Marker, you may pay the cost. If you did, choose 1 「正義の為に さくら」 or 「“霊子戦闘機・試製桜武”」 from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card57520-large.jpg"
+    },
+    {
+        "name": "“霊子戦闘機・無限”初穂機",
+        "code": "SKR/S73-055",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "見せてやるぜ、初穂ちゃんの本気をよお！",
+        "ability": [
+            "【A】[(1) Place 1 「魂の一撃 初穂」 from your Waiting Room under this card face-up as Marker] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Climax and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card57522-large.jpg"
+    },
+    {
+        "name": "“帝国華撃団・花組隊長” 神山",
+        "code": "SKR/S73-056",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "了解しました!!\n若輩の身ではありますが、精一杯務めます！",
+        "ability": [
+            "【C】You can play this card from Hand without following Colour rule.",
+            "【C】If you have 4 or more 《華撃団》 Character, this card gets -1 Level in your Hand.",
+            "【C】All your other 《華撃団》 Character gets +1000 Power.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card57524-large.jpg"
+    },
+    {
+        "name": "“霊子戦闘機・試製桜武”",
+        "code": "SKR/S73-057",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "一緒に行こう……桜武！\n限界の、その先まで!!",
+        "ability": [
+            "【C】EXPERIENCE If 「“霊子戦闘機・試製桜武”」 is in your Level Slot, this card gets -1 Level in your Hand.",
+            "【A】[Place 1 「蒼天に咲く剣 さくら」 from your Waiting Room under this card face-up as Marker] When this card is placed on Stage from Hand, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card57525-large.jpg"
+    },
+    {
+        "name": "祭りだオイサー！ 初穂",
+        "code": "SKR/S73-058",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "乱れ太鼓!!祭りだオイサー!!",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】【CXCOMBO】[(2)] When this card attacks, if 「乱れ太鼓!!祭りだオイサー!!」 is in your Climax Slot, and you have other 「“帝国華撃団・花組隊長” 神山」, you may pay the cost. If you did, during this turn, this card gets +2000 Power, during this turn, all your Character gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, reveal the top card of your Deck. If that card is a Character with Level 1 or higher, add it to Hand, deal 1 Damage to opponent.』(If not, return revealed card to its original position. Damage can be cancelled)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card57527-large.jpg"
+    },
+    {
+        "name": "腹ペコ初穂",
+        "code": "SKR/S73-059",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "おはぎか……桜もち、……う～～ん",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets +3000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card57528-large.jpg"
+    },
+    {
+        "name": "帝劇にようこそ！ さくら",
+        "code": "SKR/S73-060",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……ようこそ、大帝国劇場へ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other Character with 「さくら」 in its name, during this turn, it gets +2000 Power.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《華撃団》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card57529-large.jpg"
+    },
+    {
+        "name": "特別な一日 さくら",
+        "code": "SKR/S73-061",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ふわぁ～……",
+        "ability": [
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, look at the top card of your Deck, place it on top Deck or Waiting Room."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card57530-large.jpg"
+    },
+    {
+        "name": "笑顔の為に 初穂",
+        "code": "SKR/S73-062",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "アタシは、みんなの笑顔が大好きだから……！",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, if you have 《華撃団》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card57531-large.jpg"
+    },
+    {
+        "name": "日々鍛錬！ さくら",
+        "code": "SKR/S73-063",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "はっ！ やっ！ てやっ！ はぁ！ ……ふうっ",
+        "ability": [
+            "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "063",
+        "image": "https://images.littleakiba.com/tcg/card57533-large.jpg"
+    },
+    {
+        "name": "臨戦態勢 さくら",
+        "code": "SKR/S73-064",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "信じてます。一緒に……戦いましょう！",
+        "ability": [
+            "【C】During your turn, for each of your other 《華撃団》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「運命の……出会い」 is in your Climax Slot, and you have other 「“帝国華撃団・花組隊長” 神山」, choose up to 1 《華撃団》 Character from your Waiting Room, place it into Stock, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards, choose 1 of your Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card57534-large.jpg"
+    },
+    {
+        "name": "歌劇“ももたろう”初穂",
+        "code": "SKR/S73-065",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "お前ごときの力で、何ができる！",
+        "ability": [
+            "【C】For each of your other 《華撃団》 Character, this card gets +1000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "065",
+        "image": "https://images.littleakiba.com/tcg/card57535-large.jpg"
+    },
+    {
+        "name": "想いをぶつけるさくら",
+        "code": "SKR/S73-066",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "なによ！\nわたしの家でなにやってたって、勝手でしょ!!",
+        "ability": [
+            "【C】All your other 「親友への想い 初穂」 gets +1000 Power.",
+            "【C】SUPPORT All your Character in front of this card gets +500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "066",
+        "image": "https://images.littleakiba.com/tcg/card57536-large.jpg"
+    },
+    {
+        "name": "親友への想い 初穂",
+        "code": "SKR/S73-067",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "この、わからずやがあぁぁぁっ！",
+        "ability": [
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other Red Character, REST it, move it to an empty slot at Back Row."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card57537-large.jpg"
+    },
+    {
+        "name": "桜舞う街角 さくら",
+        "code": "SKR/S73-068",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ふふっ、さくらがキレイですね！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《華撃団》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card57538-large.jpg"
+    },
+    {
+        "name": "舞台稽古 さくら",
+        "code": "SKR/S73-069",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "やっほー！ 聞こえますかー⁉",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, until end of opponent's next turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "069",
+        "image": "https://images.littleakiba.com/tcg/card57539-large.jpg"
+    },
+    {
+        "name": "特別な一日 初穂",
+        "code": "SKR/S73-070",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "もっと良いとこ撮ってくれよな～",
+        "ability": [
+            "【A】When this card attacks, if you have 2 or more other 《華撃団》 Character, during this turn, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "070",
+        "image": "https://images.littleakiba.com/tcg/card57540-large.jpg"
+    },
+    {
+        "name": "帝都に現れた災禍 夜叉",
+        "code": "SKR/S73-071",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 2,
+        "flavor_text": "我が名は夜叉。封印の鍵である、「帝鍵」を差し出しなさい",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character at Front Row gets -1500 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Mystery 《謎》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card57541-large.jpg"
+    },
+    {
+        "name": "体が勝手に",
+        "code": "SKR/S73-072",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……手、手が勝手に!?\nいけないことだって、わかっているのに……！",
+        "ability": [
+            "You look at up to 2 cards from opponent's top Deck and choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room, look at up to 2 cards from your top Deck and choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card57542-large.jpg"
+    },
+    {
+        "name": "天剣・千本桜",
+        "code": "SKR/S73-073",
+        "rarity": "CR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "天剣・千本桜！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card57543-large.jpg"
+    },
+    {
+        "name": "東雲神社の御神楽ハンマー！",
+        "code": "SKR/S73-074",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "東雲神社の御神楽ハンマー！",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card57545-large.jpg"
+    },
+    {
+        "name": "乱れ太鼓!!祭りだオイサー!!",
+        "code": "SKR/S73-075",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いっけえええええええ!!!!",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card57547-large.jpg"
+    },
+    {
+        "name": "運命の……出会い",
+        "code": "SKR/S73-076",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いっけえええええええ!!!!",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card57548-large.jpg"
+    },
+    {
+        "name": "帝国華撃団総司令 すみれ",
+        "code": "SKR/S73-077",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あなたに……帝国華撃団・花組の隊長になってもらいたいの",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose up to 1 《華撃団》 Character from your Waiting Room, place it into Stock.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with Level 1 or lower from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Fan 《扇子》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card57549-large.jpg"
+    },
+    {
+        "name": "トップスタァの生き様 アナスタシア",
+        "code": "SKR/S73-078",
+        "rarity": "RR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "人の運命は……\n星の輝きのように儚い",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have other 《華撃団》 Character, until end of opponent's next turn, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「απόλυτο μηδέν」 is in your Climax Slot, and your Hand has 6 or less cards, look at up to 3 cards from your top Deck, choose up to 1 《華撃団》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card57551-large.jpg"
+    },
+    {
+        "name": "秘密の約束 アナスタシア",
+        "code": "SKR/S73-079",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ダーメ♪ ナイショよ……フフッ",
+        "ability": [
+            "【C】Your other Character with 「さくら」 in its name at the Center Slot of Front Row gets +1 Level and +500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card57553-large.jpg"
+    },
+    {
+        "name": "“霊子戦闘機・無限”神山機",
+        "code": "SKR/S73-080",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "神山誠十郎、霊子戦闘機「無限」で出撃します！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card57554-large.jpg"
+    },
+    {
+        "name": "“霊子戦闘機・無限”アナスタシア機",
+        "code": "SKR/S73-081",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "戦場の主役は……私よ！",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【C】If this card has Marker, this card gets +1 Level and +2500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「撃ち抜く流星 アナスタシア」 from your Waiting Room, place it under this card face-up as Marker."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card57556-large.jpg"
+    },
+    {
+        "name": "特別な一日 アナスタシア",
+        "code": "SKR/S73-082",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "星の導きは……私にどんな運命を運んでくるのかしら……",
+        "ability": [
+            "【C】SUPPORT All your 《華撃団》 Character in front of this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【S】[REST 2 of your 《華撃団》 Character] Choose 1 card from your Level Slot and 1 card from your Waiting Room, exchange them, choose up to 1 of your Character, during this turn, it gets +1 Level."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card57558-large.jpg"
+    },
+    {
+        "name": "出撃準備 アナスタシア",
+        "code": "SKR/S73-083",
+        "rarity": "R",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "こちらの腕も期待してもらって結構よ？",
+        "ability": [
+            "【C】If you have 4 or more 《華撃団》 Character, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】[(2) REST 1 of your STANDING 《華撃団》 Character] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from opponent's Waiting Room, return all cards except that Climax from his/her Waiting Room into Deck, shuffle the Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card57560-large.jpg"
+    },
+    {
+        "name": "伝説のトップスタァ すみれ",
+        "code": "SKR/S73-084",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ごきげんよう。\nファンの方々でいらっしゃるのね？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to bottom Deck."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Fan 《扇子》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card57562-large.jpg"
+    },
+    {
+        "name": "演技指導 アナスタシア",
+        "code": "SKR/S73-085",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "それ本当？\n課題を出してから、まだそんなに経ってないわよ？",
+        "ability": [
+            "【C】All your other 《華撃団》 Character gets +500 Power.",
+            "【S】[REST 2 of your 《華撃団》 Character] Choose 1 card from your Level Slot and 1 card from your Waiting Room, exchange them, choose up to 1 of your Character, during this turn, it gets +1 Level."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card57563-large.jpg"
+    },
+    {
+        "name": "撃ち抜く流星 アナスタシア",
+        "code": "SKR/S73-086",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "狙いは外さないわ……！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《華撃団》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card57564-large.jpg"
+    },
+    {
+        "name": "希望に向かって伸びる花 アナスタシア",
+        "code": "SKR/S73-087",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "フフッ、花組１３か条を見てたのね",
+        "ability": [
+            "【C】If you have 2 or more other 《華撃団》 Character, this card gets +1000 Power.",
+            "【A】At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card57566-large.jpg"
+    },
+    {
+        "name": "心配するアナスタシア",
+        "code": "SKR/S73-088",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "キャプテン……\nさくらの様子はどうだったの？",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, perform the following Abilities once each in any order.",
+            "『You may choose 1 「“霊子戦闘機・試製桜武”」 from your Hand and 1 card from your Level Slot, exchange them.』",
+            "『You may choose 1 card from your Level Slot and 1 「“霊子戦闘機・試製桜武”」 from your Waiting Room, exchange them.』",
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card57567-large.jpg"
+    },
+    {
+        "name": "二人だけの星空 アナスタシア",
+        "code": "SKR/S73-089",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "アナスタシア「私を……守ってくれているみたい……」",
+        "ability": [
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] At the end of this card attacks, if 「伝説の……星座たち……」 is in your Climax Slot, you may pay the cost. If you did, choose 1 of your 「“帝国華撃団・花組隊長” 神山」 and this card, REST and exchange them, until end of opponent's next turn, that 「“帝国華撃団・花組隊長” 神山」 gets +8000 Power, gains 3 of the following Ability.",
+            "『【C】This card cannot be chosen by opponent's effect, cannot become REVERSE by opponent's Character 【A】 effect.』",
+            "『【C】BODYGUARD』",
+            "『【A】When this card's battle opponent becomes REVERSE, you may send that Character to Memory.』"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card57568-large.jpg"
+    },
+    {
+        "name": "出撃！ 神山",
+        "code": "SKR/S73-090",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "よし、みんな！俺に続け!!",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, place 3 cards from your top Deck into Waiting Room. If there is a Climax among those cards, during this turn, opponent cannot use 『【A】ENCORE』. (Cannot use 『【A】ENCORE [(3)]』 from rule also)",
+            "【S】[REST this card] Choose 1 of your 《華撃団》 Character, during this turn, it gets +1500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card57569-large.jpg"
+    },
+    {
+        "name": "浪花の商売人 こまち",
+        "code": "SKR/S73-091",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ちり紙から空中戦艦まで、何でも仕入れたるで！",
+        "ability": [
+            "【C】All your other 「すみれの右腕 カオル」 gets +1000 Power.",
+            "【A】This Ability can be activated up to 1 time each turn. When your other 「すみれの右腕 カオル」 is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or higher, add it to Hand. (Climax is considered Level 0. If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Businessman 《商人》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card57570-large.jpg"
+    },
+    {
+        "name": "劇場にいざなうアナスタシア",
+        "code": "SKR/S73-092",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "最高の舞台を見せてあげるわ",
+        "ability": [
+            "【C】This card cannot Side Attack.",
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《華撃団》 Character among those cards x1000."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card57571-large.jpg"
+    },
+    {
+        "name": "すみれの右腕 カオル",
+        "code": "SKR/S73-093",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "それはそれ、これはこれです。予算は出せません",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Secretary 《秘書》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card57572-large.jpg"
+    },
+    {
+        "name": "敏腕メカニック 司馬",
+        "code": "SKR/S73-094",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "無限の整備は俺に任せておけ！",
+        "ability": [
+            "【A】[(2) Place 2 cards from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 2 Character with 「光武」 or 「桜武」 or 「無限」 in its name, add them to Hand, shuffle your Deck afterwards, during this turn, this card gets +3000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Science 《科学》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card57573-large.jpg"
+    },
+    {
+        "name": "感激の観劇 アナスタシア",
+        "code": "SKR/S73-095",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "いい演技をするためには、いい芝居を見ることも大事よ",
+        "ability": [
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, send that Character to Memory.』",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card57574-large.jpg"
+    },
+    {
+        "name": "反撃の時 すみれ",
+        "code": "SKR/S73-096",
+        "rarity": "C",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "主砲……撃て！",
+        "ability": [
+            "【A】【CXCOMBO】[(1) Place 2 of your other Character at Front Row under this card face-down as Marker] When 「空中戦艦ミカサ発進！」 is placed into your Climax Slot, if this card is at Front Row, you may pay the cost. If you did, during this turn, this card gets +6000 Power, gains 2 of the following Ability.",
+            "『【C】When this card attacks, you may choose 1 opponent's Character at Front Row, this card Front Attacks that Character as the Defending Character.』",
+            "『【A】This Ability can be activated up to 2 times each turn. At the end of this card's attack, if you have no other Character at Front Row, STAND this card.』"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Fan 《扇子》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card57575-large.jpg"
+    },
+    {
+        "name": "奇跡の鐘",
+        "code": "SKR/S73-097",
+        "rarity": "U",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "CONCENTRATION Flip the top 3 cards of your Deck, place them into Waiting Room. If there is a Climax among those cards, deal 1 Damage to opponent. (Damage can be cancelled)",
+            "RESONANCE You may reveal 1 「帝国華撃団総司令 すみれ」 from Hand. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "If today is 24th December, perform the following Action. 『If all player agree, all player place all cards from Hand into Waiting Room, draw 7 cards.』"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card57576-large.jpg"
+    },
+    {
+        "name": "απόλυτο μηδέν",
+        "code": "SKR/S73-098",
+        "rarity": "CR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "απόλυτο μηδέν！\n(ルビ：アポリト・ミデン)",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card57577-large.jpg"
+    },
+    {
+        "name": "伝説の……星座たち……",
+        "code": "SKR/S73-099",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "いっけえええええええ!!!!",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card57579-large.jpg"
+    },
+    {
+        "name": "空中戦艦ミカサ発進！",
+        "code": "SKR/S73-100",
+        "rarity": "CC",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "すみれ「ここからが勝負……反撃開始ですわ！」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card57580-large.jpg"
+    },
+    {
+        "name": "ちびあざみ",
+        "code": "SKR/S73-101",
+        "rarity": "PR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "誠十郎！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 2 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card57581-large.jpg"
+    },
+    {
+        "name": "ちびクラリス",
+        "code": "SKR/S73-102",
+        "rarity": "PR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "神山さーん！",
+        "ability": [
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost .If you did, choose 1 opponent's Character, send it to Memory, at the beginning of Encore Step, opponent place that Character from his/her Memory into any slot on Stage."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card57582-large.jpg"
+    },
+    {
+        "name": "ちびさくら",
+        "code": "SKR/S73-103",
+        "rarity": "PR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "誠十郎さーんっ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place 3 cards from your top Deck into Waiting Room.",
+            "【A】BOND／「“帝国華撃団・花組隊長” 神山」 ［(1)］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“帝国華撃団・花組隊長” 神山」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card57583-large.jpg"
+    },
+    {
+        "name": "ちび初穂",
+        "code": "SKR/S73-104",
+        "rarity": "PR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "神山っ！",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《華撃団》 Character, you may choose 1 《華撃団》 Character from your Waiting Room, place it into Stock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card57584-large.jpg"
+    },
+    {
+        "name": "ちびアナスタシア",
+        "code": "SKR/S73-105",
+        "rarity": "PR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "カミヤマ！",
+        "ability": [
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《華撃団》 Character x1000."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card57585-large.jpg"
+    },
+    {
+        "name": "奇跡の鐘 クラリス",
+        "code": "SKR/S73-P01",
+        "rarity": "PR",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 of your Character, during this turn, it gets ＋1500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card57586-large.jpg"
+    },
+    {
+        "name": "奇妙な遭遇 あざみ",
+        "code": "SKR/S73-T01",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私の名前を知っている。\n何者？",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1 Soul."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T01",
+        "image": "https://images.littleakiba.com/tcg/card57801-large.jpg"
+    },
+    {
+        "name": "物語の世界へ クラリス",
+        "code": "SKR/S73-T02",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "いつかは私も……\nこんなステキな物語を書きたいな……",
+        "ability": [
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw up to 1 card."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T02",
+        "image": "https://images.littleakiba.com/tcg/card57803-large.jpg"
+    },
+    {
+        "name": "戦う意思 アナスタシア",
+        "code": "SKR/S73-T03",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "我らに星の輝きを……\nアナスタシア・パルマ、出撃するわ",
+        "ability": [
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T03",
+        "image": "https://images.littleakiba.com/tcg/card57804-large.jpg"
+    },
+    {
+        "name": "微かな疑念 クラリス",
+        "code": "SKR/S73-T04",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "降魔が、複数の場所に出現……？\n今日は多いですね……",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other 《華撃団》 Character, during this turn, it gets +2000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T04",
+        "image": "https://images.littleakiba.com/tcg/card57805-large.jpg"
+    },
+    {
+        "name": "頼れる仲間 アナスタシア",
+        "code": "SKR/S73-T05",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "あなたが、キャプテン・カミヤマかしら？",
+        "ability": [
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《華撃団》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Star 《星》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T05",
+        "image": "https://images.littleakiba.com/tcg/card57806-large.jpg"
+    },
+    {
+        "name": "一途な想い あざみ",
+        "code": "SKR/S73-T06",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "でも、忍者は絶対にいるんだ。\nなにより、あざみが忍者なんだから",
+        "ability": [
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T06",
+        "image": "https://images.littleakiba.com/tcg/card57808-large.jpg"
+    },
+    {
+        "name": "ブリーフィング あざみ",
+        "code": "SKR/S73-T07",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "あざみ、がんばる",
+        "ability": [
+            "【C】If you have 2 or more other 《華撃団》 Character, this card gets +3000 Power.",
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《華撃団》 Character, you may place the top card of your Deck into Stock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Ninja 《忍》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T07",
+        "image": "https://images.littleakiba.com/tcg/card57809-large.jpg"
+    },
+    {
+        "name": "女心と秋の空 クラリス",
+        "code": "SKR/S73-T08",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "冗談だとしても最低ですね",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, look at up to X cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of your 《華撃団》 Character.",
+            "【A】[Place 2 cards from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, place that battle opponent into Clock."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Book 《本》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T08",
+        "image": "https://images.littleakiba.com/tcg/card57810-large.jpg"
+    },
+    {
+        "name": "憧れの大スタァ",
+        "code": "SKR/S73-T09",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "みなさん、ごきげんよう。\n私はアナスタシア・パルマ",
+        "ability": [
+            "Look at up to 4 cards from your top Deck, choose up to 1 《華撃団》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T09",
+        "image": "https://images.littleakiba.com/tcg/card57812-large.jpg"
+    },
+    {
+        "name": "勝利のポーズ",
+        "code": "SKR/S73-T10",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "さくら&初穂「せーのっ！\n勝利のポーズ……決め!!」",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T10",
+        "image": "https://images.littleakiba.com/tcg/card57813-large.jpg"
+    },
+    {
+        "name": "新生・帝国華撃団",
+        "code": "SKR/S73-T11",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "帝国華撃団・参上！",
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T11",
+        "image": "https://images.littleakiba.com/tcg/card57814-large.jpg"
+    },
+    {
+        "name": "新たな任務 神山",
+        "code": "SKR/S73-T12",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "へえ……\nここも、ずいぶんと綺麗になったもんだ",
+        "ability": [
+            "【C】All your other 「突然の再会 さくら」 gets +1000 Power.",
+            "【A】BOND／「突然の再会 さくら」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「突然の再会 さくら」 from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T12",
+        "image": "https://images.littleakiba.com/tcg/card57815-large.jpg"
+    },
+    {
+        "name": "帝劇を案内 さくら",
+        "code": "SKR/S73-T13",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "歌劇団なんですから、\nやっぱり最初に案内するのは舞台ですよね！",
+        "ability": [
+            "【C】If all your Character are 《華撃団》, this card gets +1000 Power.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《華撃団》 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T13",
+        "image": "https://images.littleakiba.com/tcg/card57816-large.jpg"
+    },
+    {
+        "name": "頼れる戦巫女 初穂",
+        "code": "SKR/S73-T14",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "よーし、任せとけって！",
+        "ability": [
+            "【A】At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T14",
+        "image": "https://images.littleakiba.com/tcg/card57818-large.jpg"
+    },
+    {
+        "name": "何でもおまかせ 初穂",
+        "code": "SKR/S73-T15",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "困ったことがあったら、アタシにいいな",
+        "ability": [
+            "【C】If you have 2 or more other 《華撃団》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「一世一代大ゲンカ」 is in your Climax Slot, you may choose 1 Character from your Waiting Room, return it to Hand."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Miko 《巫女》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T15",
+        "image": "https://images.littleakiba.com/tcg/card57819-large.jpg"
+    },
+    {
+        "name": "突然の再会 さくら",
+        "code": "SKR/S73-T16",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "わ、忘れちゃったんですか!?\nほら！",
+        "ability": [
+            ""
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T16",
+        "image": "https://images.littleakiba.com/tcg/card57821-large.jpg"
+    },
+    {
+        "name": "帝劇のスタァ 初穂＆さくら",
+        "code": "SKR/S73-T17",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When your other Character's battle opponent becomes REVERSE, choose 1 of your Character, during this turn, it gets +1000 Power."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T17",
+        "image": "https://images.littleakiba.com/tcg/card57822-large.jpg"
+    },
+    {
+        "name": "“太正浪漫”さくら",
+        "code": "SKR/S73-T18",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "太正桜に浪漫の嵐",
+        "ability": [
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, until end of opponent's next turn, this card gets +2500 Power and +1 Soul."
+        ],
+        "attributes": [
+            "Kageki-dan 《華撃団》",
+            "Swordplay 《剣術》"
+        ],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T18",
+        "image": "https://images.littleakiba.com/tcg/card57823-large.jpg"
+    },
+    {
+        "name": "一世一代の大ゲンカ",
+        "code": "SKR/S73-T19",
+        "rarity": "TD",
+        "expansion": "Shin Sakura Taisen",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "そこまでだぜ！",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
+        "attributes": [],
+        "set": "SKR",
+        "release": "S73",
+        "sid": "T19",
+        "image": "https://images.littleakiba.com/tcg/card57825-large.jpg"
+    }
+]
