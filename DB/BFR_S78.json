@@ -1,3082 +1,3197 @@
 [
     {
-        "name": "0/0 Iz",
+        "name": "戦う生産職 イズ",
         "code": "BFR/S78-001",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "1500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
-            "AUTO - When your other character's battle opponent is Reversed, this turn, this gets +1000 power."
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or lower and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When your other Character's battle opponent becomes REVERSE, during this turn, this card gets +1000 Power."
         ],
         "attributes": [
-            "Game",
-            "Blacksmith"
+            "Game 《ゲーム》",
+            "Blacksmith 《鍛冶》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201026_ef01.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63017-large.jpg"
     },
     {
-        "name": "3/2 Maple",
+        "name": "身捧ぐ慈愛 メイプル",
         "code": "BFR/S78-002",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "身捧ぐ慈愛！",
         "ability": [
-            "CONT - If you have 2 or less Climaxes in Waiting Room, this gets -1 Level in hand.",
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - {CX COMBO} When this attacks, if you have the Choice CX (027) in the Climax Area, and you have 4 or more other <Game> characters, until the end of your opponent's next turn, this gets +2500 power and gains the following ability: \"CONT - The character across from this gets -2 Soul.\""
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When this card attacks, if 「身捧ぐ慈愛」 is in your Climax Slot, and you have 4 or more other 《ゲーム》 Character, until end of opponent's next turn, this card gets +2500 Power, gains the following Ability. 『【C】The Character facing this card gets -2 Soul.』"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "002",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/bfr_s78_002_rr.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63019-large.jpg"
     },
     {
-        "name": "3/2 Mai & Yui",
+        "name": "大物喰らい マイ&ユイ",
         "code": "BFR/S78-003",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Game> characters, choose 1 <Game> character from your Waiting Room, you may send it to Stock.",
-            "AUTO - This ability activates up to once per turn. During the turn this is placed on stage from hand, when this card's damage is cancelled, mill 1, then deal X damage to your opponent. X equals the Level of the milled card +1."
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《ゲーム》 Character, you may choose 1 《ゲーム》 Character from your Waiting Room, place it into Stock.",
+            "【A】 This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, if this card's dealt Damage is cancelled, place the top card of your Deck into Waiting Room, deal Ｘ Damage to opponent. Ｘ is equal to that card's Level ＋1.（Climax is considered Level 0. Damage can be cancelled）"
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "003",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201027_wc01.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63021-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "二人の時間 メイプル",
         "code": "BFR/S78-004",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "これは大事に残しておこうっと",
         "ability": [
-            "CONT - During your opponent's turn, this gets +4000 power.",
-            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Game> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+            "【C】During opponent's turn, this card gets +4000 Power.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《ゲーム》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "004",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201028_fu01.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63024-large.jpg"
     },
     {
-        "name": "0/0 Mai & Yui",
+        "name": "初心者プレイヤー マイ＆ユイ",
         "code": "BFR/S78-005",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When your character's Trigger Check reveals a Climax, choose 1 of your characters, this turn, it gets +1000 power.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, repeat the following effect: \"Look at up to 3 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room.\""
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.』"
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "005",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201028_fu02.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63026-large.jpg"
     },
     {
-        "name": "0/0 Iz",
+        "name": "無限の探求 イズ",
         "code": "BFR/S78-006",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "1000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this attacks, choose 1 of your other characters, this turn, it gets +X power. X equals that character's Soul times 1000.",
-            "ACT - (1) Choose 1 of your <Game> characters, this turn, it gets +1 Soul."
+            "【A】When this card attacks, choose 1 of your other Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000.",
+            "【S】[(1)] Choose 1 of your 《ゲーム》 Character, during this turn, it gets +1 Soul."
         ],
         "attributes": [
-            "Game",
-            "Blacksmith"
+            "Game 《ゲーム》",
+            "Blacksmith 《鍛冶》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201026_ef02.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63028-large.jpg"
     },
     {
-        "name": "1/0 Maple",
+        "name": "ギルドマスター メイプル",
         "code": "BFR/S78-007",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "行っくよーっ！",
         "ability": [
-            "AUTO - {CX COMBO} When the Choice CX (028) is placed on the Climax Area, if this is in the Front Row, choose 1 Level X or lower <Game> character from your Waiting Room, you may add it to hand. X equals the number of {the Choice CX for this card's combo} in your Waiting Room.",
-            "AUTO - RESONANCE - [Reveal any number of {3/2 Yellow CXC Maple - 002} in your hand] When this attacks, you may pay cost. If you do, until the end of your opponent's next turn, this gets +X power. X equals the number of revealed cards times 1500."
+            "【A】【CXCOMBO】When 「楓の木」 is placed into your Climax Slot, if this card is at Front Row, you may choose 1 《ゲーム》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the number of 「楓の木」 in your Waiting Room.",
+            "【A】RESONANCE [Reveal any number of 「身捧ぐ慈愛 メイプル」 from Hand] When this card attacks, you may pay the cost. If you did, until end of opponent's next turn, this card gets +X Power. X is equal to the number of revealed card x1500."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201102_nv02.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63030-large.jpg"
     },
     {
-        "name": "1/0 Mai",
+        "name": "即戦力 マイ",
         "code": "BFR/S78-008",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "CONT - During your turn, for each of your other <Game> characters, this gets +500 power.",
-            "AUTO - {CX COMBO} This ability activates up to once per turn. When this card's damage is cancelled, if you have the +2 Soul CX (029) in the Cllimax Area, choose up to 1 <Game> character from your Waiting Room, send it to Stock, then reveal the top card of your deck. If that card is a <Game> character, add it to hand."
+            "【C】During your turn, for each of your other 《ゲーム》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, if 「破壊王」 is in your Climax Slot, choose up to 1 《ゲーム》 Character from your Waiting Room, place it into Stock, reveal the top card of your Deck. If that card is a 《ゲーム》 Character, add it to Hand. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "008",
-        "image": "https://pbs.twimg.com/media/EiL8lKsUcAAMxaD?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63031-large.jpg"
     },
     {
-        "name": "1/0 Yui",
+        "name": "即戦力 ユイ",
         "code": "BFR/S78-009",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "CONT - During your turn, for each of your other <Game> characters, this gets +500 power.",
-            "AUTO - {CX COMBO} When your opponent Levels-Up, if you have the +2 Soul CX (029) in the Climax Area, and this is in the Front Row, choose up to 1 <Game> character from your Waiting Room, send it to Stock, then reveal the top card of your deck. If that card is a <Game> character, add it to hand."
+            "【C】During your turn, for each of your other 《ゲーム》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】When opponent Level up, if 「破壊王」 is in your Climax Slot, and this card is at Front Row, choose up to 1 《ゲーム》 Character from your Waiting Room, place it into Stock, reveal the top card of your Deck. If that card is a 《ゲーム》 Character, add it to Hand. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "009",
-        "image": "https://pbs.twimg.com/media/EiL8lK0U8AEs6iv?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63033-large.jpg"
     },
     {
-        "name": "3/2 Maple",
+        "name": "白雪 メイプル",
         "code": "BFR/S78-010",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "新しいスキルをみんなに見てほしくて",
         "ability": [
-            "AUTO - When this is placed on stage from hand, choose up to 1 character from your hand whose Level is equal or lower than your Level, place it on stage in any slot, and this turn, that character gets +2000 power.",
-            "AUTO - (2) When this attacks, you may pay cost. If you do, choose 1 of your characters, this turn, it gains the following ability: \"AUTO - This ability activates up to once per turn. When this card's damage is cancelled, you may deal 1 damage to your opponent.\""
+            "【A】When this card is placed on Stage from Hand, choose up to 1 Character with Level same or lower than your Level from your Hand, place it into any slot on Stage, during this turn, that Character gets +2000 Power.",
+            "【A】[(2)] When this card attacks, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "010",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201102_nv03.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63035-large.jpg"
     },
     {
-        "name": "0/0 Yui",
+        "name": "水着姿 ユイ",
         "code": "BFR/S78-011",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私たちもそれーー!!",
         "ability": [
-            "AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card from among them, put it on top of your deck, and send the rest to Waiting Room.",
-            "AUTO - When this card's damage is cancelled, you may put the top card of your Stock into hand."
+            "【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room.",
+            "【A】When this card's deal Damage is cancelled, you may return the top card of your Stock into Hand."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "011",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo10.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63037-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "イベント三位 メイプル",
         "code": "BFR/S78-012",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "やった！私三位だ！",
         "ability": [
-            "AUTO - When this attacks, reveal the top card of your deck. If that card is Level 1 or higher, choose 1 of your other characters, Rest it, and move it to an empty Back Row slot."
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is Level 1 or higher, choose 1 of your other Character, REST it, and move it to an empty slot at Back Row. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo05.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63038-large.jpg"
     },
     {
-        "name": "0/0 Mai",
+        "name": "水着姿 マイ",
         "code": "BFR/S78-013",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私たちもそれーー!!",
         "ability": [
-            "AUTO - [Discard 2 <Game> characters] When this is placed on stage from hand, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Stock in any order."
+            "【A】[Place 1 《ゲーム》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Stock in any order."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "013",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63039-large.jpg"
     },
     {
-        "name": "0/0 Chrome",
+        "name": "堅実な戦い方 クロム",
         "code": "BFR/S78-014",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "2000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this is placed on stage from hand, if you have another <Game> character, this turn, this gets +2000 power.",
-            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, choose 1 of your other <Game> characters, and return it to hand."
+            "【A】When this card is placed on Stage from Hand, if you have other 《ゲーム》 Character, during this turn, this card gets +2000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, choose 1 of your other 《ゲーム》 Character, return it to Hand."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "014",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63040-large.jpg"
     },
     {
-        "name": "0/0 Yui",
+        "name": "双子の妹 ユイ",
         "code": "BFR/S78-015",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "でも、メイプルさんの事信じてました！",
         "ability": [
-            "CONT - This card cannot Side Attack.",
-            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+            "【C】This card cannot Side Attack.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "015",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201119_kl14.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63041-large.jpg"
     },
     {
-        "name": "1/0 Maple",
+        "name": "アンバランス メイプル",
         "code": "BFR/S78-016",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "私の知恵と勇気の前に邪悪なモンスターは、滅び去ったのだった！",
         "ability": [
-            "AUTO - (1) When your Climax is placed on the Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.",
-            "ACT - {Rest this] Choose 1 of your opponent's characters, send it to Memory, then your opponent places that character from Memory to stage in any slot."
+            "【A】[(1)] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)",
+            "【S】[REST this card] Choose 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "016",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201118_se06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63042-large.jpg"
     },
     {
-        "name": "1/0 Mai",
+        "name": "双子の姉 マイ",
         "code": "BFR/S78-017",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "よかったあ、心配しましたよ！",
         "ability": [
-            "CONT - During your turn, this gets +4000 power."
+            "【C】During your turn, this card gets +4000 Power."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "017",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201119_kl15.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63043-large.jpg"
     },
     {
-        "name": "2/1 Iz",
+        "name": "錬金術師のロングコート イズ",
         "code": "BFR/S78-018",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "どこでもアイテム作れちゃうのね",
         "ability": [
-            "AUTO - When your other character's battle opponent is Reversed, choose 1 of your <Game> characters, this turn, it gets +3000 power.",
-            "AUTO - {CX COMBO} [Send the Wind CX (030) from the Climax Area to Waiting Room] At the start of your Encore Step, you may pay cost. If you do, choose up to 2 <Game> characters from your Waiting Room, and put them into Stock in any order."
+            "【A】When your other Character's battle opponent becomes REVERSE, choose 1 of your 《ゲーム》 Character, during this turn, it gets +3000 Power.",
+            "【A】【CXCOMBO】[Place 1 「イズ工房」 from your Climax Slot into Waiting Room] At the beginning of your Encore Step, you may pay the cost. If you did, choose up to 2 《ゲーム》 Character from your Waiting Room, place them into Stock in any order."
         ],
         "attributes": [
-            "Game",
-            "Blacksmith"
+            "Game 《ゲーム》",
+            "Blacksmith 《鍛冶》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "018",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201026_ef03.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63044-large.jpg"
     },
     {
-        "name": "0/0 Mai",
+        "name": "双子の少女 マイ",
         "code": "BFR/S78-019",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "がんばりました！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo12.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63045-large.jpg"
     },
     {
-        "name": "1/0 Iz",
+        "name": "大人の対応 イズ",
         "code": "BFR/S78-020",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "味方ならいいの味方なら…",
         "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Front Row characters, this turn, it gets -3000 power."
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -3000 Power."
         ],
         "attributes": [
-            "Game",
-            "Blacksmith"
+            "Game 《ゲーム》",
+            "Blacksmith 《鍛冶》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "020",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li12.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63046-large.jpg"
     },
     {
-        "name": "1/0 Yui",
+        "name": "双子の少女 ユイ",
         "code": "BFR/S78-021",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "できる限り！",
         "ability": [
-            "CONT - If this has a Marker underneath it, this gets +3500 power and +1 Soul.",
-            "AUTO - When this is placed on stage from hand, choose 1 {0/0 Mai vanilla - 019} from your Waiting Room, you may put it underneath this card Face-up as a Marker."
+            "【C】If this card has Marker, this card gets +3500 Power and +1 Soul.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「双子の少女 マイ」 from your Waiting Room, place it under this card face-up as Marker."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "021",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo11.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63047-large.jpg"
     },
     {
-        "name": "2/1 Maple",
+        "name": "カウンター メイプル",
         "code": "BFR/S78-022",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "カウンター！",
         "ability": [
-            "AUTO - (2) When you use this card's BACKUP, you may pay cost. If you do, deal 1 damage to your opponent.",
-            "ACT - BACKUP +2500"
+            "【A】[(2)] When you use this card's 『ASSIST』, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "022",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd01.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63048-large.jpg"
     },
     {
-        "name": "2/1 Mai",
+        "name": "極振り マイ",
         "code": "BFR/S78-023",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "CONT - All of your other {2/1 Yui - 024} get +3000 power."
+            "【C】All your other 「極振り ユイ」 gets +3000 Power."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "023",
-        "image": "https://livedoor.blogimg.jp/freedomduo/imgs/6/5/65dfe57c.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63049-large.jpg"
     },
     {
-        "name": "2/1 Yui",
+        "name": "極振り ユイ",
         "code": "BFR/S78-024",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "CONT - All of your other {2/1 Mai - 023} get +3000 power."
+            "【C】All your other 「極振り マイ」 gets +3000 Power."
         ],
         "attributes": [
-            "Game",
-            "Twins"
+            "Game 《ゲーム》",
+            "Twins 《双子》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "024",
-        "image": "https://livedoor.blogimg.jp/freedomduo/imgs/a/9/a9cd6e03.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63050-large.jpg"
     },
     {
-        "name": "2/1 Chrome",
+        "name": "血染めの白鎧 クロム",
         "code": "BFR/S78-025",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "呪われそうな名前と見た目を除けばカンペキだ",
         "ability": [
-            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
-            "AUTO - This ability activates up to once per turn. When this is Reversed, reveal the top card of your deck. If that card is Level 2 or higher, you may Rest this"
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】This Ability can be activated up to 1 time each turn. When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "025",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63051-large.jpg"
     },
     {
-        "name": "3/3 Event",
+        "name": "嬉しい誤算",
         "code": "BFR/S78-026",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Event",
-        "color": "",
+        "color": "YELLOW",
         "level": "3",
         "cost": "3",
         "trigger": [],
-        "power": "",
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "目を閉じればどうって事ないね！",
         "ability": [
-            "All of your characters gain the following ability, until the end of the turn: \"AUTO - This ability activates up to once per turn. When this card's damage is cancelled, you may deal 1 damage to your opponent.\""
+            "During this turn, all your Character gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
         ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "026",
-        "image": "https://pbs.twimg.com/media/EjEjwK7VoAASu0e?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63052-large.jpg"
     },
     {
-        "name": "Choice CX",
+        "name": "身捧ぐ慈愛",
         "code": "BFR/S78-027",
         "rarity": "CR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "027",
-        "image": "https://i.imgur.com/3aQQSbS.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63053-large.jpg"
     },
     {
-        "name": "Choice CX",
+        "name": "楓の木",
         "code": "BFR/S78-028",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "028",
-        "image": "https://i.imgur.com/66jCyPj.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63055-large.jpg"
     },
     {
-        "name": "+2 Soul CX",
+        "name": "破壊王",
         "code": "BFR/S78-029",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters get +2 Soul."
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "029",
-        "image": "https://i.imgur.com/xlnMLUb.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63056-large.jpg"
     },
     {
-        "name": "Wind CX",
+        "name": "イズ工房",
         "code": "BFR/S78-030",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "030",
-        "image": "https://i.imgur.com/xMUPrPE.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63058-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "多種多彩 サリー",
         "code": "BFR/S78-031",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "どうぞお召しあがりください",
         "ability": [
-            "CONT - You can play Climaxes without meeting color requirement.",
-            "AUTO - [Discard 1 card] When your Climax is placed on the Climax Area, you may pay cost. If you do, draw 1 card.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, search your deck for up to 1 <Game> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+            "【C】 You can play Climax from Hand without following the Colour rules.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When a Climax is placed into your Climax Slot, you may pay the cost. If you did, you draw 1 card.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《ゲーム》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "031",
-        "image": "https://pbs.twimg.com/media/EiL8dx8U0AAbduS?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63059-large.jpg"
     },
     {
-        "name": "1/0 Kasumi",
+        "name": "一ノ太刀 カスミ",
         "code": "BFR/S78-032",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "こちらからお願いして入れてもらいたいくらいだ",
         "ability": [
-            "CONT - If you have 2 or more other <Game> characters, this gets +1000 power.",
-            "AUTO - {CX COMBO} When this attacks, if you have the Gold Bar CX (053) in the Climax Area, and you have 6 or less hand, look at up to X cards from the top of your deck, choose up to 1 <Game> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. X equals the number of your opponent's characters."
+            "【C】If you have 2 or more other 《ゲーム》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「普通でなくなる」 is in your Climax Slot, and you Hand has 6 or less cards, look at up to X cards from your top Deck, choose up to 1 《ゲーム》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. X is equal to the number of opponent's Character."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "032",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/bfr_s78_032_rr.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63061-large.jpg"
     },
     {
-        "name": "0/0 Kasumi",
+        "name": "イベントボーナス カスミ",
         "code": "BFR/S78-033",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "し…しかし…これでは可愛すぎる…",
         "ability": [
-            "AUTO - When this attacks, if you have 1 or less other characters, you may mill 1. If that card is a Level 0 or lower character, place it on stage in any Back Row slot.",
-            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock."
+            "【A】When this card attacks, if you have 1 or less other Character, you may place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, place it into any slot at Back Row.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "033",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201027_wc02.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63063-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "最強初心者 メイプル",
         "code": "BFR/S78-034",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "これを持ってるのは私だけなんだ！",
         "ability": [
-            "AUTO - [Discard 1 {3/2 Yellow Maple - 002}] When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
-            "ACT - [(1) Send this to Waiting Room] If your Level is 3 or higher, choose up to 1 character from your hand whose name includes \"Maple\", and place it on stage in this card's slot."
+            "【A】[Place 1 「身捧ぐ慈愛 メイプル」 from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle your Deck afterwards.",
+            "【A】[(1) Place this card into Waiting Room] If your Level is 3 or higher, choose up to 1 Character with 「メイプル」 in its name, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201102_nv06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63065-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "イベントボーナス メイプル",
         "code": "BFR/S78-035",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "かわいい～！",
         "ability": [
-            "AUTO - [(1) Discard 1 <Game> character, Send this to Memory] When this is Reversed, you may pay cost. If you do, look up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room."
+            "【A】[(1) Place 1 《ゲーム》 Character from Hand into Waiting Room, send this card to Memory] When this card becomes REVERSE, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201027_wc03.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63067-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "イベントボーナス サリー",
         "code": "BFR/S78-036",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "うん、それにあったかい",
         "ability": [
-            "CONT - You cannot play Events or BACKUPs from hand.",
-            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <Game> characters milled times 1000."
+            "【C】You cannot play Event and 『ASSIST』 from Hand.",
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《ゲーム》 Character among those cards x1000."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "036",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201027_wc04.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63069-large.jpg"
     },
     {
-        "name": "2/1 Maple & Sally",
+        "name": "大冒険 メイプル＆サリー",
         "code": "BFR/S78-037",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When you use this card's BACKUP, send X cards from the bottom of your opponent's deck to Waiting Room. X equals the number of your <Game> characters.",
-            "ACT - BACKUP +3000"
+            "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《ゲーム》 Character.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
-            "Game"
+            "Game 《ゲーム》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "037",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd02.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63071-large.jpg"
     },
     {
-        "name": "3/2 Sally",
+        "name": "話題の青服 サリー",
         "code": "BFR/S78-038",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "さよなら",
         "ability": [
-            "CONT - EXPERIENCE 6 - If the sum of Levels of cards in your Level Zone is 6 or more, this gets +1500 power.",
-            "AUTO - {CX COMBO} [Discard 1 card] When this attacks, if you have the Trigger Split Soul (054) in the Climax Area, you may pay cost. If you do, deal X damage to your opponent, and this turn, this gets +2000 power. X equals the Level of the discarded card."
+            "【C】EXPERIENCE If the total Level in your Level Slot is 6 or higher, this card gets +1500 Power.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「瞳の中の青」 is in your Climax Slot, you may pay the cost. If you did, deal X Damage to opponent, during this turn, this card gets +2000 Power. X is equal to the card's Level that placed into Waiting Room by this effect's Cost. (Climax is considered Level 0. Damage can be cancelled)"
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "038",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201118_se07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63073-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "超加速 サリー",
         "code": "BFR/S78-039",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "【超加速】！",
         "ability": [
-            "AUTO - At the start of your opponent's Attack Phase, you may mill 1. If that card is a <Game> character, you may move this to an empty slot in your Front Row.",
-            "AUTO - ACCELERATE [Put the top card of your deck into Clock] At the start of your Climax Phase, you may pay cost. If you do, until the end of your opponent's next turn, this gets +2000 power."
+            "【A】At the beginning of opponent's Attack Phase, you may place the top card of your Deck. If that card is a 《ゲーム》 Character, you may move this card to an empty slot at Front Row.",
+            "【A】ACCELERATE [Place the top card of your Deck into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, until end of opponent's next turn, this card gets +2000 Power."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63075-large.jpg"
     },
     {
-        "name": "2/1 Maple",
+        "name": "休眠と覚醒 メイプル",
         "code": "BFR/S78-040",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "シロップ、喰らいつき！",
         "ability": [
-            "CONT - ASSIST +2000 to Level 3 or higher characters in front of this card.",
-            "AUTO - When this is placed on stage from hand, choose 1 {2/1 Syrup - 041} from your Waiting Room, you may put it underneath this card Face-up as a Marker.",
-            "ACT - [(1) Discard 1 character] Choose 1 {2/1 Syrup - 041} from this card's Markers, place it on stage in any slot, and at the end of the turn, you may return it underneath this card Face-up as a Marker."
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「覚醒 シロップ」 from your Waiting Room, place it under this card face-up as Marker.",
+            "【S】[(1) Place 1 card from Hand into Waiting Room] Choose 1 「覚醒 シロップ」 under this card, place it into any slot on Stage. At the end of that turn, you may place that Character under this card face-up as Marker."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63076-large.jpg"
     },
     {
-        "name": "2/1 Syrup",
+        "name": "覚醒 シロップ",
         "code": "BFR/S78-041",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "CONT - If you have 2 or more other <Game> characters, this gets +1 Level, and cannot be targeted by your opponent's effects.",
-            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Game> characters times 1000."
+            "【C】If you have 2 or more other 《ゲーム》 Character, this card gets +1 Level, cannot be chosen by opponent's effect.",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《ゲーム》 Character x1000."
         ],
         "attributes": [
-            "Game",
-            "Monster"
+            "Game 《ゲーム》",
+            "Monster 《モンスター》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63077-large.jpg"
     },
     {
-        "name": "3/2 Maple",
+        "name": "守護天使 メイプル",
         "code": "BFR/S78-042",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
         "flavor_text": "-",
         "ability": [
-            "CONT - If you have {0/0 Sally runner - 039} in Clock, this gets -1 Level in hand.",
-            "CONT - If all of your characters are <Game>, this gets +1000 power.",
-            "AUTO - When this is placed on stage from hand, choose 1 <Game> character from your Clock, you may put it on the bottom of your deck."
+            "【C】If 「超加速 サリー」 is in your Clock, this card gets -1 Level in your Hand.",
+            "【C】If all your Character are 《ゲーム》, this card gets +1000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 《ゲーム》 Character from your Clock, place it to bottom Deck."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "042",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63078-large.jpg"
     },
     {
-        "name": "3/2 Kasumi",
+        "name": "千紫万紅 カスミ",
         "code": "BFR/S78-043",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is Level 1 or lower, send it to Stock.",
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Level 3 or lower characters, you may send it to Waiting Room. If you do, your opponent chooses up to 1 Cost 0 or lower character from their Waiting Room, and places it on stage in that character's former slot."
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or lower, place it into Stock. (Climax is considered Level 0. If not, return revealed card to its original position)",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 opponent's Character with Level 3 or lower, place it into Waiting Room. If you did, opponent chooses up to 1 Character with Cost 0 or lower from his/her Waiting Room, place it into that Character's previous slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63079-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "新米冒険者 メイプル",
         "code": "BFR/S78-044",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あのパチパチ弾けるお菓子みたいな感じ",
         "ability": [
-            "AUTO - {CX COMBO} When the Level Stock Soul (055) is placed on your Climaax Area, if you have 5 or less Stock, all of your characters gain the following ability, until the end of the turn: \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Step twice.\"",
-            "ACT - [Rest this] Choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power."
+            "【A】【CXCOMBO】When 「困ったら食べればなんとかなる」 is placed into your Climax Slot, if your Stock has 5 or less cards, during this turn, all your Character gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+            "【S】[REST this card] Choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "044",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li10.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63080-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "確かな実力 サリー",
         "code": "BFR/S78-045",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "2000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - This ability activates up to twice per turn. When your other <Game> character is placed on stage from hand, this turn, this gets +1000 power.",
-            "AUTO - During your turn, when this card's battle opponent is Reversed, look at the top card of your deck, and put it on top of your deck or into your Waiting Room."
+            "【A】This Ability can be activated up to 2 times each turn. When your other 《ゲーム》 Character is placed on Stage from Hand, during this turn, this card gets +1000 Power.",
+            "【A】During your turn, when this card's battle opponent becomes REVERSE, look at the top card of your Deck, place it on top Deck or Waiting Room."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "045",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63081-large.jpg"
     },
     {
-        "name": "1/0 Shadow Clone Sally",
-        "code": "BFR/S78-046",
+        "name": "影分身 サリー",
+        "code": "BFR/S78-046a",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "朧！影分身！",
         "ability": [
-            "CONT - You may include as many copies of this card in your deck as you like.",
-            "CONT - For each of your other {this card} in your Front Row, this gets +2000 power."
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】For each of your other 「影分身 サリー」 at Front Row, this card gets +2000 Power."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
-        "sid": "046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201112_ec07.png",
-        "community": true
+        "sid": "046a",
+        "image": "https://images.littleakiba.com/tcg/card63082-large.jpg"
     },
     {
-        "name": "1/0 Maple",
+        "name": "影分身 サリー",
+        "code": "BFR/S78-046b",
+        "rarity": "C",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "朧！影分身！",
+        "ability": [
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】For each of your other 「影分身 サリー」 at Front Row, this card gets +2000 Power."
+        ],
+        "attributes": [
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
+        ],
+        "set": "BFR",
+        "release": "S78",
+        "sid": "046b",
+        "image": "https://images.littleakiba.com/tcg/card63083-large.jpg"
+    },
+    {
+        "name": "メダル集め メイプル",
         "code": "BFR/S78-047",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - [(1) Send this to Waiting Room] When your other <Game> character is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +2500 power.",
-            "AUTO - ENCORE [Put the top card of your deck into Clock]"
+            "【A】[(1) Place this card into Waiting Room] When your other 《ゲーム》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets +2500 Power.",
+            "【A】ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "047",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201109_jo06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63084-large.jpg"
     },
     {
-        "name": "1/0 Maple",
+        "name": "リラクゼーション メイプル",
         "code": "BFR/S78-048",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "5000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - (1) When this is sent from stage to Waiting Room, you may pay cost. If you do, choose 1 {1/0 Sally vanilla - 50} from your Waiting Room, and place it on stage in this card's former slot, Rested."
+            "【A】[(1)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 「リラクゼーション サリー」 from your Waiting Room, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "048",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201119_kl16.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63085-large.jpg"
     },
     {
-        "name": "1/0 Kasumi",
+        "name": "時期尚早 カスミ",
         "code": "BFR/S78-049",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "喜ぶのはまだ早いぞ",
         "ability": [
-            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 500.",
-            "AUTO - When this is Reversed, this turn, you cannot use ENCORE."
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of opponent's Character x500.",
+            "【A】 When this card becomes REVERSE, during this turn, you cannot use 『【A】ENCORE』. (Cannot use 『【A】ENCORE [(3)]』 from rule also)"
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "049",
-        "image": "https://livedoor.blogimg.jp/freedomduo/imgs/8/d/8d25e3f1.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63086-large.jpg"
     },
     {
-        "name": "1/0 Sally vanilla",
+        "name": "リラクゼーション サリー",
         "code": "BFR/S78-050",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "5500",
+        "soul": 1,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "Translations Coming Soon!"
+        ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201119_kl17.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63087-large.jpg"
     },
     {
-        "name": "2/1 Kasumi",
+        "name": "雲外蒼天 カスミ",
         "code": "BFR/S78-051",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "メイプルを見てると飽きないな…",
         "ability": [
-            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Game> characters, choose 1 <Game> character from your Waiting Room, you may put it into Stock.",
-            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock"
+            "【A】When this card is placed on Stage from Hand, if you have 4 or more other 《ゲーム》 Character, you may choose 1 《ゲーム》 Character from your Waiting Room, place it into Stock.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "051",
-        "image": "https://livedoor.blogimg.jp/freedomduo/imgs/2/7/27033741.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63088-large.jpg"
     },
     {
-        "name": "2/2 Event",
+        "name": "発毛",
         "code": "BFR/S78-052",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Event",
-        "color": "",
+        "color": "GREEN",
         "level": "2",
         "cost": "2",
         "trigger": [],
-        "power": "",
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "いつの間にか新しいスキルが手に入っちゃって…",
         "ability": [
-            "COUNTER - Resolve the following effect twice: \"Choose 1 of your characters, this turn, it gains the following ability: \"CONT - The character across from this gets -1 Soul.\"\"\r\nSend this to Memory."
+            "【COUNTER】Perform the following Action 2 times.",
+            "『Choose 1 of your Character, during this turn, it gains the following Ability. 『【C】The Character facing this card gets -1 Soul.』』",
+            "Send this card to Memory."
         ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "052",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201027_wc05.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63089-large.jpg"
     },
     {
-        "name": "Gold Bar CX",
+        "name": "普通でなくなる",
         "code": "BFR/S78-053",
         "rarity": "CR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "TREASURE"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "053",
-        "image": "https://i.imgur.com/XKH5VCF.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63090-large.jpg"
     },
     {
-        "name": "Trigger Split Soul CX",
+        "name": "瞳の中の青",
         "code": "BFR/S78-054",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "う～ん…メダルは無しか…",
         "ability": [
-            "When this is placed from hand to Climax Area, choose up to 1 character with a Soul Trigger Icon from your Waiting Room, add it to hand, then choose up to 2 of your characters, this turn, they get +1 Soul."
+            "【A】When this card is placed into your Climax Slot from Hand, choose up to 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand, choose up to 2 of your Characters, during this turn, they get +1 Soul."
         ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "054",
-        "image": "https://i.imgur.com/zPfwznl.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63092-large.jpg"
     },
     {
-        "name": "Level Stock Soul CX",
+        "name": "困ったら食べればなんとかなる",
         "code": "BFR/S78-055",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "GREEN",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "嬉しい誤算きたっ！",
         "ability": [
-            "(as a refresher, this means Choose a Level 1 or lower character of any color to send to Stock)"
+            "【A】When this card is placed into your Climax Slot from Hand, choose up to 1 Character with Level 1 or lower from your Waiting Room, place it into Stock, during this turn, all your Character gets +1 Soul."
         ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "055",
-        "image": "https://i.imgur.com/WtGINKW.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63093-large.jpg"
     },
     {
-        "name": "0/0 Mii",
+        "name": "心の裏表 ミィ",
         "code": "BFR/S78-056",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "「炎帝」!!",
         "ability": [
-            "CONT - Your other Front Row Center Slot Level 0 or lower character gets +1000 power.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 <Game> character from your Waiting Room, and add it to hand."
+            "【C】 Your other Character with Level 0 or lower at the Center Slot of Front Row gets ＋1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 《ゲーム》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "056",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/bfr_s78_056_rr.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63094-large.jpg"
     },
     {
-        "name": "1/0 Maple",
+        "name": "歩く要塞 メイプル",
         "code": "BFR/S78-057",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "よーし、いこう！",
         "ability": [
-            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
-            "AUTO - {CX COMBO} [Discard 1 {copy of this card}, Send the Standby CX (076) from the Climax Area to Waiting Room] At the start of your Attack Phase, if this is in the Front Row, you may pay cost. If you do, choose up to 1 of your other <Game> characters, Stand it, then choose up to 1 character from your Waiting Room, and add it to hand."
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】[Place 1 「歩く要塞 メイプル」 from Hand into Waiting Room, place 1 「ギルドマスター同士の対決」 from your Climax Slot into Waiting Room] At the beginning of your Attack Phase, if this card is at Front Row, you may pay the cost. If you did, choose 1 of your other 《ゲーム》 Character, STAND it, choose up to 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "057",
-        "image": "https://pbs.twimg.com/media/EjEjuPCVgAAgAyK?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63096-large.jpg"
     },
     {
-        "name": "2/2 Misery",
+        "name": "聖女ミザリー",
         "code": "BFR/S78-058",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "2",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
+        "flavor_text": "【ヒール】!!",
         "ability": [
-            "CONT - If all of your characters are <Game>, this gets +3000 power.",
-            "AUTO - When this Direct Attacks, choose 1 <Game> character from your Waiting Room, you may send it to Stock."
+            "【C】If all your Character are 《ゲーム》, this card gets +3000 Power.",
+            "【A】When this card Direct Attacks, you may choose 1 《ゲーム》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "058",
-        "image": "https://pbs.twimg.com/media/EjEjwKrU0AA5BjM?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63098-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "重要な位置取り メイプル",
         "code": "BFR/S78-059",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "【毒竜】じゃまだ遠いしなぁ…",
         "ability": [
-            "AUTO - (1) At the start of your opponent's Attack Phase, you may pay cost. If you do, move this to an empty slot in your Back Row.",
-            "AUTO - [Send this to Waiting Room] When your other character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot, Rested."
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, move this card to an empty slot at Back Row.",
+            "【A】[Place this card into Waiting Room] When your other Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character into its previous slot on Stage in REST."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "059",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63100-large.jpg"
     },
     {
-        "name": "0/0 Mii",
+        "name": "フレアアクセル ミィ",
         "code": "BFR/S78-060",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "フレアアクセル！",
         "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power.",
-            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Game> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《ゲーム》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "060",
-        "image": "https://pbs.twimg.com/media/EjEjwKeVoAEK7Ui?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63101-large.jpg"
     },
     {
-        "name": "0/0 Misery",
+        "name": "作戦変更 ミザリー",
         "code": "BFR/S78-061",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ホーリー、ジャベリン！",
         "ability": [
-            "ACT - [Rest this] If this does not have a Marker underneath it, reveal the top card of your deck. If that card is Level 1 or higher, put it underneath this card Face-down as a Marker.",
-            "ACT - [Rest this] Put a Marker from underneath this card into Stock."
+            "【S】[REST this card] If this card has no Marker, reveal the top card of your Deck. If that card is Level 1 or higher, place it under this card face-down as Marker. (Climax is considered Level 0. If not, return revealed card to its original position)",
+            "【S】[REST this card] Place 1 Marker from this card into Stock."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "061",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss11.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63103-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "がぶがぶはむはむ メイプル",
         "code": "BFR/S78-062",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ピーマンっぽさが消えて助かるよ！",
         "ability": [
-            "AUTO - [Discard 1 card] When this is sent from stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "062",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201102_nv07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63104-large.jpg"
     },
     {
-        "name": "3/2 Maple",
+        "name": "暴虐 メイプル",
         "code": "BFR/S78-063",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "「暴虐」!!",
         "ability": [
-            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
-            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand.",
-            "AUTO - {CX COMBO} [(6) Discard 2 cards, Send the Gate CX (077) from your Climax Area to Waiting Room] When this card's battle opponent is Reversed, you may pay cost. If you do, deal 1 damage to your opponent, then deal 2 damage to your opponent, then deal 3 damage to your opponent."
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +3000 Power.",
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.",
+            "【A】【CXCOMBO】[(6) Place 2 cards from Hand into Waiting Room, place 1 「ボスモンスター」 from your Climax Slot into Waiting Room] When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to opponent, deal 2 Damage to opponent, and deal 3 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "063",
-        "image": "https://pbs.twimg.com/media/EiL8ftgUMAABhS5?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63106-large.jpg"
     },
     {
-        "name": "3/2 Mii",
+        "name": "炎帝 ミィ",
         "code": "BFR/S78-064",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "私と共にある限り、勝利の二文字あるのみだと！",
         "ability": [
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - {CX COMBO} [Discard 3 <Game> characters] When this is placed on stage via the effect of the {Standby CX - 078}, you may pay cost. If you do, Stand this."
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[Place 3 《ゲーム》 Character from Hand into Waiting Room] When this card is placed on Stage by 「炎帝ノ国のギルドマスター」's effect, you may pay the cost. If you did, STAND this card. （When Trigger Check 「永遠の絶頂」 to place this card on Stage can be activated also)"
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "064",
-        "image": "https://pbs.twimg.com/media/EjEjuPgVgAA8Iyn?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63108-large.jpg"
     },
     {
-        "name": "0/0 Marx",
+        "name": "トラッパーマルクス",
         "code": "BFR/S78-065",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "遠隔設置",
         "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, this turn, it gains the following ability: \"CONT - This card cannot return to hand or be sent to Memory.\"",
-            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character.\r\n"
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, during this turn, it gains the following Ability. 『【C】This card cannot return to Hand and cannot send to Memory.』",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
         ],
         "attributes": [
-            "Game",
-            "Trap"
+            "Game 《ゲーム》",
+            "《罠》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "065",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss12.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63110-large.jpg"
     },
     {
-        "name": "0/0 Shin",
+        "name": "崩剣のシン",
         "code": "BFR/S78-066",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "今回は、勝たせてもらう！",
         "ability": [
-            "CONT - All of your characters gain \"CONT - This cannot Side Attack.\"",
-            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot that has a character in the slot across from it.\r\n"
+            "【C】All your Character gains the following Ability. 『【C】This card cannot Side Attack.』",
+            "【A】At the beginning of opponent's Attack Phase, At the beginning of opponent's Attack Phase, you may move this card into an empty slot at Front Row with an opponent's Character facing it."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "066",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201110_ss13.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63111-large.jpg"
     },
     {
-        "name": "1/1 Misery",
+        "name": "各々の役割 ミザリー",
         "code": "BFR/S78-067",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "1",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "さすがですねマルクス。あなたのトラップは",
         "ability": [
-            "AUTO - When your other character is Reversed, choose 1 of your <Game> characters, this turn, it gets +2000 power.",
-            "ACT - BRAINSTORM [(2) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 Climax from your Waiting Room, and add it to hand."
+            "【A】When your other Character's battle opponent becomes REVERSE, choose 1 of your 《ゲーム》 Character, during this turn, it gets +2000 Power.",
+            "【S】CONCENTRATION ［(2) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Climax from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "067",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201117_is06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63112-large.jpg"
     },
     {
-        "name": "2/1 Maple",
+        "name": "ノーダメージ メイプル",
         "code": "BFR/S78-068",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - [Discard 2 cards] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Memory.",
-            "ACT - BACKUP +2500"
+            "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, send it to Memory.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "068",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd03.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63113-large.jpg"
     },
     {
-        "name": "2/1 Mii",
+        "name": "託された命 ミィ",
         "code": "BFR/S78-069",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "メイプルーッ！",
         "ability": [
-            "AUTO - (1) When this Front Attacks, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -1 Level.",
-            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
+            "【A】[(1)] When this card Front Attack, you may pay the cost. If you did, choose 1 opponent's Character, during this turn, it gets -1 Level.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 2 or lower, you may REVERSE that Character."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "069",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201117_is07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63114-large.jpg"
     },
     {
-        "name": "3/2 Maple",
+        "name": "黒薔薇ノ鎧 メイプル",
         "code": "BFR/S78-070",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 2,
         "flavor_text": "-",
         "ability": [
-            "CONT - If you have 2 or more {3/2 Sally - 096} in your Waiting Room, this gets -1 Level in hand.",
-            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 {3/2 Sally - 096} from your Waiting Room, and place it on stage in any slot."
+            "【C】If your Waiting Room has 2 or more 「大海の衣 サリー」, this card gets -1 Level in your Hand.",
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「大海の衣 サリー」 from your Waiting Room, place it into any slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "070",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201113_id08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63115-large.jpg"
     },
     {
-        "name": "1/0 Mii",
+        "name": "ギルドマスター ミィ",
         "code": "BFR/S78-071",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ダメージを受けた者は、ミザリーに回復してもらえ！",
         "ability": [
-            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Level 0 or lower character from your Waiting Room, and place it on stage in any slot."
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with Level 0 or lower from your Waiting Room, place it into any slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "071",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201117_is08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63116-large.jpg"
     },
     {
-        "name": "1/0 Mii",
+        "name": "火炎牢 ミィ",
         "code": "BFR/S78-072",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "万物の根源、象徴たる炎…",
         "ability": [
-            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Game> characters times 500.",
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, this turn, it gains the following ability: \"CONT - This card cannot return to hand or be sent to Memory.\""
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《ゲーム》 Character x500.",
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, during this turn, it gains the following Ability. 『【C】This card cannot return to Hand, and cannot send to Memory.』"
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "072",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201117_is09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63117-large.jpg"
     },
     {
-        "name": "1/1 Maple",
+        "name": "不屈の守護者 メイプル",
         "code": "BFR/S78-073",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "うわああ",
         "ability": [
-            "CONT - If you have 2 or more other <Game> characters, this gets +2000 power.",
-            "AUTO - ENCORE [Discard 1 character]"
+            "【C】If you have 2 or more other 《ゲーム》 Character, this card gets ＋2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "073",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63118-large.jpg"
     },
     {
-        "name": "2/1 Maple",
+        "name": "【毒竜】 メイプル",
         "code": "BFR/S78-074",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "【毒竜】！",
         "ability": [
-            "AUTO - When this is placed on stage from hand, all of your opponent's characters get -1000 power, until the end of the turn."
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character gets -1000 Power."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "074",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li13.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63119-large.jpg"
     },
     {
-        "name": "1/1 Event",
+        "name": "ユニークシリーズ",
         "code": "BFR/S78-075",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Event",
-        "color": "",
+        "color": "RED",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "power": "",
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "壊れてもそのたび強力になって元に戻る！",
         "ability": [
-            "COUNTER - Choose 1 of your <Game> characters, this turn, it gets +2500 power. Send this to Memory.",
-            "AUTO - RECOLLECTION [Discard 1 <Game> character] At the start of your Main Phase, if this is in Memory, you may pay cost. If you do, return this to hand."
+            "【COUNTER】Choose 1 of your 《ゲーム》 Character. during this turn, it gets +2500 Power. Send this card to Memory.",
+            "【A】RECOLLECTION [Place 1 《ゲーム》 Character from Hand into Waiting Room] At the beginning of your Main Phase, if this card is in Memory, you may pay the cost. If you did, return this card to Hand."
         ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "075",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd04.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63121-large.jpg"
     },
     {
-        "name": "Standby CX",
+        "name": "ギルドマスター同士の対決",
         "code": "BFR/S78-076",
         "rarity": "CR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "076",
-        "image": "https://i.imgur.com/6wifl8F.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63122-large.jpg"
     },
     {
-        "name": "Gate CX",
+        "name": "ボスモンスター",
         "code": "BFR/S78-077",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "COMEBACK"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "077",
-        "image": "https://i.imgur.com/m67Vl0A.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63124-large.jpg"
     },
     {
-        "name": "Standby CX",
+        "name": "炎帝ノ国のギルドマスター",
         "code": "BFR/S78-078",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "078",
-        "image": "https://i.imgur.com/orxNBes.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63126-large.jpg"
     },
     {
-        "name": "0/0 Frederica",
+        "name": "多重詠唱 フレデリカ",
         "code": "BFR/S78-079",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "2500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this is Reversed, look at up to 3 cards from the top of your deck, choose up to 1 Climax from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card."
+            "【A】When this card becomes REVERSE, look at up to 3 cards from your top Deck, choose up to 1 Climax and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. If you added it to Hand, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "079",
-        "image": "https://pbs.twimg.com/media/EiL8nSVU0AAa71X?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63128-large.jpg"
     },
     {
-        "name": "1/0 Sally",
+        "name": "二人の時間 サリー",
         "code": "BFR/S78-080",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "また次のお楽しみにしとく",
         "ability": [
-            "AUTO - When your Climax is placed on the Climax Area, this turn, this gets +3000 power.",
-            "AUTO - {CX COMBO} When this attacks, if you have the Pants CX (108) in the Climax Area, and you have another <Game> character, mill 2, then choose up to 1 Level X or lower <Game> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+            "【A】When a Climax is placed into your Climax Slot, during this turn, this card gets +3000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「おわらない夕焼けのエリア」 is in your Climax Slot, and you have other 《ゲーム》 Character, place 2 cards from your top Deck into Waiting Room, choose up to 1 《ゲーム》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "080",
-        "image": "https://pbs.twimg.com/media/EjEjqNOUYAAymyA?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63130-large.jpg"
     },
     {
-        "name": "3/2 Kanade",
+        "name": "天才少年 カナデ",
         "code": "BFR/S78-081",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "僕も誘ってくれて嬉しいよ",
         "ability": [
-            "CONT - If you have 4 or more <Game> characters, this gets -1 Level in hand.",
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - When this is placed on stage from hand, if you have another <Game> character, this turn, this gets +2000 power."
+            "【C】If you have 4 or more 《ゲーム》 Character, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】When this card is placed on Stage from Hand, if you have other 《ゲーム》 Character, during this turn, this card gets +2000 Power."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "081",
-        "image": "https://pbs.twimg.com/media/EjEjqONUwAA3lTp?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63132-large.jpg"
     },
     {
-        "name": "3/2 Maple",
+        "name": "機械神 メイプル",
         "code": "BFR/S78-082",
         "rarity": "RR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "「全武装展開」！",
         "ability": [
-            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, send all of your opponent's Stock to Waiting Room, then put an equal number of cards from the top of your opponent's deck into Stock.",
-            "AUTO - {CX COMBO} When this attacks, if you have the Pants CX (107) in the Climax Area, send the bottom 4 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent. X equals the number of Climaxes sent to Waiting Room by this effect."
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock.",
+            "【A】【CXCOMBO】 When this card attacks, if 「展開・左手」 is in your Climax Slot, place 4 cards from opponent's bottom Deck into Waiting Room, deal Ｘ Damage to opponent. Ｘ is equal to the number of Climax among those cards.（Damage can be cancelled）"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "082",
-        "image": "https://pbs.twimg.com/media/EiL8ftYU0AAtFbY?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63134-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "情報戦 サリー",
         "code": "BFR/S78-083",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私と決闘してくれません？",
         "ability": [
-            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them on top of your deck in any order.",
-            "AUTO - When this is placed on stage from hand, your opponent declares 0, 1, 2, or 3. Mill 1, then if the number declared by your opponent matches the Level of the milled card, draw up to X cards. X equals the declared number +1."
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】When this card is placed on Stage from Hand, opponent declares 0 or 1 or 2 or 3. Place the top card of your Deck into Waiting Room, if that card's Level is the same as the number opponent declared, you draw up to X cards. X is equal to the number of opponent declared +1. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "083",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201028_fu04.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63136-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "極振り サリー",
         "code": "BFR/S78-084",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "1500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When your character's Trigger Check reveals a Pants CX, you may draw 1 card. If you do, discard 1 card.",
-            "ACT - [Rest this] Choose 1 of your <Game> characters, this turn, it gets +1500 power."
+            "【A】When your Character Trigger Checks a Climax with Arch Trigger Icon, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】[REST this card] Choose 1 of your 《ゲーム》 Character, during this turn, it gets +1500 Power."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "084",
-        "image": "https://livedoor.blogimg.jp/freedomduo/imgs/8/5/856d8900.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63138-large.jpg"
     },
     {
-        "name": "0/0 Kanade",
+        "name": "多種多彩 カナデ",
         "code": "BFR/S78-085",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "1500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When your Climax is placed on the Climax Area, choose 1 of your characters, this turn, it gets +1000 power.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 6 cards of your deck, then send them to Waiting Room. If there is a Book CX among them, choose 1 <Game> character from your Waiting Room, and add it to hand."
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 6 cards of your Deck, place them into Waiting Room. If there is a Climax with Book Trigger Icon among those cards, choose 1 《ゲーム》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "085",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201105_ro08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63140-large.jpg"
     },
     {
-        "name": "1/0 Frederica",
+        "name": "万能型 フレデリカ",
         "code": "BFR/S78-086",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "連続で使えるわけないもんねー…",
         "ability": [
-            "AUTO - When you use this card's BACKUP, if you have a <Game> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
-            "ACT - BACKUP +1000"
+            "【A】When you use this card's 『ASSIST』, if you have 《ゲーム》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "086",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd05.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63142-large.jpg"
     },
     {
-        "name": "1/0 Maple & Sally",
+        "name": "盾と盾 メイプル＆サリー",
         "code": "BFR/S78-087",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "4500",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters, your opponent chooses 1 Level X or lower character from their Waiting Room, and swaps the two characters. X equals the Level of the character chosen by you -1."
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 opponent's Character with Level 1 or higher, opponent chooses 1 Character with Level X or lower from his/her Waiting Room, exchange them. X is equal to your chosen Character's Level -1."
         ],
         "attributes": [
-            "Game"
+            "Game 《ゲーム》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "087",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201113_id09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63144-large.jpg"
     },
     {
-        "name": "2/1 Frederica",
+        "name": "情報戦 フレデリカ",
         "code": "BFR/S78-088",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "何でそんなことしないといけないのかな～？",
         "ability": [
-            "AUTO - {CX COMBO} When the Blue Stock Soul CX (109) is placed on your Climax Area, if this is in your Front Row, and you have another {copy of this card} on stage, reveal the top card of your deck. If that card is a <Game> character, choose up to 1 of your opponent's Level 3 or lower characters, and shuffle it into your opponent's deck."
+            "【A】【CXCOMBO】When 「決闘システム」 is placed into your Climax Slot, if this card is at Front Row, and you have other 「情報戦 フレデリカ」, reveal the top card of your Deck. If that card is a 《ゲーム》 Character, choose up to 1 opponent's Character with Level 3 or lower, return it to Deck, shuffle his/her Deck afterwards. (Return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "088",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201028_fu05.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63145-large.jpg"
     },
     {
-        "name": "2/2 Maple & Sally",
+        "name": "大親友 メイプル＆サリー",
         "code": "BFR/S78-089",
         "rarity": "R",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "2",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 2,
         "flavor_text": "-",
         "ability": [
-            "CONT - For each of your opponent's Back Row characters, this gets +1500 power.",
-            "AUTO - [(1) Discard 1 <Game> character] When this is Front Attacked, you may pay cost. If you do, this turn, this cannot be Reversed."
+            "【C】For each opponent's Character, this card gets +1500 Power.",
+            "【A】[(1) Place 1 《ゲーム》 Character from Hand into Waiting Room] When this card is being Front Attacked, you may pay the cost. If you did, during this turn, this card cannot become REVERSE."
         ],
         "attributes": [
-            "Game"
+            "Game 《ゲーム》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201028_fu06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63147-large.jpg"
     },
     {
-        "name": "0/0 Drag",
+        "name": "バーサーク ドラグ",
         "code": "BFR/S78-090",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "バーサーク！",
         "ability": [
-            "AUTO - When this is placed on stage from hand, all of your opponent's Front Row characters get -500 power, until the end of the turn.",
-            "AUTO - [Discard 1 <Game> character] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card."
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character gets -500 Power.",
+            "【A】[Place 1 《ゲーム》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, you draw 1 card."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63149-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "青ク静カナ海 メイプル",
         "code": "BFR/S78-091",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "すごく静かで落ち着く感じ…",
         "ability": [
-            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card."
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "091",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201113_id10.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63150-large.jpg"
     },
     {
-        "name": "1/0 Kanade",
+        "name": "魔導書庫 カナデ",
         "code": "BFR/S78-092",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "4000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - {CX COMBO} When the Book CX (110) is placed on your Climax Area, if this is in your Front Row, and you have another <Game> character, choose 1 of the following 2 effects, and resolve it:",
-            "a) Choose 1 {1/0 Event - 106} from your Waiting Room, and add it to hand.",
-            "b) Search your deck for up to 1 {1/0 Event - 106}, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
-            "AUTO - When this attacks, choose 1 of your <Game> characters, this turn, it gets +1500 power."
+            "【A】【CXCOMBO】When 「神界書庫」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《ゲーム》 Character, choose and perform 1 of the following 2 effects.",
+            "『Choose 1 「魔導書庫」 from your Waiting Room, return it to Hand.』",
+            "『Search your Deck for up to 1 「魔導書庫」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.』",
+            "【A】When this card attacks, choose 1 of your 《ゲーム》 Character, during this turn, it gets +1500 Power."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201105_ro09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63151-large.jpg"
     },
     {
-        "name": "1/0 Oboro",
+        "name": "覚醒 朧",
         "code": "BFR/S78-093",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "5000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this attacks, choose 1 of your other <Game> characters, this turn, it gets +X power. X equals the number of your other <Game> characters times 500."
+            "【A】When this card attacks, choose 1 of your other 《ゲーム》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《ゲーム》 Character x500."
         ],
         "attributes": [
-            "Game",
-            "Monster"
+            "Game 《ゲーム》",
+            "Monster 《モンスター》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi10.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63152-large.jpg"
     },
     {
-        "name": "1/0 Maple",
+        "name": "悪食 メイプル",
         "code": "BFR/S78-094",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "大盾って、思ってたより強いかも！",
         "ability": [
-            "AUTO - When this card's battle opponent is Reversed, if there is a Climax in your Climax Area, you may put the top card of your deck into Stock.",
-            "AUTO - When this card's battle opponent is Reversed, send that character to Memory."
+            "【A】When this card's battle opponent becomes REVERSE, if a Climax in your Climax Slot, you may place the top card of your Deck into Stock.",
+            "【A】When this card's battle opponent becomes REVERSE, send that Character to Memory."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "094",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201118_se09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63153-large.jpg"
     },
     {
-        "name": "1/1 Payne",
+        "name": "ギルドマスター ペイン",
         "code": "BFR/S78-095",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "通用しない！",
         "ability": [
-            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to the bottom of your opponent's deck."
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
         ],
         "attributes": [
-            "Game",
-            "Holy Sword"
+            "Game 《ゲーム》",
+            "《聖剣》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63154-large.jpg"
     },
     {
-        "name": "3/2 Sally",
+        "name": "大海の衣 サリー",
         "code": "BFR/S78-096",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
         "flavor_text": "-",
         "ability": [
-            "CONT - For each of your Back Row <Game> characters, this gets +500 power.",
-            "AUTO - At the start of your opponent's Attack Phase, if this is in the Front Row, choose up to 1 of your opponent's characters, this turn, it gets +4 Soul and gains \"CONT - This cannot Side Attack.\""
+            "【C】For each of your other 《ゲーム》 Character at Back Row, this card gets +500 Power.",
+            "【A】At the beginning of opponent's Attack Phase, if this card is at Front Row, choose up to 1 opponent's Character, during this turn, it gets +4 Soul, gains the following Ability. 『【C】This card cannot Side Attack.』"
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "096",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201113_id11.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63155-large.jpg"
     },
     {
-        "name": "0/0 Dred",
+        "name": "超加速 ドレッド",
         "code": "BFR/S78-097",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "手加減なしでいくぜ…",
         "ability": [
-            "AUTO - When this is placed on stage from hand, if you have another <Game> character, this turn, this gets +1 Level and +1500 power.",
-            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 <Game> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room."
+            "【A】When this card is placed on Stage from Hand, if you have other 《ゲーム》 Character, during this turn, this card gets +1 Level and +1500 Power.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 2 《ゲーム》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "097",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201104_jd08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63156-large.jpg"
     },
     {
-        "name": "0/0 Sally",
+        "name": "嘘のスキル サリー",
         "code": "BFR/S78-098",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "『流水』まで使わされるなんて……",
         "ability": [
-            "CONT - If you do not have any other characters, this gets +2000 power.",
-            "AUTO - During this card's battle, if damage taken by you is cancelled, you may return this to hand.",
-            "AUTO - During this card's battle, if damage taken by you is cancelled, you may declare \"RYUUSUI! (I can't believe my opponent made me resort to using this skill!)\""
+            "【C】If you have no other Character, this card gets +2000 Power.",
+            "【A】During this card's battle, when the Damage you received is cancelled, you may return this card to Hand.",
+            "【A】During this card's battle, when the Damage you received is cancelled, you may declare 「流水」."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "098",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201112_ec09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63157-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "好奇心 メイプル",
         "code": "BFR/S78-099",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "め、めが回ったぁ～",
         "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains \"CONT - This cannot move to other slots.\"",
-            "AUTO - When this is Reversed, put this card on the bottom of your deck."
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character, until end of opponent's next turn, it gains the following Ability. 『【C】This card cannot move to other slot.』",
+            "【A】When this card becomes REVERSE, place this card to bottom Deck."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "099",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63158-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "呪縛 メイプル",
         "code": "BFR/S78-100",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "初めて聞く状態異常だなぁ",
         "ability": [
-            "CONT - This cannot move to other slots.",
-            "CONT - All of your characters gain \"AUTO - When this is Reversed, put this card on the bottom of your deck.\""
+            "【C】This card cannot move to other slot.",
+            "【C】All your Character gains the following Ability. 『【A】When this card becomes REVERSE, place this card to bottom Deck.』"
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201111_li09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63159-large.jpg"
     },
     {
-        "name": "1/0 Sally",
+        "name": "休眠と覚醒 サリー",
         "code": "BFR/S78-101",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "朧！",
         "ability": [
-            "CONT - All of your other <Game> characters get +500 power.",
-            "AUTO - When this is placed on stage from hand, choose 1 {1/0 Oboro - 093} from your Waiting Room, you may put it underneath this card Face-up as a Marker.",
-            "ACT - [Discard 1 character] Choose 1 {1/0 Oboro - 093} from this card's Markers, place it on stage in any slot, and at the end of the turn, you may return it underneath this card Face-up as a Marker."
+            "【C】All your other 《ゲーム》 Character gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「覚醒 朧」 from your Waiting Room, place it under this card face-up as Marker.",
+            "【S】[Place 1 Character from Hand into Waiting Room] Choose 1 「覚醒 朧」 under this card, place it into any slot on Stage. At the end of that turn, you may place that Character under this card face-up as Marker."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "101",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi11.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63160-large.jpg"
     },
     {
-        "name": "1/1 Maple",
+        "name": "勝利への方程式 メイプル",
         "code": "BFR/S78-102",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "大丈夫、貫通じゃない！",
         "ability": [
-            "CONT - ASSIST Level x 500 to <Game> characters in front of this card.",
-            "AUTO - This ability activates up to once per turn. When you use an ACT ability, choose 1 of your characters, this turn, it gets +1000 power."
+            "【C】SUPPORT All your 《ゲーム》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】This Ability can be activated up to 1 time each turn. When you use 【S】, choose 1 of your Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "102",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201102_nv08.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63161-large.jpg"
     },
     {
-        "name": "2/1 Kanade",
+        "name": "勝利の為に カナデ",
         "code": "BFR/S78-103",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "オーブは誰にも渡さないよッ！",
         "ability": [
-            "CONT - All of your other {3/2 Yellow Maple - 002} and {3/2 Red Maple - 063} gain the following ability: \"CONT - This cannot be targeted by your opponent's effects.\"",
-            "ACT - [Discard 2 cards, Rest this] Choose 1 character from your Waiting Room that has the same name as a character on your stage, and place it in any slot on stage."
+            "【C】All your other 「身捧ぐ慈愛 メイプル」 and 「暴虐 メイプル」 gains the following Ability. 『【C】This card cannot be chosen by opponent's effect.』",
+            "【S】[Place 2 cards from Hand into Waiting Room, REST this card] Choose 1 Character from your Waiting Room that has the same name as your Character on Stage, place it into any slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "103",
-        "image": "https://pbs.twimg.com/media/EiL8jYrU4AAanU9?format=jpg&name=medium",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63162-large.jpg"
     },
     {
-        "name": "2/1 Maple",
+        "name": "極振り メイプル",
         "code": "BFR/S78-104",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this attacks, if you have 4 or more other <Game> characters, choose 1 of your characters, this turn, it gets +2 Soul.",
-            "AUTO - [Discard 1 card] During your opponent's turn, when this is Reversed, you may pay cost. If you do, Rest this, and at the start of your next Encore Step, send this to Waiting Room."
+            "【A】When this card attacks, if you have 4 or more other 《ゲーム》 Character, choose 1 of your Character, during this turn, it gets +2 Soul.",
+            "【A】[Place 1 card from Hand into Waiting Room] During opponent's turn, when this card becomes REVERSE, you may pay the cost. If you did, REST this card, at the beginning of your next Encore Step, place this card into Waiting Room."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "104",
-        "image": "https://livedoor.blogimg.jp/freedomduo/imgs/3/1/31bd0a7f.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63163-large.jpg"
     },
     {
-        "name": "2/1 Sally",
+        "name": "剣の舞 サリー",
         "code": "BFR/S78-105",
         "rarity": "C",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "攻撃をかわすとストレングス上昇",
         "ability": [
-            "CONT - EXPERIENCE 5 - During your turn, if the sum of Levels of cards in your Level Zone is 5 or more, this gets +6000 power.",
-            "AUTO - When this is placed on stage from hand, all players resolve the following effect: \"If you have 5 or more Memory, choose 4 cards from your Memory, and send all other cards to Waiting Room.\""
+            "【C】EXPERIENCE During your turn, if the total Level in your Level Slot is 5 or higher, this card gets +6000 Power.",
+            "【A】When this card is placed on Stage from Hand, both player perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards from your Memory into Waiting Room except for those 4 cards.』"
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "105",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201112_ec10.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63164-large.jpg"
     },
     {
-        "name": "1/0 Event ",
+        "name": "魔導書庫",
         "code": "BFR/S78-106",
         "rarity": "U",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Event",
-        "color": "",
+        "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "…僕は引きが強いなあ",
         "ability": [
-            "Look at up to 4 cards from the top of your deck, choose up to 1 <Game> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+            "Look at up to 4 cards from your top Deck, choose up to 1 《ゲーム》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "106",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201105_ro10.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63165-large.jpg"
     },
     {
-        "name": "Pants CX",
+        "name": "展開・左手",
         "code": "BFR/S78-107",
         "rarity": "CR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "flavor_text": "行っくよォォォ～",
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "107",
-        "image": "https://i.imgur.com/zkAhChy.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63166-large.jpg"
     },
     {
-        "name": "Pants CX",
+        "name": "おわらない夕焼けのエリア",
         "code": "BFR/S78-108",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "108",
-        "image": "https://i.imgur.com/PuLpeXy.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63168-large.jpg"
     },
     {
-        "name": "Blue Stock Soul CX ",
+        "name": "決闘システム",
         "code": "BFR/S78-109",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "flavor_text": "情報を制する者が戦いを制するってやつね～",
+        "ability": [
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Blue card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "109",
-        "image": "https://i.imgur.com/a8T0jBt.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63170-large.jpg"
     },
     {
-        "name": "Book CX",
+        "name": "神界書庫",
         "code": "BFR/S78-110",
         "rarity": "CC",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
+        ],
         "attributes": [],
         "set": "BFR",
         "release": "S78",
         "sid": "110",
-        "image": "https://i.imgur.com/bc57ncu.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63171-large.jpg"
     },
     {
-        "name": "0/0 Maple",
+        "name": "楽しい時間 メイプル",
         "code": "BFR/S78-111",
         "rarity": "PR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "冒険旅行って感じでわくわくするね",
         "ability": [
-            "CONT - During your opponent's turn, all of your other characters get +500 power.",
-            "AUTO - When your Climax is placed on the Climax Area, choose 1 of your characters, until the end of your opponent's next turn, it gets +500 power."
+            "【C】During opponent's turn, all your other Character gets +500 Power.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, until end of opponent's next turn, it gets +500 Power."
         ],
         "attributes": [
-            "Game",
-            "Shield"
+            "Game 《ゲーム》",
+            "Shield 《盾》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "111",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi04.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63172-large.jpg"
     },
     {
-        "name": "1/1 Kasumi",
+        "name": "感恩報謝 カスミ",
         "code": "BFR/S78-112",
         "rarity": "PR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "GREEN",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "礼を言う",
         "ability": [
-            "AUTO - (1) At the start of your opponent's Attack Phase, you may pay cost. If you do, choose 1 of your <Game> characters and this card, Stand them and swap their positions on stage."
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your 《ゲーム》 Character and this card, STAND and exchange them."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "112",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi05.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63173-large.jpg"
     },
     {
-        "name": "0/0 Mii",
+        "name": "カリスマ ミィ",
         "code": "BFR/S78-113",
         "rarity": "PR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
-        "soul": 0,
+        "power": "3000",
+        "soul": 1,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is not a <Game> character, Rest this.",
-            "AUTO - When this attacks, reveal the top card of your deck. If that card is a <Game> character, this turn, this gets +2000 power."
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《ゲーム》 Character, REST this card. (Return revealed card to its original position)",
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《ゲーム》 Character, during this turn, this card gets +2000 Power. (Return revealed card to its original position)"
         ],
         "attributes": [
-            "Game",
-            "Magic"
+            "Game 《ゲーム》",
+            "Magic 《魔法》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "113",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi06.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63174-large.jpg"
     },
     {
-        "name": "2/1 Sally",
+        "name": "新装備 サリー",
         "code": "BFR/S78-114",
         "rarity": "PR",
-        "expansion": "Bofuri",
-        "side": "W",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
         "type": "Character",
-        "color": "",
+        "color": "BLUE",
         "level": "2",
         "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8000",
+        "soul": 1,
+        "flavor_text": "メイプルとパーティ組めるよ！",
         "ability": [
-            "AUTO - When this card's battle opponent is Reversed, you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot."
+            "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「新装備 サリー」 from your Memory, place it into any slot on Stage."
         ],
         "attributes": [
-            "Game",
-            "Weapon"
+            "Game 《ゲーム》",
+            "Weapon 《武器》"
         ],
         "set": "BFR",
         "release": "S78",
         "sid": "114",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/today_card/20201023_bi07.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card63175-large.jpg"
+    },
+    {
+        "name": "仲良し二人組 メイプル＆サリー",
+        "code": "BFR/S78-P01",
+        "rarity": "PR",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《ゲーム》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)"
+        ],
+        "attributes": [
+            "Game 《ゲーム》"
+        ],
+        "set": "BFR",
+        "release": "S78",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card63176-large.jpg"
+    },
+    {
+        "name": "新しいスキル メイプル",
+        "code": "BFR/S78-P02",
+        "rarity": "PR",
+        "expansion": "Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "助かったー！",
+        "ability": [
+            "【A】 When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 of your Character, during this turn, it gets ＋1500 Power.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ゲーム》 Character from your Clock, return it to Hand, place the top card of your Deck into Clock."
+        ],
+        "attributes": [
+            "Game 《ゲーム》",
+            "Shield 《盾》"
+        ],
+        "set": "BFR",
+        "release": "S78",
+        "sid": "P02",
+        "image": "https://images.littleakiba.com/tcg/card63177-large.jpg"
     },
     {
         "name": "0/0 Maple",
