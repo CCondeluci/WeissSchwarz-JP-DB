@@ -891,5 +891,88 @@
         "release": "WE07",
         "sid": "78",
         "image": "https://images.littleakiba.com/tcg/card28006-large.jpg"
+    },
+    {
+        "name": "委員長 杏",
+        "code": "CL/WE07-67",
+        "rarity": "RE",
+        "expansion": "Clannad Vol.3",
+        "side": "WE",
+        "type": "Character",
+        "color": "RED",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "渚「帰りましょ、朋也くん」",
+        "ability": [
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+            "【自】 このカードがアタックした時、クライマックス置場に「恋のトライアングル」があるなら、あなたは自分の控え室のカード名に「朋也」を含むキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋5000。"
+        ],
+        "attributes": [
+            "双子",
+            "委員長"
+        ],
+        "set": "CL",
+        "release": "WE07",
+        "sid": "67",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_67.png"
+    },
+    {
+        "name": "恋のトライアングル",
+        "code": "CL/WE07-68",
+        "rarity": "RE",
+        "expansion": "Clannad Vol.3",
+        "side": "WE",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "DOOR"
+        ],
+        "power": "0",
+        "soul": 0,
+        "flavor_text": "渚「帰りましょ、朋也くん」",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。"
+        ],
+        "attributes": [
+            "双子",
+            "委員長"
+        ],
+        "set": "CL",
+        "release": "WE07",
+        "sid": "68",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_68.png"
+    },
+    {
+        "name": "一ノ瀬 ことみ",
+        "code": "CL/WE07-52",
+        "rarity": "PR",
+        "expansion": "Clannad Vol.3",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "風子「楽しいことは………、これから始りますよ」",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "本",
+            "音楽"
+        ],
+        "set": "CL",
+        "release": "WE07",
+        "sid": "52",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_52.png"
     }
 ]

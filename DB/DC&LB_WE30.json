@@ -1019,5 +1019,80 @@
         "release": "WE30",
         "sid": "19",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dc_we30/dc_we30_19.png"
+    },
+    {
+        "name": "Best Shot！",
+        "code": "LB/WE30-53",
+        "rarity": "RE",
+        "expansion": "Da Capo VS Little Busters",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "53",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_53.png"
+    },
+    {
+        "name": "“たくさんの思い出”沙耶",
+        "code": "LB/WE30-P06",
+        "rarity": "PR",
+        "expansion": "Da Capo VS Little Busters",
+        "side": "WE",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを2枚選び、それらのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "武器"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_p06.png"
+    },
+    {
+        "name": "いつかの未来のために",
+        "code": "LB/WE30-49",
+        "rarity": "RE",
+        "expansion": "Da Capo VS Little Busters",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "STANDBY",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "49",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_49.png"
     }
 ]
