@@ -1,426 +1,2558 @@
 [
     {
-        "name": "1/0 Shion",
-        "code": "TSK/S82-002",
+        "name": "仲間たちの為に リムル",
+        "code": "TSK/S82-001",
         "rarity": "RR",
-        "expansion": "Slime Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
-        "ability": [
-            "CONT - If all of your characters are <Demon Continent>, this gets +1000 power.",
-            "AUTO - {CX COMBO} When this attacks, if you have the Choice CX (026) in the Climax Area, and you have 4 or more other <Demon Continent> characters, choose 1 character from your Waiting Room, you may add it to hand."
-        ],
-        "attributes": [
-            "Demon Continent",
-            "Secretary"
-        ],
-        "set": "TSK",
-        "release": "S82",
-        "sid": "002",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804636391434223666/TSKVol.png?1",
-        "community": true
-    },
-    {
-        "name": "3/2 Rimuru",
-        "code": "TSK/S82-003",
-        "rarity": "RR",
-        "expansion": "Slime Vol.2",
-        "side": "S",
-        "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
-        "ability": [
-            "AUTO - When this is placed on stage from hand or via the {CX COMBO} of {another copy of this card}, you may Heal 1.",
-            "AUTO - {CX COMBO} [(3) Discard 1 card, Send this to Memory] At the end of this card's attack, if you have the Choice CX (027) in the Climax Area, you may pay cost. If you do, mill 2. If all of the milled cards are <Demon Continent> characters and/or Yellow Climaxes, choose 1 character from your Waiting Room, you may place it on stage in this card's former slot."
-        ],
-        "attributes": [
-            "Demon Continent",
-            "Slime"
-        ],
-        "set": "TSK",
-        "release": "S82",
-        "sid": "003",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804637207670554664/TSKVol.png?1",
-        "community": true
-    },
-    {
-        "name": "Choice CX",
-        "code": "TSK/S82-026",
-        "rarity": "CR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
         "type": "Climax",
-        "color": "",
+        "color": "YELLOW",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "1500",
+        "soul": 0,
+        "flavor_text": "お前たちは一旦下がって少し休むといい",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "001",
+        "image": "https://images.littleakiba.com/tcg/card65705-large.jpg"
+    },
+    {
+        "name": "“断頭鬼刃” シオン",
+        "code": "TSK/S82-002",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "002",
+        "image": "https://images.littleakiba.com/tcg/card65707-large.jpg"
+    },
+    {
+        "name": "受け取った姿 リムル",
+        "code": "TSK/S82-003",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 0,
+        "flavor_text": "シズさんは俺と同郷で、あとの事を俺に託して逝ったよ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "003",
+        "image": "https://images.littleakiba.com/tcg/card65709-large.jpg"
+    },
+    {
+        "name": "一件落着 リムル",
+        "code": "TSK/S82-004",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "よっと…",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "004",
+        "image": "https://images.littleakiba.com/tcg/card65711-large.jpg"
+    },
+    {
+        "name": "私の物です！ シオン",
+        "code": "TSK/S82-005",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "005",
+        "image": "https://images.littleakiba.com/tcg/card65713-large.jpg"
+    },
+    {
+        "name": "長引く戦い リムル",
+        "code": "TSK/S82-006",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 0,
+        "flavor_text": "総力戦で3割…これはまずいな…",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "006",
+        "image": "https://images.littleakiba.com/tcg/card65715-large.jpg"
+    },
+    {
+        "name": "剣鬼 ハクロウ",
+        "code": "TSK/S82-007",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 0,
+        "flavor_text": "ほっほっほ、お見事でしたなリムル様",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "007",
+        "image": "https://images.littleakiba.com/tcg/card65716-large.jpg"
+    },
+    {
+        "name": "秘書兼護衛役 シオン",
+        "code": "TSK/S82-008",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 0,
+        "flavor_text": "――では、リムルさま、まいりましょう。お昼が冷めてしまいます",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "008",
+        "image": "https://images.littleakiba.com/tcg/card65717-large.jpg"
+    },
+    {
+        "name": "クールビューティ シオン",
+        "code": "TSK/S82-009",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "009",
+        "image": "https://images.littleakiba.com/tcg/card65718-large.jpg"
+    },
+    {
+        "name": "大太刀の使い手 シオン",
+        "code": "TSK/S82-010",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "010",
+        "image": "https://images.littleakiba.com/tcg/card65720-large.jpg"
+    },
+    {
+        "name": "“水氷大魔槍” エレン",
+        "code": "TSK/S82-011",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "アイシクルラーンス！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "011",
+        "image": "https://images.littleakiba.com/tcg/card65721-large.jpg"
+    },
+    {
+        "name": "一閃 ハクロウ",
+        "code": "TSK/S82-012",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "012",
+        "image": "https://images.littleakiba.com/tcg/card65722-large.jpg"
+    },
+    {
+        "name": "咎める リムル",
+        "code": "TSK/S82-013",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "3500",
+        "soul": 0,
+        "flavor_text": "ダメ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "013",
+        "image": "https://images.littleakiba.com/tcg/card65723-large.jpg"
+    },
+    {
+        "name": "勘違い リムル",
+        "code": "TSK/S82-014",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 0,
+        "flavor_text": "あのな、こいつ、どうやらお前に用事があるみたいなんだけど",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "014",
+        "image": "https://images.littleakiba.com/tcg/card65724-large.jpg"
+    },
+    {
+        "name": "華麗な剣さばき ハクロウ",
+        "code": "TSK/S82-015",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "015",
+        "image": "https://images.littleakiba.com/tcg/card65725-large.jpg"
+    },
+    {
+        "name": "3つのルール リムル",
+        "code": "TSK/S82-016",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "ルールは三つ。最低この三つは守って欲しい",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "016",
+        "image": "https://images.littleakiba.com/tcg/card65726-large.jpg"
+    },
+    {
+        "name": "イタズラ好き ラミリス",
+        "code": "TSK/S82-017",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "017",
+        "image": "https://images.littleakiba.com/tcg/card65727-large.jpg"
+    },
+    {
+        "name": "命の危機 リムル",
+        "code": "TSK/S82-018",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 0,
+        "flavor_text": "よくわからんけど、わかった！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "018",
+        "image": "https://images.littleakiba.com/tcg/card65728-large.jpg"
+    },
+    {
+        "name": "不穏な空気 シオン",
+        "code": "TSK/S82-019",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "何者です!?",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "019",
+        "image": "https://images.littleakiba.com/tcg/card65729-large.jpg"
+    },
+    {
+        "name": "晩飯前 ハクロウ",
+        "code": "TSK/S82-020",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
+        "soul": 0,
+        "flavor_text": "これくらい朝飯前……いや晩飯前じゃよ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "020",
+        "image": "https://images.littleakiba.com/tcg/card65730-large.jpg"
+    },
+    {
+        "name": "お約束？ シオン",
+        "code": "TSK/S82-021",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "……あれ？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "021",
+        "image": "https://images.littleakiba.com/tcg/card65731-large.jpg"
+    },
+    {
+        "name": "できる女 シオン",
+        "code": "TSK/S82-022",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "022",
+        "image": "https://images.littleakiba.com/tcg/card65732-large.jpg"
+    },
+    {
+        "name": "夕日の中で ゲルド",
+        "code": "TSK/S82-023",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "023",
+        "image": "https://images.littleakiba.com/tcg/card65733-large.jpg"
+    },
+    {
+        "name": "初めての友達",
+        "code": "TSK/S82-024",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "024",
+        "image": "https://images.littleakiba.com/tcg/card65734-large.jpg"
+    },
+    {
+        "name": "スリープモード",
+        "code": "TSK/S82-025",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "025",
+        "image": "https://images.littleakiba.com/tcg/card65735-large.jpg"
+    },
+    {
+        "name": "断頭鬼刃",
+        "code": "TSK/S82-026",
+        "rarity": "CR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
         "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "026",
-        "image": "https://i.imgur.com/fRNXNCd.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65736-large.jpg"
     },
     {
-        "name": "Choice CX",
+        "name": "Nameless Story",
         "code": "TSK/S82-027",
         "rarity": "CR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "CHOICE"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "Translations Coming Soon!"
+        ],
         "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "027",
-        "image": "https://i.imgur.com/yejOT5Q.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65738-large.jpg"
     },
     {
-        "name": "0/0 Milim",
+        "name": "頼れる存在",
+        "code": "TSK/S82-028",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "こういう時くらい、俺を頼ってくれよ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "028",
+        "image": "https://images.littleakiba.com/tcg/card65740-large.jpg"
+    },
+    {
+        "name": "うまいのだぁ！ ミリム",
         "code": "TSK/S82-029",
         "rarity": "RR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "1500",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "はむ～♡",
         "ability": [
-            "CONT - If all of your characters are <Demon Continent>, this gets +2000 power.",
-            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot with a character in the slot across from it."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Demon Lord"
-        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "029",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804637810543820820/TSKVol.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65741-large.jpg"
     },
     {
-        "name": "1/0 Rimuru",
+        "name": "流されるまま リムル",
         "code": "TSK/S82-030",
         "rarity": "RR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "5500",
         "soul": 0,
         "flavor_text": "-",
         "ability": [
-            "CONT - This cannot Side Attack.",
-            "AUTO - {CX COMBO} When this attacks, if you have the Standby CX (065) in the Climax Area, and you have another <Demon Continent> character, during the Trigger Step of this attack, perform Trigger Check twice."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Slime"
-        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "030",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804638669155205130/TSKVol.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65743-large.jpg"
     },
     {
-        "name": "3/2 Shuna",
+        "name": "喜色満面 シュナ",
         "code": "TSK/S82-031",
         "rarity": "RR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "8500",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "はい！おまかせください",
         "ability": [
-            "CONT - If you have 4 or more <Demon Continent> characters, this gets -1 Level in hand.",
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - When this is placed on stage from hand, if you have another <Demon Continent> character, until the end of your opponent's next turn, this gets +2000 power."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Shrine Maiden"
-        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "031",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804638364359196692/TSKVol.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65744-large.jpg"
     },
     {
-        "name": "3/2 Milim",
+        "name": "“竜星拡散爆” ミリム",
         "code": "TSK/S82-032",
         "rarity": "RR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9000",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "これが手加減というものだ！",
         "ability": [
-            "CONT - If all of your characters are <Demon Continent>, this gets +2000 power.",
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - {CX COMBO} When the Standby CX (066) is placed on your Climax Area, this turn, this gains the following 2 abilities:",
-            "- \"AUTO - (2) When this card's battle opponent is Reversed, you may pay cost. If you do, choose up to 1 {3/5 Event - 063} from your hand, if you meet the Level and Color requirements normally needed to play the card, immediately play that card without paying its normal Cost.\"",
-            "- \"AUTO - (2) When this Direct Attacks, you may pay cost. If you do, deal 2 damage to your opponent.\""
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Maou"
-        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "032",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20210129173220/TSKVol.2_09.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65746-large.jpg"
     },
     {
-        "name": "0/0 Rimuru",
-        "code": "TSK/S82-035",
+        "name": "瞑想中？ ミリム",
+        "code": "TSK/S82-033",
         "rarity": "R",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "500",
         "soul": 0,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.",
-            "AUTO - [Return this to hand] When your Climax is placed on the Climax Area, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +2000 power."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Slime"
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "033",
+        "image": "https://images.littleakiba.com/tcg/card65748-large.jpg"
+    },
+    {
+        "name": "“破壊の暴君” ミリム",
+        "code": "TSK/S82-034",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "フフフ、なんだ、ワタシと遊びたいのか？",
+        "ability": [
+            "Translations Coming Soon!"
         ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "034",
+        "image": "https://images.littleakiba.com/tcg/card65750-large.jpg"
+    },
+    {
+        "name": "精霊の棲家へ リムル",
+        "code": "TSK/S82-035",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "シズさん、絶対にこいつらを救ってみせるから",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20210129173303/TSKVol.2_11.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65752-large.jpg"
     },
     {
-        "name": "2/2 Milim",
-        "code": "TSK/S82-039",
+        "name": "会議中 シュナ",
+        "code": "TSK/S82-036",
         "rarity": "R",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "2",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "リムル様、どうなされます？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "036",
+        "image": "https://images.littleakiba.com/tcg/card65754-large.jpg"
+    },
+    {
+        "name": "可憐な美貌 シュナ",
+        "code": "TSK/S82-037",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "3000",
         "soul": 0,
         "flavor_text": "-",
         "ability": [
-            "CONT - For each of your other Back Row <Demon Continent> characters, this gets +2000 power.",
-            "AUTO - When this attacks, look at the top card of your deck, and put it on top of your deck or into your Waiting Room."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Demon Lord"
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "037",
+        "image": "https://images.littleakiba.com/tcg/card65756-large.jpg"
+    },
+    {
+        "name": "手厚い歓迎 リムル",
+        "code": "TSK/S82-038",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "5500",
+        "soul": 0,
+        "flavor_text": "わっ!?",
+        "ability": [
+            "Translations Coming Soon!"
         ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "038",
+        "image": "https://images.littleakiba.com/tcg/card65758-large.jpg"
+    },
+    {
+        "name": "任せて！ ミリム",
+        "code": "TSK/S82-039",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6500",
+        "soul": 0,
+        "flavor_text": "ふっふっふっ、何か重要なことを忘れてはいないか？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20210129173340/TSKVol.2_12.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65760-large.jpg"
     },
     {
-        "name": "3/2 Rimuru",
+        "name": "聞こえないなぁ？ リムル",
         "code": "TSK/S82-040",
         "rarity": "R",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "3",
         "cost": "2",
-        "trigger": [],
-        "power": "",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "あれー、お返事はぁ？",
         "ability": [
-            "CONT - For each of your other <Demon Continent> characters, this gets +500 power.",
-            "AUTO - When this attacks, choose up to 1 card from your opponent's Waiting Room, and put it on top or bottom of their deck."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Slime"
-        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20210129173407/TSKVol.2_13.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65762-large.jpg"
     },
     {
-        "name": "3/5 Event",
-        "code": "TSK/S82-063",
+        "name": "先陣を切るベニマル",
+        "code": "TSK/S82-041",
         "rarity": "R",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Event",
-        "color": "",
+        "type": "Climax",
+        "color": "RED",
         "level": "3",
-        "cost": "5",
-        "trigger": [],
-        "power": "",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10500",
         "soul": 0,
         "flavor_text": "-",
         "ability": [
-            "If you have a character whose name includes \"Milim\", your opponent reveals the top 7 cards of their deck, shuffles their deck, then send the top X cards of their deck to Clock. X equals the number of Climaxes revealed."
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "041",
+        "image": "https://images.littleakiba.com/tcg/card65764-large.jpg"
+    },
+    {
+        "name": "ゴブリン村の戦い リムル",
+        "code": "TSK/S82-042",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "争う必要がなくなったのはいいことだ。うんうん。平和が一番！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "042",
+        "image": "https://images.littleakiba.com/tcg/card65765-large.jpg"
+    },
+    {
+        "name": "多彩な才能 シュナ",
+        "code": "TSK/S82-043",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "043",
+        "image": "https://images.littleakiba.com/tcg/card65766-large.jpg"
+    },
+    {
+        "name": "器用な食事 シズ",
+        "code": "TSK/S82-044",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "リムル「仮面かぶったまま、器用だな運命の人…」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "044",
+        "image": "https://images.littleakiba.com/tcg/card65767-large.jpg"
+    },
+    {
+        "name": "見守るシュナ",
+        "code": "TSK/S82-045",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "045",
+        "image": "https://images.littleakiba.com/tcg/card65768-large.jpg"
+    },
+    {
+        "name": "大人のたしなみ リムル",
+        "code": "TSK/S82-046",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "うむ…なかなか",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "046",
+        "image": "https://images.littleakiba.com/tcg/card65769-large.jpg"
+    },
+    {
+        "name": "上機嫌 ベニマル",
+        "code": "TSK/S82-047",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "047",
+        "image": "https://images.littleakiba.com/tcg/card65770-large.jpg"
+    },
+    {
+        "name": "できる女 シュナ",
+        "code": "TSK/S82-048",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "048",
+        "image": "https://images.littleakiba.com/tcg/card65771-large.jpg"
+    },
+    {
+        "name": "念願の出番 ミリム",
+        "code": "TSK/S82-049",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "4500",
+        "soul": 0,
+        "flavor_text": "ハッハァー！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "049",
+        "image": "https://images.littleakiba.com/tcg/card65772-large.jpg"
+    },
+    {
+        "name": "祝勝会 ベニマル",
+        "code": "TSK/S82-050",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "050",
+        "image": "https://images.littleakiba.com/tcg/card65773-large.jpg"
+    },
+    {
+        "name": "子供たちを挑発 リムル",
+        "code": "TSK/S82-051",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 0,
+        "flavor_text": "さ、はじめは誰からくる？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "051",
+        "image": "https://images.littleakiba.com/tcg/card65774-large.jpg"
+    },
+    {
+        "name": "可愛くお願い ミリム",
+        "code": "TSK/S82-052",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "6000",
+        "soul": 0,
+        "flavor_text": "リムル「そんな目で見てもダメだ」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "052",
+        "image": "https://images.littleakiba.com/tcg/card65775-large.jpg"
+    },
+    {
+        "name": "祝勝会 クロベエ",
+        "code": "TSK/S82-053",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "いい武器ができそうだべ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "053",
+        "image": "https://images.littleakiba.com/tcg/card65776-large.jpg"
+    },
+    {
+        "name": "マブダチだろ？ リムル",
+        "code": "TSK/S82-054",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 0,
+        "flavor_text": "俺たちはマブダチなんだから、お互いに助け合うじゃん？",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "054",
+        "image": "https://images.littleakiba.com/tcg/card65777-large.jpg"
+    },
+    {
+        "name": "作戦会議 シュナ",
+        "code": "TSK/S82-055",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "055",
+        "image": "https://images.littleakiba.com/tcg/card65778-large.jpg"
+    },
+    {
+        "name": "大勝利！ ミリム",
+        "code": "TSK/S82-056",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "リムル「みごとな手加減だったよ…」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "056",
+        "image": "https://images.littleakiba.com/tcg/card65779-large.jpg"
+    },
+    {
+        "name": "大漁！ ミリム",
+        "code": "TSK/S82-057",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "わ～はっはっはぁ！今日も大漁なのだ！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "057",
+        "image": "https://images.littleakiba.com/tcg/card65780-large.jpg"
+    },
+    {
+        "name": "大号令 ベニマル",
+        "code": "TSK/S82-058",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "全員持てる手段を尽くしてカリュブディスを攻撃しろ！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "058",
+        "image": "https://images.littleakiba.com/tcg/card65781-large.jpg"
+    },
+    {
+        "name": "その身に宿すものは シズ",
+        "code": "TSK/S82-059",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 0,
+        "flavor_text": "うぐっ、うぐあああああー!!",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "059",
+        "image": "https://images.littleakiba.com/tcg/card65782-large.jpg"
+    },
+    {
+        "name": "マブダチだからな！ ミリム",
+        "code": "TSK/S82-060",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5500",
+        "soul": 0,
+        "flavor_text": "確かに、でも…マブダチ…",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "060",
+        "image": "https://images.littleakiba.com/tcg/card65783-large.jpg"
+    },
+    {
+        "name": "憂い顔 シュナ",
+        "code": "TSK/S82-061",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "061",
+        "image": "https://images.littleakiba.com/tcg/card65784-large.jpg"
+    },
+    {
+        "name": "協定を結ぶリムル",
+        "code": "TSK/S82-062",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 0,
+        "flavor_text": "ああ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "062",
+        "image": "https://images.littleakiba.com/tcg/card65785-large.jpg"
+    },
+    {
+        "name": "竜星拡散爆",
+        "code": "TSK/S82-063",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "3",
+        "cost": "5",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "今度は、ワタシがみせてやろう",
+        "ability": [
+            "Translations Coming Soon!"
         ],
         "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "063",
-        "image": "https://ws-tcg.com/wordpress/wp-content/uploads/20210129173420/TSKVol.2_14.png",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65786-large.jpg"
     },
     {
-        "name": "Standby CX",
-        "code": "TSK/S82-065",
-        "rarity": "CR",
-        "expansion": "Slime Vol.2",
+        "name": "災厄、暴風大妖渦",
+        "code": "TSK/S82-064",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "power": "",
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "064",
+        "image": "https://images.littleakiba.com/tcg/card65787-large.jpg"
+    },
+    {
+        "name": "歴史が動いた日",
+        "code": "TSK/S82-065",
+        "rarity": "CR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "『ジュラ・テンペスト連邦国』だ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
         "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "065",
-        "image": "https://i.imgur.com/FyphlaD.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65788-large.jpg"
     },
     {
-        "name": "Standby CX",
+        "name": "最近学んだ手加減",
         "code": "TSK/S82-066",
         "rarity": "CR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
-        "ability": [],
+        "ability": [
+            "Translations Coming Soon!"
+        ],
         "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "066",
-        "image": "https://i.imgur.com/6gNgX7H.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65790-large.jpg"
     },
     {
-        "name": "0/0 Shizu",
-        "code": "TSK/S82-069",
-        "rarity": "RR",
-        "expansion": "Slime Vol.2",
+        "name": "笑顔の頬ずり",
+        "code": "TSK/S82-067",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "type": "Climax",
+        "color": "RED",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
         "soul": 0,
         "flavor_text": "-",
         "ability": [
-            "AUTO - When this attacks, choose 1 of your other <Demon Continent> character, this turn, it gets +X power. X equals the number of your other <Demon Continent> characters times 500.",
-            "AUTO - (1) During your opponent's turn, when this is Reversed, you may pay cost. If you do, Rest this, and at the start of your next Encore Step, send this to Memory"
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Mask"
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "067",
+        "image": "https://images.littleakiba.com/tcg/card65792-large.jpg"
+    },
+    {
+        "name": "もっと戦いたい！",
+        "code": "TSK/S82-068",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "COMEBACK"
         ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "むうっ…",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "068",
+        "image": "https://images.littleakiba.com/tcg/card65793-large.jpg"
+    },
+    {
+        "name": "イフリートの使役者 シズ",
+        "code": "TSK/S82-069",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "069",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804643918796161054/TSKVol.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65794-large.jpg"
     },
     {
-        "name": "0/0 Rimuru",
+        "name": "凱旋 リムル",
         "code": "TSK/S82-070",
         "rarity": "RR",
-        "expansion": "Slime Vol.2",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
         "side": "S",
-        "type": "Character",
-        "color": "",
+        "type": "Climax",
+        "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "power": "",
+        "power": "2000",
         "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "さてと…終わったな",
         "ability": [
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Demon Continent> character, this turn, this gets +1 Level and +1500 power.",
-            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <Demon Continent> characters, Rest it, and move it to an empty Back Row slot."
+            "Translations Coming Soon!"
         ],
-        "attributes": [
-            "Demon Continent",
-            "Slime"
-        ],
+        "attributes": [],
         "set": "TSK",
         "release": "S82",
         "sid": "070",
-        "image": "https://cdn.discordapp.com/attachments/759168560974266400/804644105165864970/TSKVol.png?1",
-        "community": true
+        "image": "https://images.littleakiba.com/tcg/card65796-large.jpg"
+    },
+    {
+        "name": "果敢に立ち向かうシズ",
+        "code": "TSK/S82-071",
+        "rarity": "RR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "10000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "071",
+        "image": "https://images.littleakiba.com/tcg/card65797-large.jpg"
+    },
+    {
+        "name": "湯上りリムル",
+        "code": "TSK/S82-072",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "コーヒー牛乳が欲しいところだ…",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "072",
+        "image": "https://images.littleakiba.com/tcg/card65799-large.jpg"
+    },
+    {
+        "name": "模擬戦 クロエ",
+        "code": "TSK/S82-073",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "073",
+        "image": "https://images.littleakiba.com/tcg/card65801-large.jpg"
+    },
+    {
+        "name": "運命の人 シズ",
+        "code": "TSK/S82-074",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "リムル「ちょっといいかな」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "074",
+        "image": "https://images.littleakiba.com/tcg/card65802-large.jpg"
+    },
+    {
+        "name": "“黒嵐星狼” ランガ",
+        "code": "TSK/S82-075",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "075",
+        "image": "https://images.littleakiba.com/tcg/card65804-large.jpg"
+    },
+    {
+        "name": "ずっとそばに シズ",
+        "code": "TSK/S82-076",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "076",
+        "image": "https://images.littleakiba.com/tcg/card65805-large.jpg"
+    },
+    {
+        "name": "闇に潜む影 ソウエイ",
+        "code": "TSK/S82-077",
+        "rarity": "R",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "077",
+        "image": "https://images.littleakiba.com/tcg/card65807-large.jpg"
+    },
+    {
+        "name": "沈着冷静 ソウエイ",
+        "code": "TSK/S82-078",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "078",
+        "image": "https://images.littleakiba.com/tcg/card65808-large.jpg"
+    },
+    {
+        "name": "神妙な面持ち リムル",
+        "code": "TSK/S82-079",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1500",
+        "soul": 0,
+        "flavor_text": "ふむ",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "079",
+        "image": "https://images.littleakiba.com/tcg/card65809-large.jpg"
+    },
+    {
+        "name": "最後の一押し リムル",
+        "code": "TSK/S82-080",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4500",
+        "soul": 0,
+        "flavor_text": "そうだ！今度、俺が武器を作ってやるよ！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "080",
+        "image": "https://images.littleakiba.com/tcg/card65810-large.jpg"
+    },
+    {
+        "name": "一時撤退 ゴブタ",
+        "code": "TSK/S82-081",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 0,
+        "flavor_text": "ゴブタ「一旦、退却っすーっ！」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "081",
+        "image": "https://images.littleakiba.com/tcg/card65811-large.jpg"
+    },
+    {
+        "name": "ちょっと休憩 リムル",
+        "code": "TSK/S82-082",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2500",
+        "soul": 0,
+        "flavor_text": "ちょっと食休み",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "082",
+        "image": "https://images.littleakiba.com/tcg/card65812-large.jpg"
+    },
+    {
+        "name": "物語の真実 シズ",
+        "code": "TSK/S82-083",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 0,
+        "flavor_text": "準備もなしに相手にしないといけないなんて",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "083",
+        "image": "https://images.littleakiba.com/tcg/card65813-large.jpg"
+    },
+    {
+        "name": "やる時はやる男 ゴブタ",
+        "code": "TSK/S82-084",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "084",
+        "image": "https://images.littleakiba.com/tcg/card65814-large.jpg"
+    },
+    {
+        "name": "活躍の機会 ランガ",
+        "code": "TSK/S82-085",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "3",
+        "cost": "2",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "9500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "085",
+        "image": "https://images.littleakiba.com/tcg/card65815-large.jpg"
+    },
+    {
+        "name": "生き残るため ソウエイ",
+        "code": "TSK/S82-086",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "生き残る確率か。ならば俺も残ろう",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "086",
+        "image": "https://images.littleakiba.com/tcg/card65816-large.jpg"
+    },
+    {
+        "name": "ゴブタとのコンビネーション 嵐牙狼族",
+        "code": "TSK/S82-087",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "087",
+        "image": "https://images.littleakiba.com/tcg/card65817-large.jpg"
+    },
+    {
+        "name": "幸せな夢の中で シズ",
+        "code": "TSK/S82-088",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "088",
+        "image": "https://images.littleakiba.com/tcg/card65818-large.jpg"
+    },
+    {
+        "name": "復讐心 フォビオ",
+        "code": "TSK/S82-089",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "あの小生意気な魔王ミリムを…",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "089",
+        "image": "https://images.littleakiba.com/tcg/card65819-large.jpg"
+    },
+    {
+        "name": "忠実な部下 ソーカ",
+        "code": "TSK/S82-090",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "4000",
+        "soul": 0,
+        "flavor_text": "心得ました。後はお任せください",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "090",
+        "image": "https://images.littleakiba.com/tcg/card65820-large.jpg"
+    },
+    {
+        "name": "祝勝会 ソウエイ",
+        "code": "TSK/S82-091",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "2000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "091",
+        "image": "https://images.littleakiba.com/tcg/card65821-large.jpg"
+    },
+    {
+        "name": "“獅子王” カリオン",
+        "code": "TSK/S82-092",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 0,
+        "flavor_text": "貴様たちに刃を向けぬと誓ってやる",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "092",
+        "image": "https://images.littleakiba.com/tcg/card65822-large.jpg"
+    },
+    {
+        "name": "的確な指示 ガビル",
+        "code": "TSK/S82-093",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "7000",
+        "soul": 0,
+        "flavor_text": "怪我人の手当てを！",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "093",
+        "image": "https://images.littleakiba.com/tcg/card65823-large.jpg"
+    },
+    {
+        "name": "叡智の結晶",
+        "code": "TSK/S82-094",
+        "rarity": "U",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ユウキ「わかりました！ありがとうございます！師匠―っ!!」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "094",
+        "image": "https://images.littleakiba.com/tcg/card65824-large.jpg"
+    },
+    {
+        "name": "未来との邂逅",
+        "code": "TSK/S82-095",
+        "rarity": "C",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "2",
+        "cost": "2",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "リムル「いったい……」",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "095",
+        "image": "https://images.littleakiba.com/tcg/card65825-large.jpg"
+    },
+    {
+        "name": "爆炎の支配者",
+        "code": "TSK/S82-096",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "096",
+        "image": "https://images.littleakiba.com/tcg/card65826-large.jpg"
+    },
+    {
+        "name": "悪いスライムじゃないよ！",
+        "code": "TSK/S82-097",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "097",
+        "image": "https://images.littleakiba.com/tcg/card65828-large.jpg"
+    },
+    {
+        "name": "忍ぶ者達",
+        "code": "TSK/S82-098",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "098",
+        "image": "https://images.littleakiba.com/tcg/card65830-large.jpg"
+    },
+    {
+        "name": "コンビネーションはばっちり！",
+        "code": "TSK/S82-099",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "DRAW"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "099",
+        "image": "https://images.littleakiba.com/tcg/card65831-large.jpg"
+    },
+    {
+        "name": "“豚頭帝”対策会議",
+        "code": "TSK/S82-100",
+        "rarity": "CC",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "N/A",
+        "cost": "N/A",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "100",
+        "image": "https://images.littleakiba.com/tcg/card65832-large.jpg"
+    },
+    {
+        "name": "ぷちシオン",
+        "code": "TSK/S82-101",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "5000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "101",
+        "image": "https://images.littleakiba.com/tcg/card65833-large.jpg"
+    },
+    {
+        "name": "ぷちリムル",
+        "code": "TSK/S82-102",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "2500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "102",
+        "image": "https://images.littleakiba.com/tcg/card65834-large.jpg"
+    },
+    {
+        "name": "ぷちミリム",
+        "code": "TSK/S82-103",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "power": "5000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "103",
+        "image": "https://images.littleakiba.com/tcg/card65835-large.jpg"
+    },
+    {
+        "name": "ぷちシュナ",
+        "code": "TSK/S82-104",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "power": "4500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "104",
+        "image": "https://images.littleakiba.com/tcg/card65836-large.jpg"
+    },
+    {
+        "name": "ぷちシズ",
+        "code": "TSK/S82-105",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "1000",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "105",
+        "image": "https://images.littleakiba.com/tcg/card65837-large.jpg"
+    },
+    {
+        "name": "抗魔の仮面",
+        "code": "TSK/S82-106",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "106",
+        "image": "https://images.littleakiba.com/tcg/card65838-large.jpg"
+    },
+    {
+        "name": "懐かしい姿 リムル",
+        "code": "TSK/S82-P01",
+        "rarity": "PR",
+        "expansion": "Tensei Shitara Slime datta ken Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "power": "500",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "Translations Coming Soon!"
+        ],
+        "attributes": [],
+        "set": "TSK",
+        "release": "S82",
+        "sid": "P01",
+        "image": "https://images.littleakiba.com/tcg/card65839-large.jpg"
     }
 ]
