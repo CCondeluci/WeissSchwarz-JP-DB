@@ -2891,5 +2891,130 @@
         "release": "S80",
         "sid": "104",
         "image": "https://images.littleakiba.com/tcg/card65247-large.jpg"
+    },
+    {
+        "name": "今どきの女の子 アリス",
+        "code": "SAO/S80-P01",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《フラクトライト》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたの《フラクトライト》のキャラ1枚につき、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "整合騎士"
+        ],
+        "set": "SAO",
+        "release": "S80",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_p01.png"
+    },
+    {
+        "name": "マリンルック アスナ",
+        "code": "SAO/S80-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《フラクトライト》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
+            "【自】［手札の《フラクトライト》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "女神"
+        ],
+        "set": "SAO",
+        "release": "S80",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_p02.png"
+    },
+    {
+        "name": "キリトの元へ アスナ",
+        "code": "SAO/S80-P03",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「夜空を纏う英雄 キリト」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードのパワーを＋1000。』",
+            "【自】 絆／「夜空を纏う英雄 キリト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「夜空を纏う英雄 キリト」を1枚選び、手札に戻す）"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "女神"
+        ],
+        "set": "SAO",
+        "release": "S80",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_p03.png"
+    },
+    {
+        "name": "故郷の空 アリス",
+        "code": "SAO/S80-P04",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手の前列のキャラすべてに、そのターン中、パワーを－Ｘし、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。Ｘはあなたの控え室のクライマックスの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "整合騎士"
+        ],
+        "set": "SAO",
+        "release": "S80",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_p04.png"
+    },
+    {
+        "name": "リアルワールドへの帰還 和人",
+        "code": "SAO/S80-P05",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【起】［(1)］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "ネット"
+        ],
+        "set": "SAO",
+        "release": "S80",
+        "sid": "P05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_p05.png"
     }
 ]

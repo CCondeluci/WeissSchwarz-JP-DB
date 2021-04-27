@@ -3612,5 +3612,85 @@
         "release": "S65",
         "sid": "P05",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_p05.png"
+    },
+    {
+        "name": "凛乎の騎士 アリス",
+        "code": "SAO/S65-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "整合騎士"
+        ],
+        "set": "SAO",
+        "release": "S65",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_p02.png"
+    },
+    {
+        "name": "“二人だったから”キリト＆ユージオ",
+        "code": "SAO/S65-P03",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《フラクトライト》なら、このカードのパワーを＋1000。",
+            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "武器",
+            "－"
+        ],
+        "set": "SAO",
+        "release": "S65",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_p03.png"
+    },
+    {
+        "name": "三十番目の整合騎士 アリス",
+        "code": "SAO/S65-P04",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《フラクトライト》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "フラクトライト",
+            "整合騎士"
+        ],
+        "set": "SAO",
+        "release": "S65",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_p04.png"
     }
 ]

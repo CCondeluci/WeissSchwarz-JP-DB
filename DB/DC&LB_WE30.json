@@ -1094,5 +1094,202 @@
         "release": "WE30",
         "sid": "49",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_49.png"
+    },
+    {
+        "name": "あたしたちが付き合おう",
+        "code": "LB/WE30-46",
+        "rarity": "RE",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "46",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_46.png"
+    },
+    {
+        "name": "“いつも仲良し”鈴と小毬",
+        "code": "LB/WE30-47",
+        "rarity": "RE",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたの、《動物》か《お菓子》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
+            "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "動物",
+            "お菓子"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "47",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_47.png"
+    },
+    {
+        "name": "“マスコット”クド",
+        "code": "LB/WE30-48",
+        "rarity": "RE",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "2",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "動物"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "48",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_48.png"
+    },
+    {
+        "name": "メイド服の唯湖",
+        "code": "LB/WE30-50",
+        "rarity": "RE",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "音楽",
+            "メイド"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "50",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_50.png"
+    },
+    {
+        "name": "“ほんわかきゅーと”小毬",
+        "code": "LB/WE30-51",
+        "rarity": "RE",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「メイド服の唯湖」すべてに、ソウルを＋1。",
+            "【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「メイド服の美魚」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "お菓子",
+            "メイド"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "51",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_51.png"
+    },
+    {
+        "name": "“陽気な騒がし屋”葉留佳",
+        "code": "LB/WE30-52",
+        "rarity": "RE",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードのカード名に「葉留佳」か「佳奈多」を含むキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "ビー玉",
+            "双子"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "52",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_52.png"
+    },
+    {
+        "name": "“かわいさ満点”鈴＆小毬",
+        "code": "LB/WE30-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+        ],
+        "attributes": [
+            "動物",
+            "お菓子"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_p02.png"
+    },
+    {
+        "name": "“くぎゃー御用達”クド＆唯湖",
+        "code": "LB/WE30-P04",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "1",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《動物》か《音楽》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "動物",
+            "音楽"
+        ],
+        "set": "LB",
+        "release": "WE30",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_p04.png"
     }
 ]
