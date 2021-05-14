@@ -1253,57 +1253,61 @@
         "name": "凛々しく咲く 神琳",
         "code": "ALL/S76-001",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "撃って、あなたが一流のリリィであることを証明なさい",
         "ability": [
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《リリィ》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 2 cards from your top Deck, choose up to 2 《リリィ》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_001.png"
+        "image": "https://images.littleakiba.com/tcg/card65842-large.jpg"
     },
     {
         "name": "凛々しく咲く 雨嘉",
         "code": "ALL/S76-002",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "……一柳さんと神琳はわたしにチャンスをくれたの",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《リリィ》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ふたりの射程」があり、他のあなたの《リリィ》のキャラがいるなら、あなたは相手のレベル0以下のキャラを1枚まで選び、控え室に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+            "【A】When this card attacks, if you have other 《リリィ》 Character, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「ふたりの射程」 is in your Climax Slot, and you have other 《リリィ》 Character, choose up to 1 opponent's Character with Level 0 or lower, place it into Waiting Room, reveal the top card of your Deck. If that card is Level 1 or higher, add it to Hand. (Climax is considered Level 0. If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "002",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_002.png"
+        "image": "https://images.littleakiba.com/tcg/card65844-large.jpg"
     },
     {
         "name": "凛々しく咲く 鶴紗",
         "code": "ALL/S76-003",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1312,151 +1316,163 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "遠慮すんな。受け取れ",
         "ability": [
-            "【永】 あなたの《リリィ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 あなたのターン中、他のあなたの《リリィ》のキャラがいるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+            "【C】If you have 4 or more 《リリィ》 Character, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if you have other 《リリィ》 Character, this card gets +2500 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may send that Character to Memory.』",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "003",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_003.png"
+        "image": "https://images.littleakiba.com/tcg/card65846-large.jpg"
     },
     {
         "name": "リリィのたしなみ 神琳",
         "code": "ALL/S76-004",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【自】 あなたのトリガーアイコンが[TREASURE]のクライマックスがクライマックス置場に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。』"
+            "【A】When a Climax is Gold Trigger Icon is placed into your Climax Slot, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『You draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.』"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "004",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_004.png"
+        "image": "https://images.littleakiba.com/tcg/card65848-large.jpg"
     },
     {
         "name": "リリィのたしなみ 鶴紗",
         "code": "ALL/S76-005",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。"
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】When this card attacks, if you have 1 or less other Character, you may place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, place that Character into any slot at Back Row."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "005",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_005.png"
+        "image": "https://images.littleakiba.com/tcg/card65849-large.jpg"
     },
     {
         "name": "リリィのたしなみ 雨嘉",
         "code": "ALL/S76-006",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻し、他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《リリィ》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《リリィ》 Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_006.png"
+        "image": "https://images.littleakiba.com/tcg/card65850-large.jpg"
     },
     {
         "name": "戦場に舞う 鶴紗",
         "code": "ALL/S76-007",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "わたしも……無鉄砲……したい",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《リリィ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
-            "【自】 このカードがアタックした時、あなたは他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+            "【A】When this card attacks, if you have 2 or more other 《リリィ》 Character, during this turn, this card gets +2000 Power.",
+            "【A】When this card attacks, choose 1 of your other 《リリィ》 Character, during this turn, it gets +X Power. X is equal to that Character's Soul x1000."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_007.png"
+        "image": "https://images.littleakiba.com/tcg/card65851-large.jpg"
     },
     {
         "name": "“アールヴヘイム”天葉",
         "code": "ALL/S76-008",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "依奈「ノインヴェルト戦術が見たいんでしょ？」",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ノインヴェルト戦術」があるなら、あなたは自分の山札を上から2枚まで見て、《リリィ》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「ノインヴェルト戦術」 is in your Climax Slot, look at up to 2 cards from your top Deck, choose up to 2 《リリィ》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "008",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_008.png"
+        "image": "https://images.littleakiba.com/tcg/card65853-large.jpg"
     },
     {
         "name": "戦場に舞う 雨嘉",
         "code": "ALL/S76-009",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1465,25 +1481,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "こんなところで何もできないなんて、嫌だ",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《リリィ》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
-            "【自】［手札の《リリィ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《リリィ》のキャラを1枚選び、舞台の好きな枠に置く。"
+            "【C】During your turn, if you have 4 or more other 《リリィ》 Character, this card gets +5000 Power, and gains the following Ability. 『【C】During this card's battle, opponent cannot play Event and 『ASSIST』 from Hand.』",
+            "【A】[Place 1 《リリィ》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《リリィ》 Character from your Clock, place it into any slot on Stage."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "009",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_009.png"
+        "image": "https://images.littleakiba.com/tcg/card65855-large.jpg"
     },
     {
         "name": "戦場に舞う 神琳",
         "code": "ALL/S76-010",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1492,149 +1510,163 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "もちろん、諦めるには早すぎます！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「見せない本音」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, return it to Hand, during this turn, this card gets +2000 Power.",
+            "【A】【CXCOMBO】[(2) Place 2 cards from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「見せない本音」 is in your Climax Slot, you may pay the cost. If you did, place that Character into Clock, deal 2 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "010",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_010.png"
+        "image": "https://images.littleakiba.com/tcg/card65857-large.jpg"
     },
     {
         "name": "くつろぎの時間 神琳",
         "code": "ALL/S76-011",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ここのところ冷えますものね",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage.",
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other 《リリィ》 Character, during this turn, it gets +2000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "011",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_011.png"
+        "image": "https://images.littleakiba.com/tcg/card65859-large.jpg"
     },
     {
         "name": "さりげないアドバイス 雨嘉",
         "code": "ALL/S76-012",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "でも、梨璃なら夢結さまからのプレゼントなら",
         "ability": [
-            "【永】 このカードの正面のキャラは他の枠に動かせない。",
-            "【自】 このカードがアタックした時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "【C】The Character facing this card cannot move to other slot.",
+            "【A】When this card attacks, choose 1 of your 《リリィ》 Character, during this turn, it gets +1500 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_012.png"
+        "image": "https://images.littleakiba.com/tcg/card65860-large.jpg"
     },
     {
         "name": "“アールヴヘイム”樟美",
         "code": "ALL/S76-013",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "梨璃さん、かわいそう……",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラすべてに、パワーを＋500。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「ノインヴェルト戦術」が置かれた時、他のあなたの《リリィ》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは相手のキャラを2枚まで選び、思い出にし、相手は自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。』『あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。』"
+            "【C】All your other 《リリィ》 Character gets +500 Power.",
+            "【A】【CXCOMBO】When 「ノインヴェルト戦術」 is placed into your Climax Slot, and you have other 《リリィ》 Character, choose and perform 1 of the following 2 effects.",
+            "『Choose up to 2 opponent's Character, send them to Memory, opponent place those Characters from his/her Memory into any separate slot on Stage.』",
+            "『Choose up to 2 of your Character, during this turn, they gets +1000 Power.』"
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "013",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_013.png"
+        "image": "https://images.littleakiba.com/tcg/card65861-large.jpg"
     },
     {
         "name": "生粋の司令塔 閑",
         "code": "ALL/S76-014",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "情報収集と分析は得意なの",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
-            "【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+            "【A】 When this card is placed on Stage from Hand, you may choose 1 card from your Hand, place it into Stock.",
+            "【A】 When this card becomes REVERSE, during this turn, you cannot use 『【A】 ENCORE』.（Cannot use 『【A】ENCORE [(3)]』 from rule also）"
         ],
         "attributes": [
-            "リリィ"
+            "《リリィ》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "014",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_014.png"
+        "image": "https://images.littleakiba.com/tcg/card65862-large.jpg"
     },
     {
         "name": "“アールヴヘイム”辰姫",
         "code": "ALL/S76-015",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "天葉「なんとかしたいと思うのは、自然なことでしょう？」",
         "ability": [
-            "【永】 このカードはサイドアタックできない。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×500に等しい。"
+            "【C】This card cannot Side Attack.",
+            "【A】When a Climax is placed into your Climax Slot, until end of opponent's next turn, this card gets +X Power. X is equal to the number of your 《リリィ》 Character x500."
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "015",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_015.png"
+        "image": "https://images.littleakiba.com/tcg/card65863-large.jpg"
     },
     {
         "name": "テスタメント 神琳",
         "code": "ALL/S76-016",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1643,25 +1675,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "参ります！",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《リリィ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは相手のレベル2以下のキャラを1枚選び、そのターン中、レベルを－1。"
+            "【C】SUPPORT All your 《リリィ》 Character gets +X Power. X is equal to that Character's Level x500.",
+            "【S】［REST this card］ Choose 1 opponent's Character with Level 2 or lower, during this turn, it gets －1 Level."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "016",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_016.png"
+        "image": "https://images.littleakiba.com/tcg/card65864-large.jpg"
     },
     {
         "name": "くつろぎの時間 壱",
         "code": "ALL/S76-017",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1670,25 +1704,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】【CXコンボ】［手札の、「ノインヴェルト戦術」か「その気になってもらいます」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「ノインヴェルト戦術」か「その気になってもらいます」を1枚選び、手札に戻す。"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】【CXCOMBO】[Place 1 「ノインヴェルト戦術」 or 「その気になってもらいます」 from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ノインヴェルト戦術」 or 「その気になってもらいます」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "017",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_017.png"
+        "image": "https://images.littleakiba.com/tcg/card65865-large.jpg"
     },
     {
         "name": "猫の集会所 鶴紗",
         "code": "ALL/S76-018",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1697,25 +1733,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "……おかげで仲間に入れてもらえたかもしれない",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「小さなぬくもり」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「凛々しく咲く 鶴紗」を1枚まで選び、手札に戻し、自分の控え室の《リリィ》のキャラを1枚まで選び、ストック置場に置く。"
+            "【C】For each of your other 《リリィ》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When 「小さなぬくもり」 is placed into your Climax Slot, if this card is at Front Row, choose up to 1 「凛々しく咲く 鶴紗」 from your Waiting Room, return it to Hand, choose up to 1 《リリィ》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "018",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_018.png"
+        "image": "https://images.littleakiba.com/tcg/card65866-large.jpg"
     },
     {
         "name": "少しの口添え 汐里",
         "code": "ALL/S76-019",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1724,25 +1762,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "ラッピングならお手伝いしましょうか",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋1500。",
-            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+            "【C】During your turn, for each of your other 《リリィ》 Character, this card gets +1500 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
         ],
         "attributes": [
-            "リリィ",
-            "水夕会"
+            "《リリィ》",
+            "《水夕会》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_019.png"
+        "image": "https://images.littleakiba.com/tcg/card65867-large.jpg"
     },
     {
         "name": "“アールヴヘイム”壱",
         "code": "ALL/S76-020",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1751,176 +1791,190 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "今日はあんたで我慢したげるわっ！",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
-            "【自】 このカードがアタックした時、あなたは他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×500に等しい。"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 2 cards from your Hand, place them into Waiting Room, place up to 1 card from your top Deck into Stock.",
+            "【A】When this card attacks, choose 1 of your other 《リリィ》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《リリィ》 Character x500."
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "020",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_020.png"
+        "image": "https://images.littleakiba.com/tcg/card65868-large.jpg"
     },
     {
         "name": "天の秤目 雨嘉",
         "code": "ALL/S76-021",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《リリィ》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+            "【C】If your Hand has 5 or more cards, this card gets +2000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《リリィ》 Character from your Clock, return it to Hand, place the top card of your Deck into Clock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "021",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_021.png"
+        "image": "https://images.littleakiba.com/tcg/card65869-large.jpg"
     },
     {
         "name": "背負った過去 鶴紗",
         "code": "ALL/S76-022",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "昔、ゲヘナに身体中をいじくり回された",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】[Place this card into Waiting Room] When your other Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character into its previous slot on Stage in REST."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "022",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_022.png"
+        "image": "https://images.littleakiba.com/tcg/card65870-large.jpg"
     },
     {
         "name": "くつろぎの時間 鶴紗",
         "code": "ALL/S76-023",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "見つかるか諦めるまで",
         "ability": [
-            "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【C】You cannot play Event and 『ASSIST』 from Hand.",
+            "【A】When this card's battle opponent becomes REVERSE, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "023",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_023.png"
+        "image": "https://images.littleakiba.com/tcg/card65871-large.jpg"
     },
     {
         "name": "くつろぎの時間 雨嘉",
         "code": "ALL/S76-024",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、クロック置場に置く。",
-            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+            "【A】［Place 2 cards from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, you may place the top card of opponent's Clock into Waiting Room. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Clock.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "024",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_024.png"
+        "image": "https://images.littleakiba.com/tcg/card65872-large.jpg"
     },
     {
         "name": "“面倒な人？”神琳",
         "code": "ALL/S76-025",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "よく言われます",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】［手札のトリガーアイコンが[TREASURE]のクライマックスを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+            "【C】For each of your other 《リリィ》 Character, this card gets +500 Power.",
+            "【A】[Place 1 Climax with Gold Trigger Icon from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may choose 1 Character from your Waiting Room, return it to Hand.』"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "025",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_025.png"
+        "image": "https://images.littleakiba.com/tcg/card65873-large.jpg"
     },
     {
         "name": "食いしん坊な鶴紗",
         "code": "ALL/S76-026",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "探しものに便利なレアスキルなんてあったか？",
         "ability": [
-            "【自】 他のあなたの《リリィ》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×500に等しい。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】When your other 《リリィ》 Character attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《リリィ》 Character x500.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "026",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_026.png"
+        "image": "https://images.littleakiba.com/tcg/card65874-large.jpg"
     },
     {
         "name": "コスプレ部門優勝 雨嘉",
         "code": "ALL/S76-027",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1929,25 +1983,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "えと、あの、ほわわ…………え？",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【A】 When this card is placed on Stage from Hand, place 3 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may choose 1 opponent's Character with Level 3 or lower at Front Row, place it into Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "027",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_027.png"
+        "image": "https://images.littleakiba.com/tcg/card65875-large.jpg"
     },
     {
         "name": "さりげないアドバイス 神琳",
         "code": "ALL/S76-028",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -1956,49 +2012,53 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "何だって大喜びするのは間違いありません",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "【A】When you use this card's 『ASSIST』, choose 1 of your Character in battle, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, send that Character to Memory.』",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "028",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_028.png"
+        "image": "https://images.littleakiba.com/tcg/card65876-large.jpg"
     },
     {
         "name": "陽だまりの中で",
         "code": "ALL/S76-029",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Event",
         "color": "GREEN",
         "level": "2",
         "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "このカードは、あなたの《リリィ》のキャラがいないなら、手札からプレイできない。",
-            "このカードを思い出にする。",
-            "あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、相手のキャラを1枚選び、そのターン中、レベルを－1。",
-            "【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+            "If you have no 《リリィ》 Character, you cannot play this card from Hand.",
+            "Send this card to Memory.",
+            "Choose up to 1 《リリィ》 Character from your Waiting Room, return it to Hand, choose 1 opponent's Character, during this turn, it gets -1 Level.",
+            "【A】RECOLLECTION [Place 1 Climax from Hand into Waiting Room] At the beginning of your Main Phase, if this card is in Memory, you may pay the cost. If you did, return this card to Hand."
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "029",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_029.png"
+        "image": "https://images.littleakiba.com/tcg/card65877-large.jpg"
     },
     {
         "name": "ふたりの射程",
         "code": "ALL/S76-030",
         "rarity": "CR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
@@ -2007,22 +2067,24 @@
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "無神経だった、わたし……",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "030",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_030.png"
+        "image": "https://images.littleakiba.com/tcg/card65878-large.jpg"
     },
     {
         "name": "ノインヴェルト戦術",
         "code": "ALL/S76-031",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
@@ -2031,22 +2093,24 @@
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ー",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "031",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_031.png"
+        "image": "https://images.littleakiba.com/tcg/card65880-large.jpg"
     },
     {
         "name": "見せない本音",
         "code": "ALL/S76-032",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
@@ -2055,22 +2119,24 @@
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "名高い王家の方と同室なんて、光栄だわ",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "032",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_032.png"
+        "image": "https://images.littleakiba.com/tcg/card65882-large.jpg"
     },
     {
         "name": "小さなぬくもり",
         "code": "ALL/S76-033",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
@@ -2080,71 +2146,77 @@
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……なんで私に聞くんですか？",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+            "【A】When this card is placed into your Climax Slot from Hand, choose up to 1 Character with Level 1 or lower from your Waiting Room, place it into Stock, during this turn, all your Character gets +1 Soul."
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "033",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_033.png"
+        "image": "https://images.littleakiba.com/tcg/card65884-large.jpg"
     },
     {
         "name": "凛々しく咲く 二水",
         "code": "ALL/S76-034",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私が刷りました！",
         "ability": [
-            "【自】 あなたの、メインフェイズの始めかクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "【A】At the beginning of your Main Phase or your Climax Phase, you may look at the top card of your Deck. (Return looked card to its original position)",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_034.png"
+        "image": "https://images.littleakiba.com/tcg/card65886-large.jpg"
     },
     {
         "name": "夏の思い出 梨璃&夢結",
         "code": "ALL/S76-035",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラがいるなら、このカードのパワーを＋1500。",
-            "【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+            "【C】If you have other 《リリィ》 Character, this card gets +1500 Power.",
+            "【A】At the beginning of opponent's Attack Phase, if there is an opponent's Character facing this card, you may move this card to an empty slot at Front Row."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_035.png"
+        "image": "https://images.littleakiba.com/tcg/card65888-large.jpg"
     },
     {
         "name": "凛々しく咲く 楓",
         "code": "ALL/S76-036",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2153,25 +2225,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "うふふふふ！",
         "ability": [
-            "【永】 あなたの《リリィ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「シュッツエンゲルとは」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《リリィ》なら、あなたは他の自分のキャラを1枚まで選び、手札に戻し、そのターン中、このカードは次の能力を得る。『【自】 あなたのアタックフェイズの始めに、あなたは他の自分の《リリィ》のキャラを1枚選び、【スタンド】し、そのターン中、そのキャラのパワーを＋1000。』"
+            "【C】If you have 4 or more 《リリィ》 Character, this card gets -1 Level in your Hand.",
+            "【A】【CXCOMBO】When 「シュッツエンゲルとは」 is placed into your Climax Slot, if this card is at Front Row, and all your Character are 《リリィ》, choose up to 1 of your other Character, return it to Hand, during this turn, this card gains the following Ability. 『【A】At the beginning of your Attack Phase, choose 1 of your other 《リリィ》 Character, STAND it, during this turn, that Character gets +1000 Power.』"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "036",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_036.png"
+        "image": "https://images.littleakiba.com/tcg/card65890-large.jpg"
     },
     {
         "name": "凛々しく咲く 梨璃",
         "code": "ALL/S76-037",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2180,101 +2254,109 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "悲しい思いをするリリィも、もう、いて欲しくないから……",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「再会はよろこび」が置かれた時、前列にこのカードがいて、他のあなたの《リリィ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは相手の山札の下から3枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。』（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1)] When 「再会はよろこび」 is placed into your Climax Slot, if this card is at Front Row, and you have 2 or more other 《リリィ》 Character, you may pay the cost. If you did, during this turn, all your other Character gains the following Ability. 『【A】When this card attacks, place 3 cards from opponent's bottom Deck, deal X Damage to opponent. X is equal to the number of Climax among those cards.』(Damage can be cancelled)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "037",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_037.png"
+        "image": "https://images.littleakiba.com/tcg/card65892-large.jpg"
     },
     {
         "name": "あなたを待つ間 楓",
         "code": "ALL/S76-038",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "その手がありましたわ！",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「元気いっぱい！ 梨璃」を1枚まで選び、このカードがいた枠に置く。』",
-            "【永】 他のあなたの《リリィ》のキャラすべてに、パワーを＋500。",
-            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻す。"
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[(1) Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose up to 1 「元気いっぱい！ 梨璃」 from your Hand, place it into this card's previous slot on Stage. 』",
+            "【C】All your other 《リリィ》 Character gets +500 Power.",
+            "【S】[(2) REST this card] Choose 1 《リリィ》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "038",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_038.png"
+        "image": "https://images.littleakiba.com/tcg/card65894-large.jpg"
     },
     {
         "name": "情報収集 二水",
         "code": "ALL/S76-039",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……!!",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, it gets +1000 Power.",
+            "【S】[(1) Place this card into Waiting Room] Look at up to 4 cards from your top Deck, choose up to 1 《リリィ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_039.png"
+        "image": "https://images.littleakiba.com/tcg/card65896-large.jpg"
     },
     {
         "name": "戦場に舞う 梨璃",
         "code": "ALL/S76-040",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "あのヒュージは私が倒します!!",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《リリィ》のキャラすべてに、パワーを＋1000。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【C】During your turn, all your other 《リリィ》 Character gets +1000 Power.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_040.png"
+        "image": "https://images.littleakiba.com/tcg/card65898-large.jpg"
     },
     {
         "name": "リリィのたしなみ 梨璃",
         "code": "ALL/S76-041",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2283,25 +2365,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "ー",
         "ability": [
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-            "【自】 アンコール ［手札の《リリィ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】For each of opponent's Character at Back Row, this card gets +2500 Power.",
+            "【A】ENCORE ［Place 1 《リリィ》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_041.png"
+        "image": "https://images.littleakiba.com/tcg/card65900-large.jpg"
     },
     {
         "name": "戦場に舞う 楓",
         "code": "ALL/S76-042",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2310,26 +2394,28 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 2,
+        "flavor_text": "あったり前ですわ！",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラすべてに、パワーを＋1500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻してよい。",
-            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "【C】All your other 《リリィ》 Character gets +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 《リリィ》 Character from your Waiting Room, return it to Hand.",
+            "【S】[REST this card] Look at up to 2 cards from your top Deck, place them on top Deck in any order."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "042",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_042.png"
+        "image": "https://images.littleakiba.com/tcg/card65902-large.jpg"
     },
     {
         "name": "戦場に舞う 二水",
         "code": "ALL/S76-043",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2338,25 +2424,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "そうですよね!!",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
-            "【自】［(3)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+            "【A】When this card is placed on Stage from Hand, choose up to 1 Character with Level same or lower than your Level from your Hand, place it into any slot on Stage, during this turn, that Character gets +2000 Power.",
+            "【A】[(3)] When this card attacks, you may pay the cost. If you did, opponent places all cards from his/her Stock into Waiting Room, he/she then places the same amount of cards from his/her top Deck into Stock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_043.png"
+        "image": "https://images.littleakiba.com/tcg/card65904-large.jpg"
     },
     {
         "name": "“アールヴヘイム”亜羅椰",
         "code": "ALL/S76-044",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2365,150 +2453,162 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
-            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「その気になってもらいます」があり、他のあなたの《リリィ》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock.",
+            "【A】【CXCOMBO】[(2)] When this card attacks, if 「その気になってもらいます」 is in your Climax Slot, and you have 4 or more other 《リリィ》 Character, you may pay the cost. If you did, deal 4 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "044",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_044.png"
+        "image": "https://images.littleakiba.com/tcg/card65906-large.jpg"
     },
     {
         "name": "“アールヴヘイム”依奈",
         "code": "ALL/S76-045",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "命令を守ったり守らなかったりでは仲間を危険にさらすことにもなるでしょう？",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-            "【起】【CXコンボ】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「ノインヴェルト戦術」か「その気になってもらいます」1枚につき、あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】Your other Character at the Center Slot of Front Row gets +500 Power.",
+            "【A】【CXCOMBO】CONCENTRATION [(1) REST 2 of your Characters] Flip the top 5 cards of your Deck, place them into Waiting Room. For each 「ノインヴェルト戦術」 or 「その気になってもらいます」 among those cards, search your Deck for up to 1 《リリィ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "045",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_045.png"
+        "image": "https://images.littleakiba.com/tcg/card65908-large.jpg"
     },
     {
         "name": "くつろぎの時間 二水",
         "code": "ALL/S76-046",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "手が滑りましたわ～っなんて言って変なところ触ろうとしてませんか？",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_046.png"
+        "image": "https://images.littleakiba.com/tcg/card65909-large.jpg"
     },
     {
         "name": "密かな企み 楓",
         "code": "ALL/S76-047",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ぶえっくし!!",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《リリィ》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+            "【A】When you use this card's 『ASSIST』, if you have 《リリィ》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "047",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_047.png"
+        "image": "https://images.littleakiba.com/tcg/card65910-large.jpg"
     },
     {
         "name": "はじめての戦場 梨璃",
         "code": "ALL/S76-048",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "やああああああ～～～～～～!!",
         "ability": [
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
-            "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character.",
+            "【S】[(1)] During this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to top Deck.』"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "048",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_048.png"
+        "image": "https://images.littleakiba.com/tcg/card65911-large.jpg"
     },
     {
         "name": "はじめての戦場 楓",
         "code": "ALL/S76-049",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "一撃でしてよ！そのくらい、できまして？",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×500に等しい。",
-            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《リリィ》 Character x500.",
+            "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《リリィ》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "049",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_049.png"
+        "image": "https://images.littleakiba.com/tcg/card65912-large.jpg"
     },
     {
         "name": "あなたのくれた名前 結梨",
         "code": "ALL/S76-050",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2517,225 +2617,243 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "梨璃が結梨って名付けてくれたから、わたしは結梨になったんだよ",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の思い出置場の表向きのカードを1枚選び、裏向きにしてよい。そうしたら、あなたのターンの終わりに、そのカードを表向きにする。",
-            "【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
+            "【A】When this card is placed on Stage from Hand, you may choose 1 face-up card from opponent's Memory, place it face-down. If you did, at the end of your turn, place that card in face-up.",
+            "【A】When this card becomes REVERSE, send this card to Memory.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may send that Character to Memory."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_050.png"
+        "image": "https://images.littleakiba.com/tcg/card65913-large.jpg"
     },
     {
-        "name": "レギオン結成  梨璃",
+        "name": "レギオン結成 梨璃",
         "code": "ALL/S76-051",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ひとつやなぎ……たい……??",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】If you have 2 or more other 《リリィ》 Character, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "051",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_051.png"
+        "image": "https://images.littleakiba.com/tcg/card65914-large.jpg"
     },
     {
         "name": "くつろぎの時間 楓",
         "code": "ALL/S76-052",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "どこであろうとお流しいたしますよ……ぐふふ",
         "ability": [
-            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。",
-            "【自】［(1) 手札の《リリィ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+            "【A】[Return 2 Character from your Waiting Room into Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gets +1 Soul.",
+            "【A】[(1) Place 1 《リリィ》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "052",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_052.png"
+        "image": "https://images.littleakiba.com/tcg/card65915-large.jpg"
     },
     {
         "name": "マギのお導き？ 楓",
         "code": "ALL/S76-053",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "これもマギがわたくしたちを導いたんですわ！",
         "ability": [
-            "【永】 他のあなたの「まだ何者でもないわたし 梨璃」すべてに、パワーを＋1000し、ソウルを＋1。",
-            "【自】［手札の《リリィ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【C】All your other 「まだ何者でもないわたし 梨璃」 gets +1000 Power and +1 Soul.",
+            "【A】[Place 1 《リリィ》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to it original position)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "053",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_053.png"
+        "image": "https://images.littleakiba.com/tcg/card65916-large.jpg"
     },
     {
         "name": "くつろぎの時間 梨璃",
         "code": "ALL/S76-054",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "……でもこういうの、初めてですね",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】 At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "054",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_054.png"
+        "image": "https://images.littleakiba.com/tcg/card65917-large.jpg"
     },
     {
         "name": "自信ありげな依奈",
         "code": "ALL/S76-055",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "お見せする間もなく倒しちゃったらごめんなさいね",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リリィ》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+            "【C】If this card has Marker, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《リリィ》 Character, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "リリィ",
-            "アールヴヘイム"
+            "《リリィ》",
+            "《アールヴヘイム》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "055",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_055.png"
+        "image": "https://images.littleakiba.com/tcg/card65918-large.jpg"
     },
     {
         "name": "まだ何者でもないわたし 梨璃",
         "code": "ALL/S76-056",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "わたし、その……ええ、補欠合格です。でも気にしません。合格は合格なんだから！",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "056",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_056.png"
+        "image": "https://images.littleakiba.com/tcg/card65919-large.jpg"
     },
     {
         "name": "リリィ登録 二水",
         "code": "ALL/S76-057",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "名字はとりあえず一柳さんにしときますね～♪",
         "ability": [
-            "【自】【CXコンボ】［このカードを手札に戻す］ あなたのクライマックス置場に「光栄です！幸せです！」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《リリィ》のキャラなら手札に加える。（そうでないなら元に戻す）",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "【A】【CXCOMBO】[Return this card to Hand] When 「光栄です！幸せです！」 is placed into your Climax Slot, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a 《リリィ》 Character, add it to Hand. (If not, return revealed card to its original position)",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gets +2000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "057",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_057.png"
+        "image": "https://images.littleakiba.com/tcg/card65920-large.jpg"
     },
     {
         "name": "雨模様 二水&鶴紗",
         "code": "ALL/S76-058",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【永】 他のあなたの後列の《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 このカードがアタックした時、他のあなたの《リリィ》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+            "【C】For each of your other 《リリィ》 Character at Back Row, this card gets +1000 Power.",
+            "【A】When this card attacks, if you have 2 or more other 《リリィ》 Character, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "058",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_058.png"
+        "image": "https://images.littleakiba.com/tcg/card65921-large.jpg"
     },
     {
         "name": "じっと見守る二水",
         "code": "ALL/S76-059",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2744,25 +2862,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ー",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《リリィ》のキャラの枚数に等しい。",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《リリィ》 Character.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "059",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_059.png"
+        "image": "https://images.littleakiba.com/tcg/card65922-large.jpg"
     },
     {
         "name": "憧れのお姉さまと 梨璃",
         "code": "ALL/S76-060",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2771,26 +2891,28 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "……は、はい！絶対しません！",
         "ability": [
-            "【永】 他のあなたの「白井 夢結」すべてに、パワーを＋1000。",
-            "【永】 他のあなたの《リリィ》のキャラすべてに、パワーを＋1000。",
-            "【自】 絆／「白井 夢結」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「白井 夢結」を1枚選び、手札に戻す）"
+            "【C】All your other 「白井 夢結」 gets +1000 Power.",
+            "【C】All your other 《リリィ》 Character gets +1000 Power.",
+            "【A】BOND／「白井 夢結」 ［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「白井 夢結」 from your Waiting Room, return it to Hand)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "060",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_060.png"
+        "image": "https://images.littleakiba.com/tcg/card65923-large.jpg"
     },
     {
         "name": "みんなを守れるように 梨璃",
         "code": "ALL/S76-061",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -2799,92 +2921,100 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "あなたの相手はわたしよ！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×1000に等しい。",
-            "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《リリィ》 Character x1000.",
+            "【A】[(1)] When this card's battle opponent becomes REVERSE is Level 2 or higher, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "061",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_061.png"
+        "image": "https://images.littleakiba.com/tcg/card65924-large.jpg"
     },
     {
         "name": "シュッツエンゲルとしてシルトへ",
         "code": "ALL/S76-062a",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Event",
         "color": "RED",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "夢結「できたら本物のラムネをプレゼントしたかったのだけど」",
         "ability": [
-            "このカードは、あなたの《リリィ》のキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-            "共鳴 あなたは自分の手札の「シュッツエンゲルとしてシルトへ」を1枚公開してよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがレベル0以下のカードなら、あなたは自分の山札の上から1枚までを、ストック置場に置く。そうでないなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。（クライマックスのレベルは0として扱う）"
+            "If you have no 《リリィ》 Character, you cannot play this card from Hand.",
+            "Choose 1 Character from your Waiting Room, return it to Hand.",
+            "RESONANCE You may reveal 1 「シュッツエンゲルとしてシルトへ」 from Hand. If you did, place the top card of your Deck into Waiting Room. If that card is Level 0 or lower, place up to 1 card from your top Deck into Stock. If not, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room. (Climax is considered Level 0)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "062a",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_062a.png"
+        "image": "https://images.littleakiba.com/tcg/card65925-large.jpg"
     },
     {
         "name": "シュッツエンゲルとしてシルトへ",
         "code": "ALL/S76-062b",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Event",
         "color": "RED",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "店主「ラムネけぇ？お嬢さんの隣にあるのがそうじゃんけ」",
         "ability": [
-            "このカードは、あなたの《リリィ》のキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-            "共鳴 あなたは自分の手札の「シュッツエンゲルとしてシルトへ」を1枚公開してよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがレベル0以下のカードなら、あなたは自分の山札の上から1枚までを、ストック置場に置く。そうでないなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。（クライマックスのレベルは0として扱う）"
+            "If you have no 《リリィ》 Character, you cannot play this card from Hand.",
+            "Choose 1 Character from your Waiting Room, return it to Hand.",
+            "RESONANCE You may reveal 1 「シュッツエンゲルとしてシルトへ」 from Hand. If you did, place the top card of your Deck into Waiting Room. If that card is Level 0 or lower, place up to 1 card from your top Deck into Stock. If not, look at up to 2 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room. (Climax is considered Level 0)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "062b",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_062b.png"
+        "image": "https://images.littleakiba.com/tcg/card65926-large.jpg"
     },
     {
         "name": "ノインヴェルト戦術用特殊弾",
         "code": "ALL/S76-063",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Event",
         "color": "RED",
         "level": "3",
         "cost": "3",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "夢結「ノインヴェルトとは9つの世界という意味よ」",
         "ability": [
-            "あなたの《リリィ》のキャラが5枚以上なら、相手に4ダメージを与え、あなたは自分の山札の上から9枚を、控え室に置く。それらのカードにカード名に「梨璃」を含むキャラと「夢結」を含むキャラと「楓」を含むキャラと「二水」を含むキャラと「鶴紗」を含むキャラと「梅」を含むキャラと「神琳」を含むキャラと「雨嘉」を含むキャラと「ミリアム」を含むキャラが別々に1枚ずつあるなら、相手に2ダメージを4回与える。（ダメージキャンセルは発生する）"
+            "If you have 5 or more 《リリィ》 Character, deal 4 Damage to opponent, place 9 cards from your top Deck into Waiting Room. If there is 1 of each Character with 「梨璃」 and 「夢結」「楓」 and 「二水」 and 「鶴紗」 and 「梅」 and 「神琳」「雨嘉」 and 「ミリアム」 in its name among those cards, deal 2 Damage to opponent 4 times. (Damage can be cancelled)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "063",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_063.png"
+        "image": "https://images.littleakiba.com/tcg/card65927-large.jpg"
     },
     {
         "name": "再会はよろこび",
         "code": "ALL/S76-064",
         "rarity": "CR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "RED",
@@ -2893,22 +3023,24 @@
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "昨日のこと……お礼が言いたくて……",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "064",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_064.png"
+        "image": "https://images.littleakiba.com/tcg/card65928-large.jpg"
     },
     {
         "name": "シュッツエンゲルとは",
         "code": "ALL/S76-065",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "RED",
@@ -2918,22 +3050,24 @@
             "SOUL",
             "STANDBY"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "互いを愛し慈しむ心を世代を超え伝えるもの",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "065",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_065.png"
+        "image": "https://images.littleakiba.com/tcg/card65930-large.jpg"
     },
     {
         "name": "その気になってもらいます",
         "code": "ALL/S76-066",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "RED",
@@ -2942,22 +3076,24 @@
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "壱「抜きやがった！」\n天葉・樟美「……！」",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "066",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_066.png"
+        "image": "https://images.littleakiba.com/tcg/card65932-large.jpg"
     },
     {
         "name": "光栄です！幸せです！",
         "code": "ALL/S76-067",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "RED",
@@ -2967,47 +3103,51 @@
             "SOUL",
             "STANDBY"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "はあぁぁぁぁ……！",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "067",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_067.png"
+        "image": "https://images.littleakiba.com/tcg/card65934-large.jpg"
     },
     {
         "name": "凛々しく咲く 夢結",
         "code": "ALL/S76-068",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "梨璃……",
         "ability": [
-            "【永】 他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「不器用なシュッツエンゲル」があり、他のあなたの《リリィ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置き、自分の控え室のレベルＸ以下の《リリィ》のキャラを1枚まで選び、手札に戻す。Ｘはそのカードのレベルに等しい。』（クライマックスのレベルは0として扱う）"
+            "【C】If you have 2 or more other 《リリィ》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「不器用なシュッツエンゲル」 is in your Climax Slot, and you have 2 or more other 《リリィ》 Character, you may pay the cost. If you did, perform the following Action 2 times. 『Place 2 cards from your top Deck, choose up to 1 《リリィ》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect. 』 (Climax is considered Level 0)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "068",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_068.png"
+        "image": "https://images.littleakiba.com/tcg/card65936-large.jpg"
     },
     {
         "name": "凛々しく咲く 梅",
         "code": "ALL/S76-069",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3016,26 +3156,28 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "おう！",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 あなたのキャラすべてが《リリィ》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［手札を1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】If all your Character are 《リリィ》, this card gets +1500 Power, gains the following Ability. 『【A】[Place 1 card from Hand into Waiting Room] When this card is being Front Attacked, you may pay the cost. If you did, return this card to Hand.』",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "069",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_069.png"
+        "image": "https://images.littleakiba.com/tcg/card65938-large.jpg"
     },
     {
         "name": "凛々しく咲く ミリアム",
         "code": "ALL/S76-070",
         "rarity": "RR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3044,100 +3186,108 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "フェイズトランセンデンス！！！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×1000に等しい。",
-            "【自】【CXコンボ】［(1)］ このカードのアタックの終わりに、クライマックス置場に「こっちおいで」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置き、相手に3ダメージを与え、このカードは次のあなたのスタンドフェイズに【スタンド】しない。（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《リリィ》 Character x1000.",
+            "【A】【CXCOMBO】[(1)] At the end of this card's attack, if 「こっちおいで」 is in your Climax Slot, you may pay the cost. If you did, look at the top card of opponent's Deck, place it on top or bottom Deck, deal 3 Damage to opponent, this card cannot STAND during your next Standby Phase. (Damage can be cancelled)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "070",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_070.png"
+        "image": "https://images.littleakiba.com/tcg/card65940-large.jpg"
     },
     {
         "name": "戦場に舞う 梅",
         "code": "ALL/S76-071",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "筋金入りの無鉄砲だからな……",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
-            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+            "【A】When this card is placed on Stage from Hand, both players perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards except for those chosen cards from Memory into Waiting Room.』",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "071",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_071.png"
+        "image": "https://images.littleakiba.com/tcg/card65942-large.jpg"
     },
     {
         "name": "戦場に舞う ミリアム",
         "code": "ALL/S76-072",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "わしらが張子の虎で終わるなどあり得んことじゃ！",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】 共鳴 ［手札の「凛々しく咲く ミリアム」を1枚公開する］ あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, search your Deck for up to 1 《リリィ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】RESONANCE [Reveal 1 「凛々しく咲く ミリアム」 from Hand] At the beginning of your Climax Phase, if this card is at Front Row, you may pay the cost. If you did, choose 1 of your other Character, during this turn, it gets +2000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "072",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_072.png"
+        "image": "https://images.littleakiba.com/tcg/card65944-large.jpg"
     },
     {
         "name": "百合ヶ丘のリリィ 結梨",
         "code": "ALL/S76-073",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ほーー……これが指輪……？",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×500に等しい。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「帰る場所」が置かれた時、他のあなたの《リリィ》のキャラがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+            "【A】When this card attacks, choose 1 of your other 《リリィ》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《リリィ》 Character x500.",
+            "【A】【CXCOMBO】When 「帰る場所」 is placed into your Climax Slot, and you have other 《リリィ》 Character, choose 1 of your other Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《リリィ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.』"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "073",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_073.png"
+        "image": "https://images.littleakiba.com/tcg/card65946-large.jpg"
     },
     {
         "name": "穏やかな午睡 梅",
         "code": "ALL/S76-074",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3146,25 +3296,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ん……？",
         "ability": [
-            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】［(2)］ When you used this card's 『ASSIST』, you may pay the Cost. If you did, return all cards from your Waiting Room into the Deck, shuffle the Deck afterwards.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "074",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_074.png"
+        "image": "https://images.littleakiba.com/tcg/card65947-large.jpg"
     },
     {
         "name": "あなたを待つ間 夢結",
         "code": "ALL/S76-075",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3173,25 +3325,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-            "【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【S】[(2) REST this card] Choose 1 opponent's Character, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "075",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_075.png"
+        "image": "https://images.littleakiba.com/tcg/card65949-large.jpg"
     },
     {
         "name": "工廠科のリリィ ミリアム",
         "code": "ALL/S76-076",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3200,25 +3354,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "夢結様の用意したものなら、梨璃はなんだって喜ぶと思うぞい。……あ？",
         "ability": [
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-            "【自】 共鳴 ［手札の「凛々しく咲く ミリアム」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。"
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】RESONANCE [Reveal 1 「凛々しく咲く ミリアム」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +2000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "076",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_076.png"
+        "image": "https://images.littleakiba.com/tcg/card65951-large.jpg"
     },
     {
         "name": "百合ヶ丘のアーセナル 百由",
         "code": "ALL/S76-077",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3227,25 +3383,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "わたしもあなたも99.9%のヒトなんですよ",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《リリィ》のキャラすべてに、パワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】 相手のアタックフェイズの始めに、あなたは自分の《リリィ》のキャラを1枚選び、自分の前列の中央のキャラのいない枠に動かしてよい。"
+            "【C】SUPPORT All your 《リリィ》 Character in front of this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, search your Deck for up to 1 《リリィ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】At the beginning of opponent's Attack Phase, you may choose 1 of your 《リリィ》 Character, move it to an empty Center Slot at Front Row."
         ],
         "attributes": [
-            "リリィ"
+            "《リリィ》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "077",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_077.png"
+        "image": "https://images.littleakiba.com/tcg/card65952-large.jpg"
     },
     {
         "name": "戦場に舞う 夢結",
         "code": "ALL/S76-078",
         "rarity": "R",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3254,398 +3412,434 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "11000",
+        "soul": 2,
+        "flavor_text": "あのヒュージはわたしが倒さなくちゃ……",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたのカード名に「梨璃」を含むキャラがいないなら、あなたは自分の山札の上から1枚を、クロック置場に置く。",
-            "【自】［(3) 手札を1枚控え室に置き、他のあなたの舞台のキャラを1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+            "【A】When this card attacks, if you have no other Character with 「梨璃」 in its name, place the top card of your Deck into Clock.",
+            "【A】[(3) Place 1 card from Hand into Waiting Room, place 1 of your other Character from Stage into Waiting Room] This Ability can be activated up to 1 time each turn. During the turn when this card is placed on Stage from Hand, at the end of this card's attack, you may pay the cost. If you did, STAND this card."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "078",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_078.png"
+        "image": "https://images.littleakiba.com/tcg/card65954-large.jpg"
     },
     {
         "name": "“ぐろっぴ”ミリアム",
         "code": "ALL/S76-079",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "わしかよ！",
         "ability": [
-            "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
-            "【自】 共鳴 ［手札の「凛々しく咲く ミリアム」を1枚公開する］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを前列のキャラのいない枠に動かす。"
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to bottom Deck.",
+            "【A】RESONANCE [Reveal 1 「凛々しく咲く ミリアム」 from Hand] At the beginning of opponent's Attacl Phase, you may pay the cost. If you did, move this card to an empty slot at Front Row."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "079",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_079.png"
+        "image": "https://images.littleakiba.com/tcg/card65956-large.jpg"
     },
     {
         "name": "忘れ得ぬ人 美鈴",
         "code": "ALL/S76-080",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "気にしないで夢結。\nこれが僕と君の\n運命だから……",
         "ability": [
-            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のカード名に「夢結」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
-            "【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを思い出にする。"
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your Character with 「夢結」 in its name and this card, STAND and exchange them.",
+            "【A】[(1)] During opponent's turn, when this card becomes REVERSE, you may pay the cost. If you did, REST this card, at the beginning of your next Encore Step, send this card to Memory."
         ],
         "attributes": [
-            "リリィ"
+            "《リリィ》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "080",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_080.png"
+        "image": "https://images.littleakiba.com/tcg/card65957-large.jpg"
     },
     {
         "name": "心配そうな表情の祀",
         "code": "ALL/S76-081",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "……",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の《リリィ》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《リリィ》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with same or lower than your Level with Cost 0 or lower, place it into any slot on Stage, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "リリィ",
-            "生徒会"
+            "《リリィ》",
+            "Student Council 《生徒会》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "081",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_081.png"
+        "image": "https://images.littleakiba.com/tcg/card65958-large.jpg"
     },
     {
         "name": "“採れたて”だよ？百由",
         "code": "ALL/S76-082",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "これなんてどう？",
         "ability": [
-            "【自】【CXコンボ】［手札の「こっちおいで」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。",
-            "【起】 共鳴 ［(1) 手札の「凛々しく咲く ミリアム」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【A】【CXCOMBO】[Place 1 「こっちおいで」 from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character with Level 2 or higher from your Waiting Room, return it to Hand.",
+            "【S】RESONANCE [(1) Reveal 1 「凛々しく咲く ミリアム」 from Hand, REST this card] Look at up to 3 cards from your top Deck, choose up to 1 《リリィ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "リリィ"
+            "《リリィ》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "082",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_082.png"
+        "image": "https://images.littleakiba.com/tcg/card65959-large.jpg"
     },
     {
         "name": "“甲州撤退戦”夢結",
         "code": "ALL/S76-083",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-            "【自】 このカードがアタックした時、他のあなたの《リリィ》のキャラがいて、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋4500。"
+            "【A】When this card is placed on Stage from Hand, if you have other 《リリィ》 Character, during this turn, this card gets +2000 Power.",
+            "【A】When this card attacks, if you have other 《リリィ》 Character, and the Character facing this card is Level 2, during this turn, this card gets +4500 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "083",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_083.png"
+        "image": "https://images.littleakiba.com/tcg/card65960-large.jpg"
     },
     {
         "name": "くつろぎの時間 梅",
         "code": "ALL/S76-084",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×500に等しい。"
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《リリィ》 Character x500."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "084",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_084.png"
+        "image": "https://images.littleakiba.com/tcg/card65961-large.jpg"
     },
     {
         "name": "くつろぎの時間 ミリアム",
         "code": "ALL/S76-085",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 このカードの正面のキャラのコストが0以下なら、このカードのレベルを＋1し、パワーを＋3500。",
-            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+            "【C】If the Character facing this card is Cost 0 or lower, this card gets +1 Level and +3500 Power.",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "085",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_085.png"
+        "image": "https://images.littleakiba.com/tcg/card65962-large.jpg"
     },
     {
         "name": "白煙の中 夢結",
         "code": "ALL/S76-086",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「一柳 梨璃」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【起】［このカードを【レスト】する］ あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「一柳 梨璃」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【S】[REST this card] Choose 1 of your 《リリィ》 Character, during this turn, it gets +1500 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "086",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_086.png"
+        "image": "https://images.littleakiba.com/tcg/card65963-large.jpg"
     },
     {
         "name": "騒々しい日 ミリアム",
         "code": "ALL/S76-087",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なんじゃ騒々しい日じゃのう",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リリィ》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
-            "【自】［手札の《リリィ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《リリィ》 Character, choose 1 of your Character, during this turn, it gets +2000 Power. (Return revealed card to its original position)",
+            "【A】[Place 1 《リリィ》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, you draw 1 card."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "087",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_087.png"
+        "image": "https://images.littleakiba.com/tcg/card65964-large.jpg"
     },
     {
         "name": "ホースで水遊び 梅&ミリアム",
         "code": "ALL/S76-088",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "なし",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠の《リリィ》のキャラに、パワーを＋1500。",
-            "【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】Your other 《リリィ》 Character at the Center Slot of Front Row gets +1500 Power.",
+            "【S】[(2) REST this card] Search your Deck for up to 1 《リリィ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "088",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_088.png"
+        "image": "https://images.littleakiba.com/tcg/card65965-large.jpg"
     },
     {
         "name": "レアスキルの多重合成 梅",
         "code": "ALL/S76-089",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "何か鳥になったみたいだ！",
         "ability": [
-            "【自】【CXコンボ】 あなたのクライマックス置場に「ふれあい」が置かれた時、他のあなたの《リリィ》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
+            "【A】【CXCOMBO】When 「ふれあい」 is placed into your Climax Slot, if you have 2 or more other 《リリィ》 Character, look at up to 4 cards from your top Deck, choose up to 1 《リリィ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.",
+            "【S】CONCENTRATION ［(1)］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Search your Deck for up to 1 《リリィ》 Character and show it to opponent, add it to Hand, choose 1 card from your Hand, place it into Waiting Room, shuffle your Deck afterwards.』"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_089.png"
+        "image": "https://images.littleakiba.com/tcg/card65966-large.jpg"
     },
     {
         "name": "真剣に悩む夢結",
         "code": "ALL/S76-090",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "何かプレゼントを贈りたいのだけど、どんなものがいいかしら……",
         "ability": [
-            "【自】［手札の《リリィ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「シュッツエンゲルとしてシルトへ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+            "【A】[Place 1 《リリィ》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「シュッツエンゲルとしてシルトへ」 and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】When this card attacks, you may place the top card of your Deck into Waiting Room. If that card is a Climax, you draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_090.png"
+        "image": "https://images.littleakiba.com/tcg/card65967-large.jpg"
     },
     {
         "name": "猫の集会所 梅",
         "code": "ALL/S76-091",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "この先に猫の集会所があるから、後輩に案内してたんだよ",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《リリィ》のキャラを1枚選び、手札に戻す。"
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, choose 1 of your other 《リリィ》 Character, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "091",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_091.png"
+        "image": "https://images.littleakiba.com/tcg/card65968-large.jpg"
     },
     {
         "name": "はじける笑顔 梅",
         "code": "ALL/S76-092",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "あっははははは！",
         "ability": [
-            "【永】 他のあなたの「はじめての感情 夢結」すべてに、次の2つの能力を与える。『【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの後列の《リリィ》のキャラの枚数×2000に等しい。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』",
-            "【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「はじめての感情 夢結」が手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、ストック置場に置く。』『あなたは自分の山札の上から1枚を公開する。そのカードが《リリィ》のキャラなら手札に加える。』（そうでないなら元に戻す）"
+            "【C】All your other 「はじめての感情 夢結」 gains 2 of the following Abilities.",
+            "『【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《リリィ》 Character at Back Row x2000.』",
+            "『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』",
+            "【A】This Ability can be activated up to 1 time each turn. When your other 「はじめての感情 夢結」 is placed on Stage from Hand, choose and perform 1 of the following 2 effects.",
+            "『Choose up to 1 《リリィ》 Character from your Waiting Room, place it into Stock.』",
+            "『Reveal the top card of your Deck. If that card is a 《リリィ》 Character, add it to Hand.』(If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_092.png"
+        "image": "https://images.littleakiba.com/tcg/card65969-large.jpg"
     },
     {
         "name": "ソメイヨシノの木陰で 夢結",
         "code": "ALL/S76-093",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "美鈴「僕はヒュージはこの桜の木に似ていると思うんだ」",
         "ability": [
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】For each opponent's Character at Back Row, this card gets +1500 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_093.png"
+        "image": "https://images.littleakiba.com/tcg/card65970-large.jpg"
     },
     {
         "name": "百合ヶ丘の生徒会長 史房",
         "code": "ALL/S76-094",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3654,25 +3848,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "このヒュージは周囲の環境に擬態するとの情報があります",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×500に等しい。",
-            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+            "【A】When this card attacks, choose 1 of your 《リリィ》 Character, during this turn, it gets +X Power. X is equal to the number of your 《リリィ》 Character x500.",
+            "【A】[(1)] At the beginning of Encore Step, if you have no other REST Character at Front Row, you may pay the cost. If you did, REST this card."
         ],
         "attributes": [
-            "リリィ",
-            "生徒会"
+            "《リリィ》",
+            "Student Council 《生徒会》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "094",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_094.png"
+        "image": "https://images.littleakiba.com/tcg/card65971-large.jpg"
     },
     {
         "name": "はじめての感情 夢結",
         "code": "ALL/S76-095",
         "rarity": "C",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -3681,45 +3877,49 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "8500",
+        "soul": 1,
+        "flavor_text": "……ヤキモチ？わたしが？……誰に？",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_095.png"
+        "image": "https://images.littleakiba.com/tcg/card65972-large.jpg"
     },
     {
         "name": "Schutzengel gelübde",
         "code": "ALL/S76-096",
         "rarity": "U",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Event",
         "color": "BLUE",
         "level": "2",
         "cost": "3",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ー",
         "ability": [
-            "【カウンター】 あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。"
+            "【COUNTER】Choose 1 opponent's Character, during this turn, it gets -3 Soul."
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "096",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_096.png"
+        "image": "https://images.littleakiba.com/tcg/card65973-large.jpg"
     },
     {
         "name": "不器用なシュッツエンゲル",
         "code": "ALL/S76-097",
         "rarity": "CR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
@@ -3729,22 +3929,24 @@
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "梨璃……",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "097",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_097.png"
+        "image": "https://images.littleakiba.com/tcg/card65974-large.jpg"
     },
     {
         "name": "こっちおいで",
         "code": "ALL/S76-098",
         "rarity": "CR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
@@ -3753,22 +3955,24 @@
         "trigger": [
             "DRAW"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "百由「……もしかして、グロッピわたしのこと心配してる？」",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "098",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_098.png"
+        "image": "https://images.littleakiba.com/tcg/card65976-large.jpg"
     },
     {
         "name": "帰る場所",
         "code": "ALL/S76-099",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
@@ -3777,22 +3981,24 @@
         "trigger": [
             "DRAW"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "結梨「わたしがきっとみんなのところに帰してあげる」",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "099",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_099.png"
+        "image": "https://images.littleakiba.com/tcg/card65978-large.jpg"
     },
     {
         "name": "ふれあい",
         "code": "ALL/S76-100",
         "rarity": "CC",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
@@ -3802,71 +4008,77 @@
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "だったら今がチャンスじゃないか？",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+            "【A】 When this card is placed into Climax slot from Hand, choose up to 1 Blue card from your Waiting Room, place it to Stock, during this turn, all your Characters get +1 Soul."
         ],
         "attributes": [],
         "set": "ALL",
         "release": "S76",
         "sid": "100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_100.png"
+        "image": "https://images.littleakiba.com/tcg/card65980-large.jpg"
     },
     {
         "name": "晴れた空の下 雨嘉",
         "code": "ALL/S76-101",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "おかえりなさい",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 of your Character, during this turn, it gets +1500 Power.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《リリィ》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "101",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_101.png"
+        "image": "https://images.littleakiba.com/tcg/card65982-large.jpg"
     },
     {
         "name": "晴れた空の下 鶴紗",
         "code": "ALL/S76-102",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "おかえりだ",
         "ability": [
-            "【自】 このカードのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【A】When this card Trigger Checks a Climax with Gold Trigger Icon, you may choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "102",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_102.png"
+        "image": "https://images.littleakiba.com/tcg/card65983-large.jpg"
     },
     {
         "name": "晴れた空の下 神琳",
         "code": "ALL/S76-103",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
@@ -3875,75 +4087,81 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "これはいい記事になりそうですね",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-            "【自】 アンコール ［手札の緑のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of opponent's Character x1000.",
+            "【A】ENCORE ［Place 1 Green Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "103",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_103.png"
+        "image": "https://images.littleakiba.com/tcg/card65984-large.jpg"
     },
     {
         "name": "晴れた空の下 楓",
         "code": "ALL/S76-104",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "真昼間から何してらっしゃいますのっ!!",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《リリィ》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-            "【自】 この能力は1ターンにつき1回まで発動する。バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《リリィ》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】This Ability can be activated up to 1 time each turn. When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "104",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_104.png"
+        "image": "https://images.littleakiba.com/tcg/card65985-large.jpg"
     },
     {
         "name": "手を繋いで 梨璃",
         "code": "ALL/S76-105",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
         "level": "1",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "……ただいま",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。"
+            "【C】During your turn, for each of your other 《リリィ》 Character, this card gets +500 Power.",
+            "【C】All opponent's Character gains 『【A】ENCORE [Place the top card of your Deck into Clock]』."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "105",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_105.png"
+        "image": "https://images.littleakiba.com/tcg/card65986-large.jpg"
     },
     {
         "name": "晴れた空の下 二水",
         "code": "ALL/S76-106",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "RED",
@@ -3952,50 +4170,54 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "おふたりとも無事でよかったです～～～!!",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）",
-            "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋3000。"
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, place it into Stock. (If not, return revealed card to its original position)",
+            "【A】When your other Character becomes REVERSE, choose 1 of your 《リリィ》 Character, during this turn, it gets +3000 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "106",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_106.png"
+        "image": "https://images.littleakiba.com/tcg/card65987-large.jpg"
     },
     {
         "name": "晴れた空の下 ミリアム",
         "code": "ALL/S76-107",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
         "level": "0",
         "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "しっかしこの格好じゃ新聞には載せられんのう",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
-            "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－500。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Character with Level 0 or lower among those cards, during this turn, no Soul is deducted even if this card Side Attacks.",
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character at Front Row gets -500 Power."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "107",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_107.png"
+        "image": "https://images.littleakiba.com/tcg/card65988-large.jpg"
     },
     {
         "name": "晴れた空の下 梅",
         "code": "ALL/S76-108",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -4004,25 +4226,27 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "おかえり、ふたりとも",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "【A】When you use this card's 『ASSIST』, place 3 cards from your top Deck into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "108",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_108.png"
+        "image": "https://images.littleakiba.com/tcg/card65989-large.jpg"
     },
     {
         "name": "手を繋いで 夢結",
         "code": "ALL/S76-109",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "Assault Lily Bouquet",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
@@ -4031,19 +4255,21 @@
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "……ただいま",
         "ability": [
-            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《リリィ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your 《リリィ》 Character and this card, STAND and exchange them.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
         ],
         "attributes": [
-            "リリィ",
-            "一柳隊"
+            "《リリィ》",
+            "《一柳隊》"
         ],
         "set": "ALL",
         "release": "S76",
         "sid": "109",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_109.png"
+        "image": "https://images.littleakiba.com/tcg/card65990-large.jpg"
     },
     {
         "name": "アサルトリリィ BOUQUET",
