@@ -3480,5 +3480,229 @@
         "release": "W73",
         "sid": "P05",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p05.png"
+    },
+    {
+        "name": "全力のライブ レイヤ",
+        "code": "BD/W73-P01",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
+        ],
+        "attributes": [
+            "音楽",
+            "RAISE A SUILEN"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p01.png"
+    },
+    {
+        "name": "全力のライブ 戸山香澄",
+        "code": "BD/W73-P02",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "音楽",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p02.png"
+    },
+    {
+        "name": "全力のライブ 湊友希那",
+        "code": "BD/W73-P03",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+        ],
+        "attributes": [
+            "音楽",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p03.png"
+    },
+    {
+        "name": "Rausch und/and Craziness",
+        "code": "BD/W73-P04",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p04.png"
+    },
+    {
+        "name": "スクールライフ 美竹蘭",
+        "code": "BD/W73-P06",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の緑のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "attributes": [
+            "音楽",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p06.png"
+    },
+    {
+        "name": "ギャラクシーの前で レイヤ",
+        "code": "BD/W73-P07",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "2",
+        "cost": "1",
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "音楽",
+            "RAISE A SUILEN"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p07.png"
+    },
+    {
+        "name": "スクールライフ 丸山彩",
+        "code": "BD/W73-P08",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの正面のキャラは他の枠に動かせない。",
+            "【永】 このカードはサイドアタックできない。"
+        ],
+        "attributes": [
+            "音楽",
+            "Pastel＊Palettes"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p08.png"
+    },
+    {
+        "name": "スクールライフ 戸山香澄",
+        "code": "BD/W73-P09",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "音楽",
+            "Poppin’Party"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p09.png"
+    },
+    {
+        "name": "スクールライフ 湊友希那",
+        "code": "BD/W73-P10",
+        "rarity": "PR",
+        "expansion": "Various",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "0",
+        "cost": "0",
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "音楽",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "W73",
+        "sid": "P10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p10.png"
     }
 ]
