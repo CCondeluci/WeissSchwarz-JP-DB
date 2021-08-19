@@ -1,2850 +1,3080 @@
 [
     {
-        "name": "\"魔術の才\"ルーデウス",
+        "name": "“魔術の才”ルーデウス",
         "code": "MTI/S83-001",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "雄大なる水の精霊にして、天に上りし雷帝の王子よ！ 我が願いを叶え、凶暴なる恵みをもたらし、矮小なる存在に力を見せつけよ！",
         "ability": [
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+            "【C】If your Hand has 5 or more cards, this card gets +2000 Power.",
+            "【A】At the beginning of opponent's Attack Phase, you may move this card to the empty Center Slot at Front Row."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_001.png"
+        "image": "https://images.littleakiba.com/tcg/card67964-large.jpg"
     },
     {
-        "name": "\"本気で生きる\"ルーデウス",
+        "name": "“本気で生きる”ルーデウス",
         "code": "MTI/S83-002",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "狙ってやった事じゃない。わかっている。…けれど、尊敬しよう。あの小さな少女を",
         "ability": [
-            "【永】 あなたの《六面世界》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。",
-            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』"
+            "【C】If you have 4 or more 《六面世界》 Character, this card gets -1 Level in your Hand.",
+            "【C】EXPERIENCE If the total Level in your Level Slot is 6 or higher, this card gets +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, until end of opponent's next turn, this card gets +4500 Power, gains the following Ability. 『【C】During this card's battle, both player cannot play 『ASSIST』 from Hand.』"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "002",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_002.png"
+        "image": "https://images.littleakiba.com/tcg/card67966-large.jpg"
     },
     {
-        "name": "\"陽だまりの中で\"ルーデウス",
+        "name": "“陽だまりの中で”ルーデウス",
         "code": "MTI/S83-003",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "シルフ！待ってよ！",
         "ability": [
-            "【自】【CXコンボ】 あなたのクライマックス置場に「小さな魔術師」が置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』",
-            "【起】［(1) 手札の「\"天才剣士\"パウロ」を1枚控え室に置き、あなたの《六面世界》のキャラを2枚【レスト】する］ あなたは自分の控え室の、《メイド》か《妹》のキャラを2枚まで選び、手札に戻す。"
+            "【A】【CXCOMBO】When 「小さな魔術師」 is placed into your Climax Slot, chooses 1 of your other Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, look at up to 4 cards from your top Deck, choose up to 1 《六面世界》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.』",
+            "【S】[(1) Place 1 「“天才剣士”パウロ」 from Hand into Waiting Room, REST 2 of your 《六面世界》 Character] Choose up to 2 《メイド》 or 《妹》 Character from your Waiting Room, return them to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "003",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_003.png"
+        "image": "https://images.littleakiba.com/tcg/card67968-large.jpg"
     },
     {
-        "name": "\"冒険者パーティー デッドエンド\"ルーデウス",
+        "name": "“冒険者パーティー デッドエンド”ルーデウス",
         "code": "MTI/S83-004",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "おいおい ここにいるのは本当に冒険者かァ？",
         "ability": [
-            "【永】 他のあなたの、「\"冒険者パーティー デッドエンド\"エリス」と「\"冒険者パーティー デッドエンド\"ルイジェルド」すべてに、パワーを＋2000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-            "【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《六面世界》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "【C】All your other 「“冒険者パーティー デッドエンド”エリス」 and 「“冒険者パーティー デッドエンド”ルイジェルド」 gets +2000 Power, gains the following Ability. 『【C】This card cannot be chosen by opponent's effect.』",
+            "【S】[(1) REST 2 of your Characters] Place 2 cards from your top Deck, choose up to 1 《六面世界》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "004",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_004.png"
+        "image": "https://images.littleakiba.com/tcg/card67970-large.jpg"
     },
     {
-        "name": "\"日々の成長\"ルーデウス",
+        "name": "“日々の成長”ルーデウス",
         "code": "MTI/S83-005",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ありがとうございます。こんな高価そうなものまで",
         "ability": [
-            "【自】【CXコンボ】［手札の「\"魔術の才\"ルーデウス」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「師匠から弟子へ」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "【A】【CXCOMBO】[Place 1 「“魔術の才”ルーデウス」 from Hand into Waiting Room] At the beginning of your Attack Phase, if there is no Climax in your Climax Slot, you may pay the cost. If you did, search your Deck for up to 1 「師匠から弟子へ」, place it into Climax Slot, shuffle the Deck afterwards.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "005",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_005.png"
+        "image": "https://images.littleakiba.com/tcg/card67971-large.jpg"
     },
     {
-        "name": "\"励ましの言葉\"ルーデウス",
+        "name": "“励ましの言葉”ルーデウス",
         "code": "MTI/S83-006",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "先生は今、失敗したんじゃありません。経験を積んだんです",
         "ability": [
-            "【永】 他のあなたの後列の「\"君にあげられるもの\"ロキシー」がいるなら、このカードのパワーを＋3000し、ソウルを＋1。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「傲慢なる水竜王」があり、他のあなたの《六面世界》のキャラがいるなら、あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻し、そのターン中、このカードは次の能力を得る。『【自】 このカードの与えたダメージがキャンセルされた時、次の相手のターンの終わりまで、このカードのパワーを＋4000。』"
+            "【C】If you have other 「“君にあげられるもの”ロキシー」, this card gets +3000 Power and +1 Soul.",
+            "【A】【CXCOMBO】When this card attacks, if 「傲慢なる水竜王」 is in your Climax Slot, and you have other 《六面世界》 Character, choose 1 《六面世界》 Character from your Waiting Room, return it to Hand, during this turn, this card gains the following Ability. 『【A】When this card's dealt Damage is cancelled, until end of opponent's next turn, this card gets +4000 Power.』"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_006.png"
+        "image": "https://images.littleakiba.com/tcg/card67973-large.jpg"
     },
     {
-        "name": "\"人生のスタートライン\"ルーデウス",
+        "name": "“人生のスタートライン”ルーデウス",
         "code": "MTI/S83-007",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "わぁ…！",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_007.png"
+        "image": "https://images.littleakiba.com/tcg/card67974-large.jpg"
     },
     {
-        "name": "\"勇敢な少年\"ルーデウス",
+        "name": "“勇敢な少年”ルーデウス",
         "code": "MTI/S83-008",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "やめろー！",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《六面世界》のキャラすべてに、パワーを＋500。",
-            "【起】 経験 ［このカードを【レスト】する］ あなたのレベル置場に「\"本気で生きる\"ルーデウス」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+            "【C】During your turn, all your other 《六面世界》 Character gets +500 Power.",
+            "【S】EXPERIENCE [REST this card] If 「“本気で生きる”ルーデウス」 is in your Level Slot, you draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "008",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_008.png"
+        "image": "https://images.littleakiba.com/tcg/card67976-large.jpg"
     },
     {
-        "name": "\"子どもだもの\"ルーデウス",
+        "name": "“子どもだもの”ルーデウス",
         "code": "MTI/S83-009",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ウヒィ～ッ",
         "ability": [
-            "【自】［(4) 手札の《六面世界》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】[(4) Place 1 《六面世界》 Character from Hand into Waiting Room] When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character, REST it.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "009",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_009.png"
+        "image": "https://images.littleakiba.com/tcg/card67977-large.jpg"
     },
     {
-        "name": "\"天才剣士\"パウロ",
+        "name": "“天才剣士”パウロ",
         "code": "MTI/S83-010",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "控えめに言って、パウロはクズだ。しかし、俺は欠点だらけのこの男を認めている。なぜか。強いからだ",
         "ability": [
-            "【永】 前列にこのカードがいるなら、あなたの《六面世界》のキャラすべてに、パワーを＋1500。",
-            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
-            "【自】［手札のキャラを1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのトリガーアイコンに[SOUL]があるなら、あなたはコストを払ってよい。そうしたら、相手に同じダメージを与える。（ダメージキャンセルは発生する）"
+            "【C】If this card is at Front Row, all your 《六面世界》 Character gets +1500 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.",
+            "【A】[(Place 1 Character from Hand into Waiting Room] This Ability can be activated up to 1 time each turn. During this card's battle, if the Damage you received is cancelled, place the top card of your Deck. If that card has Soul Trigger Icon, you may pay the cost. If you did, deal the same Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "010",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_010.png"
+        "image": "https://images.littleakiba.com/tcg/card67978-large.jpg"
     },
     {
-        "name": "\"友達\"ルーデウス",
+        "name": "“友達”ルーデウス",
         "code": "MTI/S83-011",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あまり、人の言う事にさからわない子らしい。ショタコンのお兄さんがいたら、一発で“ズグン”ってなるだろう",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠の《六面世界》のキャラに、パワーを＋1500。",
-            "【自】【CXコンボ】［手札の「\"こぼれる涙\"シルフィエット」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「君がくれた笑顔」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
+            "【C】your other 《六面世界》 Character at the Center Slot of Front Row gets +1500 Power.",
+            "【A】【CXCOMBO】[Place 1 「“こぼれる涙”シルフィエット」 from Hand into Waiting Room] At the beginning of your Attack Phase, if there is no Climax in your Climax Slot, you may pay the cost. If you did, search your Deck for up to 1 「君がくれた笑顔」, place it into Climax Slot, shuffle the Deck afterwards."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "011",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_011.png"
+        "image": "https://images.littleakiba.com/tcg/card67979-large.jpg"
     },
     {
-        "name": "\"打ち解ける心\"リーリャ",
+        "name": "“打ち解ける心”リーリャ",
         "code": "MTI/S83-012",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あの日以来、リーリャは少しずつ話をするようになってくれた。驚いた事に、若い頃、リーリャとパウロは一緒の道場で剣を習っていたんだとか",
         "ability": [
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。』",
-            "【起】［手札のイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。"
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to Stock. If you did, place the bottom card of opponent's Stock into Waiting Room.』",
+            "【S】[Place 1 Event from Hand into Waiting Room, REST this card] Choose 1 《六面世界》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "メイド"
+            "《六面世界》",
+            "Maid 《メイド》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_012.png"
+        "image": "https://images.littleakiba.com/tcg/card67980-large.jpg"
     },
     {
-        "name": "\"差し伸べた手\"ルーデウス",
+        "name": "“差し伸べた手”ルーデウス",
         "code": "MTI/S83-013",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "僕と踊って頂けませんか？",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《六面世界》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【A】When this card is placed on Stage from Hand, choose 1 of your other 《六面世界》 Character, during this turn, it gets +1000 Power.",
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, look at up to 2 cards from your top Deck, place them on top Deck in any order, choose 1 of your Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "013",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_013.png"
+        "image": "https://images.littleakiba.com/tcg/card67981-large.jpg"
     },
     {
         "name": "アイシャ＆ノルン",
         "code": "MTI/S83-014",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "パウロ「パパでちゅよ～」",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
-            "【自】 他のあなたの《六面世界》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
+            "【A】When this card is placed on Stage from Hand, both players perform the following Action. 『If your Memory has",
+            "5 or more cards, choose 4 cards from your Memory, place all cards except for those chosen cards from Memory into Waiting Room.』",
+            "【A】When your other 《六面世界》 Character attacks, during this turn, this card gets +2000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "妹"
+            "《六面世界》",
+            "Younger Sister 《妹》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "014",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_014.png"
+        "image": "https://images.littleakiba.com/tcg/card67982-large.jpg"
     },
     {
-        "name": "\"授かった命\"ゼニス",
+        "name": "“授かった命”ゼニス",
         "code": "MTI/S83-015",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "こんにちは。はじめまして",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】 絆／「\"本気で生きる\"ルーデウス」「\"天才剣士\"パウロ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"本気で生きる\"ルーデウス」か「\"天才剣士\"パウロ」を1枚選び、手札に戻す）",
-            "【起】［このカードを【レスト】する］ あなたは自分の、「\"本気で生きる\"ルーデウス」か「\"天才剣士\"パウロ」を1枚選び、そのターン中、パワーを＋2500。"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】BOND／「“本気で生きる”ルーデウス」 「“天才剣士”パウロ」［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“本気で生きる”ルーデウス」or 「“天才剣士”パウロ」 from your Waiting Room, return it to Hand)",
+            "【S】[REST this card] Choose 1 of your 「“本気で生きる”ルーデウス」or 「“天才剣士”パウロ」, during this turn, it gets +2500 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "015",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_015.png"
+        "image": "https://images.littleakiba.com/tcg/card67983-large.jpg"
     },
     {
         "name": "御神体",
         "code": "MTI/S83-016",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "数ヶ月前に盗んだロキシーのパンツがありました。…ごめんなさい",
         "ability": [
-            "このカードを思い出にする。",
-            "【自】 記憶 あなたのクライマックスフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分のカード名に「ルーデウス」を含むキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "Send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Climax Phase, if this card is in Memory, choose 1 of your Character with 「ルーデウス」 in its name, during this turn, it gets +2500 Power."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "016",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_016.png"
+        "image": "https://images.littleakiba.com/tcg/card67984-large.jpg"
     },
     {
         "name": "人形作り",
         "code": "MTI/S83-017a",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ルーデウス「出来た！ムフフ…。我ながらいい出来だ～」",
         "ability": [
-            "このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-            "このカードを思い出にする。あなたは自分の控え室の《六面世界》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「人形作り」の枚数に等しい。"
+            "If you have no 《六面世界》 Character, you cannot play this card from Hand.",
+            "Send this card to Memory. Choose up to X amount of 《六面世界》 Character from your Waiting Room, return them to Hand. X is equal to the number of 「人形作り」 in your Memory."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "017a",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_017a.png"
+        "image": "https://images.littleakiba.com/tcg/card67985-large.jpg"
     },
     {
         "name": "人形作り",
         "code": "MTI/S83-017b",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "エリス「そんなのより、あっちのがいい」",
         "ability": [
-            "このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-            "このカードを思い出にする。あなたは自分の控え室の《六面世界》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「人形作り」の枚数に等しい。"
+            "If you have no 《六面世界》 Character, you cannot play this card from Hand.",
+            "Send this card to Memory. Choose up to X amount of 《六面世界》 Character from your Waiting Room, return them to Hand. X is equal to the number of 「人形作り」 in your Memory."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "017b",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_017b.png"
+        "image": "https://images.littleakiba.com/tcg/card67986-large.jpg"
     },
     {
         "name": "人形作り",
         "code": "MTI/S83-017c",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ギレーヌ「これは私か。中々良く出来ているな。ん？尻尾がついていないが」",
         "ability": [
-            "このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-            "このカードを思い出にする。あなたは自分の控え室の《六面世界》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「人形作り」の枚数に等しい。"
+            "If you have no 《六面世界》 Character, you cannot play this card from Hand.",
+            "Send this card to Memory. Choose up to X amount of 《六面世界》 Character from your Waiting Room, return them to Hand. X is equal to the number of 「人形作り」 in your Memory."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "017c",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_017c.png"
+        "image": "https://images.littleakiba.com/tcg/card67987-large.jpg"
     },
     {
         "name": "ヒトガミ",
         "code": "MTI/S83-018",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 5,
+        "level": "3",
+        "cost": "5",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "アハハハハ…",
         "ability": [
-            "このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-            "次の3つの効果を好きな順番で1回ずつ行う。",
-            "『あなたは相手のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かすか、他の相手のキャラを1枚選び、それぞれを【スタンド】して入れ替える。』",
-            "『相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。』",
-            "『相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』"
+            "If you have no 《六面世界》 Character, you cannot play this card from Hand.",
+            "Perform 3 of the following effects once each in any order.",
+            "『Choose 1 opponent's Character, STAND and move it to another empty slot or, choose 1 other opponent's Character, STAND and exchange them.』",
+            "『Place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock.』",
+            "『Opponent choose 1 Climax from his/her Waiting Room, return all cards from his/her Waiting Room into Deck except for that Climax, shuffle the Deck afterwards.』"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "018",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_018.png"
+        "image": "https://images.littleakiba.com/tcg/card67988-large.jpg"
     },
     {
         "name": "傲慢なる水竜王",
         "code": "MTI/S83-019",
         "rarity": "CR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "CHOICE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "集えよ魔力！",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_019.png"
+        "image": "https://images.littleakiba.com/tcg/card67989-large.jpg"
     },
     {
         "name": "小さな魔術師",
         "code": "MTI/S83-020",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "RETURN"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "汝の求めるところに大いなる水の加護あらん？清涼なるせせらぎの流れを今ここに、『ウォーターボール』",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "020",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_020.png"
+        "image": "https://images.littleakiba.com/tcg/card67991-large.jpg"
     },
     {
-        "name": "\"守りたい笑顔\"シルフィエット",
+        "name": "“守りたい笑顔”シルフィエット",
         "code": "MTI/S83-021",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "俺は精一杯、新しい世界で出来た友達を、大切にすればいいのだ",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラすべてに、パワーを＋500。",
-            "【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【C】All your other 《六面世界》 Character gets +500 Power.",
+            "【S】[(1) Send this card to Memory] Look at up to 3 cards from your top Deck, choose up to 1 《六面世界》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "021",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_021.png"
+        "image": "https://images.littleakiba.com/tcg/card67993-large.jpg"
     },
     {
-        "name": "\"純真無垢な心\"シルフィエット",
+        "name": "“純真無垢な心”シルフィエット",
         "code": "MTI/S83-022",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "あはは！ふふっ！",
         "ability": [
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「君がくれた笑顔」があるなら、あなたは自分の山札を上から4枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-            "【自】 記憶 このカードがアタックした時、あなたの思い出置場に「\"守りたい笑顔\"シルフィエット」があるなら、そのターン中、このカードのパワーを＋2000。"
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「君がくれた笑顔」 is in your Climax Slot, look at up to 4 cards from your top Deck, choose up to 1 《六面世界》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "【A】RECOLLECTION When this card attacks, if 「“守りたい笑顔”シルフィエット」 is in your Memory, during this turn, this card gets +2000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "022",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_022.png"
+        "image": "https://images.littleakiba.com/tcg/card67995-large.jpg"
     },
     {
-        "name": "\"スペルド族の戦士\"ルイジェルド",
+        "name": "“スペルド族の戦士”ルイジェルド",
         "code": "MTI/S83-023",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10500",
+        "soul": 2,
+        "flavor_text": "ここで放り出したとあっては、スペルド族の誇りに傷がつく。…もっとも…傷だらけの誇りだがな",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、相手のキャラすべてに、そのターン中、パワーを－Ｘ。Ｘはそのキャラのレベル×1000に等しい。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「出会えば死」があるなら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, during this turn, all opponent's Character gets -X Power. X is equal to that Character's Level x1000.",
+            "【A】【CXCOMBO】When this card attacks, if 「出会えば死」 is in your Climax Slot, look at up to 2 cards from opponent's top Deck, choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room, look at up to 2 cards from your top Deck, choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "023",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_023.png"
+        "image": "https://images.littleakiba.com/tcg/card67997-large.jpg"
     },
     {
-        "name": "\"天使の憩い\"シルフィエット",
+        "name": "“天使の憩い”シルフィエット",
         "code": "MTI/S83-024",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "はぁ…はぁ、はぁ…",
         "ability": [
-            "【永】 記憶 あなたの思い出置場に「\"守りたい笑顔\"シルフィエット」があるなら、他のあなたの《六面世界》のキャラすべてに、パワーを＋500。",
-            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[TREASURE]のクライマックス1枚につき、あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】RECOLLECTION If your Memory has 「“守りたい笑顔”シルフィエット」, all your other 《六面世界》 Character gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax with Gold Trigger Icon among those cards, search your Deck for up to 1 《六面世界》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "024",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_024.png"
+        "image": "https://images.littleakiba.com/tcg/card67999-large.jpg"
     },
     {
-        "name": "\"額の目\"ルイジェルド",
+        "name": "“額の目”ルイジェルド",
         "code": "MTI/S83-025",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ああ、間違いない",
         "ability": [
-            "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【A】[Place 1 card from Hand into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《六面世界》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards."
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "025",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_025.png"
+        "image": "https://images.littleakiba.com/tcg/card68001-large.jpg"
     },
     {
-        "name": "\"冒険者パーティー デッドエンド\"ルイジェルド",
+        "name": "“冒険者パーティー デッドエンド”ルイジェルド",
         "code": "MTI/S83-026",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたの、「\"冒険者パーティー デッドエンド\"ルーデウス」と「\"冒険者パーティー デッドエンド\"エリス」がいるなら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 あなたの、「\"冒険者パーティー デッドエンド\"ルーデウス」と「\"冒険者パーティー デッドエンド\"エリス」がいるなら、このカードのソウルを＋1し、このカードは次の2つの能力を得る。『【永】 このカードのバトル中、相手はイベントを手札からプレイできない。』『【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《六面世界》のキャラを1枚選び、ストック置場に置いてよい。』"
+            "【C】If you have 「“冒険者パーティー デッドエンド”ルーデウス」 and 「“冒険者パーティー デッドエンド”エリス」, this card gets -1 Level in your Hand.",
+            "【C】If you have 「“冒険者パーティー デッドエンド”ルーデウス」 and 「“冒険者パーティー デッドエンド”エリス」, this card gets +1 Soul, gains 2 of the following Abilities.",
+            "『【C】During this card's battle, opponent cannot play Event from Hand.』",
+            "『【A】When this card Direct Attacks, you may choose 1 《六面世界》 Character from your Waiting Room, place it into Stock.』"
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "026",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_026.png"
+        "image": "https://images.littleakiba.com/tcg/card68003-large.jpg"
     },
     {
-        "name": "\"ボクっ子幼馴染\"シルフィエット",
+        "name": "“ボクっ子幼馴染”シルフィエット",
         "code": "MTI/S83-027",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 記憶 あなたの思い出置場の「\"守りたい笑顔\"シルフィエット」が2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+            "【C】RECOLLECTION If your Memory has 2 or more 「“守りたい笑顔”シルフィエット」, this card gets +1500 Power, gains 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』.",
+            "【A】[(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "027",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_027.png"
+        "image": "https://images.littleakiba.com/tcg/card68004-large.jpg"
     },
     {
-        "name": "\"戦闘態勢\"ルイジェルド",
+        "name": "“戦闘態勢”ルイジェルド",
         "code": "MTI/S83-028",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "うかつすぎる…。奴ら魔物に囲まれている事に気づいていないのか？",
         "ability": [
-            "【永】 あなたのクロック置場に「\"魔術の才\"ルーデウス」があるなら、あなたの手札のこのカードのレベルを－1。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。",
-            "【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「\"スペルド族の戦士\"ルイジェルド」を1枚まで選び、このカードがいた枠に置く。"
+            "【C】If 「“魔術の才”ルーデウス」 is in your Clock, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, you may place the bottom card of your Clock into Waiting Room.",
+            "【A】CHANGE [Return this card to Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, choose up to 1 「“スペルド族の戦士”ルイジェルド」 from your Hand, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "028",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_028.png"
+        "image": "https://images.littleakiba.com/tcg/card68006-large.jpg"
     },
     {
-        "name": "\"クォーターエルフの少女\"シルフィエット",
+        "name": "“クォーターエルフの少女”シルフィエット",
         "code": "MTI/S83-029",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 このカードの正面のキャラのソウルを－1。",
-            "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「将来の魔術師」があり、他のあなたの《六面世界》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』"
+            "【C】The Character facing this card gets -1 Soul.",
+            "【C】RECOLLECTION If your Memory has 3 or more cards, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「将来の魔術師」 is in your Climax Slot, and you have 2 or more other 《六面世界》 Character, place up to 1 card from your top Clock into Waiting Room, until end of opponent's next turn, this card gains the following Ability. 『【C】The Character facing this card gets -1 Soul.』"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "029",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_029.png"
+        "image": "https://images.littleakiba.com/tcg/card68008-large.jpg"
     },
     {
-        "name": "\"美少年？\"シルフィエット",
+        "name": "“美少年？”シルフィエット",
         "code": "MTI/S83-030",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "まぁ、びっくり。驚くほどの美少年。ショタコンのお姉さんがいたら、一発で“ジュン”ってなるだろう",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage.",
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《六面世界》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "030",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_030.png"
+        "image": "https://images.littleakiba.com/tcg/card68010-large.jpg"
     },
     {
         "name": "冒険者ギルドの受付嬢",
         "code": "MTI/S83-031",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "パーティーの名前は本当に『デッドエンド』でいいの？",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《六面世界》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《六面世界》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】CONCENTRATION ［(1)］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following Action. 『Search your Deck for up to 1 《六面世界》 Character and show it to opponent, add it to Hand, choose 1 card from your Hand, place it into Waiting Room, shuffle the Deck afterwards.』"
         ],
         "attributes": [
-            "六面世界",
-            "ギルド"
+            "《六面世界》",
+            "Guild 《ギルド》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "031",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_031.png"
+        "image": "https://images.littleakiba.com/tcg/card68011-large.jpg"
     },
     {
         "name": "トクラブ村愚連隊",
         "code": "MTI/S83-032a",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "バチロウ！",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card attacks, if you have 1 or less other Character, you may place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, place it into any slot at Back Row.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《六面世界》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "冒険者"
+            "《六面世界》",
+            "Adventurer 《冒険者》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "032a",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_032a.png"
+        "image": "https://images.littleakiba.com/tcg/card68012-large.jpg"
     },
     {
         "name": "トクラブ村愚連隊",
         "code": "MTI/S83-032b",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ガブリン！",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card attacks, if you have 1 or less other Character, you may place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, place it into any slot at Back Row.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《六面世界》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "冒険者"
+            "《六面世界》",
+            "Adventurer 《冒険者》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "032b",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_032b.png"
+        "image": "https://images.littleakiba.com/tcg/card68013-large.jpg"
     },
     {
         "name": "トクラブ村愚連隊",
         "code": "MTI/S83-032c",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "クルト！",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card attacks, if you have 1 or less other Character, you may place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, place it into any slot at Back Row.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《六面世界》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "冒険者"
+            "《六面世界》",
+            "Adventurer 《冒険者》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "032c",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_032c.png"
+        "image": "https://images.littleakiba.com/tcg/card68014-large.jpg"
     },
     {
         "name": "ピーハンター",
         "code": "MTI/S83-033a",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 舞台にこのカードがいるなら、このカードのカード名は「デッドエンドのルイジェルド」としても扱う。",
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。"
+            "【C】If this card is on Stage, this card gains the card name 「デッドエンドのルイジェルド」.",
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 card from your Hand, place it into Stock."
         ],
         "attributes": [
-            "六面世界",
-            "冒険者"
+            "《六面世界》",
+            "Adventurer 《冒険者》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "033a",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_033a.png"
+        "image": "https://images.littleakiba.com/tcg/card68015-large.jpg"
     },
     {
         "name": "ピーハンター",
         "code": "MTI/S83-033b",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 舞台にこのカードがいるなら、このカードのカード名は「デッドエンドのルイジェルド」としても扱う。",
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。"
+            "【C】If this card is on Stage, this card gains the card name 「デッドエンドのルイジェルド」.",
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』.",
+            "【A】When this card is placed on Stage from Hand, you may choose 1 card from your Hand, place it into Stock."
         ],
         "attributes": [
-            "六面世界",
-            "冒険者"
+            "《六面世界》",
+            "Adventurer 《冒険者》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "033b",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_033b.png"
+        "image": "https://images.littleakiba.com/tcg/card68016-large.jpg"
     },
     {
-        "name": "\"魔術の習得\"シルフィエット",
+        "name": "“魔術の習得”シルフィエット",
         "code": "MTI/S83-034",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "それ、教えて！",
         "ability": [
-            "【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
-            "【永】 経験 あなたのレベル置場に「\"本気で生きる\"ルーデウス」があるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは、色条件を満たさずに手札からプレイできる。』"
+            "【C】RECOLLECTION During your turn, if your Memory has any cards, this card gets +2500 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power.』",
+            "【C】EXPERIENCE If 「“本気で生きる”ルーデウス」 is in your Level Slot, this card gets +1000 Power, and gains the following Ability. 『【C】You can play this card from Hand without following the Colour rules.』"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_034.png"
+        "image": "https://images.littleakiba.com/tcg/card68017-large.jpg"
     },
     {
-        "name": "\"輝く瞳\"シルフィエット",
+        "name": "“輝く瞳”シルフィエット",
         "code": "MTI/S83-035",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "わぁ……‼",
         "ability": [
-            "【永】 他のあなたのカード名に「ルーデウス」を含むキャラがいるなら、このカードのパワーを＋6000。",
-            "【自】【CXコンボ】［(1) このカードを思い出にする］ あなたのクライマックス置場に「将来の魔術師」が置かれた時、あなたの《六面世界》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"クォーターエルフの少女\"シルフィエット」を1枚選び、このカードがいた枠に置く。"
+            "【C】If you have other Character with 「ルーデウス」 in its name, this card gets +6000 Power.",
+            "【A】【CXCOMBO】[(1) Send this card to Memory] When 「将来の魔術師」 is placed into your Climax Slot, and you have 《六面世界》 Character, you may pay the cost. If you did, choose 1 「”クォーターエルフの少女”シルフィエット」 from your Waiting Room, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_035.png"
+        "image": "https://images.littleakiba.com/tcg/card68018-large.jpg"
     },
     {
-        "name": "\"畏怖される種族\"ルイジェルド",
+        "name": "“畏怖される種族”ルイジェルド",
         "code": "MTI/S83-036",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「スペルド族の魂」を1枚選び、手札に戻す。",
-            "【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「スペルド族の魂」 from your Waiting Room, return it to Hand.",
+            "【S】【COUNTER】 ASSIST 1000 Level 0 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "036",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_036.png"
+        "image": "https://images.littleakiba.com/tcg/card68019-large.jpg"
     },
     {
         "name": "ノコパラ",
         "code": "MTI/S83-037",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "まーたーなー！ニュービー！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《六面世界》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "六面世界",
-            "冒険者"
+            "《六面世界》",
+            "Adventurer 《冒険者》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "037",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_037.png"
+        "image": "https://images.littleakiba.com/tcg/card68020-large.jpg"
     },
     {
-        "name": "\"こぼれる涙\"シルフィエット",
+        "name": "“こぼれる涙”シルフィエット",
         "code": "MTI/S83-038",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "や、やだ…。どこにも、行かないで…",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "038",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_038.png"
+        "image": "https://images.littleakiba.com/tcg/card68021-large.jpg"
     },
     {
-        "name": "\"ふたりだけの時間\"シルフィエット",
+        "name": "“ふたりだけの時間”シルフィエット",
         "code": "MTI/S83-039",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ごめん、待った？",
         "ability": [
-            "【永】 他のあなたのカード名に「ルーデウス」か「シルフィエット」を含むキャラがいるなら、このカードのパワーを＋3000。"
+            "【C】If you have other Character with 「ルーデウス」 or 「シルフィエット」 in its name, this card gets +3000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_039.png"
+        "image": "https://images.littleakiba.com/tcg/card68022-large.jpg"
     },
     {
-        "name": "\"友達\"シルフィエット",
+        "name": "“友達”シルフィエット",
         "code": "MTI/S83-040",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "……うん…",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】 記憶 このカードがアタックした時、あなたの思い出置場に「\"守りたい笑顔\"シルフィエット」があるなら、あなたは他の自分の《六面世界》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "【C】 If you have 2 or more other 《六面世界》 Character, this card gets ＋1000 Power.",
+            "【A】 RECOLLECTION When this card attacks, if 「“守りたい笑顔”シルフィエット」 is in your Memory, choose 1 of your other 《六面世界》 Character, during this turn, it gets ＋2000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_040.png"
+        "image": "https://images.littleakiba.com/tcg/card68023-large.jpg"
     },
     {
-        "name": "\"激情の憤り\"ルイジェルド",
+        "name": "“激情の憤り”ルイジェルド",
         "code": "MTI/S83-041",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "違う！事実ではない。あれはラプラスの陰謀だ",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "【A】When you use this card's 『ASSIST』, reveal the top card of your Deck. If that card is a 《六面世界》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_041.png"
+        "image": "https://images.littleakiba.com/tcg/card68024-large.jpg"
     },
     {
-        "name": "\"ルディとお勉強\"シルフィエット",
+        "name": "“ルディとお勉強”シルフィエット",
         "code": "MTI/S83-042",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "え？",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「\"守りたい笑顔\"シルフィエット」を1枚選び、思い出にしてよい。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【A】When this card is placed on Stage from Hand, if your Memory has 2 or less cards, you may choose 1 「“守りたい笑顔”シルフィエット」 from your Waiting Room, send it to Memory.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "042",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_042.png"
+        "image": "https://images.littleakiba.com/tcg/card68025-large.jpg"
     },
     {
-        "name": "\"陽だまりの中で\"シルフィエット",
+        "name": "“陽だまりの中で”シルフィエット",
         "code": "MTI/S83-043",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "ルディ今日は何しよっか？",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《六面世界》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+            "【C】SUPPORT All your 《六面世界》 Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【A】When your Character Trigger Checks a Climax with Gold Trigger Icon, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_043.png"
+        "image": "https://images.littleakiba.com/tcg/card68026-large.jpg"
     },
     {
-        "name": "\"傷だらけの誇り\"ルイジェルド",
+        "name": "“傷だらけの誇り”ルイジェルド",
         "code": "MTI/S83-044",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "こりないヤツだな。そんなにオレが信用できないか？",
         "ability": [
-            "【永】 記憶 あなたの思い出置場に「スペルド族の魂」があるなら、このカードのパワーを＋4500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「子供と戦士」があるなら、あなたは自分の控え室の《六面世界》のキャラを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラか「スペルド族の魂」なら手札に加える。（そうでないなら元に戻す）"
+            "【C】RECOLLECTION If 「スペルド族の魂」 is in your Memory, this card gets +4500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「子供と戦士」 is in your Climax Slot, choose up to 1 《六面世界》 Character from your Waiting Room, place it into Stock, reveal the top card of your Deck. If that card is a 《六面世界》 Character or 「スペルド族の魂」, add it to Hand. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "六面世界",
-            "戦士"
+            "《六面世界》",
+            "《戦士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "044",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_044.png"
+        "image": "https://images.littleakiba.com/tcg/card68027-large.jpg"
     },
     {
         "name": "スペルド族の魂",
         "code": "MTI/S83-045",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この槍は…俺を呪いから救い出す為に、命を投げ出した息子の魂だ。…スペルド族の悪評は、迂闊にラプラスを信じ、呪われた槍を受けとってしまった俺達への罰だ",
         "ability": [
-            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-            "このカードを思い出にする。",
-            "【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "Choose 1 of your Character, during this turn, it gets +4000 Power.",
+            "Send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Main Phase, if this card is in Memory, look at up to 2 cards from your top Deck, place them on top Deck in any order."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "045",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_045.png"
+        "image": "https://images.littleakiba.com/tcg/card68028-large.jpg"
     },
     {
         "name": "シルフ",
         "code": "MTI/S83-046",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ルーデウス「早くしないと体、冷えちゃうぜ？」",
         "ability": [
-            "【カウンター】 このカードは、あなたの《六面世界》のキャラが1枚以下なら、手札からプレイできない。",
-            "次の2つの効果のうちあなたが選んだ1つを行う。",
-            "『あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。』",
-            "『あなたは自分の手札の「シルフ」を1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』』"
+            "【COUNTER】If you have 1 or less 《六面世界》 Character, you cannot play this card from Hand.",
+            "Choose and perform 1 of the following 2 effects.",
+            "『Choose 1 of your Character, during this turn, it gets +4000 Power.』",
+            "『You may choose 1 「シルフ」 from your Hand, place it into Waiting Room. If you did, choose 1 Character in battle, during this turn, it gains the following Ability. 『【C】This card cannot deal any Damage to player.』』"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_046.png"
+        "image": "https://images.littleakiba.com/tcg/card68029-large.jpg"
     },
     {
         "name": "君がくれた笑顔",
         "code": "MTI/S83-047",
         "rarity": "CR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "シルフィエット「出来た！出来た！」",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "047",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_047.png"
+        "image": "https://images.littleakiba.com/tcg/card68030-large.jpg"
     },
     {
         "name": "出会えば死",
         "code": "MTI/S83-048",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "048",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_048.png"
+        "image": "https://images.littleakiba.com/tcg/card68032-large.jpg"
     },
     {
         "name": "将来の魔術師",
         "code": "MTI/S83-049",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "出来た！",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "049",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_049.png"
+        "image": "https://images.littleakiba.com/tcg/card68034-large.jpg"
     },
     {
         "name": "子供と戦士",
         "code": "MTI/S83-050",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ルイジェルド「フッ…じゃあ…」",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+            "【A】When this card is placed into Climax Slot from Hand, choose up to 1 Character with Level same or lower than your Level from your Waiting Room, return it to Hand, choose up to 2 of your Characters, during this turn, they gets +1 Soul."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_050.png"
+        "image": "https://images.littleakiba.com/tcg/card68035-large.jpg"
     },
     {
-        "name": "\"麗しの剣士\"エリス",
+        "name": "“麗しの剣士”エリス",
         "code": "MTI/S83-051",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラか「金じゃデレは買えないんです！」ならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+            "【C】During your turn, if this card has Marker, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《六面世界》 Character or 「金じゃデレは貰えないんです！」, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other Character, REST it, move it to an empty slot at Back Row."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "051",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_051.png"
+        "image": "https://images.littleakiba.com/tcg/card68036-large.jpg"
     },
     {
-        "name": "\"凶暴ツンデレお嬢様\"エリス",
+        "name": "“凶暴ツンデレお嬢様”エリス",
         "code": "MTI/S83-052",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ナマイキよ！",
         "ability": [
-            "【永】 あなたのキャラすべてが《六面世界》なら、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「エリスのお願い」が置かれた時、前列にこのカードがいて、他のあなたの《六面世界》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《六面世界》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "【C】If all your Character are 《六面世界》, this card gets +2000 Power.",
+            "【A】【CXCOMBO】When 「エリスのお願い」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《六面世界》 Character, place 2 cards from your top Deck into Waiting Room, choose up to 1 《六面世界》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "052",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_052.png"
+        "image": "https://images.littleakiba.com/tcg/card68038-large.jpg"
     },
     {
-        "name": "\"強き女剣士\"ギレーヌ",
+        "name": "“強き女剣士”ギレーヌ",
         "code": "MTI/S83-053",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "我が剣術の師、剣神ガル・ファリオンとドルディアの名誉に誓う！",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《六面世界》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「魔眼の右目」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "【C】During your turn, if you have 4 or more other 《六面世界》 Character, this card gets +5000 Power, gains the following Ability. 『【C】During this card's battle, opponent cannot play Event and 『ASSIST』 from Hand.』",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2)] When this card attacks, if 「魔眼の右目」 is in your Climax Slot, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "053",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_053.png"
+        "image": "https://images.littleakiba.com/tcg/card68040-large.jpg"
     },
     {
-        "name": "\"妖艶な誘い\"エリス",
+        "name": "“妖艶な誘い”エリス",
         "code": "MTI/S83-054",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "さらりとした髪の毛。毎日修行に明け暮れているエリスの髪はいつもならもっとガサついている",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "054",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_054.png"
+        "image": "https://images.littleakiba.com/tcg/card68042-large.jpg"
     },
     {
-        "name": "\"剣術指南役\"ギレーヌ",
+        "name": "“剣術指南役”ギレーヌ",
         "code": "MTI/S83-055",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "もっと足を使え！手だけを動かすな！",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
+            "【C】For each of your other 《六面世界》 Character, this card gets +500 Power.",
+            "【A】ACCELERATE [Place the top card of your Deck into Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, look at up to 4 cards from your top Deck, choose up to 1 《六面世界》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.』"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "055",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_055.png"
+        "image": "https://images.littleakiba.com/tcg/card68044-large.jpg"
     },
     {
-        "name": "\"剣神流\"ギレーヌ",
+        "name": "“剣神流”ギレーヌ",
         "code": "MTI/S83-056",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ルーデウス！お嬢様を連れて下がっていろ！",
         "ability": [
-            "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】［(2) Place 1 of your Character from Stage into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "056",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_056.png"
+        "image": "https://images.littleakiba.com/tcg/card68046-large.jpg"
     },
     {
-        "name": "\"屈強な体\"ギレーヌ",
+        "name": "“屈強な体”ギレーヌ",
         "code": "MTI/S83-057",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 2,
+        "flavor_text": "ああ",
         "ability": [
-            "【永】 他のあなたの後列の《六面世界》のキャラ1枚につき、このカードのパワーを＋2000。",
-            "【永】 他のあなたの《六面世界》のキャラすべてに、パワーを＋1000。"
+            "【C】For each of your other 《六面世界》 Character at Back Row, this card gets +2000 Power.",
+            "【C】All your other 《六面世界》 Character gets +1000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "057",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_057.png"
+        "image": "https://images.littleakiba.com/tcg/card68048-large.jpg"
     },
     {
-        "name": "\"ボレアス家の令嬢\"エリス",
+        "name": "“ボレアス家の令嬢”エリス",
         "code": "MTI/S83-058",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "早くついてきなさい",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 他のあなたの《六面世界》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［手札を1枚控え室に置く］ このカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラか「金じゃデレは買えないんです！」なら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】If you have 2 or more other 《六面世界》 Character, this card gets +1500 Power, gains the following Ability. 『【A】[Place 1 card from Hand into Waiting Room] When this card becomes REVERSE, you may pay the cost. If you did, return this card to Hand.』",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《六面世界》 Character or 「金じゃデレは貰えないんです！」, you may deal 1 Damage to opponent. (Damage can be cancelled. Return revealed card to its original position)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "058",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_058.png"
+        "image": "https://images.littleakiba.com/tcg/card68050-large.jpg"
     },
     {
-        "name": "\"内に秘めた強さ\"エリス",
+        "name": "“内に秘めた強さ”エリス",
         "code": "MTI/S83-059",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「特別」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードの与えたダメージがキャンセルされなかった時、あなたのクライマックス置場に「特別」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+            "【A】【CXCOMBO】When this card is placed on Stage from Hand, choose up to 1 「特別」 from your Waiting Room, return it to Hand, during this turn, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[(1) Place 1 card from Hand into Waiting Room] When this card's dealt Damage is not cancelled, if 「特別」 is in your Climax Slot, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "059",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_059.png"
+        "image": "https://images.littleakiba.com/tcg/card68052-large.jpg"
     },
     {
-        "name": "\"冒険者パーティー デッドエンド\"エリス",
+        "name": "“冒険者パーティー デッドエンド”エリス",
         "code": "MTI/S83-060",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "読めないじゃない！",
         "ability": [
-            "【永】 他のあなたの後列の「\"冒険者パーティー デッドエンド\"ルーデウス」がいるなら、このカードのパワーを＋2000。",
-            "【永】 他のあなたの「\"冒険者パーティー デッドエンド\"ルイジェルド」がいるなら、このカードのパワーを＋3000。"
+            "【C】If you have other 「“冒険者パーティー デッドエンド”ルーデウス」 at Back Row, this card gets +2000 Power.",
+            "【C】If you have other 「“冒険者パーティー デッドエンド”ルイジェルド」, this card gets +3000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "060",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_060.png"
+        "image": "https://images.littleakiba.com/tcg/card68054-large.jpg"
     },
     {
-        "name": "\"天使のような寝顔\"エリス",
+        "name": "“天使のような寝顔”エリス",
         "code": "MTI/S83-061",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "すぅ…すぅ…",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, you may choose 1 opponent's Character with Level 0 or lower at Front Row, place it into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "061",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_061.png"
+        "image": "https://images.littleakiba.com/tcg/card68055-large.jpg"
     },
     {
-        "name": "\"魔術の習得\"エリス",
+        "name": "“魔術の習得”エリス",
         "code": "MTI/S83-062",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "やったやったー‼",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《六面世界》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 この能力は1ターンにつき1回まで発動する。バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【C】During your turn, if you have 2 or more other 《六面世界》 Character, this card gets +2000 Power.",
+            "【A】This Ability can be activated up to 1 time each turn. When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "062",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_062.png"
+        "image": "https://images.littleakiba.com/tcg/card68056-large.jpg"
     },
     {
-        "name": "\"ボレアス家の用心棒\"ギレーヌ",
+        "name": "“ボレアス家の用心棒”ギレーヌ",
         "code": "MTI/S83-063",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたのカード名に「ルーデウス」か「エリス」を含むキャラがいるなら、このカードのパワーを＋1500。",
-            "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+            "【C】If you have other Character with 「ルーデウス」 or 「エリス」 in its name, this card gets +1500 Power.",
+            "【C】If the Character facing this card is Cost 0 or lower, this card cannot become REVERSE."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "063",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_063.png"
+        "image": "https://images.littleakiba.com/tcg/card68057-large.jpg"
     },
     {
-        "name": "\"獣族\"ギレーヌ",
+        "name": "“獣族”ギレーヌ",
         "code": "MTI/S83-064",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの後列の《六面世界》のキャラ1枚につき、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】［(1) 手札のキャラを1枚控え室に置く］ あなたのクライマックス置場に「剣王ギレーヌ」が置かれた時、前列にこのカードがいて、他のあなたの《六面世界》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置き、自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラなら、あなたは相手の後列のレベル2以下のキャラを1枚選び、控え室に置く。"
+            "【C】For each of your other 《六面世界》 Character at Back Row, this card gets +2000 Power.",
+            "【A】【CXCOMBO】[(1) Place 1 Character from Hand into Waiting Room] When 「剣王ギレーヌ」 is placed into your Climax Slot, and this card is at Front Row, and you have 2 or more other 《六面世界》 Character, you may pay the cost. If you did, choose 1 opponent's Character with Level 3 or lower at Front Row, place it into Waiting Room, reveal the top card of your Deck. If that card is a 《六面世界》 Character, choose 1 opponent's Character with Level 2 or lower at Back Row, place it into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "064",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_064.png"
+        "image": "https://images.littleakiba.com/tcg/card68059-large.jpg"
     },
     {
         "name": "フィリップ・ボレアス・グレイラット",
         "code": "MTI/S83-065",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 2,
+        "flavor_text": "私は、フィリップ・ボレアス・グレイラット。この町の町長だ。パウロとは従兄弟にあたるのかな",
         "ability": [
-            "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ボレアス家の獣人メイド」を3枚まで選び、このカードの下にマーカーとして裏向きに置く。"
+            "【C】For each Marker under this card, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, choose up to 3 「ボレアス家の獣人メイド」 from your Waiting Room, place them under this card face-down as Marker."
         ],
         "attributes": [
-            "六面世界",
-            "貴族"
+            "《六面世界》",
+            "Noble 《貴族》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "065",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_065.png"
+        "image": "https://images.littleakiba.com/tcg/card68060-large.jpg"
     },
     {
         "name": "サウロス・ボレアス・グレイラット",
         "code": "MTI/S83-066",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "まぁ、エリスとそっくり。…エリスがあんなのになったのは、この人のマネじゃないのか？",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「フィリップ・ボレアス・グレイラット」を1枚まで選び、このカードがいた枠に置く。』",
-            "【自】 絆／「\"凶暴ツンデレお嬢様\"エリス」「フィリップ・ボレアス・グレイラット」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"凶暴ツンデレお嬢様\"エリス」か「フィリップ・ボレアス・グレイラット」を1枚選び、手札に戻す）"
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[Place this card into Waiting Room] Choose up to 1 「フィリップ・ボレアス・グレイラット」 from your Hand, place it into this card's previous slot on Stage.』",
+            "【A】BOND／「“凶暴ツンデレお嬢様”エリス」 「フィリップ・ボレアス・グレイラット」［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“凶暴ツンデレお嬢様”エリス」or 「フィリップ・ボレアス・グレイラット」 from your Waiting Room, return it to Hand)"
         ],
         "attributes": [
-            "六面世界",
-            "貴族"
+            "《六面世界》",
+            "Noble 《貴族》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "066",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_066.png"
+        "image": "https://images.littleakiba.com/tcg/card68061-large.jpg"
     },
     {
         "name": "ボレアス家の獣人メイド",
         "code": "MTI/S83-067a",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "フィリップ「おや、君もあれの良さがわかるのかい？」",
         "ability": [
-            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-            "【永】 他のあなたの、赤かカード名に「ルーデウス」を含むキャラすべてに、パワーを＋500。",
-            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「ボレアス家の獣人メイド」があるなら、あなたは自分の山札を見て赤のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】All your other Red or Character with 「ルーデウス」 in its name gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. If there is a 「ボレアス家の獣人メイド」 among those cards, search your Deck for up to 1 Red Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "メイド"
+            "《六面世界》",
+            "Maid 《メイド》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "067a",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_067a.png"
+        "image": "https://images.littleakiba.com/tcg/card68062-large.jpg"
     },
     {
         "name": "ボレアス家の獣人メイド",
         "code": "MTI/S83-067b",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ルーデウス「えぇ、初めて実物を目の当たりにしましたが、モフモフのあの耳、たまらないですよね！」",
         "ability": [
-            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-            "【永】 他のあなたの、赤かカード名に「ルーデウス」を含むキャラすべてに、パワーを＋500。",
-            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「ボレアス家の獣人メイド」があるなら、あなたは自分の山札を見て赤のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】All your other Red or Character with 「ルーデウス」 in its name gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. If there is a 「ボレアス家の獣人メイド」 among those cards, search your Deck for up to 1 Red Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "メイド"
+            "《六面世界》",
+            "Maid 《メイド》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "067b",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_067b.png"
+        "image": "https://images.littleakiba.com/tcg/card68063-large.jpg"
     },
     {
         "name": "ボレアス家の獣人メイド",
         "code": "MTI/S83-067c",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "フィリップ「僕は特に尻尾が好みでね！感情に合わせてぴょこぴょこ動くときなんてもう‼」",
         "ability": [
-            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-            "【永】 他のあなたの、赤かカード名に「ルーデウス」を含むキャラすべてに、パワーを＋500。",
-            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「ボレアス家の獣人メイド」があるなら、あなたは自分の山札を見て赤のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】You can have any number of cards with the same name as this card in your Deck.",
+            "【C】All your other Red or Character with 「ルーデウス」 in its name gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST 2 of your Character］ Flip the top 4 cards of your Deck, place them into Waiting Room. If there is a 「ボレアス家の獣人メイド」 among those cards, search your Deck for up to 1 Red Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "六面世界",
-            "メイド"
+            "《六面世界》",
+            "Maid 《メイド》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "067c",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_067c.png"
+        "image": "https://images.littleakiba.com/tcg/card68064-large.jpg"
     },
     {
         "name": "ヒルダ・ボレアス・グレイラット",
         "code": "MTI/S83-068",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "フィリップの奥さんか…",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
         ],
         "attributes": [
-            "六面世界",
-            "貴族"
+            "《六面世界》",
+            "Noble 《貴族》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "068",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_068.png"
+        "image": "https://images.littleakiba.com/tcg/card68065-large.jpg"
     },
     {
-        "name": "\"勉強の時間\"エリス",
+        "name": "“勉強の時間”エリス",
         "code": "MTI/S83-069",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "これでどう⁉",
         "ability": [
-            "【永】 このカードはサイドアタックできない。",
-            "【永】 あなたのターン中、このカードのパワーを＋2000。"
+            "【C】This card cannot Side Attack.",
+            "【C】During your turn, this card gets +2000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "069",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_069.png"
+        "image": "https://images.littleakiba.com/tcg/card68066-large.jpg"
     },
     {
-        "name": "\"魔術の習得\"ギレーヌ",
+        "name": "“魔術の習得”ギレーヌ",
         "code": "MTI/S83-070",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "汝の求める所に大いなる炎の加護あらん。勇猛なる灯火の熱さを今ここに。『ファイヤーボール』",
         "ability": [
-            "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《六面世界》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 あなたのアタックフェイズの始めに、あなたは他の自分の「\"傍若無人\"エリス」を1枚選び、【スタンド】する。』"
+            "【A】[Return this card to Hand] When a Climax is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your 《六面世界》 Character, during this turn, it gains the following Ability. 『【A】At the beginning of your Attack Phase, choose 1 of your other 「“傍若無人”エリス」, STAND it.』"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "070",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_070.png"
+        "image": "https://images.littleakiba.com/tcg/card68067-large.jpg"
     },
     {
-        "name": "\"透徹した眼差し\"エリス",
+        "name": "“透徹した眼差し”エリス",
         "code": "MTI/S83-071",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "ルーデウスもまだまだね！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが0以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。（クライマックスのレベルは0として扱う）",
-            "【自】 このカードがフロントアタックされた時、このカードを控え室に置く。（バトル相手がいなくなってもダイレクトアタックにはならない）"
+            "【A】When this card is placed on Stage from Hand, place the top card of your Deck into Waiting Room. If that card is Level 0 or lower, choose 1 opponent's Character with Cost 0 or lower at Front Row, place it into Waiting Room. (Climax is considered Level 0)",
+            "【A】When this card is being Front Attacked, place this card into Waiting Room. (It will not become Direct Attack even if there is no battling Character)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "071",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_071.png"
+        "image": "https://images.littleakiba.com/tcg/card68068-large.jpg"
     },
     {
-        "name": "\"努力の先にあるもの\"エリス",
+        "name": "“努力の先にあるもの”エリス",
         "code": "MTI/S83-072",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "……ええ",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】For each of your other 《六面世界》 Character, this card gets +500 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "072",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_072.png"
+        "image": "https://images.littleakiba.com/tcg/card68069-large.jpg"
     },
     {
-        "name": "\"馬子にも衣装\"エリス",
+        "name": "“馬子にも衣装”エリス",
         "code": "MTI/S83-073",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "正に、馬子にも衣装ってやつだな…",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】For each of your other 《六面世界》 Character, this card gets +1000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "073",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_073.png"
+        "image": "https://images.littleakiba.com/tcg/card68070-large.jpg"
     },
     {
-        "name": "\"傍若無人\"エリス",
+        "name": "“傍若無人”エリス",
         "code": "MTI/S83-074",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "074",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_074.png"
+        "image": "https://images.littleakiba.com/tcg/card68071-large.jpg"
     },
     {
         "name": "黒狼の牙",
         "code": "MTI/S83-075",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "パーティ名は『黒狼の牙』。メンバーは6人。剣士2人、戦士とシーフ、それに…僧侶に魔術師が1人ずつ",
         "ability": [
-            "このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。",
-            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+            "If you have no 《六面世界》 Character, you cannot play this card from Hand.",
+            "Choose 1 《六面世界》 Character from your Waiting Room, return it to Hand.",
+            "Choose 1 of your Character, during this turn, it gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "075",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_075.png"
+        "image": "https://images.littleakiba.com/tcg/card68072-large.jpg"
     },
     {
         "name": "金じゃデレは買えないんです！",
         "code": "MTI/S83-076",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【カウンター】 あなたは自分のバトル中の《六面世界》のキャラを1枚まで選び、手札に戻し、自分の控え室のキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+            "【COUNTER】Choose up to 1 of your 《六面世界》 Character in battle, return it to Hand, choose up to 1 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "076",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_076.png"
+        "image": "https://images.littleakiba.com/tcg/card68073-large.jpg"
     },
     {
         "name": "エリスのお願い",
         "code": "MTI/S83-077",
         "rarity": "CR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "STANDBY"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "077",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_077.png"
+        "image": "https://images.littleakiba.com/tcg/card68074-large.jpg"
     },
     {
         "name": "魔眼の右目",
         "code": "MTI/S83-078",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "STANDBY"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "……すさまじい魔力だ",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "078",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_078.png"
+        "image": "https://images.littleakiba.com/tcg/card68076-large.jpg"
     },
     {
         "name": "特別",
         "code": "MTI/S83-079",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "079",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_079.png"
+        "image": "https://images.littleakiba.com/tcg/card68078-large.jpg"
     },
     {
         "name": "剣王ギレーヌ",
         "code": "MTI/S83-080",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "080",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_080.png"
+        "image": "https://images.littleakiba.com/tcg/card68079-large.jpg"
     },
     {
-        "name": "\"君にあげられるもの\"ロキシー",
+        "name": "“君にあげられるもの”ロキシー",
         "code": "MTI/S83-081",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "このあたりでいいでしょう",
         "ability": [
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "081",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_081.png"
+        "image": "https://images.littleakiba.com/tcg/card68080-large.jpg"
     },
     {
-        "name": "\"あたたかな眼差し\"ロキシー",
+        "name": "“あたたかな眼差し”ロキシー",
         "code": "MTI/S83-082",
         "rarity": "RR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「祝福」があり、他のあなたの《六面世界》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『あなたは自分の手札を2枚選び、控え室に置く。2枚置いたなら、相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+            "【C】During your turn, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】At the end of this card's attack, if 「祝福」 is in your Climax Slot, and you have other 《六面世界》 Character, choose and perform 1 of the following 2 effects.",
+            "『Deal 1 Damage to opponent.』",
+            "『Choose 2 cards from your Hand, place them into Waiting Room. If you placed 2 cards, deal 3 Damage to opponent.』",
+            "(Damage can be cancelled)"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "082",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_082.png"
+        "image": "https://images.littleakiba.com/tcg/card68082-large.jpg"
     },
     {
-        "name": "\"漏れる吐息\"ロキシー",
+        "name": "“漏れる吐息”ロキシー",
         "code": "MTI/S83-083",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "はぁ…はぁ…はぁ…んっ…",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から1枚見て、相手の山札を下から1枚見る。（見たカードは元に戻す）",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ミグルド族のお守り」を1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, look at opponent's top card and bottom card of his/her Deck. (Return looked card to its original position)",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「ミグルド族のお守り」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "083",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_083.png"
+        "image": "https://images.littleakiba.com/tcg/card68084-large.jpg"
     },
     {
-        "name": "\"導く未来\"ロキシー",
+        "name": "“導く未来”ロキシー",
         "code": "MTI/S83-084",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "見てください。あそこにうっすらと山が見えるでしょう",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《六面世界》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+            "【A】When you use this card's 『ASSIST』, if you have 《六面世界》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "084",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_084.png"
+        "image": "https://images.littleakiba.com/tcg/card68085-large.jpg"
     },
     {
-        "name": "\"料理の習得\"ロキシー",
+        "name": "“料理の習得”ロキシー",
         "code": "MTI/S83-085",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「\"ミグルド族の魔術師\"ロキシー」を1枚まで選び、このカードがいた枠に置く。』",
-            "【永】 他のあなたの「\"無職転生\"ルーデウス」すべてに、パワーを＋1000。",
-            "【永】 他のあなたの《六面世界》のキャラすべてに、パワーを＋500。"
+            "【C】If your Level is 3 or higher, this card gains the following Ability. 『【S】[Place this card into Waiting Room] Choose up to 1 「“ミグルド族の魔術師”ロキシー」 from your Hand, place it into this card's previous slot on Stage.』",
+            "【C】All your other 「“無職転生”ルーデウス」 gets +1000 Power.",
+            "【C】All your other 《六面世界》 Character gets +500 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "085",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_085.png"
+        "image": "https://images.littleakiba.com/tcg/card68087-large.jpg"
     },
     {
-        "name": "\"陽だまりの中で\"ロキシー",
+        "name": "“陽だまりの中で”ロキシー",
         "code": "MTI/S83-086",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】【CXコンボ】［(1)］ あなたのキャラのトリガーチェックで「師匠から弟子へ」か「祝福」がでた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+            "【C】For each of your other 《六面世界》 Character, this card gets +500 Power.",
+            "【A】【CXCOMBO】[(1)] When your Character Trigger Checks 「師匠から弟子へ」 or 「祝福」, you may pay the cost. If you did, you draw 1 card."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "086",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_086.png"
+        "image": "https://images.littleakiba.com/tcg/card68088-large.jpg"
     },
     {
-        "name": "\"ミグルド族の魔術師\"ロキシー",
+        "name": "“ミグルド族の魔術師”ロキシー",
         "code": "MTI/S83-087",
         "rarity": "R",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+            "【C】SUPPORT All your Character in front of this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】When your Character Trigger Checks a Climax, choose 1 of your Character, during this turn, it gets +1000 Power, gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "087",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_087.png"
+        "image": "https://images.littleakiba.com/tcg/card68090-large.jpg"
     },
     {
-        "name": "\"手紙をしたためる\"ロキシー",
+        "name": "“手紙をしたためる”ロキシー",
         "code": "MTI/S83-088",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ルーデウス様へ。お手紙拝見しました",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラかイベントなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。（公開したカードは元に戻す）",
-            "【自】 このカードがアタックした時、あなたは自分の《六面世界》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《六面世界》 Character or Event, during this turn, no Soul is deducted if this card Side Attacks. (Return revealed card to its original position)",
+            "【A】When this card attacks, choose 1 of your 《六面世界》 Character, during this turn, it gets +1500 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "088",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_088.png"
+        "image": "https://images.littleakiba.com/tcg/card68092-large.jpg"
     },
     {
         "name": "光輝のアルマンフィ",
         "code": "MTI/S83-089",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋1000。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「光輝のアルマンフィ」を1枚選び、舞台の好きな枠に置く。"
+            "【C】During your turn, this card gets +1000 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「光輝のアルマンフィ」 from your Memory, place it into any slot on Stage."
         ],
         "attributes": [
-            "六面世界",
-            "使い魔"
+            "《六面世界》",
+            "Familiar 《使い魔》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_089.png"
+        "image": "https://images.littleakiba.com/tcg/card68093-large.jpg"
     },
     {
         "name": "パックス・シーローン",
         "code": "MTI/S83-090",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ロキシー「そういえば、先日王子が私にそっくりの彫像を買ってきました。ローブが着脱式で、体型からほくろの位置まで同じでした」",
         "ability": [
-            "【永】 他のあなたのカード名に「ロキシー」を含むキャラがいないなら、このカードはアタックできない。",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+            "【C】If you have no other Character with 「ロキシー」 in its name, this card cannot attack.",
+            "【A】At the beginning of opponent's Attack Phase, you may move this card to an empty slot at Front Row with an opponent's Character facing it."
         ],
         "attributes": [
-            "六面世界",
-            "王族"
+            "《六面世界》",
+            "Royal Family 《王族》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_090.png"
+        "image": "https://images.littleakiba.com/tcg/card68094-large.jpg"
     },
     {
-        "name": "\"ルディの家庭教師\"ロキシー",
+        "name": "“ルディの家庭教師”ロキシー",
         "code": "MTI/S83-091",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "このあたりじゃ滅多に魔物には遭いませんよ",
         "ability": [
-            "【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「豪雷積層雲」があるなら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラかイベントなら手札に加える。』（そうでないなら元に戻す）"
+            "【C】For each of your other 《六面世界》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「豪雷積層雲」 is in your Climax Slot, perform the following Action 2 times. 『Reveal the top card of your Deck. If that card is a 《六面世界》 Character or Event, add it to Hand.』(If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "091",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_091.png"
+        "image": "https://images.littleakiba.com/tcg/card68095-large.jpg"
     },
     {
         "name": "キシリカ・キシリス",
         "code": "MTI/S83-092",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7500",
+        "soul": 2,
+        "flavor_text": "妾は魔界大帝！キシリカ・キシリス！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置き、残りのカードを山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋2000。",
-            "【自】 このカードがアタックした時、あなたは自分の《六面世界》のキャラを1枚選び、そのターン中、パワーを＋3000。",
-            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from opponent's top Deck, choose up to 1 card, place it to bottom Deck, place the remaining cards on top Deck in any order, during this turn, this card gets +2000 Power.",
+            "【A】When this card attacks, choose 1 of your 《六面世界》 Character, during this turn, it gets +3000 Power.",
+            "【A】When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "六面世界",
-            "魔界大帝"
+            "《六面世界》",
+            "《魔界大帝》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_092.png"
+        "image": "https://images.littleakiba.com/tcg/card68096-large.jpg"
     },
     {
-        "name": "\"意地悪な笑顔\"ロキシー",
+        "name": "“意地悪な笑顔”ロキシー",
         "code": "MTI/S83-093",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "…ははーん。さては怖いんですね？馬が",
         "ability": [
-            "【永】 あなたのキャラすべてが《六面世界》なら、このカードのパワーを＋1000。",
-            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+            "【C】If all your Characters are 《六面世界》, this card gets +1000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_093.png"
+        "image": "https://images.littleakiba.com/tcg/card68097-large.jpg"
     },
     {
         "name": "ロカリー・ミグルディア",
         "code": "MTI/S83-094",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "そんな。今年でもう102ですよ",
         "ability": [
-            "【自】 絆／「\"あたたかな眼差し\"ロキシー」「ロイン・ミグルディア」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"あたたかな眼差し\"ロキシー」か「ロイン・ミグルディア」を1枚選び、手札に戻す）",
-            "【自】 共鳴 ［手札の「ロイン・ミグルディア」を1枚公開する］ あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、パワーを＋2000。"
+            "【A】BOND／「“あたたかな眼差し”ロキシー」 「ロイン・ミグルディア」［(1)］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“あたたかな眼差し”ロキシー」or 「ロイン・ミグルディア」 from your Waiting Room, return it to Hand)",
+            "【A】RESONANCE [Reveal 1 「ロイン・ミグルディア」 from Hand] At the beginning of your Climax Phase, if this card is at Front Row, you may pay the cost. If you did, during this turn, all your other Character gets +2000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔大陸"
+            "《六面世界》",
+            "Demon Lord Breed 《魔大陸》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "094",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_094.png"
+        "image": "https://images.littleakiba.com/tcg/card68098-large.jpg"
     },
     {
         "name": "ロイン・ミグルディア",
         "code": "MTI/S83-095",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 絆／「\"君にあげられるもの\"ロキシー」「ロカリー・ミグルディア」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"君にあげられるもの\"ロキシー」か「ロカリー・ミグルディア」を1枚選び、手札に戻す）",
-            "【自】 共鳴 ［手札の「ロカリー・ミグルディア」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。"
+            "【A】BOND／「“君にあげられるもの”ロキシー」 「ロカリー・ミグルディア」［Place 1 card from Hand into Waiting Room］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“君にあげられるもの”ロキシー」or 「ロカリー・ミグルディア」 from your Waiting Room, return it to Hand)",
+            "【A】RESONANCE [Reveal 1 「ロカリー・ミグルディア」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +6000 Power."
         ],
         "attributes": [
-            "六面世界",
-            "魔大陸"
+            "《六面世界》",
+            "Demon Lord Breed 《魔大陸》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_095.png"
+        "image": "https://images.littleakiba.com/tcg/card68099-large.jpg"
     },
     {
         "name": "オルステッド",
         "code": "MTI/S83-096",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋3500し、このカードの正面のキャラに、次の能力を与える。『【永】 舞台のこのカードのレベルを－1。』",
-            "【永】 このカードの正面のキャラに、次の能力を与える。『【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。』"
+            "【C】If you have 1 or less other Character at Front Row, this card gets +3500 Power, the Character facing this card gains the following Ability. 『【C】This card gets -1 Level on Stage.』",
+            "【C】The Character facing this card gains the following Ability. 『【C】If the Level of the Character facing this card is higher than this card, this card cannot Front Attack.』"
         ],
         "attributes": [
-            "六面世界",
-            "龍神"
+            "《六面世界》",
+            "《龍神》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "096",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_096.png"
+        "image": "https://images.littleakiba.com/tcg/card68100-large.jpg"
     },
     {
-        "name": "\"ドン引き\"ロキシー",
+        "name": "“ドン引き”ロキシー",
         "code": "MTI/S83-097",
         "rarity": "C",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "……？",
         "ability": [
-            "【永】 経験 あなたのレベル置場に「\"本気で生きる\"ルーデウス」があるなら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札の《六面世界》のキャラを1枚控え室に置く］』を得る。",
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《六面世界》のキャラの枚数×1000に等しい。"
+            "【C】EXPERIENCE If 「“本気で生きる”ルーデウス」 is in your Level Slot, this card gets +2000 Power, gains 『【A】ENCORE [Place 1 《六面世界》 Character from Hand into Waiting Room]』.",
+            "【A】When this card attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《六面世界》 Character x1000."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "097",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_097.png"
+        "image": "https://images.littleakiba.com/tcg/card68101-large.jpg"
     },
     {
         "name": "ミグルド族のお守り",
         "code": "MTI/S83-098",
         "rarity": "U",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Event",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ロキシー「私の故郷の御守りです。卒業祝いを用意する時間が無かったので、これで我慢して下さい」",
         "ability": [
-            "このカードは、あなたのカード名に「ロキシー」を含むキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。このカードを思い出にする。",
-            "【自】 記憶 ［このカードを控え室に置く］ あなたがレベルアップした時、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "If you have no Character with 「ロキシー」 in its name, you cannot play this card from Hand.",
+            "Search your Deck for up to 1 《六面世界》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards. If you added cards to Hand, choose 1 card from your Hand, place it into Waiting Room. Send this card to Memory.",
+            "【A】RECOLLECTION [Place this card into Waiting Room] When you Level up, if this card is in Memory, you may pay the cost. If you did, search your Deck for up to 1 《六面世界》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards."
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "098",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_098.png"
+        "image": "https://images.littleakiba.com/tcg/card68102-large.jpg"
     },
     {
         "name": "祝福",
         "code": "MTI/S83-099",
         "rarity": "CR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "おめでとうございます。これであなたは、水聖級魔術師です",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "099",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_099.png"
+        "image": "https://images.littleakiba.com/tcg/card68103-large.jpg"
     },
     {
         "name": "豪雷積層雲",
         "code": "MTI/S83-100",
         "rarity": "CC",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "DRAW"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Book：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "MTI",
         "release": "S83",
         "sid": "100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_100.png"
+        "image": "https://images.littleakiba.com/tcg/card68105-large.jpg"
     },
     {
         "name": "ルーデウス・グレイラット",
         "code": "MTI/S83-101",
         "rarity": "PR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "初めまして、ルーデウス・グレイラットです",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。",
-            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《六面世界》のキャラを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, if opponent has 1 or less Character at Front Row, choose 1 opponent's Character with Cost 0 or lower at Front Row, place it into Waiting Room.",
+            "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《六面世界》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "101",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_101.png"
+        "image": "https://images.littleakiba.com/tcg/card68107-large.jpg"
     },
     {
         "name": "シルフィエット",
         "code": "MTI/S83-102",
         "rarity": "PR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "……シル…",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《六面世界》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】When you use this card's 『ASSIST』, if you have 《六面世界》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "102",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_102.png"
+        "image": "https://images.littleakiba.com/tcg/card68108-large.jpg"
     },
     {
         "name": "ギレーヌ・デドルディア",
         "code": "MTI/S83-103",
         "rarity": "PR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "ギレーヌだ。明日から宜しく頼む",
         "ability": [
-            "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
-            "【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+            "【C】If you have no other Character, this card gets +1 Level and +1500 Power.",
+            "【A】When this card becomes REVERSE, during this turn, you cannot use 『【A】ENCORE』."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "103",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_103.png"
+        "image": "https://images.littleakiba.com/tcg/card68109-large.jpg"
     },
     {
         "name": "エリス・ボレアス・グレイラット",
         "code": "MTI/S83-104",
         "rarity": "PR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 1,
+        "flavor_text": "特別に、エリスって呼ぶことを許してあげるわ！",
         "ability": [
-            "【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-            "【自】 他のあなたの《六面世界》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《六面世界》のキャラの枚数×500に等しい。"
+            "【C】All your other Character gains the following Ability. 『【C】This card cannot Side Attack.』",
+            "【A】When your other 《六面世界》 Character attacks, during this turn, this card gets +X Power. X is equal to the number of your other 《六面世界》 Character x500."
         ],
         "attributes": [
-            "六面世界",
-            "剣士"
+            "《六面世界》",
+            "《剣士》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "104",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_104.png"
+        "image": "https://images.littleakiba.com/tcg/card68110-large.jpg"
     },
     {
         "name": "ロキシー・ミグルディア",
         "code": "MTI/S83-105",
         "rarity": "PR",
-        "expansion": "Mushoku Tensei: Jobless Reincarnation",
+        "expansion": "Mushoku Tensei: Isekai Ittara Honki Dasu",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ロキシー・ミグルディアです。よろしくお願いします",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-            "【自】［他のあなたの《六面世界》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.",
+            "【A】[REST 1 of your other 《六面世界》 Character] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card each from your Level Slot and Waiting Room, exchange them."
         ],
         "attributes": [
-            "六面世界",
-            "魔術"
+            "《六面世界》",
+            "《魔術》"
         ],
         "set": "MTI",
         "release": "S83",
         "sid": "105",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_105.png"
+        "image": "https://images.littleakiba.com/tcg/card68111-large.jpg"
     },
     {
         "name": "\"新人\"ルーデウス",

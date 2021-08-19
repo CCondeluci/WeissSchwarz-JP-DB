@@ -1,1290 +1,1393 @@
 [
     {
-        "name": "\"Astral Harmony\"広町七深",
+        "name": "“Astral Harmony”広町七深",
         "code": "BD/WE34-01",
         "rarity": "RR",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "もー、そんなに褒めても何も出ないよ～？",
         "ability": [
-            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】［手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「私達の音楽」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【C】If you have 2 or more other 《音楽》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[Place 1 《音楽》 Character from Hand into Waiting Room] When this card attacks, if 「私達の音楽」 is in your Climax Slot, and you have other 《音楽》 Character, you may pay the cost. If you did, look at up to 5 cards from your top Deck, choose up to 2 《音楽》 Character and show them to opponent, add them to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "01",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_01.png"
+        "image": "https://images.littleakiba.com/tcg/card67894-large.jpg"
     },
     {
-        "name": "\"Summerly Tone♪\"桐ヶ谷透子",
+        "name": "“Summerly Tone♪”桐ヶ谷透子",
         "code": "BD/WE34-02",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ま、あたしレベルになると世界が放っとかないからね～！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】At the beginning of opponent's Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may place this card into Stock. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "02",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_02.png"
+        "image": "https://images.littleakiba.com/tcg/card67896-large.jpg"
     },
     {
-        "name": "\"Astral Harmony\"桐ヶ谷透子",
+        "name": "“Astral Harmony”桐ヶ谷透子",
         "code": "BD/WE34-03",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "ついにあたしのギターが火を吹くときが来たか～！",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《Morfonica》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, if you have 4 or more other 《Morfonica》 Character, you may pay the cost. If you did, opponent chooses 1 Climax from his/her Waiting Room, return all cards except for that Climax from his/her Waiting Room to Deck, shuffle his/her Deck afterwards."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "03",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_03.png"
+        "image": "https://images.littleakiba.com/tcg/card67898-large.jpg"
     },
     {
-        "name": "\"Summerly Tone♪\"広町七深",
+        "name": "“Summerly Tone♪”広町七深",
         "code": "BD/WE34-04",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "やー、楽しかったねー。\n初めてにしてはいい感じだったんじゃない？",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのソウルを＋1。",
-            "【自】［(4)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に同じダメージを与えてよい。』（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand, choose up to 1 Character with Level same or lower than your Level, place it into any slot on Stage, during this turn, that Character gets +1 Soul.",
+            "【A】[(4)] When this card attacks, you may pay the cost. If you did, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, you may deal the same Damage again to opponent.』(Damage can be cancelled)"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "04",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_04.png"
+        "image": "https://images.littleakiba.com/tcg/card67900-large.jpg"
     },
     {
-        "name": "\"Daylight\"広町七深",
+        "name": "“Daylight”広町七深",
         "code": "BD/WE34-05",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の左のキャラのいない枠に動かしてよい。（1番左の枠にしか動かせない）"
+            "【C】 If you have 1 or less other Character, this card gets ＋1500 Power.",
+            "【A】 At the beginning of opponent's Attack Phase, you may move this card to the empty Left Slot at Front Row."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "05",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_05.png"
+        "image": "https://images.littleakiba.com/tcg/card67902-large.jpg"
     },
     {
-        "name": "\"Morfonica\"桐ヶ谷透子",
+        "name": "“Morfonica”桐ヶ谷透子",
         "code": "BD/WE34-06",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-            "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Daylight\"桐ヶ谷透子」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
-            "【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "【C】 All your other 《音楽》 Character gets ＋500 Power.",
+            "【A】 CHANGE ［Place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「“Daylight”桐ヶ谷透子」 from your Waiting Room, place it into this card's previous slot on Stage.（This will not activate if this card is not on Stage at the beginning of Climax Phase）",
+            "【S】［(1) REST 2 of your Characters］ Place 2 cards from your top Deck, choose up to 1 《音楽》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of those cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "06",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_06.png"
+        "image": "https://images.littleakiba.com/tcg/card67903-large.jpg"
     },
     {
-        "name": "\"Daylight\"桐ヶ谷透子",
+        "name": "“Daylight”桐ヶ谷透子",
         "code": "BD/WE34-07",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。",
-            "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Morfonica\"桐ヶ谷透子」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《音楽》 Character ×500.",
+            "【A】 CHANGE ［Place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「“Morfonica”桐ヶ谷透子」 from your Waiting Room, place it into this card's previous slot on Stage.（This will not activate if this card is not on Stage at the beginning of Climax Phase）"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "07",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_07.png"
+        "image": "https://images.littleakiba.com/tcg/card67904-large.jpg"
     },
     {
-        "name": "\"ギター担当\"桐ヶ谷透子",
+        "name": "“ギター担当”桐ヶ谷透子",
         "code": "BD/WE34-08",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-            "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【C】 Your other Character at the Center Slot of Front Row gets ＋500 Power.",
+            "【A】 When your other Character's battle opponent becomes REVERSE, choose 1 of your Character, during this turn, it gets ＋1000 Power."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "08",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_08.png"
+        "image": "https://images.littleakiba.com/tcg/card67905-large.jpg"
     },
     {
-        "name": "\"Morfonica\"広町七深",
+        "name": "“Morfonica”広町七深",
         "code": "BD/WE34-09",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 舞台のこのカードのレベルを－2。",
-            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+            "【C】 This card gets -2 Level on Stage.",
+            "【C】 If you have 2 or more other 《音楽》 Character, this card gets ＋1500 Power, the Character facing this card gains the following Ability.『【C】 This card cannot Side Attack.』",
+            "【A】 When this card is placed on Stage from Hand, if you have 4 or more other 《音楽》 Character, you may choose 1 《音楽》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "09",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_09.png"
+        "image": "https://images.littleakiba.com/tcg/card67906-large.jpg"
     },
     {
         "name": "私達の音楽",
         "code": "BD/WE34-10",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "CHOICE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock.)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "WE34",
         "sid": "10",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_10.png"
+        "image": "https://images.littleakiba.com/tcg/card67907-large.jpg"
     },
     {
-        "name": "\"Rausch und/and Craziness Ⅱ\"レイヤ",
+        "name": "“Rausch und/and Craziness Ⅱ”レイヤ",
         "code": "BD/WE34-11",
         "rarity": "RR",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "私も…… RASが大事だよ",
         "ability": [
-            "【永】 このカードのバトル中、相手はイベントを手札からプレイできない。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「Beautiful Birthday」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の山札を上から1枚見て、山札の上か下に置く。（ダメージキャンセルは発生する）"
+            "【C】During this card's battle, opponent cannot play Event from Hand.",
+            "【A】When this card is placed on Stage from Hand, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】【CXCOMBO】[Place 2 cards from Hand into Waiting Room] When this card attacks, if 「Beautiful Birthday」 is in your Climax Slot, you may pay the cost. If you did, deal 2 Damage to opponent, look at the top card of opponent's Deck, place it on top or bottom Deck. (Damage can be cancelled)"
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "11",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_11.png"
+        "image": "https://images.littleakiba.com/tcg/card67908-large.jpg"
     },
     {
-        "name": "\"Rausch und/and Craziness Ⅱ\"ロック",
+        "name": "“Rausch und/and Craziness Ⅱ”ロック",
         "code": "BD/WE34-12",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "私はこの5人が最強やと思う",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
-            "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.",
+            "【A】When this card's deal Damage is cancelled, you may return this card to Hand."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "12",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_12.png"
+        "image": "https://images.littleakiba.com/tcg/card67910-large.jpg"
     },
     {
-        "name": "\"Rausch und/and Craziness Ⅱ\"マスキング",
+        "name": "“Rausch und/and Craziness Ⅱ”マスキング",
         "code": "BD/WE34-13",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "思いきりやれる場所、RASに来るまでなかったからさ",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢のひと押し」があるなら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。』"
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「夢のひと押し」 is in your Climax Slot, choose 1 of your 《音楽》 Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may choose 1 《音楽》 Character from your Waiting Room, return it to Hand.』"
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "13",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_13.png"
+        "image": "https://images.littleakiba.com/tcg/card67912-large.jpg"
     },
     {
-        "name": "\"THE DEPTHS\"ロック",
+        "name": "“THE DEPTHS”ロック",
         "code": "BD/WE34-14",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "私、この５人でバンドが出来て嬉しいです……",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】［このカードを【レスト】する］ あなたが『加速』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+            "【C】SUPPORT All your 《音楽》 Character gets +X Power. X is equal to that Character's Level x500.",
+            "【A】[REST this card] When you use 『ACCELERATE』, if this card is in STAND, you may pay the cost. If you did, you may choose 1 《音楽》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "14",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_14.png"
+        "image": "https://images.littleakiba.com/tcg/card67914-large.jpg"
     },
     {
-        "name": "\"THE DEPTHS\"レイヤ",
+        "name": "“THE DEPTHS”レイヤ",
         "code": "BD/WE34-15",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "これからちょっとずつお互いの事知っていって、強いバンドになっていこう",
         "ability": [
-            "【自】［(2)］ このカードが手札から舞台に置かれた時、他のあなたの《RAISE A SUILEN》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+            "【A】[(2)] When this card is placed on Stage from Hand, if you have 4 or more other 《RAISE A SUILEN》 Character, you may pay the cost. If you did, place all cards from opponent's Stock into Waiting Room, opponent places the same amount of cards from his/her top Deck into Stock."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "15",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_15.png"
+        "image": "https://images.littleakiba.com/tcg/card67916-large.jpg"
     },
     {
-        "name": "\"THE DEPTHS\"マスキング",
+        "name": "“THE DEPTHS”マスキング",
         "code": "BD/WE34-16",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "バッチリだろ！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+            "【A】During the turn when this card is placed on Stage from Hand, at the beginning of Encore Step, you may place the top card of your Clock into Waiting Room.",
+            "【A】ACCELERATE [Place 1 《音楽》 Character from your Waiting Room to bottom Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 card from your Waiting Room, return all cards from your Waiting Room into Deck except for that chosen card, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "16",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_16.png"
+        "image": "https://images.littleakiba.com/tcg/card67918-large.jpg"
     },
     {
         "name": "MV撮影 ロック",
         "code": "BD/WE34-17",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "バン！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたのレベル0以下のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《音楽》のキャラの枚数に等しい。"
+            "【A】 When this card is placed on Stage from Hand, during this turn, all your other Character with Level 0 or lower gains the following Ability.『【A】 When this card attacks, look at the top card of your Deck, place it on top Deck or Waiting Room.』",
+            "【A】［(1) Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to Ｘ cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. Ｘ is equal to the number of your other 《音楽》 Character."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "17",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_17.png"
+        "image": "https://images.littleakiba.com/tcg/card67920-large.jpg"
     },
     {
-        "name": "\"音は嘘つかねえ\"マスキング",
+        "name": "“音は嘘つかねえ”マスキング",
         "code": "BD/WE34-18",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "連れてきた",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
-            "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
+            "【A】［Place 1 Climax from Hand into Waiting Room］ When this card is placed on Stage from Hand, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.",
+            "【A】 When this card attacks, during this turn, all your Character gains the following Ability.『【A】 When this card Trigger Checks a Climax with Gold Trigger Icon, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.』"
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "18",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_18.png"
+        "image": "https://images.littleakiba.com/tcg/card67921-large.jpg"
     },
     {
-        "name": "\"夢を撃ち抜く瞬間に！\"レイヤ",
+        "name": "“夢を撃ち抜く瞬間に！”レイヤ",
         "code": "BD/WE34-19",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【A】 When this card is placed on Stage from Hand, choose 1 opponent's Character, until end of opponent's next turn, it gains the following Ability.『【C】 This card cannot move to other slot.』",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Cost 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "19",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_19.png"
+        "image": "https://images.littleakiba.com/tcg/card67922-large.jpg"
     },
     {
         "name": "夢を追いかけて ロック",
         "code": "BD/WE34-20",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《Poppin&#39;Party》か《RAISE A SUILEN》のキャラかイベントなら、あなたは他の自分の、《Poppin&#39;Party》か《RAISE A SUILEN》のキャラを1枚選び、そのターン中、パワーを＋3000。"
+            "【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《Poppin'Party》 or 《RAISE A SUILEN》 Character or Event, choose 1 of your other 《Poppin'Party》 or 《RAISE A SUILEN》 Character, during this turn, it gets ＋3000 Power."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "20",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_20.png"
+        "image": "https://images.littleakiba.com/tcg/card67923-large.jpg"
     },
     {
         "name": "決勝のステージ マスキング",
         "code": "BD/WE34-21",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "決勝進出をかけてやり合えって話か？",
         "ability": [
-            "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+            "【C】 During this card's battle, both players cannot plat 『ASSIST』 from Hand.",
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your 《音楽》 Character ×1000."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "21",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_21.png"
+        "image": "https://images.littleakiba.com/tcg/card67924-large.jpg"
     },
     {
         "name": "最高のライブ レイヤ",
         "code": "BD/WE34-22",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-            "【自】 このカードのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+            "【C】 All opponent's Character gains 『【A】ENCORE [(2)]』.",
+            "【A】 When this card Trigger Checks a Climax with Gold Trigger Icon, you may choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "22",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_22.png"
+        "image": "https://images.littleakiba.com/tcg/card67925-large.jpg"
     },
     {
         "name": "新しいステージへ ロック",
         "code": "BD/WE34-23",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "え？",
         "ability": [
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-            "【自】 アンコール ［(1) あなたの舞台のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】 For each opponent's Character at Back Row, this card gets ＋2500 Power.",
+            "【A】 ENCORE ［(1) Place 1 of your Character from Stage into Waiting Room］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "23",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_23.png"
+        "image": "https://images.littleakiba.com/tcg/card67926-large.jpg"
     },
     {
         "name": "Beautiful Birthday",
         "code": "BD/WE34-24",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "WE34",
         "sid": "24",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_24.png"
+        "image": "https://images.littleakiba.com/tcg/card67927-large.jpg"
     },
     {
         "name": "夢のひと押し",
         "code": "BD/WE34-25",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "WE34",
         "sid": "25",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_25.png"
+        "image": "https://images.littleakiba.com/tcg/card67928-large.jpg"
     },
     {
-        "name": "\"Astral Harmony\"二葉つくし",
+        "name": "“Astral Harmony”二葉つくし",
         "code": "BD/WE34-26",
         "rarity": "RR",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "胸を張って輝ける、そんな自分になりたいんだ",
         "ability": [
-            "【起】［手札を2枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルの《音楽》のキャラを1枚選び、このカードがいた枠に置く。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【S】[Place 2 cards from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《音楽》 Character with Level same or lower than your Level from your Waiting Room, place it into this card's previous slot on Stage.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "26",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_26.png"
+        "image": "https://images.littleakiba.com/tcg/card67929-large.jpg"
     },
     {
-        "name": "\"Rausch und/and Craziness Ⅱ\"パレオ",
+        "name": "“Rausch und/and Craziness Ⅱ”パレオ",
         "code": "BD/WE34-27",
         "rarity": "RR",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "あなたを――新しいステージにお連れします",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。（公開したカードは元に戻す）",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《音楽》 Character, during this turn, this card gets +1 Level and +1500 Power. (Return revealed card to its original position)",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《音楽》 Character, REST it, move it to an empty slot at Back Row."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "27",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_27.png"
+        "image": "https://images.littleakiba.com/tcg/card67931-large.jpg"
     },
     {
-        "name": "\"Astral Harmony\"倉田ましろ",
+        "name": "“Astral Harmony”倉田ましろ",
         "code": "BD/WE34-28",
         "rarity": "RR",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "えっと……がんばって、いいものにしますね",
         "ability": [
-            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(2) このカードを思い出にする］ このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「Daylight」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、このカードがいた枠に置く。（バトルは発生しない）"
+            "【C】For each of your other 《音楽》 Character, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2) Send this card to Memory] When this card's dealt Damage is cancelled, if 「Daylight」 is in your Climax Slot, and you have 4 or more other 《音楽》 Character, you may pay the cost. If you did, choose 1 Character from your Waiting Room, place it into this card's previous slot on Stage. (Doesn't go through battle)"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "28",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_28.png"
+        "image": "https://images.littleakiba.com/tcg/card67933-large.jpg"
     },
     {
-        "name": "\"Rausch und/and Craziness Ⅱ\"チュチュ",
+        "name": "“Rausch und/and Craziness Ⅱ”チュチュ",
         "code": "BD/WE34-29",
         "rarity": "RR",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "わたしのためだけに奏でるギターじゃないと、Roseliaはぶっ潰せないでしょ",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】For each of your other 《音楽》 Character at Back Row, this card gets +1000 Power.",
+            "【A】During the turn when this card is placed on Stage from Hand, at the beginning of Encore Step, you may place the top card of your Clock into Waiting Room."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "29",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_29.png"
+        "image": "https://images.littleakiba.com/tcg/card67935-large.jpg"
     },
     {
-        "name": "\"Summerly Tone♪\"倉田ましろ",
+        "name": "“Summerly Tone♪”倉田ましろ",
         "code": "BD/WE34-30",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私もあのキラキラしたステージに立ってみたい……",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分の《Morfonica》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+            "【A】When this card attacks, choose 1 of your 《Morfonica》 Character, during this turn, it gets +1500 Power.",
+            "【A】[Place the top card of your Deck into Clock] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, move this card to an empty slot at Back Row."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "30",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_30.png"
+        "image": "https://images.littleakiba.com/tcg/card67937-large.jpg"
     },
     {
-        "name": "\"THE DEPTHS\"パレオ",
+        "name": "“THE DEPTHS”パレオ",
         "code": "BD/WE34-31",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "わー、１番ですー♪",
         "ability": [
-            "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《RAISE A SUILEN》のキャラを1枚まで選び、手札に戻す。"
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place that Character to bottom Deck.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 《RAISE A SUILEN》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "31",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_31.png"
+        "image": "https://images.littleakiba.com/tcg/card67939-large.jpg"
     },
     {
-        "name": "\"THE DEPTHS\"チュチュ",
+        "name": "“THE DEPTHS”チュチュ",
         "code": "BD/WE34-32",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "優等生はいらない。\nあなただってうんざりしてるんじゃないの？",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
-            "【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
+            "【C】If your Stock has 2 or less cards, this card gets +1 Level and +1000 Power.",
+            "【A】At the beginning of opponent's Attack Phase, you may choose 1 opponent's Character at Front Row, move it to another empty slot at Front Row."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "32",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_32.png"
+        "image": "https://images.littleakiba.com/tcg/card67941-large.jpg"
     },
     {
-        "name": "\"Astral Harmony\"八潮瑠唯",
+        "name": "“Astral Harmony”八潮瑠唯",
         "code": "BD/WE34-33",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "感情を優先した先に、何があるのか興味があるのよ",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Character with Level 0 or lower among those cards, during this turn, no Soul is deducted if this card Side Attacks.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "33",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_33.png"
+        "image": "https://images.littleakiba.com/tcg/card67943-large.jpg"
     },
     {
-        "name": "\"Summerly Tone♪\"八潮瑠唯",
+        "name": "“Summerly Tone♪”八潮瑠唯",
         "code": "BD/WE34-34",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "先が見えないものなら見切りをつけることは正しいわ",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《Morfonica》のキャラすべてに、パワーを＋1500。",
-            "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Daylight\"八潮瑠唯」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+            "【C】SUPPORT All your 《Morfonica》 Character in front of this card gets +1500 Power.",
+            "【A】CHANGE [Place this card into Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「“Daylight”八潮瑠唯」 from your Waiting Room, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "34",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_34.png"
+        "image": "https://images.littleakiba.com/tcg/card67945-large.jpg"
     },
     {
-        "name": "\"Summerly Tone♪\"二葉つくし",
+        "name": "“Summerly Tone♪”二葉つくし",
         "code": "BD/WE34-35",
         "rarity": "R",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "ふふ、一緒にバンドがんばろ！",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.",
+            "【A】When this card is placed into Waiting Room from Stage, you may return this card to Hand. If you did, choose up to 1 《音楽》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "35",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_35.png"
+        "image": "https://images.littleakiba.com/tcg/card67947-large.jpg"
     },
     {
-        "name": "\"ヴァイオリン担当\"八潮瑠唯",
+        "name": "“ヴァイオリン担当”八潮瑠唯",
         "code": "BD/WE34-36",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの《音楽》のキャラを1枚まで選び、このカードがいた枠に置く。"
+            "【A】 When this card is placed on Stage from Hand, if you have 2 or more other 《音楽》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【S】［(1) Place this card into Waiting Room］ Choose up to 1 《音楽》 Character with Level same or lower than your Level from your Hand, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "36",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_36.png"
+        "image": "https://images.littleakiba.com/tcg/card67949-large.jpg"
     },
     {
         "name": "メンバー紹介 チュチュ",
         "code": "BD/WE34-37",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+            "【A】［(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】 During this card's battle, when the Damage you received is cancelled, you may return this card to Hand."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "37",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_37.png"
+        "image": "https://images.littleakiba.com/tcg/card67950-large.jpg"
     },
     {
-        "name": "\"Daylight\"倉田ましろ",
+        "name": "“Daylight”倉田ましろ",
         "code": "BD/WE34-38",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "38",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_38.png"
+        "image": "https://images.littleakiba.com/tcg/card67951-large.jpg"
     },
     {
-        "name": "\"Daylight\"二葉つくし",
+        "name": "“Daylight”二葉つくし",
         "code": "BD/WE34-39",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】［手札の《音楽》のキャラを2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】[Place 2 《音楽》 Characters from Hand into Waiting Room] When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it to bottom Deck.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "39",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_39.png"
+        "image": "https://images.littleakiba.com/tcg/card67952-large.jpg"
     },
     {
         "name": "驚きの速さ パレオ",
         "code": "BD/WE34-40",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "はい、ただいま！",
         "ability": [
-            "【永】 他のあなたの前列の「\"Rausch und/and Craziness Ⅱ\"チュチュ」がいるなら、このカードのパワーを＋5500し、このカードは『【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］』を得る。",
-            "【永】 他のあなたの「\"Rausch und/and Craziness Ⅱ\"チュチュ」すべてに、パワーを＋2000し、次の3つの能力を与える。『【永】 このカードは相手の効果に選ばれない。』『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+            "【C】 If you have other 「“Rausch und/and Craziness Ⅱ”チュチュ」 at Front Row, this card gets ＋5500 Power, gains 『【A】 ENCORE ［Place 1 《音楽》 Character from Hand into Waiting Room］』.",
+            "【C】 All your other 「“Rausch und/and Craziness Ⅱ”チュチュ」 gets ＋2000 Power, gains 3 of the following Abilities.",
+            "『【C】 This card cannot be chosen by opponent's effect.』",
+            "『【C】 This card cannot become REVERSE by opponent Character's 【A】 effect.』",
+            "『【A】［(1)］ When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』"
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "40",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_40.png"
+        "image": "https://images.littleakiba.com/tcg/card67953-large.jpg"
     },
     {
-        "name": "\"Daylight\"八潮瑠唯",
+        "name": "“Daylight”八潮瑠唯",
         "code": "BD/WE34-41",
         "rarity": "U",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-            "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"Summerly Tone♪\"八潮瑠唯」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+            "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】 CHANGE ［Place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「“Summerly Tone♪”八潮瑠唯」 from your Waiting Room, place it into this card's previous slot on Stage.（This will not activate if this card is not on Stage at the beginning of Climax Phase）"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "41",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_41.png"
+        "image": "https://images.littleakiba.com/tcg/card67954-large.jpg"
     },
     {
-        "name": "\"Morfonica\"二葉つくし",
+        "name": "“Morfonica”二葉つくし",
         "code": "BD/WE34-42",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-            "【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台の好きな枠に置く。（そうでないなら元に戻す）"
+            "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck.",
+            "【A】 When this card is placed on Stage from Hand, opponent declare a number of 0 or 1 or 2 or 3. Reveal the top card of your Deck, if that card is a Character with Level same as opponent's declaration, place it into any slot on Stage.（If not, return revealed card to its original position）"
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "42",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_42.png"
+        "image": "https://images.littleakiba.com/tcg/card67955-large.jpg"
     },
     {
-        "name": "\"ドラム担当\"二葉つくし",
+        "name": "“ドラム担当”二葉つくし",
         "code": "BD/WE34-43",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+            "【C】 For each of your other 《音楽》 Character, this card gets ＋500 Power.",
+            "【A】 When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "43",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_43.png"
+        "image": "https://images.littleakiba.com/tcg/card67956-large.jpg"
     },
     {
         "name": "押しかけ勧誘 パレオ",
         "code": "BD/WE34-44",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "パレオもいます！",
         "ability": [
-            "【永】 他のあなたの前列の「押しかけ勧誘 チュチュ」1枚につき、このカードのパワーを＋2000。"
+            "【C】 For each of your other 「押しかけ勧誘 チュチュ」 at Front Row, this card gets ＋2000 Power."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "44",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_44.png"
+        "image": "https://images.littleakiba.com/tcg/card67957-large.jpg"
     },
     {
         "name": "押しかけ勧誘 チュチュ",
         "code": "BD/WE34-45",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "迎えに来たわよ！",
         "ability": [
-            "【永】 他のあなたの前列の「押しかけ勧誘 パレオ」1枚につき、このカードのパワーを＋2000。"
+            "【C】 For each of your other 「押しかけ勧誘 パレオ」 at Front Row, this card gets ＋2000 Power."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "45",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_45.png"
+        "image": "https://images.littleakiba.com/tcg/card67958-large.jpg"
     },
     {
-        "name": "\"Morfonica\"八潮瑠唯",
+        "name": "“Morfonica”八潮瑠唯",
         "code": "BD/WE34-46",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
-            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。"
+            "【C】 If the Level of the Character facing this card is higher than this card's Level, this card cannot Front Attack.",
+            "【C】 If you have 2 or more other 《音楽》 Character, this card gets ＋1000 Power."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "46",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_46.png"
+        "image": "https://images.littleakiba.com/tcg/card67959-large.jpg"
     },
     {
         "name": "メンバー紹介 パレオ",
         "code": "BD/WE34-47",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "【A】When you use this card's 『ASSIST』, if all your Character are 《音楽》, you may place the top card of your Deck into Stock.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "47",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_47.png"
+        "image": "https://images.littleakiba.com/tcg/card67960-large.jpg"
     },
     {
-        "name": "\"Morfonica\"倉田ましろ",
+        "name": "“Morfonica”倉田ましろ",
         "code": "BD/WE34-48",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。"
+            "【A】 When this card attacks, choose 1 of your Character, during this turn, it gets ＋5000 Power."
         ],
         "attributes": [
-            "音楽",
-            "Morfonica"
+            "Music 《音楽》",
+            "Morfonica 《Morfonica》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "48",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_48.png"
+        "image": "https://images.littleakiba.com/tcg/card67961-large.jpg"
     },
     {
         "name": "決戦は武道館 チュチュ",
         "code": "BD/WE34-49",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "わたしのバンド、RAISE A SUILENは「BanG Dream！ ガールズバンドチャレンジ」に出場します！",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、ストック置場に置く。"
+            "【C】 SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】［REST this card］ Choose 1 of your other Character, place it into Stock."
         ],
         "attributes": [
-            "音楽",
-            "RAISE A SUILEN"
+            "Music 《音楽》",
+            "RAISE A SUILEN 《RAISE A SUILEN》"
         ],
         "set": "BD",
         "release": "WE34",
         "sid": "49",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_49.png"
+        "image": "https://images.littleakiba.com/tcg/card67962-large.jpg"
     },
     {
         "name": "Daylight",
         "code": "BD/WE34-50",
         "rarity": "C",
-        "expansion": "Morfonica x RAS EB",
-        "side": "W",
+        "expansion": "Morfonica x RAISE A SUILEN",
+        "side": "WE",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "WE34",
         "sid": "50",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_50.png"
+        "image": "https://images.littleakiba.com/tcg/card67963-large.jpg"
     },
     {
         "name": "\"広がる景色\"広町七深",

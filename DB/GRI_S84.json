@@ -1,0 +1,3657 @@
+[
+    {
+        "name": "迷宮に咲く花 一姫",
+        "code": "GRI/S84-001",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
+            "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_001.png"
+    },
+    {
+        "name": "迷宮に咲く花 蒔菜",
+        "code": "GRI/S84-002",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋8000。",
+            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』",
+            "【自】［手札の「迷宮に咲く花 蒔菜」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_002.png"
+    },
+    {
+        "name": "迷宮に咲く花 みちる",
+        "code": "GRI/S84-003",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「切り取られた世界」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を下から5枚まで見て、クライマックスを1枚まで選び、クロック置場に置き、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_003.png"
+    },
+    {
+        "name": "南国ビーチ 蒔菜",
+        "code": "GRI/S84-004",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。",
+            "【永】 記憶 あなたの思い出置場に「餌付け」があるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_004.png"
+    },
+    {
+        "name": "夏の日差し みちる",
+        "code": "GRI/S84-005",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 チェンジ ［(1) このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「早すぎた待ち合わせ みちる」を1枚まで選び、このカードがいた枠に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_005.png"
+    },
+    {
+        "name": "高嶺の花 一姫",
+        "code": "GRI/S84-006",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「天才の休日」があり、前列にこのカードがいて、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_006.png"
+    },
+    {
+        "name": "終わりよければ全てよし みちる",
+        "code": "GRI/S84-007",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_007.png"
+    },
+    {
+        "name": "パパの為に 蒔菜",
+        "code": "GRI/S84-008",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋3000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_008.png"
+    },
+    {
+        "name": "歪な絆 雄二＆一姫",
+        "code": "GRI/S84-009",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋3000。",
+            "【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+            "【自】【CXコンボ】［(3)］ このカードがアタックした時、クライマックス置場に「たどり着いた楽園」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_009.png"
+    },
+    {
+        "name": "朝日が昇る窓辺 一姫",
+        "code": "GRI/S84-010",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のコスト0以下のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_010.png"
+    },
+    {
+        "name": "モッサリ担当官 JB",
+        "code": "GRI/S84-011",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時か「桜咲き乱れて 麻子」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "グリザイア"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_011.png"
+    },
+    {
+        "name": "真夏の奇跡 みちる",
+        "code": "GRI/S84-012",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】 相手のドローフェイズの始めに、他のあなたの《グリザイア》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを山札に戻してよい。そうしたら、その山札をシャッフルし、あなたは1枚引く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_012.png"
+    },
+    {
+        "name": "弟の為に 一姫",
+        "code": "GRI/S84-013",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_013.png"
+    },
+    {
+        "name": "居心地のいい世界 蒔菜",
+        "code": "GRI/S84-014",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ あなたのアタックフェイズの始めに、クライマックス置場に「思い出になる苗」があり、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを2枚まで選び、舞台の別々の枠に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_014.png"
+    },
+    {
+        "name": "信頼の証明 雄二",
+        "code": "GRI/S84-015",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたのストックが5枚以下なら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から2枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_015.png"
+    },
+    {
+        "name": "魅惑のボディライン JB",
+        "code": "GRI/S84-016",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "グリザイア"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_016.png"
+    },
+    {
+        "name": "帰って来た狂犬 蒔菜",
+        "code": "GRI/S84-017",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_017.png"
+    },
+    {
+        "name": "早すぎた待ち合わせ みちる",
+        "code": "GRI/S84-018",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+            "【起】［このカードを思い出にする］ あなたは自分の手札の「夏の日差し みちる」を1枚選び、このカードがいた枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚までを、ストック置場に置き、あなたのクライマックスフェイズの始めに、自分の思い出置場の「早すぎた待ち合わせ みちる」を1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_018.png"
+    },
+    {
+        "name": "多彩な才能 一姫",
+        "code": "GRI/S84-019",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_019.png"
+    },
+    {
+        "name": "過去の記憶 一姫",
+        "code": "GRI/S84-020",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_020.png"
+    },
+    {
+        "name": "復讐の意味 JB",
+        "code": "GRI/S84-021",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_021.png"
+    },
+    {
+        "name": "長い付き合い JB",
+        "code": "GRI/S84-022",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「雄二の保護者 麻子」すべてに、パワーを＋500し、ソウルを＋2。",
+            "【自】 絆／「雄二の保護者 麻子」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「雄二の保護者 麻子」を1枚選び、手札に戻す）"
+        ],
+        "attributes": [
+            "グリザイア"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_022.png"
+    },
+    {
+        "name": "いつも通りの朝 みちる",
+        "code": "GRI/S84-023",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。",
+            "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_023.png"
+    },
+    {
+        "name": "学園祭メイド 蒔菜",
+        "code": "GRI/S84-024",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_024.png"
+    },
+    {
+        "name": "ゲームセンターデート 雄二",
+        "code": "GRI/S84-025",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_025.png"
+    },
+    {
+        "name": "JBの部下 キアラ",
+        "code": "GRI/S84-026",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードのカード名に「蒔菜」か「JB」か「キアラ」を含むキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_026.png"
+    },
+    {
+        "name": "戦う理由 雄二",
+        "code": "GRI/S84-027",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのカード名に「一姫」か「雄二」か「麻子」を含むキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+            "【起】［このカードを【レスト】する］ あなたは自分のカード名に「一姫」か「雄二」か「麻子」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_027.png"
+    },
+    {
+        "name": "これからのこと JB",
+        "code": "GRI/S84-028",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの手札の「子供達の未来 千鶴」のレベルを－1。",
+            "【永】 他のあなたの「子供達の未来 千鶴」すべてに、パワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_028.png"
+    },
+    {
+        "name": "心に空いた穴 雄二＆JB",
+        "code": "GRI/S84-029",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが4枚以上なら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_029.png"
+    },
+    {
+        "name": "浜辺のアイドル 一姫",
+        "code": "GRI/S84-030",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_030.png"
+    },
+    {
+        "name": "ネタバラシ",
+        "code": "GRI/S84-031",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 このカードは、あなたの《グリザイア》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは【リバース】しない。』"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_031.png"
+    },
+    {
+        "name": "切り取られた世界",
+        "code": "GRI/S84-032",
+        "rarity": "CR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_032.png"
+    },
+    {
+        "name": "思い出になる苗",
+        "code": "GRI/S84-033",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_033.png"
+    },
+    {
+        "name": "天才の休日",
+        "code": "GRI/S84-034",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_034.png"
+    },
+    {
+        "name": "たどり着いた楽園",
+        "code": "GRI/S84-035",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_035.png"
+    },
+    {
+        "name": "楽園を目指す少女 蒔菜",
+        "code": "GRI/S84-036",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《グリザイア》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_036.png"
+    },
+    {
+        "name": "迷宮に咲く花 天音",
+        "code": "GRI/S84-037",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置いてよい。",
+            "【自】［このカードの下のマーカーを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_037.png"
+    },
+    {
+        "name": "帰るべき場所 雄二",
+        "code": "GRI/S84-038",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋2000し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「経験の差」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_038.png"
+    },
+    {
+        "name": "楽園を目指す少女 由美子",
+        "code": "GRI/S84-039",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_039.png"
+    },
+    {
+        "name": "新年の朝 由美子",
+        "code": "GRI/S84-040",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻す。",
+            "【自】 他のあなたの《グリザイア》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_040.png"
+    },
+    {
+        "name": "願った未来 天音",
+        "code": "GRI/S84-041",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×500に等しい。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_041.png"
+    },
+    {
+        "name": "変わらぬ決意 蒔菜",
+        "code": "GRI/S84-042",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《グリザイア》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_042.png"
+    },
+    {
+        "name": "鳥篭の反逆 由美子",
+        "code": "GRI/S84-043",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+            "【自】【CXコンボ】［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、クライマックス置場に「抜錨の時ぞ来る」があり、前列にこのカードがいて、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻し、自分の手札のレベル3以下のキャラを1枚まで選び、このカードがいた枠に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_043.png"
+    },
+    {
+        "name": "\"9029\" 雄二",
+        "code": "GRI/S84-044",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、舞台のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが4枚以上なら、あなたは自分の控え室の《グリザイア》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_044.png"
+    },
+    {
+        "name": "イルカと水着 蒔菜",
+        "code": "GRI/S84-045",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《グリザイア》のキャラの枚数に等しい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_045.png"
+    },
+    {
+        "name": "振袖姿 天音",
+        "code": "GRI/S84-046",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻してよい。",
+            "【自】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋1000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_046.png"
+    },
+    {
+        "name": "伝える役目 雄二",
+        "code": "GRI/S84-047",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_047.png"
+    },
+    {
+        "name": "籠の中の鳥 由美子",
+        "code": "GRI/S84-048",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【起】［手札の《グリザイア》のキャラを1枚控え室に置き、【スタンド】しているこのカードをストック置場に置く］ あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_048.png"
+    },
+    {
+        "name": "お別れの校門 蒔菜",
+        "code": "GRI/S84-049",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、あなたは1枚引いてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_049.png"
+    },
+    {
+        "name": "薄暮の誓い 蒔菜",
+        "code": "GRI/S84-050",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×500に等しい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「悲しみの狙撃手」があり、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_050.png"
+    },
+    {
+        "name": "愛されボンテ 天音",
+        "code": "GRI/S84-051",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_051.png"
+    },
+    {
+        "name": "手がかりを求め 由美子",
+        "code": "GRI/S84-052",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードにクライマックスがあり、あなたの山札が6枚以上なら、あなたは自分の山札の下から5枚以外のカードを控え室に置き、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、そのターンの終わりに、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_052.png"
+    },
+    {
+        "name": "クリスマスガール 天音",
+        "code": "GRI/S84-053",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】【CXコンボ】［このカードを控え室に置き、あなたのクライマックス置場の「思い出語り」を1枚控え室に置く］ あなたのアンコールステップの始めに、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《グリザイア》のキャラか「追撃」を2枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_053.png"
+    },
+    {
+        "name": "男の約束 雄二",
+        "code": "GRI/S84-054",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_054.png"
+    },
+    {
+        "name": "\"ヤブイヌ小隊\" 雄二",
+        "code": "GRI/S84-055",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置いてよい。",
+            "【自】［このカードの下のマーカーを1枚控え室に置く］ あなたのメインフェイズの始めに、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。",
+            "【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ヤブイヌ小隊"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_055.png"
+    },
+    {
+        "name": "総指揮官 由美子",
+        "code": "GRI/S84-056",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手のターン中、他のあなたの《グリザイア》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_056.png"
+    },
+    {
+        "name": "射撃訓練？ 天音",
+        "code": "GRI/S84-057",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_057.png"
+    },
+    {
+        "name": "怯える転入生 蒔菜",
+        "code": "GRI/S84-058",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の《グリザイア》のキャラを1枚選び、入れ替えてよい。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_058.png"
+    },
+    {
+        "name": "動物園の片隅で 天音",
+        "code": "GRI/S84-059",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたか相手のキャラが、[STANDBY]の効果で舞台に置かれた時、そのプレイヤーの相手は1枚引いてよい。そうしたら、その引いたプレイヤーは自分の手札を1枚選び、控え室に置く。",
+            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_059.png"
+    },
+    {
+        "name": "狙撃班 蒔菜",
+        "code": "GRI/S84-060",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_060.png"
+    },
+    {
+        "name": "激励の言葉 由美子",
+        "code": "GRI/S84-061",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_061.png"
+    },
+    {
+        "name": "腹ペコ少女",
+        "code": "GRI/S84-062",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "このカードは、あなたのカード名に「蒔菜」を含むキャラがいないなら、手札からプレイできない。",
+            "あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+            "【永】 記憶 思い出置場にこのカードがあるなら、このカードのカード名は「餌付け」としても扱う。"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_062.png"
+    },
+    {
+        "name": "経験の差",
+        "code": "GRI/S84-063",
+        "rarity": "CR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_063.png"
+    },
+    {
+        "name": "抜錨の時ぞ来る",
+        "code": "GRI/S84-064",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】リンク＠ ブランエールの種",
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[POOL]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_064.png"
+    },
+    {
+        "name": "思い出語り",
+        "code": "GRI/S84-065",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_065.png"
+    },
+    {
+        "name": "悲しみの狙撃手",
+        "code": "GRI/S84-066",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】リンク＠ ブランエールの種",
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_066.png"
+    },
+    {
+        "name": "楽園を目指す少女 幸",
+        "code": "GRI/S84-067",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚ストック置場に置く］ このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_067.png"
+    },
+    {
+        "name": "楽園を目指す少女 天音",
+        "code": "GRI/S84-068",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「涙の再会」があるなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行い、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_068.png"
+    },
+    {
+        "name": "楽園を目指す少女 みちる",
+        "code": "GRI/S84-069",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋1000。",
+            "【自】［手札の《グリザイア》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのターンの終わりに、クライマックス置場に「抜け駆けのお守り」があり、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_069.png"
+    },
+    {
+        "name": "夏へまっしぐら！ みちる",
+        "code": "GRI/S84-070",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_070.png"
+    },
+    {
+        "name": "決意を胸に 幸",
+        "code": "GRI/S84-071",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】【CXコンボ】 あなたのターンの終わりに、クライマックス置場に「メイド強襲」があり、他のあなたの《グリザイア》のキャラが3枚以上なら、あなたは自分のキャラを2枚選び、入れ替えてよい。（カードの向きは変わらない）",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_071.png"
+    },
+    {
+        "name": "私の意志で 天音",
+        "code": "GRI/S84-072",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_072.png"
+    },
+    {
+        "name": "薄暮の誓い 幸",
+        "code": "GRI/S84-073",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_073.png"
+    },
+    {
+        "name": "追憶の桜 天音",
+        "code": "GRI/S84-074",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのレベルを＋1し、パワーを＋500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「追憶の桜 天音」を1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_074.png"
+    },
+    {
+        "name": "葛藤の答え みちる",
+        "code": "GRI/S84-075",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋3500。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_075.png"
+    },
+    {
+        "name": "桜咲き乱れて 麻子",
+        "code": "GRI/S84-076",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「モッサリ担当官 JB」を1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_076.png"
+    },
+    {
+        "name": "普通？の転入生 幸",
+        "code": "GRI/S84-077",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【自】［このカードを控え室に置く］ アタックフェイズ中、他のあなたの【リバース】しているキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_077.png"
+    },
+    {
+        "name": "ツンデレ転入生 みちる",
+        "code": "GRI/S84-078",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
+            "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《グリザイア》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_078.png"
+    },
+    {
+        "name": "陽動回収班 みちる",
+        "code": "GRI/S84-079",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_079.png"
+    },
+    {
+        "name": "後悔のない選択 天音",
+        "code": "GRI/S84-080",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、そのターン中、このカードのパワーを＋6500。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_080.png"
+    },
+    {
+        "name": "伝説の\"9029\" 麻子",
+        "code": "GRI/S84-081",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが4枚以上なら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、ストック置場に置いてよい。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_081.png"
+    },
+    {
+        "name": "お節介焼きな転入生 天音",
+        "code": "GRI/S84-082",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋1000。",
+            "【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_082.png"
+    },
+    {
+        "name": "最後のご奉公 幸",
+        "code": "GRI/S84-083",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_083.png"
+    },
+    {
+        "name": "\"ヤブイヌ小隊\" エディ",
+        "code": "GRI/S84-084",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「\"ヤブイヌ小隊\" 雄二」すべてに、パワーを＋3000。",
+            "【自】 絆／「\"ヤブイヌ小隊\" 雄二」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"ヤブイヌ小隊\" 雄二」を1枚選び、手札に戻す）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ヤブイヌ小隊"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_084.png"
+    },
+    {
+        "name": "海底任務 みちる",
+        "code": "GRI/S84-085",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードの与えたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_085.png"
+    },
+    {
+        "name": "物騒なメイド 幸",
+        "code": "GRI/S84-086",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_086.png"
+    },
+    {
+        "name": "\"ヤブイヌ小隊\" ロビー",
+        "code": "GRI/S84-087",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ヤブイヌ小隊》かカード名に「由美子」か「一姫」か「雄二」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ヤブイヌ小隊"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_087.png"
+    },
+    {
+        "name": "別れの時 麻子",
+        "code": "GRI/S84-088",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_088.png"
+    },
+    {
+        "name": "移動車両班 天音",
+        "code": "GRI/S84-089",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_089.png"
+    },
+    {
+        "name": "雄二の保護者 麻子",
+        "code": "GRI/S84-090",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_090.png"
+    },
+    {
+        "name": "\"ヤブイヌ小隊\" ミリー",
+        "code": "GRI/S84-091",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
+            "【起】［手札を2枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ヤブイヌ小隊"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_091.png"
+    },
+    {
+        "name": "臆病な自分 みちる",
+        "code": "GRI/S84-092",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、あなたは他の自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋7000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_092.png"
+    },
+    {
+        "name": "強襲班 幸",
+        "code": "GRI/S84-093",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋4000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_093.png"
+    },
+    {
+        "name": "\"ヤブイヌ小隊\" ダニー",
+        "code": "GRI/S84-094",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたの《グリザイア》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ヤブイヌ小隊"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_094.png"
+    },
+    {
+        "name": "過去の傷 麻子",
+        "code": "GRI/S84-095",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_095.png"
+    },
+    {
+        "name": "\"ヤブイヌ小隊\" J少尉",
+        "code": "GRI/S84-096",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋1500。",
+            "【起】［(1) このカードを【レスト】する］ あなたは自分の《ヤブイヌ小隊》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ヤブイヌ小隊"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_096.png"
+    },
+    {
+        "name": "追撃",
+        "code": "GRI/S84-097",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 3,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "このカードは、あなたの《グリザイア》のキャラがいないなら、手札からプレイできない。",
+            "あなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_097.png"
+    },
+    {
+        "name": "涙の再会",
+        "code": "GRI/S84-098",
+        "rarity": "CR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】リンク＠ ブランエールの種",
+            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_098.png"
+    },
+    {
+        "name": "抜け駆けのお守り",
+        "code": "GRI/S84-099",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】リンク＠ ブランエールの種",
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_099.png"
+    },
+    {
+        "name": "メイド強襲",
+        "code": "GRI/S84-100",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】リンク＠ ブランエールの種",
+            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_100.png"
+    },
+    {
+        "name": "迷宮に咲く花 由美子",
+        "code": "GRI/S84-101",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「気がついた幸せ」があり、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_101.png"
+    },
+    {
+        "name": "迷宮に咲く花 幸",
+        "code": "GRI/S84-102",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+            "【自】【CXコンボ】［手札の《グリザイア》のキャラを1枚控え室に置く］ あなたのクライマックス置場に「幸せのカタチ」が置かれた時、あなたの手札が6枚以下で、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_102.png"
+    },
+    {
+        "name": "楽園を目指す少女 一姫",
+        "code": "GRI/S84-103",
+        "rarity": "RR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「再会、そして…」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_103.png"
+    },
+    {
+        "name": "伸ばした手 由美子",
+        "code": "GRI/S84-104",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがダイレクトアタックした時、あなたは他の自分の《グリザイア》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+            "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《グリザイア》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_104.png"
+    },
+    {
+        "name": "天才も人 一姫",
+        "code": "GRI/S84-105",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+            "【自】 このカードがアタックした時、あなたは他の自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《グリザイア》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_105.png"
+    },
+    {
+        "name": "サンセットビーチ 一姫",
+        "code": "GRI/S84-106",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_106.png"
+    },
+    {
+        "name": "学園祭でもメイド 幸",
+        "code": "GRI/S84-107",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《グリザイア》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_107.png"
+    },
+    {
+        "name": "追憶の桜 一姫",
+        "code": "GRI/S84-108",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「追憶の桜 一姫」を1枚選び、手札に戻す。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "108",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_108.png"
+    },
+    {
+        "name": "優等生にして頑固者 幸",
+        "code": "GRI/S84-109",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたのクライマックスフェイズの始めに、次の相手のターンの終わりまで、このカードは次の2つの能力のうちあなたが選んだ1つを得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。』『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "109",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_109.png"
+    },
+    {
+        "name": "掴んだ平穏 由美子",
+        "code": "GRI/S84-110",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "110",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_110.png"
+    },
+    {
+        "name": "恥じ入る季節 千鶴",
+        "code": "GRI/S84-111",
+        "rarity": "R",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、他のあなたの《グリザイア》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
+            "【自】［(3)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "先生"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "111",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_111.png"
+    },
+    {
+        "name": "バイオレンスな出会い 千鶴",
+        "code": "GRI/S84-112",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を見て《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "先生"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "112",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_112.png"
+    },
+    {
+        "name": "内緒の旅行 由美子",
+        "code": "GRI/S84-113",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《グリザイア》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 相手のターン中、このカードのパワーを＋1000。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "113",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_113.png"
+    },
+    {
+        "name": "公園遊びの達人 幸",
+        "code": "GRI/S84-114",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《グリザイア》のキャラの枚数×1000に等しい。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻し、他の自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "114",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_114.png"
+    },
+    {
+        "name": "帰ってきた天才 一姫",
+        "code": "GRI/S84-115",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
+            "【自】【CXコンボ】 記憶 ［(1)］ あなたのクライマックス置場に『リンク＠ ブランエールの種』を持つクライマックスが置かれた時、あなたの控え室の異なるカード名のクライマックスが2枚以上で、あなたの思い出置場に「国防装置としての役目 一姫」とこのカードがあるなら、あなたはコストを払ってよい。そうしたら、次の6つのカード名のうちあなたが選んだ1つを宣言する。",
+            "「抜錨の時ぞ来る」「悲しみの狙撃手」「涙の再会」「抜け駆けのお守り」「メイド強襲」「再会、そして…」",
+            "そのターン中、クライマックス置場のカードのカード名は宣言したカード名としても扱う。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "115",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_115.png"
+    },
+    {
+        "name": "国防装置としての役目 一姫",
+        "code": "GRI/S84-116",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたの思い出置場に「国防装置としての役目 一姫」がないなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+            "【自】【CXコンボ】 記憶 ［(1) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。あなたのキャラのトリガーチェックでクライマックスがでた時、あなたの思い出置場に「帰ってきた天才 一姫」とこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の『リンク＠ ブランエールの種』を持つ、トリガーしたクライマックスと異なるカード名のクライマックスを1枚選び、山札の上に置く。そうしたら、あなたはトリガーチェックを行う。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "116",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_116.png"
+    },
+    {
+        "name": "二人の時間 幸",
+        "code": "GRI/S84-117",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "117",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_117.png"
+    },
+    {
+        "name": "真心の講義 由美子",
+        "code": "GRI/S84-118",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "118",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_118.png"
+    },
+    {
+        "name": "良い子の涙 幸",
+        "code": "GRI/S84-119",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+            "【起】［(2) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "119",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_119.png"
+    },
+    {
+        "name": "大人のプライド 千鶴",
+        "code": "GRI/S84-120",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【起】 共鳴 ［(1) 手札の「\"ヤブイヌ小隊\" 雄二」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "先生"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "120",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_120.png"
+    },
+    {
+        "name": "誰が為の楽園 一姫",
+        "code": "GRI/S84-121",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 記憶 思い出置場にこのカードがあるなら、あなたか相手のクロックが、自分のカードの効果で控え室に置かれた時、そのプレイヤーは自分の手札を1枚選び、控え室に置いてよい。そうしないなら、そのプレイヤーは自分の山札の上から1枚を、クロック置場に置く。",
+            "【起】［(2) このカードを思い出にする］ あなたは1枚引く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "121",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_121.png"
+    },
+    {
+        "name": "鈴蘭の花 千鶴",
+        "code": "GRI/S84-122",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、他のあなたの《グリザイア》のキャラすべてに、パワーを＋1000。",
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "先生"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "122",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_122.png"
+    },
+    {
+        "name": "約束の遊園地 由美子",
+        "code": "GRI/S84-123",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラ1枚につき、このカードのパワーを＋500。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "123",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_123.png"
+    },
+    {
+        "name": "天才の遺伝子 テュポーン",
+        "code": "GRI/S84-124",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【永】 相手のカード名に「雄二」を含むキャラがいるなら、このカードは『【永】 大活躍』を得る。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "124",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_124.png"
+    },
+    {
+        "name": "子供達の未来 千鶴",
+        "code": "GRI/S84-125",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「これからのこと JB」がいるなら、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "先生"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "125",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_125.png"
+    },
+    {
+        "name": "ヒース・オスロ",
+        "code": "GRI/S84-126",
+        "rarity": "C",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋10000し、ソウルを＋2し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』",
+            "【自】【CXコンボ】［(2) あなたのクライマックス置場の「経験の差」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラとこのカード以外の、すべてのプレイヤーのレベル3以下のキャラすべてを、控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "武器"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "126",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_126.png"
+    },
+    {
+        "name": "ブラクラ",
+        "code": "GRI/S84-127",
+        "rarity": "U",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+            "あなたの控え室の異なるカード名のクライマックスが4枚以上なら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "127",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_127.png"
+    },
+    {
+        "name": "再会、そして…",
+        "code": "GRI/S84-128",
+        "rarity": "CR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】リンク＠ ブランエールの種",
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "128",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_128.png"
+    },
+    {
+        "name": "気がついた幸せ",
+        "code": "GRI/S84-129",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "129",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_129.png"
+    },
+    {
+        "name": "幸せのカタチ",
+        "code": "GRI/S84-130",
+        "rarity": "CC",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "130",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_130.png"
+    },
+    {
+        "name": "楽園を目指す少女 蒔菜",
+        "code": "GRI/S84-P01",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《グリザイア》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p01.png"
+    },
+    {
+        "name": "楽園を目指す少女 蒔菜",
+        "code": "GRI/S84-P01OFR",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《グリザイア》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "パン"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P01OFR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p01ofr.png"
+    },
+    {
+        "name": "楽園を目指す少女 由美子",
+        "code": "GRI/S84-P02",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p02.png"
+    },
+    {
+        "name": "楽園を目指す少女 由美子",
+        "code": "GRI/S84-P02OFR",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "令嬢"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P02OFR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p02ofr.png"
+    },
+    {
+        "name": "楽園を目指す少女 幸",
+        "code": "GRI/S84-P03",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚ストック置場に置く］ このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p03.png"
+    },
+    {
+        "name": "楽園を目指す少女 幸",
+        "code": "GRI/S84-P03OFR",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚ストック置場に置く］ このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "メイド"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P03OFR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p03ofr.png"
+    },
+    {
+        "name": "楽園を目指す少女 天音",
+        "code": "GRI/S84-P04",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「涙の再会」があるなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行い、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p04.png"
+    },
+    {
+        "name": "楽園を目指す少女 天音",
+        "code": "GRI/S84-P04OFR",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「涙の再会」があるなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行い、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "グリザイア",
+            "家事"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P04OFR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p04ofr.png"
+    },
+    {
+        "name": "楽園を目指す少女 みちる",
+        "code": "GRI/S84-P05",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋1000。",
+            "【自】［手札の《グリザイア》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのターンの終わりに、クライマックス置場に「抜け駆けのお守り」があり、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p05.png"
+    },
+    {
+        "name": "楽園を目指す少女 みちる",
+        "code": "GRI/S84-P05OFR",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋1000。",
+            "【自】［手札の《グリザイア》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのターンの終わりに、クライマックス置場に「抜け駆けのお守り」があり、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+        ],
+        "attributes": [
+            "グリザイア",
+            "ツンデレ"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P05OFR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p05ofr.png"
+    },
+    {
+        "name": "楽園を目指す少女 一姫",
+        "code": "GRI/S84-P06",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「再会、そして…」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p06.png"
+    },
+    {
+        "name": "楽園を目指す少女 一姫",
+        "code": "GRI/S84-P06OFR",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「再会、そして…」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P06OFR",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p06ofr.png"
+    },
+    {
+        "name": "降り積もる雪 一姫",
+        "code": "GRI/S84-P07",
+        "rarity": "PR",
+        "expansion": "Grisaia no Kajitsu Vol. 2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋2000。",
+            "【自】［このカードを控え室に置く］ 他のあなたの《グリザイア》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "グリザイア",
+            "天才"
+        ],
+        "set": "GRI",
+        "release": "S84",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_p07.png"
+    }
+]
