@@ -3438,5 +3438,80 @@
         "release": "S01",
         "sid": "20T",
         "image": "https://images.littleakiba.com/tcg/card4850-large.jpg"
+    },
+    {
+        "name": "“無限の可能性”主人公",
+        "code": "P3/S01-111",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": "1",
+        "cost": "1",
+        "trigger": [],
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "仲間たちとの絆が、心の力-ペルソナ-をより強くする",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを2枚選び、【レスト】する。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "魔法","Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "111",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_111.png"
+    },
+    {
+        "name": "乙女な機械 アイギス",
+        "code": "P3/S01-112",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": "3",
+        "cost": "2",
+        "trigger": ["SOUL"],
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "これからも、わたしの一番の大切は… あなたの傍にいることです",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+            "【自】［手札のキャラを2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。"
+        ],
+        "attributes": [
+            "Mecha 《メカ》","Weapon 《武器》"
+        ],
+        "set": "P3",
+        "release": "S01",
+        "sid": "112",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_112.png"
+    },
+    {
+        "name": "育む絆 -Community-",
+        "code": "P3/S01-113",
+        "rarity": "PR",
+        "expansion": "Persona 3",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": "3",
+        "cost": "1",
+        "trigger": [],
+        "power": "0",
+        "soul": 0,
+        "flavor_text": "-",
+        "ability": [
+            "相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。あなたは自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋5000。"
+        ],
+        "attributes": [],
+        "set": "P3",
+        "release": "S01",
+        "sid": "113",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_113s.png"
     }
 ]
