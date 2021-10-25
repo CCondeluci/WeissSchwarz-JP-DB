@@ -5679,22 +5679,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あれ？このフォーク文字が書けない？",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「輝くステージへ 星街すいせい」と「ボクに任せて！ ロボ子さん」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「輝くステージへ 星街すいせい」 or 「ボクに任せて！ ロボ子さん」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t001.png"
+        "image": "https://images.littleakiba.com/tcg/card70096-large.jpg"
     },
     {
         "name": "何も知らないときのそら",
@@ -5704,21 +5706,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "じゃあ私これにするね",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ホロライブ》のキャラか「#ホロライブ0期生」なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）"
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《ホロライブ》 Character or 「#ホロライブ0期生」, choose 1 of your Character, during this turn, it gets ＋2000 Power.（Return revealed card to its original position）"
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T002",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t002.png"
+        "image": "https://images.littleakiba.com/tcg/card70098-large.jpg"
     },
     {
         "name": "勉強中 星街すいせい",
@@ -5728,21 +5732,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "私たちも勉強してアキちゃんより賢くなればいいんだよ！",
         "ability": [
-            "【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
+            "【C】 You cannot play Event and 『ASSIST』 from Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T003",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t003.png"
+        "image": "https://images.littleakiba.com/tcg/card70100-large.jpg"
     },
     {
         "name": "輝くステージへ 星街すいせい",
@@ -5752,22 +5758,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「オンステージ!」があるなら、あなたは自分の控え室の、キャラか「#ホロライブ0期生」を1枚選び、手札に戻してよい。"
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets ＋3000 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「オンステージ!」 is in your Climax Slot, you may choose 1 Character or 「#ホロライブ0期生」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T004",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t004.png"
+        "image": "https://images.littleakiba.com/tcg/card70102-large.jpg"
     },
     {
         "name": "ドッキリの仕掛人 ときのそら",
@@ -5777,21 +5785,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "きちんとダマせてる…のかな？",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T005",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t005.png"
+        "image": "https://images.littleakiba.com/tcg/card70104-large.jpg"
     },
     {
         "name": "みんなで恐竜狩り 星街すいせい",
@@ -5801,23 +5811,25 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "今からみんな恐竜狩りに行くんだけど、くる？",
         "ability": [
-            "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【S】【COUNTER】 ASSIST 2500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t006.png"
+        "image": "https://images.littleakiba.com/tcg/card70106-large.jpg"
     },
     {
         "name": "エアスカウトを受ける星街すいせい",
@@ -5827,24 +5839,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "フブキ「あれはモデルスカウトだ！」",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "【A】 When this card attacks, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×1000.",
+            "【A】 When this card's battle opponent becomes REVERSE, choose 1 of your 《ホロライブ》 Character, during this turn, it gets ＋2000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t007.png"
+        "image": "https://images.littleakiba.com/tcg/card70108-large.jpg"
     },
     {
         "name": "次のステップへ ときのそら",
@@ -5854,24 +5868,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《ホロライブ》のキャラを1枚控え室に置く］』を得る。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, this card gets ＋1500 Power, gains 『【A】 ENCORE ［Place 1 《ホロライブ》 Character from Hand into Waiting Room］』.",
+            "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T008",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t008.png"
+        "image": "https://images.littleakiba.com/tcg/card70110-large.jpg"
     },
     {
         "name": "オンステージ!",
@@ -5881,21 +5897,23 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T009",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t009.png"
+        "image": "https://images.littleakiba.com/tcg/card70112-large.jpg"
     },
     {
         "name": "高性能ロボット ロボ子さん",
@@ -5905,22 +5923,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "何か手掛かりがないかログをあさってみるね！",
         "ability": [
-            "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
-            "【自】 絆／「ドッキリの仕掛人 ときのそら」「ど忘れ さくらみこ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「ドッキリの仕掛人 ときのそら」か「ど忘れ さくらみこ」を1枚選び、手札に戻す）"
+            "【A】［Place this card into Waiting Room］ When your other Character is placed into Waiting Room from Stage, if this card is at Back Row, you may pay the cost. If you did, place that Character to its original position in REST.",
+            "【A】 BOND／「ドッキリの仕掛人 ときのそら」「ど忘れ さくらみこ」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「ドッキリの仕掛人 ときのそら」 or 「ど忘れ さくらみこ」 from your Waiting Room, return it to Hand）"
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T010",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t010.png"
+        "image": "https://images.littleakiba.com/tcg/card70114-large.jpg"
     },
     {
         "name": "自慢気 ロボ子さん",
@@ -5930,22 +5950,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "あっ、どうそれ？ボクの新しい水筒～",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【S】［(2) REST this card］Choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T011",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t011.png"
+        "image": "https://images.littleakiba.com/tcg/card70116-large.jpg"
     },
     {
         "name": "神頼み さくらみこ",
@@ -5955,21 +5977,23 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "まるで宇宙に迷い込んだみたいな気分…",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ホロライブ》のキャラか「#ホロライブ0期生」を1枚選び、手札に戻す。"
+            "【A】［Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ホロライブ》 Character or 「#ホロライブ0期生」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t012.png"
+        "image": "https://images.littleakiba.com/tcg/card70118-large.jpg"
     },
     {
         "name": "みんなおまたせっ！ さくらみこ",
@@ -5979,22 +6003,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ホロライブ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】All opponent's Character gains 『【A】ENCORE [(2)]』.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《ホロライブ》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T013",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t013.png"
+        "image": "https://images.littleakiba.com/tcg/card70120-large.jpg"
     },
     {
         "name": "エリートパワー さくらみこ",
@@ -6004,22 +6030,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "みこのエリートパワーをもってすればできないことなんてないと思ってたけど…",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 アンコール ［あなたの控え室の《ホロライブ》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, this card gets ＋2000 Power.",
+            "【A】 ENCORE ［Place 1 《ホロライブ》 Character from Waiting Room to bottom Clock］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T014",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t014.png"
+        "image": "https://images.littleakiba.com/tcg/card70122-large.jpg"
     },
     {
         "name": "体の不調 ロボ子さん",
@@ -6029,24 +6057,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "やっほー",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ボクに任せて！ ロボ子さん」を2枚まで選び、山札の下に好きな順番で置く。",
-            "【起】 合体 ［あなたの舞台の「自慢気 ロボ子さん」を1枚このカードの下にマーカーとして表向きに置く］ あなたは自分の山札を見て「ボクに任せて！ ロボ子さん」を1枚まで選び、このカードがいる枠に置き、このカードの下のマーカーすべてとこのカードをその「ボクに任せて！ ロボ子さん」の下にマーカーとして好きな順番で表向きに置き、その山札をシャッフルする。"
+            "【A】 When this card is placed on Stage from Hand, choose up to 2 「ボクに任せて！ ロボ子さん」 from your Waiting Room, place them to bottom Deck in any order.",
+            "【S】COMBINE [Place 1 of your 「自慢気 ロボ子さん」 from Stage under this card in face-up as Marker］ Search your Deck for up to 1 「ボクに任せて！ ロボ子さん」, place it into this card's slot on Stage, place all the Marker under this card and this card under that 「ボクに任せて！ ロボ子さん」 in any order face-up as Marker, shuffle the Deck afterwards."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T015",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t015.png"
+        "image": "https://images.littleakiba.com/tcg/card70124-large.jpg"
     },
     {
         "name": "ど忘れ さくらみこ",
@@ -6056,24 +6086,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "あれ？今なにかしようとしたけど…",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。"
+            "【C】 SUPPORT All your Characters in front of this card get +X Power. X is equals to that Character's Level ×500.",
+            "【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 《ホロライブ》 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T016",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t016.png"
+        "image": "https://images.littleakiba.com/tcg/card70126-large.jpg"
     },
     {
         "name": "ボクに任せて！ ロボ子さん",
@@ -6083,24 +6115,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時か『合体』で舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-            "【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「自然との共生」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand or by 『COMBINE』, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【A】【CXCOMBO】[(1)] When this card's battle opponent becomes REVERSE, if 「自然との共生」 is in your Climax Slot, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "ホロライブ",
-            "0期生"
+            "《ホロライブ》",
+            "《0期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T017",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t017.png"
+        "image": "https://images.littleakiba.com/tcg/card70128-large.jpg"
     },
     {
         "name": "#ホロライブ0期生",
@@ -6110,20 +6144,22 @@
         "side": "W",
         "type": "Event",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の2つの能力を与える。",
-            "『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』",
-            "『【永】 このカードは【リバース】しない。』"
+            "【COUNTER】 Choose 1 of your Character, during this turn, it gains 2 of the following Abilities.",
+            "『【C】 During this card's battle, you will not receive any Damage from opponent's Character 【A】 effect.』",
+            "『【C】 This card cannot become REVERSE.』"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T018",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t018.png"
+        "image": "https://images.littleakiba.com/tcg/card70130-large.jpg"
     },
     {
         "name": "自然との共生",
@@ -6133,21 +6169,23 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t019.png"
+        "image": "https://images.littleakiba.com/tcg/card70132-large.jpg"
     },
     {
         "name": "南の島へ！ 赤井はあと",
@@ -6157,21 +6195,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "やったぁー！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "【A】When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, it gets +2500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T020",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t020.png"
+        "image": "https://images.littleakiba.com/tcg/card70134-large.jpg"
     },
     {
         "name": "悪知恵 夜空メル",
@@ -6181,22 +6221,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ミオ「元に戻しとこうよ」",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。",
-            "【自】 絆／「ダイナソーのポーズ 夏色まつり」「サマーバケーション  赤井はあと」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「ダイナソーのポーズ 夏色まつり」か「サマーバケーション  赤井はあと」を1枚選び、手札に戻す）"
+            "【A】[Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ホロライブ》 Character from your Waiting Room, return it to Hand.",
+            "【A】BOND／「ダイナソーのポーズ 夏色まつり」「サマーバケーション 赤井はあと」 ［手札を1枚控え室に置く］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「ダイナソーのポーズ 夏色まつり」 or 「サマーバケーション 赤井はあと」 from your Waiting Room, return it to Hand）"
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T021",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t021.png"
+        "image": "https://images.littleakiba.com/tcg/card70136-large.jpg"
     },
     {
         "name": "ハイテンションサマー 夏色まつり",
@@ -6206,22 +6248,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, you may place 3 cards from your top Deck into Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may send that Character to Stock, If you did, place opponent's bottom Stock into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T022",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t022.png"
+        "image": "https://images.littleakiba.com/tcg/card70138-large.jpg"
     },
     {
         "name": "はあちゃまクッキング 赤井はあと",
@@ -6231,21 +6275,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "やっと成功したわ！黒ゴマ海苔巻きハンバーグ！",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
+            "【C】 If your Stock has 2 or less cards, this card gets ＋1500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T023",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t023.png"
+        "image": "https://images.littleakiba.com/tcg/card70140-large.jpg"
     },
     {
         "name": "かぷかぷ♡ 夜空メル",
@@ -6255,21 +6301,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "かぷ、かぷ、かぷ、かぷ",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《ホロライブ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+            "【A】 When this card attacks, if you have 2 or more other 《ホロライブ》 Character, during this turn, this card gets ＋2000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T024",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t024.png"
+        "image": "https://images.littleakiba.com/tcg/card70142-large.jpg"
     },
     {
         "name": "ダイナソーのポーズ 夏色まつり",
@@ -6279,21 +6327,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ダイナソー",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T025",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t025.png"
+        "image": "https://images.littleakiba.com/tcg/card70144-large.jpg"
     },
     {
         "name": "あの夏で君と 夜空メル",
@@ -6303,24 +6353,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《ホロライブ》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "【A】When you use this card's 『ASSIST』, reveal the top card of your Deck. If that card is a 《ホロライブ》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T026",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t026.png"
+        "image": "https://images.littleakiba.com/tcg/card70146-large.jpg"
     },
     {
         "name": "最強の挨拶 夏色まつり",
@@ -6330,51 +6382,55 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "グッドアフタヌーン、子羊ちゃんたち",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、ストック置場に置いてよい。"
+            "【C】 During your turn, for each of your other 《ホロライブ》 Character, this card gets ＋1000 Power.",
+            "【A】 When this card's battle opponent becomes REVERSE, if there is a Climax in your Climax Slot, you may choose 1 《ホロライブ》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T027",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t027.png"
+        "image": "https://images.littleakiba.com/tcg/card70148-large.jpg"
     },
     {
-        "name": "サマーバケーション  赤井はあと",
+        "name": "サマーバケーション 赤井はあと",
         "code": "HOL/W91-T028",
         "rarity": "TD",
         "expansion": "Hololive Production",
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10500",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたはこのカード以外のすべてのプレイヤーのキャラすべてを、控え室に置いてよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）",
-            "【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "【A】During the turn when this card is placed on Stage from Hand, at the beginning of your Attack Phase, you may place all Characters from both players except this card into Waiting Room. If you did, during this turn, this card gains the following Ability. 『【A】This Ability can be activated up to 1 time each turn. When this card's dealt Damage is cancelled, you may deal 3 Damage to opponent.』(Damage can be cancelled)",
+            "【A】[(2) Place 2 cards from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, deal 2 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T028",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t028.png"
+        "image": "https://images.littleakiba.com/tcg/card70150-large.jpg"
     },
     {
         "name": "最強の挨拶 アキロゼ",
@@ -6384,22 +6440,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "おはようございまーす",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-            "【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【S】［(1) Place 1 Climax from Hand into Waiting Room］ Choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T029",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t029.png"
+        "image": "https://images.littleakiba.com/tcg/card70152-large.jpg"
     },
     {
         "name": "好奇心旺盛 白上フブキ",
@@ -6409,23 +6467,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ちっこいものは触りたくなるよねーっつって！",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「弾ける水しぶき 白上フブキ」と「どれにしようかな？ アキロゼ」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「弾ける水しぶき 白上フブキ」 or 「どれにしようかな？ アキロゼ」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T030",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t030.png"
+        "image": "https://images.littleakiba.com/tcg/card70154-large.jpg"
     },
     {
         "name": "残酷な事実 アキロゼ",
@@ -6435,21 +6494,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ポルカちゃん、どうしたの？",
         "ability": [
-            "【自】［(1) あなたの控え室の《ホロライブ》のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。"
+            "【A】［(1) Place 1 《ホロライブ》 Character from Waiting Room to bottom Clock］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《ホロライブ》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T031",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t031.png"
+        "image": "https://images.littleakiba.com/tcg/card70156-large.jpg"
     },
     {
         "name": "弾ける水しぶき 白上フブキ",
@@ -6459,23 +6520,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「可能性のキツネ」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを2枚まで選び、手札に戻す。"
+            "【C】 During your turn, if all your Character are 《ホロライブ》, this card gets ＋2000 Power.",
+            "【A】【CXCOMBO】［Place 1 card from Hand into Waiting Room］ When this card's battle opponent becomes REVERSE, if 「可能性のキツネ」 is in your Climax Slot, and you have other 《ホロライブ》 Character, you may pay the cost. If you did, choose up to 2 《ホロライブ》 Character from your Waiting Room, return them to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T032",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t032.png"
+        "image": "https://images.littleakiba.com/tcg/card70158-large.jpg"
     },
     {
         "name": "ダイナソーのポーズ 白上フブキ",
@@ -6485,25 +6547,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "ダイナソー",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「好奇心旺盛 白上フブキ」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「サマーバケーション  赤井はあと」を1枚まで選び、舞台の好きな枠に置く。』",
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+            "【C】 If your Level is 2 or higher, this card gains the following Ability.『【S】［(2) REST 1 of your 「好奇心旺盛 白上フブキ」 and this card］ Choose up to 1 「サマーバケーション 赤井はあと」 from your Hand, place it into any slot on Stage.』",
+            "【C】 SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T033",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t033.png"
+        "image": "https://images.littleakiba.com/tcg/card70160-large.jpg"
     },
     {
         "name": "どれにしようかな？ アキロゼ",
@@ -6513,24 +6576,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「私だけを見て」があるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与え、そのターン中、このカードのパワーを＋1000。（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2) Place 1 card from Hand into Waiting Room] When this card attacks, if 「私だけを見て」 is in your Climax Slot, you may pay the cost. If you did, deal 4 Damage to opponent, during this turn, this card gets +1000 Power. (Damage can be cancelled)"
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t034.png"
+        "image": "https://images.littleakiba.com/tcg/card70162-large.jpg"
     },
     {
         "name": "#ホロライブ1期生",
@@ -6540,18 +6605,20 @@
         "side": "W",
         "type": "Event",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《ホロライブ》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "Place 2 cards from your top Deck into Waiting Room, choose up to 1 《ホロライブ》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the total Level of cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t035.png"
+        "image": "https://images.littleakiba.com/tcg/card70164-large.jpg"
     },
     {
         "name": "私だけを見て",
@@ -6561,21 +6628,23 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T036",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t036.png"
+        "image": "https://images.littleakiba.com/tcg/card70166-large.jpg"
     },
     {
         "name": "可能性のキツネ",
@@ -6585,21 +6654,23 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T037",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t037.png"
+        "image": "https://images.littleakiba.com/tcg/card70168-large.jpg"
     },
     {
         "name": "隣国のスパイ 癒月ちょこ",
@@ -6609,22 +6680,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "王様！報告が！",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「あやめのひととせ 百鬼あやめ」と「元気いっぱい！ 大空スバル」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「あやめのひととせ 百鬼あやめ」 or 「元気いっぱい！ 大空スバル」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T038",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t038.png"
+        "image": "https://images.littleakiba.com/tcg/card70170-large.jpg"
     },
     {
         "name": "ハロウィンは終わらない 癒月ちょこ",
@@ -6634,22 +6707,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "でも、もう12月も終わるのに…",
         "ability": [
-            "【永】 このカードの正面のキャラは他の枠に動かせない。",
-            "【自】 このカードがアタックした時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "【C】 The Character facing this card cannot move to other slot.",
+            "【A】 When this card attacks, choose 1 of your 《ホロライブ》 Character, during this turn, it gets ＋1500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t039.png"
+        "image": "https://images.littleakiba.com/tcg/card70172-large.jpg"
     },
     {
         "name": "怠け者に喝 百鬼あやめ",
@@ -6659,21 +6734,23 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "余だぞ！",
         "ability": [
-            "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t040.png"
+        "image": "https://images.littleakiba.com/tcg/card70174-large.jpg"
     },
     {
         "name": "あやめのひととせ 百鬼あやめ",
@@ -6683,22 +6760,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "－",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一緒にお祝い」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+            "【C】 IF you have 2 or more other 《ホロライブ》 Character, this card gets ＋1000 Power.",
+            "【A】【CXCOMBO】 When this card attacks, if 「一緒にお祝い」 is in your Climax Slot, and you have other 《ホロライブ》 Character, look at up to 4 cards from your top Deck, choose up to 1 card with Level 1 or higher and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.（Climax is considered Level 0）"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t041.png"
+        "image": "https://images.littleakiba.com/tcg/card70176-large.jpg"
     },
     {
         "name": "FAMS 百鬼あやめ",
@@ -6708,24 +6787,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ご名答☆",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】[REST this card] You draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T042",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t042.png"
+        "image": "https://images.littleakiba.com/tcg/card70178-large.jpg"
     },
     {
         "name": "サンオイル 癒月ちょこ",
@@ -6735,24 +6816,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "－",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】[Place 2 cards from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, deal 1 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t043.png"
+        "image": "https://images.littleakiba.com/tcg/card70180-large.jpg"
     },
     {
         "name": "#ホロライブ2期生",
@@ -6762,21 +6845,22 @@
         "side": "W",
         "type": "Event",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
         "ability": [
-            "あなたの、「隣国のスパイ 癒月ちょこ」と「FAMS 百鬼あやめ」がいるなら、あなたは自分の手札の「元気いっぱい！ 大空スバル」を1枚まで選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラに次の2つの能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』『【永】 このカードは相手の効果に選ばれない。』"
+            "If you have 「隣国のスパイ 癒月ちょこ」 and 「FAMS 百鬼あやめ」, choose up to 1 「元気いっぱい！ 大空スバル」 from your Hand, place it into any slot on Stage, until end of opponent's next turn, it gains 2 of the following Abilities.",
+            "『【C】 During this card's battle, opponent cannot use Event and 『ASSIST』 from Hand.』",
+            "『【C】 This card cannot be chosen by opponent's effect.』"
         ],
-        "attributes": [
-            "－",
-            "－"
-        ],
+        "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T044",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t044.png"
+        "image": "https://images.littleakiba.com/tcg/card70182-large.jpg"
     },
     {
         "name": "一緒にお祝い",
@@ -6786,24 +6870,23 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
-        "attributes": [
-            "－",
-            "－"
-        ],
+        "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T045",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t045.png"
+        "image": "https://images.littleakiba.com/tcg/card70184-large.jpg"
     },
     {
         "name": "悪い魔女役 紫咲シオン",
@@ -6813,22 +6896,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "よーし捕まえた～",
         "ability": [
-            "【自】［このカードを控え室に置く］ 他のあなたの《ホロライブ》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【自】 絆／「カニ捕獲大作戦 湊あくあ」「元気いっぱい！ 大空スバル」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「カニ捕獲大作戦 湊あくあ」か「元気いっぱい！ 大空スバル」を1枚選び、手札に戻す）"
+            "【A】［Place this card into Waiting Room］ When your other 《ホロライブ》 Character is being Front Attacked, you may pay the cost. If you did, choose 1 of your Character in battle, during this turn, it gets ＋1000 Power.",
+            "【A】 BOND／「カニ捕獲大作戦 湊あくあ」「元気いっぱい！ 大空スバル」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「カニ捕獲大作戦 湊あくあ」 or 「元気いっぱい！ 大空スバル」 from your Waiting Room, return it to Hand）"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t046.png"
+        "image": "https://images.littleakiba.com/tcg/card70186-large.jpg"
     },
     {
         "name": "ある冬の日 湊あくあ",
@@ -6838,22 +6923,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
         "ability": [
-            "【自】 あなたのメインフェイズ中、このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、あなたのクロックが1枚以下なら、自分の《ホロライブ》のキャラを1枚選び、【スタンド】する。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ホロライブ》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+            "【A】During your Main Phase, when this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom Deck, if your Clock has 1 or less card, choose 1 of your 《ホロライブ》 Character, STAND it.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《ホロライブ》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T047",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t047.png"
+        "image": "https://images.littleakiba.com/tcg/card70188-large.jpg"
     },
     {
         "name": "逃走 大空スバル",
@@ -6863,22 +6950,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "あいつらスバルを具材だと思ってやがる！",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。",
-            "【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「#ホロライブ2期生」を1枚選び、手札に戻す。"
+            "【C】 All your other 《ホロライブ》 Character gets ＋500 Power.",
+            "【S】［(1) Place this card into Waiting Room］ Choose 1 「#ホロライブ2期生」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T048",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t048.png"
+        "image": "https://images.littleakiba.com/tcg/card70190-large.jpg"
     },
     {
         "name": "冷静なツッコミ 湊あくあ",
@@ -6888,22 +6977,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ひぃ！おばけ！",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのレベルを＋1し、パワーを＋1500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ホロライブ》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+            "【C】 If this card has Marker, this card gets +1 Level and +1500 Power.",
+            "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is 《ホロライブ》 Character, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T049",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t049.png"
+        "image": "https://images.littleakiba.com/tcg/card70192-large.jpg"
     },
     {
         "name": "あなたへのお返し 紫咲シオン",
@@ -6913,21 +7004,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "－",
         "ability": [
-            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手の前列のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 Character facing this card and 1 other opponent's Character at Front Row, STAND and exchange them."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t050.png"
+        "image": "https://images.littleakiba.com/tcg/card70194-large.jpg"
     },
     {
         "name": "FAMS 大空スバル",
@@ -6937,21 +7030,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "なんでそんなところにいるんだ？",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋4000。"
+            "【C】During your turn, this card gets +4000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T051",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t051.png"
+        "image": "https://images.littleakiba.com/tcg/card70196-large.jpg"
     },
     {
         "name": "カニ捕獲大作戦 湊あくあ",
@@ -6961,21 +7056,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ズワイガニのズワイガって何なの？",
         "ability": [
-            "－"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T052",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t052.png"
+        "image": "https://images.littleakiba.com/tcg/card70198-large.jpg"
     },
     {
         "name": "サウナの誘い 紫咲シオン",
@@ -6985,23 +7082,25 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "あくあ「シオンちゃん、サウナ行こうよサウナ」",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。"
+            "【C】 For each of your other 《ホロライブ》 Character, this card gets ＋1000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T053",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t053.png"
+        "image": "https://images.littleakiba.com/tcg/card70200-large.jpg"
     },
     {
         "name": "元気いっぱい！ 大空スバル",
@@ -7011,24 +7110,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "－",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ホロライブ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「向日葵の君に」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《ホロライブ》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。"
+            "【A】When this card is placed on Stage from Hand, search your Deck for up to 1 《ホロライブ》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards.",
+            "【A】【CXCOMBO】 When 「向日葵の君に」 is placed into your Climax Slot, if this card is at Front Row, choose up to 1 《ホロライブ》 Character from your Waiting Room, return it to Hand, until end of opponent's next turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×1000."
         ],
         "attributes": [
-            "ホロライブ",
-            "2期生"
+            "《ホロライブ》",
+            "《2期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T054",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t054.png"
+        "image": "https://images.littleakiba.com/tcg/card70202-large.jpg"
     },
     {
         "name": "向日葵の君に",
@@ -7038,25 +7139,24 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
-        "attributes": [
-            "－",
-            "－"
-        ],
+        "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T055",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t055.png"
+        "image": "https://images.littleakiba.com/tcg/card70204-large.jpg"
     },
     {
         "name": "満天の星空 戌神ころね",
@@ -7066,22 +7166,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "星見えないね",
         "ability": [
-            "【自】 絆／「満天の星空 猫又おかゆ」「こんこんきーつね！ 白上フブキ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「満天の星空 猫又おかゆ」か「こんこんきーつね！ 白上フブキ」を1枚選び、手札に戻す）",
-            "【起】［このカードを【レスト】する］ あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "【A】 BOND／「満天の星空 猫又おかゆ」「こんこんきーつね！ 白上フブキ」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「満天の星空 猫又おかゆ」 or 「こんこんきーつね！ 白上フブキ」 from your Waiting Room, return it to Hand）",
+            "【S】［REST this card］ Choose 1 of your 《ホロライブ》 Character, during this turn, it gets ＋1500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T056",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t056.png"
+        "image": "https://images.littleakiba.com/tcg/card70206-large.jpg"
     },
     {
         "name": "諦めの磔 戌神ころね",
@@ -7091,22 +7193,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "諦めるしかないよ！",
         "ability": [
-            "【永】 このカードの正面のキャラは他の枠に動かせない。",
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
+            "【C】 The Character facing this card cannot move to other slot.",
+            "【C】 If your Hand has 5 or more cards, this card gets ＋2000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T057",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t057.png"
+        "image": "https://images.littleakiba.com/tcg/card70208-large.jpg"
     },
     {
         "name": "ゆうびんやさん 白上フブキ",
@@ -7116,23 +7220,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ちなみにホロライブには毎日のように郵便が届くよ",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ホロライブ》のキャラの枚数×1000に等しい。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room, during this turn, this card gets +X Power. X is equal to the number of 《ホロライブ》 Character among those cards x1000.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your Character, during this turn, it gets ＋1000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T058",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t058.png"
+        "image": "https://images.littleakiba.com/tcg/card70210-large.jpg"
     },
     {
         "name": "FAMS 白上フブキ",
@@ -7142,22 +7247,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "みんな平和になあれ～",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "【A】 When this card attacks, choose 1 of your Character, during this turn, it gets ＋2500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T059",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t059.png"
+        "image": "https://images.littleakiba.com/tcg/card70212-large.jpg"
     },
     {
         "name": "お誕生日会 戌神ころね",
@@ -7167,22 +7273,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ホロライブ》のキャラの枚数×500に等しい。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「おうちデート」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《ホロライブ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+            "【A】When this card is placed on Stage from Hand, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your 《ホロライブ》 Character ×500.",
+            "【A】【CXCOMBO】 When this card attacks, if 「おうちデート」 is in your Climax Slot, and you have other 《ホロライブ》 Character, choose 1 of your Character, during this turn, it gains the following Ability.『【A】 When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《ホロライブ》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards.』"
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T060",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t060.png"
+        "image": "https://images.littleakiba.com/tcg/card70214-large.jpg"
     },
     {
         "name": "どうぶつ番長 戌神ころね",
@@ -7192,24 +7300,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "この動物番長、ころねが助けて進ぜよう",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《ホロライブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T061",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t061.png"
+        "image": "https://images.littleakiba.com/tcg/card70216-large.jpg"
     },
     {
         "name": "キツネの波動 白上フブキ",
@@ -7219,25 +7329,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "キツネの波動を感じるのう…",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラがいるなら、あなたは1枚まで引き、自分の手札を1枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
-            "【自】 チェンジ ［(1) 手札の《ホロライブ》のキャラを2枚控え室に置き、このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「こんこんきーつね！ 白上フブキ」を1枚選び、このカードがいた枠に置く。"
+            "【A】 When this card is placed on Stage from Hand, if you have other 《ホロライブ》 Character, draw up to 1 card, choose 1 card from your Hand, place it into Waiting Room, place the top card of your Deck into Stock.",
+            "【A】 CHANGE ［(1) Place 2 《ホロライブ》 Character from Hand into Waiting Room, return this card to Hand］ At the beginning of your Climax phase, you may pay the Cost. If you did, choose 1 「こんこんきーつね！ 白上フブキ」 from your Waiting Room, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T062",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t062.png"
+        "image": "https://images.littleakiba.com/tcg/card70218-large.jpg"
     },
     {
         "name": "こんこんきーつね！ 白上フブキ",
@@ -7247,25 +7358,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
-            "【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may deal 1 Damage to opponent.』(Damage can be cancelled)",
+            "【A】At the beginning of opponent's Draw Phase, if this card is at Front Row, choose 1 of your Character, during this turn, it gets ＋4000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "1期生",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《1期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T063",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t063.png"
+        "image": "https://images.littleakiba.com/tcg/card70220-large.jpg"
     },
     {
         "name": "#ホロライブゲーマーズ",
@@ -7275,18 +7387,20 @@
         "side": "W",
         "type": "Event",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "あなたは自分の山札を上から4枚まで見て、《ホロライブ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "Look at up to 4 cards from your top Deck, choose up to 1 《ホロライブ》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T064",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t064.png"
+        "image": "https://images.littleakiba.com/tcg/card70222-large.jpg"
     },
     {
         "name": "おうちデート",
@@ -7296,21 +7410,23 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "CHOICE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T065",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t065.png"
+        "image": "https://images.littleakiba.com/tcg/card70224-large.jpg"
     },
     {
         "name": "おにぎり補給 猫又おかゆ",
@@ -7320,22 +7436,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【A】When this card attacks, if you have 1 or less other Character, you may place the top card of your Deck into Waiting Room. If that card is a Character with Level 0 or lower, place it into any slot at Back Row.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T066",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t066.png"
+        "image": "https://images.littleakiba.com/tcg/card70226-large.jpg"
     },
     {
         "name": "思考の放棄 大神ミオ",
@@ -7345,22 +7463,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "フレア「…だいふくってなんなの？」",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「お誕生日会 戌神ころね」と「夏祭りとりんご飴 大神ミオ」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「お誕生日会 戌神ころね」 or 「夏祭りとりんご飴 大神ミオ」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T067",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t067.png"
+        "image": "https://images.littleakiba.com/tcg/card70228-large.jpg"
     },
     {
         "name": "FAMS 大神ミオ",
@@ -7370,21 +7490,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "漆黒の疾風、参上",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。"
+            "【A】［Place 1 Climax from Hand into Waiting Room］ When this card is placed on Stage from Hand, or placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《ホロライブ》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T068",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t068.png"
+        "image": "https://images.littleakiba.com/tcg/card70230-large.jpg"
     },
     {
         "name": "勇気の行動 猫又おかゆ",
@@ -7394,22 +7516,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "一生下僕になるからここから出して！！",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-            "【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。"
+            "【C】 Your other Character at the Center Slot of Front Row gets ＋500 Power.",
+            "【C】 All your other 《ホロライブ》 Character gets ＋500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T069",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t069.png"
+        "image": "https://images.littleakiba.com/tcg/card70232-large.jpg"
     },
     {
         "name": "満天の星空 猫又おかゆ",
@@ -7419,21 +7543,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "ねー",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T070",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t070.png"
+        "image": "https://images.littleakiba.com/tcg/card70234-large.jpg"
     },
     {
         "name": "倍プッシュ 大神ミオ",
@@ -7443,22 +7569,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "みおーん",
         "ability": [
-            "【自】 他のあなたの《ホロライブ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【A】When your other 《ホロライブ》 Character attacks, during this turn, it gets ＋1500 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T071",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t071.png"
+        "image": "https://images.littleakiba.com/tcg/card70236-large.jpg"
     },
     {
         "name": "おにぎりもぐもぐ～ 猫又おかゆ",
@@ -7468,23 +7596,25 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 1,
+        "flavor_text": "いってらっしゃい！",
         "ability": [
-            "【永】 他のあなたの後列の《ホロライブ》のキャラ1枚につき、このカードのパワーを＋2500。"
+            "【C】 For each of your other 《ホロライブ》 Character at Back Row, this card gets ＋2500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T072",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t072.png"
+        "image": "https://images.littleakiba.com/tcg/card70238-large.jpg"
     },
     {
         "name": "夏祭りとりんご飴 大神ミオ",
@@ -7494,24 +7624,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「流星の空」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】［(1)］ When this card attacks, if 「流星の空」 is in your Climax Slot, you may pay the cost. If you did, look at up to 2 cards from opponent's top Deck, choose up to 2 cards, place them on top Deck in any order, place the remaining cards into Waiting Room, until end of opponent's next turn, this card gets ＋2000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "ゲーマーズ"
+            "《ホロライブ》",
+            "《ゲーマーズ》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T073",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t073.png"
+        "image": "https://images.littleakiba.com/tcg/card70240-large.jpg"
     },
     {
         "name": "流星の空",
@@ -7521,21 +7653,23 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T074",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t074.png"
+        "image": "https://images.littleakiba.com/tcg/card70242-large.jpg"
     },
     {
         "name": "修羅場 不知火フレア",
@@ -7545,22 +7679,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ノエちゃん最近ラミィちゃんといい感じらしいね…",
         "ability": [
-            "【永】 他のあなたの「横ピース 白銀ノエル」すべてに、パワーを＋500し、次の能力を与える。『【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《ホロライブ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。』",
-            "【自】 絆／「横ピース 白銀ノエル」「穏やかな時間 潤羽るしあ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「横ピース 白銀ノエル」か「穏やかな時間 潤羽るしあ」を1枚選び、手札に戻す）"
+            "【C】All your other 「横ピース 白銀ノエル」 gets +500 Power, gains the following Ability.『【A】［(1)］ At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your 《ホロライブ》 Character and this card, STAND and exchange them.』",
+            "【A】 BOND／「横ピース 白銀ノエル」「穏やかな時間 潤羽るしあ」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「横ピース 白銀ノエル」 or 「穏やかな時間 潤羽るしあ」 from your Waiting Room, return it to Hand）"
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T075",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t075.png"
+        "image": "https://images.littleakiba.com/tcg/card70244-large.jpg"
     },
     {
         "name": "ボトルシップ作り 宝鐘マリン",
@@ -7570,21 +7706,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ボトルシップです",
         "ability": [
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【A】［(1) Place the top card of your Deck into Clock］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 4 cards from your top Deck, choose up to 1 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T076",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t076.png"
+        "image": "https://images.littleakiba.com/tcg/card70246-large.jpg"
     },
     {
         "name": "エア配信 宝鐘マリン",
@@ -7594,22 +7732,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "フブキ「配信だ！」",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 この能力は1ターンにつき1回まで発動する。バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, this card gets ＋2000 Power.",
+            "【A】 This Ability can be activated up to 1 time each turn. When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card.（Climax is considered Level 0. Return revealed card to its original position）"
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T077",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t077.png"
+        "image": "https://images.littleakiba.com/tcg/card70248-large.jpg"
     },
     {
         "name": "君と一緒にお花見 不知火フレア",
@@ -7619,22 +7759,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「雪の降る街で」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたは自分の山札を上から1枚見て、《ホロライブ》のキャラか「#ホロライブ3期生」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、コストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+            "【C】 For each of your other 《ホロライブ》 Character, this card gets ＋500 Power.",
+            "【A】【CXCOMBO】［(1)］ When this card attacks, if 「雪の降る街で」 is in your Climax Slot, and you have other 《ホロライブ》 Character, look at the top card of your Deck, choose up to 1 《ホロライブ》 Character or 「#ホロライブ3期生」 and show it to opponent, add it to Hand, place the remaining cards into Waiting Room, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T078",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t078.png"
+        "image": "https://images.littleakiba.com/tcg/card70250-large.jpg"
     },
     {
         "name": "やさしいエルフ 不知火フレア",
@@ -7644,24 +7786,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "髪になんもささってないと少し寂しいね",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「修羅場 白銀ノエル」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「穏やかな時間 潤羽るしあ」を1枚まで選び、舞台の好きな枠に置く。』",
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+            "【C】If your Level is 2 or higher, this card gains the following Ability.『【S】［(2) REST 1 of your 「修羅場 白銀ノエル」 and this card］ Choose up to 1 「穏やかな時間 潤羽るしあ」 from your Hand, place it into any slot on Stage.』",
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T079",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t079.png"
+        "image": "https://images.littleakiba.com/tcg/card70252-large.jpg"
     },
     {
         "name": "宝鐘海賊団船長 宝鐘マリン",
@@ -7671,24 +7815,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時か「穏やかな時間 潤羽るしあ」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《ホロライブ》のキャラを3枚まで選び、そのターン中、パワーを＋500し、ソウルを＋1。"
+            "【A】When this card is placed on Stage from Hand or by 「穏やかな時間　潤羽るしあ」's 【A】 effect, you may place the top card of your Clock into Waiting Room.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, choose up to 3 of your 《ホロライブ》 Character, during this turn, they get +500 Power and +1 Soul."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T080",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t080.png"
+        "image": "https://images.littleakiba.com/tcg/card70254-large.jpg"
     },
     {
         "name": "雪の降る街で",
@@ -7698,21 +7844,23 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "CHOICE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T081",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t081.png"
+        "image": "https://images.littleakiba.com/tcg/card70256-large.jpg"
     },
     {
         "name": "大忙しっ! 兎田ぺこら",
@@ -7722,22 +7870,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+            "【A】When this card attacks, choose 1 of your other 《ホロライブ》 Character, during this turn, it gets +2000 Power.",
+            "【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, move this card to an empty slot at Back Row."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T082",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t082.png"
+        "image": "https://images.littleakiba.com/tcg/card70258-large.jpg"
     },
     {
         "name": "修羅場 白銀ノエル",
@@ -7747,22 +7897,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "えっ違うよ！",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「君と一緒にお花見 不知火フレア」と「穏やかな時間 潤羽るしあ」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「君と一緒にお花見 不知火フレア」 or 「穏やかな時間 潤羽るしあ」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T083",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t083.png"
+        "image": "https://images.littleakiba.com/tcg/card70260-large.jpg"
     },
     {
         "name": "まぶしい日差しの下で 白銀ノエル",
@@ -7772,22 +7924,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《ホロライブ》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】When this card attacks, look at up to 2 cards from your top Deck, choose 1 card, place it on top Deck, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T084",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t084.png"
+        "image": "https://images.littleakiba.com/tcg/card70262-large.jpg"
     },
     {
         "name": "終わらないハロウィン 潤羽るしあ",
@@ -7797,22 +7951,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ホロライブもクリスマスと向き合う時なんだ",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【C】SUPPORT All your Character in front of this card gets +500 Power.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T085",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t085.png"
+        "image": "https://images.littleakiba.com/tcg/card70264-large.jpg"
     },
     {
         "name": "台パン 潤羽るしあ",
@@ -7822,21 +7978,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "るしあがいったいなにしたってんだい！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+            "【A】When this card is placed on Stage from Hand, if you have other 《ホロライブ》 Character, during this turn, this card gets ＋2000 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T086",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t086.png"
+        "image": "https://images.littleakiba.com/tcg/card70266-large.jpg"
     },
     {
         "name": "喜色満面 兎田ぺこら",
@@ -7846,24 +8004,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "わあー！美味しそうぺこー！",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《ホロライブ》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "【A】When you use this card's 『ASSIST』, if all your Character are 《ホロライブ》, you may place the top card of your Deck into Stock.",
+            "【S】【COUNTER】 ASSIST 2000 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2000 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T087",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t087.png"
+        "image": "https://images.littleakiba.com/tcg/card70268-large.jpg"
     },
     {
         "name": "横ピース 白銀ノエル",
@@ -7873,21 +8033,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "お疲れ様でーす！",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T088",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t088.png"
+        "image": "https://images.littleakiba.com/tcg/card70270-large.jpg"
     },
     {
         "name": "怒り狂った兎 兎田ぺこら",
@@ -7897,24 +8059,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "お困りのようペコね",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。"
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《ホロライブ》 Character, during this turn, it gets ＋1500 Power.",
+            "【A】When this card attacks, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×1000."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t089.png"
+        "image": "https://images.littleakiba.com/tcg/card70272-large.jpg"
     },
     {
         "name": "穏やかな時間 潤羽るしあ",
@@ -7924,24 +8088,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《ホロライブ》のキャラを1枚控え室に置く］』を得る。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「どんな時でも一緒」が置かれた時、前列にこのカードがいて、他のあなたの《ホロライブ》のキャラがいるなら、あなたは自分の控え室の《ホロライブ》のキャラを1枚まで選び、手札に戻すか舞台の好きな枠に置く。手札に戻したなら、あなたは相手の控え室のカードを4枚まで選び、山札に戻し、相手はその山札をシャッフルする。舞台に置いたなら、次の相手のターンの終わりまで、そのキャラのパワーを＋2500。"
+            "【C】If you have 2 or more other 《ホロライブ》 Character, this card gets +1500 Power, and gains 『【A】ENCORE [Place 1 《ホロライブ》 Character from Hand into Waiting Room]』.",
+            "【A】【CXCOMBO】When 「どんな時でも一緒」 is placed into your Climax Slot, if this card is at Front Row, and you have other 《ホロライブ》 Character, choose up to 1 《ホロライブ》 Character from your Waiting Room, return it to Hand or place it into any slot on Stage. If you returned it to Hand, choose up to 4 cards from opponent's Waiting Room, return them to Deck, shuffle the Deck afterwards. If you placed it on Stage, until end of opponent's next turn, that Character gets +2500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "3期生"
+            "《ホロライブ》",
+            "《3期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t090.png"
+        "image": "https://images.littleakiba.com/tcg/card70274-large.jpg"
     },
     {
         "name": "#ホロライブ3期生",
@@ -7951,18 +8117,20 @@
         "side": "W",
         "type": "Event",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+            "Choose up to 2 Character from your Waiting Room, return them to Hand, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T091",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t091.png"
+        "image": "https://images.littleakiba.com/tcg/card70276-large.jpg"
     },
     {
         "name": "どんな時でも一緒",
@@ -7972,22 +8140,24 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t092.png"
+        "image": "https://images.littleakiba.com/tcg/card70278-large.jpg"
     },
     {
         "name": "カチコミ 桐生ココ",
@@ -7997,22 +8167,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "カチコミでーす",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「気合い入れておめかし 姫森ルーナ」と「舞台の上で 天音かなた」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「気合い入れておめかし 姫森ルーナ」 or 「舞台の上で 天音かなた」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t093.png"
+        "image": "https://images.littleakiba.com/tcg/card70280-large.jpg"
     },
     {
         "name": "大人の味 角巻わため",
@@ -8022,22 +8194,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "いただきますっ！！",
         "ability": [
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
-            "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.",
+            "【A】When this card's dealt Damage is cancelled, you may place this card into Stock."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T094",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t094.png"
+        "image": "https://images.littleakiba.com/tcg/card70282-large.jpg"
     },
     {
         "name": "秋の小道 桐生ココ",
@@ -8047,22 +8221,24 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 このカードはサイドアタックできない。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+            "【C】This card cannot Side Attack.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《ホロライブ》 Character, REST it, move it to an empty slot at Back Row."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t095.png"
+        "image": "https://images.littleakiba.com/tcg/card70284-large.jpg"
     },
     {
         "name": "爆弾処理班 桐生ココ",
@@ -8072,21 +8248,23 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "イエッサー！！",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T096",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t096.png"
+        "image": "https://images.littleakiba.com/tcg/card70286-large.jpg"
     },
     {
         "name": "草食動物 角巻わため",
@@ -8096,24 +8274,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "草食では勝てないのか…！？",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】[REST this card] Look at up to 2 cards from your top Deck, place them on top Deck in any order."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T097",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t097.png"
+        "image": "https://images.littleakiba.com/tcg/card70288-large.jpg"
     },
     {
         "name": "吟遊詩人 角巻わため",
@@ -8123,24 +8303,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。",
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "【A】［Place 1 Climax from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《ホロライブ》 Character from your Waiting Room, return it to Hand.",
+            "【A】［(1)］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T098",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t098.png"
+        "image": "https://images.littleakiba.com/tcg/card70290-large.jpg"
     },
     {
         "name": "#ホロライブ4期生",
@@ -8150,18 +8332,20 @@
         "side": "W",
         "type": "Event",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 4,
+        "level": "3",
+        "cost": "4",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "あなたは自分の手札の《ホロライブ》のキャラを3枚選び、控え室に置いてよい。そうしたら、相手に4ダメージを2回与える。（ダメージキャンセルは発生する）"
+            "You may choose 3 《ホロライブ》 Character from your Hand, place them into Waiting Room. If you did, deal 4 Damage to opponent 2 times. (Damage can be cancelled)"
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T099",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t099.png"
+        "image": "https://images.littleakiba.com/tcg/card70292-large.jpg"
     },
     {
         "name": "爆弾処理班 天音かなた",
@@ -8171,22 +8355,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "イエッサー！！",
         "ability": [
-            "【自】 絆／「爆弾処理班 桐生ココ」「舞台の上で 天音かなた」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「爆弾処理班 桐生ココ」か「舞台の上で 天音かなた」を1枚選び、手札に戻す）",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。"
+            "【A】 BOND／「爆弾処理班 桐生ココ」「舞台の上で 天音かなた」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「爆弾処理班 桐生ココ」 or 「舞台の上で 天音かなた」 from your Waiting Room, return it to Hand）",
+            "【S】［Choose 1 card from Hand into Waiting Room, place this card into Waiting Room］ Choose 1 《ホロライブ》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t100.png"
+        "image": "https://images.littleakiba.com/tcg/card70294-large.jpg"
     },
     {
         "name": "宇宙旅行 常闇トワ",
@@ -8196,22 +8382,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あくあ「今おかゆが見えた」",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。",
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+            "【C】 All your other 《ホロライブ》 Character gets ＋500 Power.",
+            "【A】 When this card is placed on Stage from Hand, if you have 2 or more other 《ホロライブ》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T101",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t101.png"
+        "image": "https://images.littleakiba.com/tcg/card70296-large.jpg"
     },
     {
         "name": "あくまてきしょぎょう 常闇トワ",
@@ -8221,22 +8409,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "なんか悪魔らしいことしよ",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ホロライブ》のキャラか「#ホロライブ4期生」ならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+            "【C】If this card has Marker, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《ホロライブ》 Character or 「#ホロライブ4期生」, you may place it under this card face-down as Marker. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T102",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t102.png"
+        "image": "https://images.littleakiba.com/tcg/card70298-large.jpg"
     },
     {
         "name": "たこ焼き大好き 姫森ルーナ",
@@ -8246,21 +8436,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ん－たこ焼きも欲しいのら",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×500に等しい。"
+            "【A】 When this card attacks, choose 1 of your other 《ホロライブ》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×500."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T103",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t103.png"
+        "image": "https://images.littleakiba.com/tcg/card70300-large.jpg"
     },
     {
         "name": "秘密の待ち合わせ 常闇トワ",
@@ -8270,21 +8462,23 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「秘密の待ち合わせ 常闇トワ」を1枚選び、舞台の好きな枠に置く。』"
+            "【A】When a Climax is placed into your Climax Slot, during this turn, this card gets +1000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「秘密の待ち合わせ 常闇トワ」 from your Memory, place it into any slot on Stage.』"
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T104",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t104.png"
+        "image": "https://images.littleakiba.com/tcg/card70302-large.jpg"
     },
     {
         "name": "気合い入れておめかし 姫森ルーナ",
@@ -8294,22 +8488,24 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 舞台のこのカードのレベルを－1。",
-            "【自】【CXコンボ】［あなたのストックの上から1枚を控え室に置くか、あなたのクライマックス置場の「あま～いお菓子のお姫様」を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「あま～いお菓子のお姫様」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、《ホロライブ》のキャラか「#ホロライブ4期生」を1枚選び、手札に戻してよい。』"
+            "【C】This card gets -1 Level on Stage.",
+            "【A】【CXCOMBO】[Place the top card of your Stock into Waiting Room, place 1 「あま～いお菓子のお姫様」 from your Climax Slot into Waiting Room] When this card attacks, if「あま～いお菓子のお姫様」 is in your Climax Slot, you may pay the cost. If you did, choose 1 of your other Character and this card, during this turn, they gain the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may choose 1 《ホロライブ》 Character or 「#ホロライブ4期生」 from your Waiting Room, return it to Hand.』"
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T105",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t105.png"
+        "image": "https://images.littleakiba.com/tcg/card70304-large.jpg"
     },
     {
         "name": "得意げ 天音かなた",
@@ -8319,24 +8515,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "ねねちゃんは春のことなーんにもわかってないね",
         "ability": [
-            "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「今日だけはこのまま…」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「舞台の上で 天音かなた」を1枚まで選び、このカードがいた枠に置く。",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "【A】【CXCOMBO】［Place this card into Waiting Room］ When 「今日だけはこのまま…」 is placed into your Climax Slot, choose up to 1 「舞台の上で 天音かなた」 from your Hand, place it into this card's previous slot on Stage.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T106",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t106.png"
+        "image": "https://images.littleakiba.com/tcg/card70306-large.jpg"
     },
     {
         "name": "お空を飛びたい 姫森ルーナ",
@@ -8346,24 +8544,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "8500",
+        "soul": 2,
+        "flavor_text": "試しに付けてほしいのら",
         "ability": [
-            "【永】 舞台のこのカードのレベルを－2。",
-            "【自】 他のあなたの《ホロライブ》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×500に等しい。"
+            "【C】 This card gets -2 Level on Stage.",
+            "【A】 When your other 《ホロライブ》 Character attacks, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×500."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T107",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t107.png"
+        "image": "https://images.littleakiba.com/tcg/card70308-large.jpg"
     },
     {
         "name": "舞台の上で 天音かなた",
@@ -8373,24 +8573,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】 あなたのアタックフェイズの始めに、クライマックス置場に「今日だけはこのまま…」があり、前列にこのカードがいて、他のあなたの《ホロライブ》のキャラが4枚以上なら、あなたは自分の控え室の《ホロライブ》のキャラを2枚まで選び、2枚まで手札に戻し、残りのカードをストック置場に好きな順番で置く。"
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】At the beginning of your Attack Phase, if 「今日だけはこのまま…」 is in your Climax Slot, and you have 4 or more other 《ホロライブ》 Character, choose up to 2 《ホロライブ》 Character from your Waiting Room, return up to 2 of them to Hand, place the remaining cards into Stock in any order."
         ],
         "attributes": [
-            "ホロライブ",
-            "4期生"
+            "《ホロライブ》",
+            "《4期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T108",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t108.png"
+        "image": "https://images.littleakiba.com/tcg/card70310-large.jpg"
     },
     {
         "name": "今日だけはこのまま…",
@@ -8400,21 +8602,23 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+            "【A】When this card is placed into Climax Slot from Hand, choose up to 1 Character with Level 1 or lower from your Waiting Room, place it into Stock, during this turn, all your Character gets +1 Soul."
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T109",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t109.png"
+        "image": "https://images.littleakiba.com/tcg/card70312-large.jpg"
     },
     {
         "name": "あま～いお菓子のお姫様",
@@ -8424,21 +8628,23 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+            "【A】When this card is placed into Climax Slot from Hand, choose up to 1 Character with Level 1 or lower from your Waiting Room, place it into Stock, during this turn, all your Character gets +1 Soul."
         ],
         "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T110",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t110.png"
+        "image": "https://images.littleakiba.com/tcg/card70314-large.jpg"
     },
     {
         "name": "春はあげぽよ 桃鈴ねね",
@@ -8448,22 +8654,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "春はあ、あげぽよ、ようやく白くなりおる山岸…",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-            "【自】 バトル中のこのカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。"
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room.",
+            "【A】When this card becomes REVERSE, if your Memory has 2 or less cards, you may send this card to Memory."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T111",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t111.png"
+        "image": "https://images.littleakiba.com/tcg/card70316-large.jpg"
     },
     {
         "name": "オレンジ担当 桃鈴ねね",
@@ -8473,21 +8681,23 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "－",
         "ability": [
-            "【起】［このカードを【レスト】する］ あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "【S】[REST this card] Choose 1 of your 《ホロライブ》 Character, during this turn, it gets +2500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T112",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t112.png"
+        "image": "https://images.littleakiba.com/tcg/card70318-large.jpg"
     },
     {
         "name": "催眠術 尾丸ポルカ",
@@ -8497,22 +8707,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "にゃんにゃ～ん^ ^",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T113",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t113.png"
+        "image": "https://images.littleakiba.com/tcg/card70320-large.jpg"
     },
     {
         "name": "先輩のゲーム機 尾丸ポルカ",
@@ -8522,21 +8734,23 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "うーん、どうしたもんか",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
+            "【C】 If your Stock has 2 or less cards, this card gets ＋1500 Power."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T114",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t114.png"
+        "image": "https://images.littleakiba.com/tcg/card70322-large.jpg"
     },
     {
         "name": "得意分野 尾丸ポルカ",
@@ -8546,22 +8760,24 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "ここはポルカに任せて！",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "【C】 During your turn, for each of your other 《ホロライブ》 Character, this card gets ＋500 Power.",
+            "【A】 When this card attacks, look at up to 2 cards from your top Deck, place them on top Deck in any order."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T115",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t115.png"
+        "image": "https://images.littleakiba.com/tcg/card70324-large.jpg"
     },
     {
         "name": "春の知識 桃鈴ねね",
@@ -8571,21 +8787,23 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "ねね春のこと知ってるもん！たくさん！",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×500に等しい。"
+            "【A】 When this card attacks, choose 1 of your other 《ホロライブ》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×500."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T116",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t116.png"
+        "image": "https://images.littleakiba.com/tcg/card70326-large.jpg"
     },
     {
         "name": "春パワー 桃鈴ねね",
@@ -8595,24 +8813,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "春パワーをつけて帰ってきたねねの力をみよ！",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。",
-            "【自】［(1) このカードを控え室に置く］ このカードがフロントアタックされたターン中、アンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「緑担当 獅白ぼたん」を1枚まで選び、このカードがいた枠に置く。"
+            "【A】 When this card attacks, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your other 《ホロライブ》 Character ×1000.",
+            "【A】［(1) Place this card into Waiting Room］ During the turn when this card is being Front Attacked, at the beginning of Encore Step, you may pay the cost. If you did, choose up to 1 「緑担当 獅白ぼたん」 from your Hand, place it into this card's previous slot on Stage."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T117",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t117.png"
+        "image": "https://images.littleakiba.com/tcg/card70328-large.jpg"
     },
     {
         "name": "赤担当 尾丸ポルカ",
@@ -8622,24 +8842,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "－",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「降り注ぐ日差し」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、相手に3ダメージを与え、そうでないなら、相手に1ダメージを与える。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(1)] When this card attacks, if 「降り注ぐ日差し」 is in your Climax Slot, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, deal 3 Damage to opponent, if not, deal 1 Damage to opponent.(Damage can be cancelled. Return revealed card to its original position)"
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T118",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t118.png"
+        "image": "https://images.littleakiba.com/tcg/card70330-large.jpg"
     },
     {
         "name": "降り注ぐ日差し",
@@ -8649,24 +8871,23 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
-        "attributes": [
-            "－",
-            "－"
-        ],
+        "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T119",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t119.png"
+        "image": "https://images.littleakiba.com/tcg/card70332-large.jpg"
     },
     {
         "name": "三輪車をこぐ 獅白ぼたん",
@@ -8676,22 +8897,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "私は……どうすれば……",
         "ability": [
-            "【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、他のあなたの、「青色担当 雪花ラミィ」と「赤担当 尾丸ポルカ」すべてに、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【C】 If you have 2 or more other 《ホロライブ》 Character, all your other 「青色担当 雪花ラミィ」 or 「赤担当 尾丸ポルカ」 gets ＋1000 Power.",
+            "【S】 CONCENTRATION ［(1) REST this card］ Flip the top 5 cards of your Deck, place them into Waiting Room. For each Climax among those cards, you draw 1 card."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T120",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t120.png"
+        "image": "https://images.littleakiba.com/tcg/card70334-large.jpg"
     },
     {
         "name": "お酒は渡しません！ 雪花ラミィ",
@@ -8701,22 +8924,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "あ、あげませんよ！",
         "ability": [
-            "【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。",
-            "【自】 絆／「通りすがりのライオン 獅白ぼたん」「赤担当 尾丸ポルカ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「通りすがりのライオン 獅白ぼたん」か「赤担当 尾丸ポルカ」を1枚選び、手札に戻す）"
+            "【A】When a Climax is placed into opponent's Climax Slot, you may place this card into Stock.",
+            "【A】 BOND／「通りすがりのライオン 獅白ぼたん」「赤担当 尾丸ポルカ」 ［Place 1 card from Hand into Waiting Room］ （When this card is played onto Stage, you may pay the cost. If you did, choose 1 「通りすがりのライオン 獅白ぼたん」 or 「赤担当 尾丸ポルカ」 from your Waiting Room, return it to Hand）"
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T121",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t121.png"
+        "image": "https://images.littleakiba.com/tcg/card70336-large.jpg"
     },
     {
         "name": "凄腕スナイパー 獅白ぼたん",
@@ -8726,21 +8951,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "先輩……",
         "ability": [
-            "【自】［(1) あなたの控え室の《ホロライブ》のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【A】［(1) Place 1 《ホロライブ》 Character from your Waiting Room to bottom Clock］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T122",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t122.png"
+        "image": "https://images.littleakiba.com/tcg/card70338-large.jpg"
     },
     {
         "name": "トランプ勝負 雪花ラミィ",
@@ -8750,21 +8977,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "ラミィはししろんの魂を賭けよう",
         "ability": [
-            "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1500 Power)"
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T123",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t123.png"
+        "image": "https://images.littleakiba.com/tcg/card70340-large.jpg"
     },
     {
         "name": "青色担当 雪花ラミィ",
@@ -8774,22 +9003,24 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "－",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ホロライブ》のキャラの枚数×500に等しい。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「添い寝デート」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたは他の自分のキャラを1枚と、このカードを選び、手札に戻してよい。』"
+            "【A】 When this card is placed on Stage from Hand, during this turn, this card gets ＋Ｘ Power. Ｘ is equal to the number of your 《ホロライブ》 Character ×500.",
+            "【A】【CXCOMBO】 When this card's battle opponent becomes REVERSE, if 「添い寝デート」 is in your Climax Slot, until end of opponent's next turn, this card gains the following Ability.『【A】 When this card is being Front Attacked, you may choose 1 of your other Character and this card, return them to Hand.』"
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T124",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t124.png"
+        "image": "https://images.littleakiba.com/tcg/card70342-large.jpg"
     },
     {
         "name": "通りすがりのライオン 獅白ぼたん",
@@ -8799,21 +9030,23 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "それでおまるんがね…",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T125",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t125.png"
+        "image": "https://images.littleakiba.com/tcg/card70344-large.jpg"
     },
     {
         "name": "だいふくと一緒 雪花ラミィ",
@@ -8823,24 +9056,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "出でよ、だいふく！",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】[REST this card] Look at up to 2 cards from your top Deck, place them on top Deck in any order."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T126",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t126.png"
+        "image": "https://images.littleakiba.com/tcg/card70346-large.jpg"
     },
     {
         "name": "緑担当 獅白ぼたん",
@@ -8850,24 +9085,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9500",
+        "soul": 2,
+        "flavor_text": "－",
         "ability": [
-            "【永】 前列にこのカードがいるなら、あなたの《ホロライブ》のキャラすべてに、パワーを＋1500。",
-            "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+            "【C】If this card is at Front Row, all your 《ホロライブ》 Character gets +1500 Power.",
+            "【A】[Place 2 cards from Hand into Waiting Room] When this card is placed on Stage from Hand or Deck, you may pay the cost. If you did, choose up to 3 cards from opponent's Waiting Room, return them to Deck, shuffle the Deck afterwards."
         ],
         "attributes": [
-            "ホロライブ",
-            "5期生"
+            "《ホロライブ》",
+            "《5期生》"
         ],
         "set": "HOL",
         "release": "W91",
         "sid": "T127",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t127.png"
+        "image": "https://images.littleakiba.com/tcg/card70348-large.jpg"
     },
     {
         "name": "#ホロライブ5期生",
@@ -8877,21 +9114,20 @@
         "side": "W",
         "type": "Event",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
         "ability": [
-            "【カウンター】 あなたは自分の控え室の《5期生》のキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、自分の《5期生》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
+            "【COUNTER】 Choose up to 1 《5期生》 Character from your Waiting Room, return it to Hand, choose 1 card from your Hand, place it into Waiting Room, choose 1 of your 《5期生》 Character, during this turn, it gains the following Ability.『【A】 When this card is placed into Waiting Room from Stage, you may place this card into its previous slot on Stage in REST.』"
         ],
-        "attributes": [
-            "－",
-            "－"
-        ],
+        "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T128",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t128.png"
+        "image": "https://images.littleakiba.com/tcg/card70350-large.jpg"
     },
     {
         "name": "添い寝デート",
@@ -8901,24 +9137,23 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "－",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
-        "attributes": [
-            "－",
-            "－"
-        ],
+        "attributes": [],
         "set": "HOL",
         "release": "W91",
         "sid": "T129",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t129.png"
+        "image": "https://images.littleakiba.com/tcg/card70352-large.jpg"
     }
 ]

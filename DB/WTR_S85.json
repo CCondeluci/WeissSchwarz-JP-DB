@@ -1,0 +1,3383 @@
+[
+    {
+        "name": "激しい剣撃 太刀川 慶",
+        "code": "WTR/S85-001",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《トリオン》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "トリオン",
+            "太刀川隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_001.png"
+    },
+    {
+        "name": "迅速果断 小南 桐絵",
+        "code": "WTR/S85-002",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、他のあなたの《トリオン》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「真っ二つ」が置かれた時、他のあなたの《トリオン》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第1"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_002.png"
+    },
+    {
+        "name": "風刃 迅 悠一",
+        "code": "WTR/S85-003",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「遠隔斬撃」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手にＸダメージを2回与えてよい。Ｘはあなたの控え室の「黒トリガー「風刃」」の枚数に等しい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_003.png"
+    },
+    {
+        "name": "太刀川隊オペレーター 国近 柚宇",
+        "code": "WTR/S85-004",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、相手のクライマックスフェイズの始めに、あなたの《トリオン》のキャラすべてに、そのターン中、次の能力を与える。『【自】［手札を1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。』",
+            "【起】［(1) このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードのトリガーアイコンに[SOUL]があるなら手札に加える。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "トリオン",
+            "太刀川隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_004.png"
+    },
+    {
+        "name": "華麗なる射手 加古 望",
+        "code": "WTR/S85-005",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "トリオン",
+            "加古隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_005.png"
+    },
+    {
+        "name": "高速斬撃 黒江 双葉",
+        "code": "WTR/S85-006",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《トリオン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "加古隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_006.png"
+    },
+    {
+        "name": "素早い切り込み 緑川 駿",
+        "code": "WTR/S85-007",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "草壁隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_007.png"
+    },
+    {
+        "name": "エプロン姿のエリート 迅 悠一",
+        "code": "WTR/S85-008",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_008.png"
+    },
+    {
+        "name": "特殊工作兵 冬島 慎次",
+        "code": "WTR/S85-009",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《トリオン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "トリオン",
+            "冬島隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_009.png"
+    },
+    {
+        "name": "激闘の解説 出水 公平",
+        "code": "WTR/S85-010",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+            "【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "太刀川隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_010.png"
+    },
+    {
+        "name": "任務の遂行 木虎 藍",
+        "code": "WTR/S85-011",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 あなたの思い出置場の「ワイヤートリガー「スパイダー」」1枚につき、このカードのパワーを＋3000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "トリオン",
+            "嵐山隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_011.png"
+    },
+    {
+        "name": "消える双剣使い 風間 蒼也",
+        "code": "WTR/S85-012",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、そのターン中、このカードのパワーを＋6000。",
+            "【起】［(1)］ そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ],
+        "attributes": [
+            "トリオン",
+            "風間隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_012.png"
+    },
+    {
+        "name": "状況判断 古寺 章平",
+        "code": "WTR/S85-013",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《トリオン》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】［(1) 手札の《トリオン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "三輪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_013.png"
+    },
+    {
+        "name": "目に映る「色」 天羽 月彦",
+        "code": "WTR/S85-014",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードの正面のキャラが緑なら、このカードのパワーを＋3000。",
+            "【永】 このカードの正面のキャラが黄なら、このカードのソウルを＋2。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラが青なら、あなたは自分の山札の上から1枚を公開する。そのカードが《トリオン》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【自】 あなたのターン中、このカードが【リバース】した時、このカードのバトル相手が赤でレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ボーダー本部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_014.png"
+    },
+    {
+        "name": "全武装起動 木崎 レイジ",
+        "code": "WTR/S85-015",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 加速 ［あなたの控え室の《トリオン》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《トリオン》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第1"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_015.png"
+    },
+    {
+        "name": "重い弾丸 三輪 秀次",
+        "code": "WTR/S85-016",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「黒トリガー「風刃」」を1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "三輪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_016.png"
+    },
+    {
+        "name": "ガイスト起動 烏丸 京介",
+        "code": "WTR/S85-017",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 加速 ［あなたの控え室の《トリオン》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『そのターン中、このカードのパワーを＋3000し、ターンの終わりに、このカードをストック置場に置く。』『そのターン中、このカードのソウルを＋2し、ターンの終わりに、このカードをストック置場に置く。』"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第1"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_017.png"
+    },
+    {
+        "name": "ガロプラとの戦い 小南 桐絵",
+        "code": "WTR/S85-018",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
+            "【自】 加速 ［(1) あなたの控え室の《トリオン》のキャラを1枚クロック置場の下に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－2。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第1"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_018.png"
+    },
+    {
+        "name": "射撃戦 嵐山 准",
+        "code": "WTR/S85-019",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
+            "【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "トリオン",
+            "嵐山隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_019.png"
+    },
+    {
+        "name": "少し先の未来 迅 悠一",
+        "code": "WTR/S85-020",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+            "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_020.png"
+    },
+    {
+        "name": "強化聴覚 菊地原 士郎",
+        "code": "WTR/S85-021",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+            "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "風間隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_021.png"
+    },
+    {
+        "name": "ツイン狙撃 佐鳥 賢",
+        "code": "WTR/S85-022",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを2枚まで選び、そのターン中、パワーを－1500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "嵐山隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_022.png"
+    },
+    {
+        "name": "精密な射撃 奈良坂 透",
+        "code": "WTR/S85-023",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの手札が5枚以下なら、このカードのパワーを＋4500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "三輪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_023.png"
+    },
+    {
+        "name": "戦闘狂 米屋 陽介",
+        "code": "WTR/S85-024",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "三輪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_024.png"
+    },
+    {
+        "name": "かつての仲間 時枝 充",
+        "code": "WTR/S85-025",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《トリオン》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "トリオン",
+            "嵐山隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_025.png"
+    },
+    {
+        "name": "実戦派の狙撃手 当真 勇",
+        "code": "WTR/S85-026",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《トリオン》のキャラが4枚以上なら、あなたは自分の控え室の《トリオン》のキャラを1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "冬島隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_026.png"
+    },
+    {
+        "name": "黒トリガー「風刃」",
+        "code": "WTR/S85-027",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたのストックが6枚以下なら、あなたは自分の山札を上から5枚まで見て、《トリオン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_027.png"
+    },
+    {
+        "name": "迎撃戦",
+        "code": "WTR/S85-028",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分の《トリオン》のキャラを2枚まで選び、そのターン中、パワーを＋1500し、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_028.png"
+    },
+    {
+        "name": "真っ二つ",
+        "code": "WTR/S85-029",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_029.png"
+    },
+    {
+        "name": "遠隔斬撃",
+        "code": "WTR/S85-030",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_030.png"
+    },
+    {
+        "name": "分身による幻惑 ウェン・ソー",
+        "code": "WTR/S85-031",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《トリオン》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ガロプラ"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_031.png"
+    },
+    {
+        "name": "空を舞う攻撃 ラタリコフ",
+        "code": "WTR/S85-032",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「踊り手」があり、あなたのストックが6枚以下なら、あなたは自分の山札を上からＸ枚まで見て、《トリオン》のキャラか「緊急脱出」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ガロプラ"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_032.png"
+    },
+    {
+        "name": "硬く鋭いアーム ガトリン",
+        "code": "WTR/S85-033",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「遠征艇の破壊」があるなら、あなたは相手の山札を上から2枚まで見て、カードを1枚まで選び、山札の下に置き、残りのカードを山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ガロプラ"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_033.png"
+    },
+    {
+        "name": "そうさく！ 林藤 陽太郎と雷神丸",
+        "code": "WTR/S85-034",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札の《トリオン》のキャラを1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[SOUL]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[SOUL]のクライマックス1枚につき、あなたは自分の山札を見て《トリオン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_034.png"
+    },
+    {
+        "name": "ボーダー本部の立役者 鬼怒田 本吉＆根付 栄蔵",
+        "code": "WTR/S85-035",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベルＸ以下の《トリオン》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「緊急脱出」の枚数に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ボーダー本部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_035.png"
+    },
+    {
+        "name": "集団戦闘用トリオン兵 ドグ",
+        "code": "WTR/S85-036",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたの《トリオン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "トリオン"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_036.png"
+    },
+    {
+        "name": "攻撃の妨害 コスケロ",
+        "code": "WTR/S85-037",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+            "【自】［手札を2枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、パワーを－3000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ガロプラ"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_037.png"
+    },
+    {
+        "name": "完全並列同時思考 ヨミ",
+        "code": "WTR/S85-038",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【起】［手札の《トリオン》のキャラを1枚控え室に置き、このカードを控え室に置く］ あなたは自分の「連携するトリオン兵 アイドラ」を2枚まで選び、自分の山札を上からＸ枚まで見て、それらのキャラの下にマーカーとして1枚ずつ裏向きに置く。Ｘはそれらのキャラの枚数に等しい。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「連携するトリオン兵 アイドラ」があるなら、あなたは自分の控え室の《トリオン》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ガロプラ"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_038.png"
+    },
+    {
+        "name": "連携するトリオン兵 アイドラ",
+        "code": "WTR/S85-039",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+            "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「連携するトリオン兵 アイドラ」を3枚まで選び、このカードの下にマーカーとして表向きに置く。"
+        ],
+        "attributes": [
+            "トリオン"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_039.png"
+    },
+    {
+        "name": "交渉のプロフェッショナル 唐沢 克己",
+        "code": "WTR/S85-040",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラすべてに、パワーを＋500。",
+            "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+        ],
+        "attributes": [
+            "トリオン",
+            "ボーダー本部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_040.png"
+    },
+    {
+        "name": "トリオン兵の指揮 レギンデッツ",
+        "code": "WTR/S85-041",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋2000し、そのキャラ以外の自分の、そのキャラと同じカード名のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ガロプラ"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_041.png"
+    },
+    {
+        "name": "平和の防衛 忍田 真史＆沢村 響子",
+        "code": "WTR/S85-042",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《トリオン》のキャラの枚数×1000に等しい。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "ボーダー本部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_042.png"
+    },
+    {
+        "name": "緊急脱出",
+        "code": "WTR/S85-043",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 あなたは自分のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_043.png"
+    },
+    {
+        "name": "上層部との交渉",
+        "code": "WTR/S85-044",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分の山札を見て《トリオン》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+            "このカードを思い出にする。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_044.png"
+    },
+    {
+        "name": "遠征艇の破壊",
+        "code": "WTR/S85-045",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_045.png"
+    },
+    {
+        "name": "踊り手",
+        "code": "WTR/S85-046",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_046.png"
+    },
+    {
+        "name": "武闘派狙撃手 荒船 哲次",
+        "code": "WTR/S85-047",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《トリオン》のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "荒船隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_047.png"
+    },
+    {
+        "name": "光るセンス 香取 葉子",
+        "code": "WTR/S85-048",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「変化が生まれた日」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "トリオン",
+            "香取隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_048.png"
+    },
+    {
+        "name": "想いを弾に込めて 那須 玲",
+        "code": "WTR/S85-049",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「集中砲火」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から3枚を、控え室に置き、相手に2ダメージをＸ回与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "トリオン",
+            "那須隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_049.png"
+    },
+    {
+        "name": "渾身の一振 熊谷 友子",
+        "code": "WTR/S85-050",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《トリオン》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "那須隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_050.png"
+    },
+    {
+        "name": "機動型狙撃手 隠岐 孝二",
+        "code": "WTR/S85-051",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+            "【自】［手札の《トリオン》のキャラを1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "生駒隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_051.png"
+    },
+    {
+        "name": "香取隊オペレーター 染井 華",
+        "code": "WTR/S85-052",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "香取隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_052.png"
+    },
+    {
+        "name": "絶えない微笑み 王子 一彰",
+        "code": "WTR/S85-053",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘし、《あだ名》を与える。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。",
+            "【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「王子の強襲」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《トリオン》のキャラか「緊急脱出」を4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "王子隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_053.png"
+    },
+    {
+        "name": "隊長の意地 柿崎 国治",
+        "code": "WTR/S85-054",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+            "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "柿崎隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_054.png"
+    },
+    {
+        "name": "唯一無二の技 生駒 達人",
+        "code": "WTR/S85-055",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】【CXコンボ】 あなたのクライマックス置場に「生駒旋空」が置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードが《トリオン》のキャラか「切り裂く一閃」なら、あなたは自分の控え室の《トリオン》のキャラを1枚まで選び、ストック置場に置き、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』",
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "生駒隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_055.png"
+    },
+    {
+        "name": "的確な防御 村上 鋼",
+        "code": "WTR/S85-056",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《トリオン》のキャラを1枚選び、山札の下に置いてよい。",
+            "【自】［(1) 手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置き、このカードを【レスト】する。"
+        ],
+        "attributes": [
+            "トリオン",
+            "鈴鳴第一"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_056.png"
+    },
+    {
+        "name": "攻撃への応戦 若村 麓郎",
+        "code": "WTR/S85-057",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードは相手の効果に選ばれない。",
+            "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "香取隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_057.png"
+    },
+    {
+        "name": "予期せぬ相手 南沢 海",
+        "code": "WTR/S85-058",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《トリオン》のキャラか「緊急脱出」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "生駒隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_058.png"
+    },
+    {
+        "name": "慕われる人柄 来馬 辰也",
+        "code": "WTR/S85-059",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 他のあなたの《トリオン》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたの《トリオン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "鈴鳴第一"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_059.png"
+    },
+    {
+        "name": "動揺 別役 太一",
+        "code": "WTR/S85-060",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "鈴鳴第一"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_060.png"
+    },
+    {
+        "name": "生駒隊オペレーター 細井 真織",
+        "code": "WTR/S85-061",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+            "【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上からＸ枚まで見て、《トリオン》のキャラか「切り裂く一閃」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "生駒隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_061.png"
+    },
+    {
+        "name": "一騎打ち 照屋 文香",
+        "code": "WTR/S85-062",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】［手札の《トリオン》のキャラを1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "柿崎隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_062.png"
+    },
+    {
+        "name": "爆撃に乗じて 樫尾 由多嘉",
+        "code": "WTR/S85-063",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「合成弾の使い手 蔵内 和紀」1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
+            "【永】 他のあなたの「合成弾の使い手 蔵内 和紀」すべてに、レベルを＋1し、パワーを＋1500。",
+            "【自】［手札の《トリオン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「合成弾の使い手 蔵内 和紀」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "トリオン",
+            "王子隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_063.png"
+    },
+    {
+        "name": "柿崎隊オペレーター 宇井 真登華",
+        "code": "WTR/S85-064",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の《トリオン》のキャラを1枚選び、このカードの下にマーカーとして表向きに置く。",
+            "【起】［(1) このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "柿崎隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_064.png"
+    },
+    {
+        "name": "合成弾の使い手 蔵内 和紀",
+        "code": "WTR/S85-065",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
+        "attributes": [
+            "トリオン",
+            "王子隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_065.png"
+    },
+    {
+        "name": "守りを崩す 巴 虎太郎",
+        "code": "WTR/S85-066",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "柿崎隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_066.png"
+    },
+    {
+        "name": "屋上での戦闘 穂刈 篤",
+        "code": "WTR/S85-067",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "トリオン",
+            "荒船隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_067.png"
+    },
+    {
+        "name": "先輩たちの功績 日浦 茜",
+        "code": "WTR/S85-068",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《トリオン》のキャラの枚数×500に等しい。",
+            "【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1。"
+        ],
+        "attributes": [
+            "トリオン",
+            "那須隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_068.png"
+    },
+    {
+        "name": "王子隊オペレーター 橘高 羽矢",
+        "code": "WTR/S85-069",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの《トリオン》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "王子隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_069.png"
+    },
+    {
+        "name": "身を挺したカバー 三浦 雄太",
+        "code": "WTR/S85-070",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《トリオン》なら、このカードのパワーを＋2000。",
+            "【自】［このカードを控え室に置く］ 他のあなたの《トリオン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "香取隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_070.png"
+    },
+    {
+        "name": "狙撃再開！ 半崎 義人",
+        "code": "WTR/S85-071",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札の「武闘派狙撃手 荒船 哲次」を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "トリオン",
+            "荒船隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_071.png"
+    },
+    {
+        "name": "おおらかな銃手 北添 尋",
+        "code": "WTR/S85-072",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×1000に等しい。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "影浦隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_072.png"
+    },
+    {
+        "name": "トリッキーな戦術 水上 敏志",
+        "code": "WTR/S85-073",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×1000に等しい。",
+            "【自】 このカードがアタックした時、あなたは『アステロイド』と宣言してよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "生駒隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_073.png"
+    },
+    {
+        "name": "砲撃＆狙撃",
+        "code": "WTR/S85-074",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "このカードは、あなたの《トリオン》のキャラがいないなら、手札からプレイできない。",
+            "あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。このカードを思い出にする。",
+            "【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_074.png"
+    },
+    {
+        "name": "切り裂く一閃",
+        "code": "WTR/S85-075",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分の「唯一無二の技 生駒 達人」を1枚選び、そのターン中、ソウルを＋1し、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたはこのカードを【スタンド】してよい。』",
+            "このカードを山札の下に置く。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_075.png"
+    },
+    {
+        "name": "変化が生まれた日",
+        "code": "WTR/S85-076",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_076.png"
+    },
+    {
+        "name": "集中砲火",
+        "code": "WTR/S85-077",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_077.png"
+    },
+    {
+        "name": "王子の強襲",
+        "code": "WTR/S85-078",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_078.png"
+    },
+    {
+        "name": "生駒旋空",
+        "code": "WTR/S85-079",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[SOUL]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_079.png"
+    },
+    {
+        "name": "膨大なトリオン量 雨取 千佳",
+        "code": "WTR/S85-080",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《トリオン》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+            "【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_080.png"
+    },
+    {
+        "name": "目標に向かって 三雲 修",
+        "code": "WTR/S85-081",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_081.png"
+    },
+    {
+        "name": "瞳の先の目標 空閑 遊真",
+        "code": "WTR/S85-082",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【永】【CXコンボ】 あなたのクライマックス置場に「チェックメイト」があるなら、このカードのパワーを＋4000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+            "【自】［(2) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいて、相手の前列のキャラがいないか相手の前列のキャラすべてが【リバース】しているなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_082.png"
+    },
+    {
+        "name": "新たなエース攻撃手 ヒュース",
+        "code": "WTR/S85-083",
+        "rarity": "RR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたの《トリオン》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。",
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_083.png"
+    },
+    {
+        "name": "仲間との連携 諏訪 洸太郎",
+        "code": "WTR/S85-084",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《トリオン》のキャラか「緊急脱出」なら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。（公開したカードは元に戻す）",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン",
+            "諏訪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_084.png"
+    },
+    {
+        "name": "玉狛支部所属オペレーター 宇佐美 栞",
+        "code": "WTR/S85-085",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_085.png"
+    },
+    {
+        "name": "貫き通る射撃 二宮 匡貴",
+        "code": "WTR/S85-086",
+        "rarity": "R",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの《トリオン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】［(2)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+            "【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《トリオン》のキャラを1枚まで選び、ストック置場に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "二宮隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_086.png"
+    },
+    {
+        "name": "決めの一撃 三雲 修",
+        "code": "WTR/S85-087",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 経験 あなたのレベル置場の《トリオン》のキャラ1枚につき、このカードのレベルを＋1し、パワーを＋2000。",
+            "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「スラスターON！」があり、他のあなたの《トリオン》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《トリオン》のキャラか「緊急脱出」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_087.png"
+    },
+    {
+        "name": "嘘を見抜く 空閑 遊真",
+        "code": "WTR/S85-088",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の手札を見る。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_088.png"
+    },
+    {
+        "name": "アフトクラトルの近界民 ヒュース",
+        "code": "WTR/S85-089",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
+            "【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「蝶の楯」があり、他のあなたの《トリオン》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、《トリオン》のキャラかイベントを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_089.png"
+    },
+    {
+        "name": "玉狛の「大砲」 雨取 千佳",
+        "code": "WTR/S85-090",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】【CXコンボ】［あなたのクライマックス置場の「砲撃炸裂」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+            "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_090.png"
+    },
+    {
+        "name": "海老名隊オペレーター 武富 桜子",
+        "code": "WTR/S85-091",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+        ],
+        "attributes": [
+            "トリオン",
+            "海老名隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_091.png"
+    },
+    {
+        "name": "穏やかになだめる 堤 大地",
+        "code": "WTR/S85-092",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「ピンチを救う 笹森 日佐人」すべてに、ソウルを＋1。",
+            "【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたのレベルが2以上なら、あなたは自分の控え室の「ピンチを救う 笹森 日佐人」を1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "諏訪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_092.png"
+    },
+    {
+        "name": "狙いの先は 空閑 遊真",
+        "code": "WTR/S85-093",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの正面のキャラとこのカードはサイドアタックできない。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_093.png"
+    },
+    {
+        "name": "新たな戦い方 三雲 修",
+        "code": "WTR/S85-094",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【自】 記憶 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「ワイヤートリガー「スパイダー」」の枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_094.png"
+    },
+    {
+        "name": "追撃 犬飼 澄晴",
+        "code": "WTR/S85-095",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《トリオン》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "トリオン",
+            "二宮隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_095.png"
+    },
+    {
+        "name": "動きを封じる 雨取 千佳",
+        "code": "WTR/S85-096",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_096.png"
+    },
+    {
+        "name": "心強い援護 辻 新之助",
+        "code": "WTR/S85-097",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "二宮隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_097.png"
+    },
+    {
+        "name": "ピンチを救う 笹森 日佐人",
+        "code": "WTR/S85-098",
+        "rarity": "C",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 2,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
+        "attributes": [
+            "トリオン",
+            "諏訪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_098.png"
+    },
+    {
+        "name": "ワイヤートリガー「スパイダー」",
+        "code": "WTR/S85-099",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分の控え室の《トリオン》のキャラを1枚選び、手札に戻す。",
+            "このカードを思い出にする。",
+            "あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_099.png"
+    },
+    {
+        "name": "緊急脱出",
+        "code": "WTR/S85-100",
+        "rarity": "U",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 4,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 このカードは、あなたの《トリオン》のキャラがいないなら、手札からプレイできない。このカードは、色条件を満たさずに手札からプレイできる。",
+            "あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
+            "あなたは自分のキャラを1枚選び、手札に戻してよい。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_100.png"
+    },
+    {
+        "name": "チェックメイト",
+        "code": "WTR/S85-101",
+        "rarity": "CR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_101.png"
+    },
+    {
+        "name": "スラスターON！",
+        "code": "WTR/S85-102",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_102.png"
+    },
+    {
+        "name": "砲撃炸裂",
+        "code": "WTR/S85-103",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_103.png"
+    },
+    {
+        "name": "蝶の楯",
+        "code": "WTR/S85-104",
+        "rarity": "CC",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_104.png"
+    },
+    {
+        "name": "このあいだは！小南 桐絵",
+        "code": "WTR/S85-105",
+        "rarity": "PR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第1"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_105.png"
+    },
+    {
+        "name": "祝勝会 迅 悠一",
+        "code": "WTR/S85-106",
+        "rarity": "PR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「祝勝会 迅 悠一」を1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_106.png"
+    },
+    {
+        "name": "おほめのことば 林藤 陽太郎とヒュース",
+        "code": "WTR/S85-107",
+        "rarity": "PR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "トリオン"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_107.png"
+    },
+    {
+        "name": "チームを信じる 雨取 千佳",
+        "code": "WTR/S85-108",
+        "rarity": "PR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "108",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_108.png"
+    },
+    {
+        "name": "強まる結束 空閑 遊真＆三雲 修",
+        "code": "WTR/S85-109",
+        "rarity": "PR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "109",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_109.png"
+    },
+    {
+        "name": "BORDER",
+        "code": "WTR/S85-P01",
+        "rarity": "PR",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_p01.png"
+    },
+    {
+        "name": "激情に隠した作戦 三輪 秀次",
+        "code": "WTR/S85-T01",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの「一番槍 米屋 陽介」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、そのターン中、このカードのパワーを＋1000。』",
+            "【自】 絆／「一番槍 米屋 陽介」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「一番槍 米屋 陽介」を1枚選び、手札に戻す）"
+        ],
+        "attributes": [
+            "トリオン",
+            "三輪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t01.png"
+    },
+    {
+        "name": "戦闘終了 荒船 哲次",
+        "code": "WTR/S85-T02",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "荒船隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t02.png"
+    },
+    {
+        "name": "戦いの始まり 那須 玲",
+        "code": "WTR/S85-T03",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "那須隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t03.png"
+    },
+    {
+        "name": "開幕速攻！ 香取 葉子",
+        "code": "WTR/S85-T04",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札の《トリオン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "香取隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t04.png"
+    },
+    {
+        "name": "援護射撃 木虎 藍",
+        "code": "WTR/S85-T05",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《トリオン》のキャラか「緊急脱出」なら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "トリオン",
+            "嵐山隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t05.png"
+    },
+    {
+        "name": "慎重な選択 柿崎 国治",
+        "code": "WTR/S85-T06",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《トリオン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "トリオン",
+            "柿崎隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t06.png"
+    },
+    {
+        "name": "熟達した剣の腕 太刀川 慶",
+        "code": "WTR/S85-T07",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】［手札の《トリオン》のキャラを2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードをストック置場に好きな順番で置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "太刀川隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t07.png"
+    },
+    {
+        "name": "攻撃を掻い潜る 風間 蒼也",
+        "code": "WTR/S85-T08",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋3000。",
+            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+        ],
+        "attributes": [
+            "トリオン",
+            "風間隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t08.png"
+    },
+    {
+        "name": "一番槍 米屋 陽介",
+        "code": "WTR/S85-T09",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
+        "attributes": [
+            "トリオン",
+            "三輪隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t09.png"
+    },
+    {
+        "name": "迷わぬ判断 嵐山 准",
+        "code": "WTR/S85-T10",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "トリオン",
+            "嵐山隊"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t10.png"
+    },
+    {
+        "name": "最善の道は 迅 悠一",
+        "code": "WTR/S85-T11",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラすべてに、パワーを＋1000。",
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛支部"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t11.png"
+    },
+    {
+        "name": "縦横無尽の戦闘 小南 桐絵",
+        "code": "WTR/S85-T12",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、他のあなたの《トリオン》のキャラ1枚につき、このカードのパワーを＋1500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第1"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t12.png"
+    },
+    {
+        "name": "渾身の\"攻\" 堅牢な\"守\"",
+        "code": "WTR/S85-T13",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t13.png"
+    },
+    {
+        "name": "Fine Save",
+        "code": "WTR/S85-T14",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "SHOT"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t14.png"
+    },
+    {
+        "name": "帰国の画策 ヒュース",
+        "code": "WTR/S85-T15",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《トリオン》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "トリオン"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t15.png"
+    },
+    {
+        "name": "曲がらない信念 三雲 修",
+        "code": "WTR/S85-T16",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「B級ランク戦 ROUND5」が置かれた時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t16.png"
+    },
+    {
+        "name": "俊敏なエース攻撃手 空閑 遊真",
+        "code": "WTR/S85-T17",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「B級ランク戦 ROUND5」があり、他のあなたの《トリオン》のキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t17.png"
+    },
+    {
+        "name": "新技を備えて 雨取 千佳",
+        "code": "WTR/S85-T18",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t18.png"
+    },
+    {
+        "name": "真実の行方 ヒュース",
+        "code": "WTR/S85-T19",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "トリオン"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t19.png"
+    },
+    {
+        "name": "空からの襲撃 空閑 遊真",
+        "code": "WTR/S85-T20",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t20.png"
+    },
+    {
+        "name": "小さな狙撃手 雨取 千佳",
+        "code": "WTR/S85-T21",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「B級ランク戦 ROUND5」があるなら、そのターン中、このカードのパワーを＋9000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t21.png"
+    },
+    {
+        "name": "成長する隊長 三雲 修",
+        "code": "WTR/S85-T22",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+        ],
+        "attributes": [
+            "トリオン",
+            "玉狛第2"
+        ],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T22",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t22.png"
+    },
+    {
+        "name": "緊急脱出",
+        "code": "WTR/S85-T23",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+            "あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T23",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t23.png"
+    },
+    {
+        "name": "B級ランク戦 ROUND5",
+        "code": "WTR/S85-T24",
+        "rarity": "TD",
+        "expansion": "World Trigger",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "WTR",
+        "release": "S85",
+        "sid": "T24",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t24.png"
+    }
+]
