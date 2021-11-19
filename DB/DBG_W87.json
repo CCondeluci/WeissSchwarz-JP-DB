@@ -2847,29 +2847,6 @@
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_105.png"
     },
     {
-        "name": "ゲーム大好き ひな",
-        "code": "DBG/W87-P01",
-        "rarity": "PR",
-        "expansion": "The day I became god",
-        "side": "W",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
-        "trigger": [],
-        "flavor_text": "",
-        "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。"
-        ],
-        "attributes": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。"
-        ],
-        "set": "DBG",
-        "release": "W87",
-        "sid": "P01",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_p01.png"
-    },
-    {
         "name": "狂気の動画制作 成神 空",
         "code": "DBG/W87-T01",
         "rarity": "TD",
@@ -3350,6 +3327,30 @@
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t19.png"
     },
     {
+        "name": "ゲーム大好き ひな",
+        "code": "DBG/W87-P01",
+        "rarity": "PR",
+        "expansion": "The day I became god",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "夏",
+            "神"
+        ],
+        "set": "DBG",
+        "release": "W87",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_p01.png"
+    },
+    {
         "name": "伝わる思い",
         "code": "DBG/W87-P02",
         "rarity": "PR",
@@ -3370,5 +3371,29 @@
         "release": "W87",
         "sid": "P02",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_p02.png"
+    },
+    {
+        "name": "人類の選択",
+        "code": "DBG/W87-P03",
+        "rarity": "PR",
+        "expansion": "The day I became god",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。",
+            "このカードを思い出にする。\n"
+        ],
+        "attributes": [],
+        "set": "DBG",
+        "release": "W87",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_p03.png"
     }
 ]
