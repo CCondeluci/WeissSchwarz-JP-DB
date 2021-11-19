@@ -3,2699 +3,2883 @@
         "name": "聖槍の担い手 獅子王",
         "code": "FGO/S87-001",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "後世に残すに相応しい清き魂を集め、固定し、資料とする。\nそれの――何が間違っている？",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《カルデア》か《キャメロット》のキャラか「聖抜の儀」なら、相手にＸダメージを与える。Ｘはそのカードのレベルに等しい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「最果てにて輝ける槍」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +1000 Power.",
+            "【A】When this card attacks, reveal the top card of your Deck. If that card is a 《カルデア》 or 《キャメロット》 Character or 「聖抜の儀」, deal X Damage to opponent. X is equal to that card's Level. (Damage can be cancelled)",
+            "【A】【CXCOMBO】When 「最果てにて輝ける槍」 is placed into your Climax Slot, if this card is at Front Row, you may place the top card of your Clock into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_001.png"
+        "image": "https://images.littleakiba.com/tcg/card70542-large.jpg"
     },
     {
         "name": "神霊 獅子王",
         "code": "FGO/S87-002",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ベディヴィエール卿………貴方の過ちは意味があった。この獅子王には意味があったのだ。獅子王には――それが――",
         "ability": [
-            "【永】 他のあなたの、マーカーを持つ《円卓の騎士》のキャラすべてに、《ギフト》を与える。",
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。",
-            "【起】［このカードの下のマーカーを1枚控え室に置く］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【C】All your other 《円卓の騎士》 Character with Marker gains 《ギフト》.",
+            "【C】All your other 《カルデア》 or 《キャメロット》 Character gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may look at the top card of your Deck. If you did, place it under this card face-down as Marker.",
+            "【S】[Place 1 Marker from this card into Waiting Room] Choose 1 of your other Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "002",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_002.png"
+        "image": "https://images.littleakiba.com/tcg/card70544-large.jpg"
     },
     {
         "name": "獅子王の補佐官 アグラヴェイン",
         "code": "FGO/S87-003",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "畏れ多い……私にはまだ、仕事が……",
         "ability": [
-            "【自】 あなたのカードがこのカードの下にマーカーとして置かれた時、あなたはこのカードの下のマーカーをすべて控え室に置く。",
-            "【自】 他のあなたの《円卓の騎士》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "【A】When a Marker is placed under this card, place all Marker from this card into Waiting Room.",
+            "【A】When your other 《円卓の騎士》 Character or this card is placed on Stage from Hand, you may look at the top card of your Deck. (Return looked card to its original position)",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "003",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_003.png"
+        "image": "https://images.littleakiba.com/tcg/card70546-large.jpg"
     },
     {
         "name": "ゆるがぬ忠義 ガウェイン＆獅子王",
         "code": "FGO/S87-004",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "獅子王「回収するがいい、ガウェイン卿」",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「聖抜の儀」を1枚選び、手札に戻す。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「聖抜の儀」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "004",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_004.png"
+        "image": "https://images.littleakiba.com/tcg/card70548-large.jpg"
     },
     {
         "name": "嘆きの騎士 トリスタン",
         "code": "FGO/S87-005",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "ベディヴィエール卿が今の王と対面するなど、これ以上、悲しい話を私は知りません",
         "ability": [
-            "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【A】[Place 1 card from Hand into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《カルデア》 or 《キャメロット》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "005",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_005.png"
+        "image": "https://images.littleakiba.com/tcg/card70550-large.jpg"
     },
     {
         "name": "日輪の輝く限り ガウェイン",
         "code": "FGO/S87-006",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "日輪の輝く限り、我が力は聖者の祝福を受ける。貴方がたに勝ち目はありません",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードは次の能力を得る。『【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋3000。』",
-            "【永】 あなたのクロックが3枚以下なら、このカードのパワーを＋3000。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「転輪する勝利の剣」があるなら、あなたは自分の控え室のレベルＸ以下の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻してよい。Ｘはあなたのキャラの下のマーカーの枚数の合計に等しい。"
+            "【C】If this card has Marker, this card gains the following Ability. 『【C】If your Clock has 3 or more cards, this card gets +3000 Power.』",
+            "【C】If your Clock has 3 or less cards, this card gets +3000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「転輪する勝利の剣」 is in your Climax Slot, you may choose 1 《カルデア》 or 《キャメロット》 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the number of your Character with Marker."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_006.png"
+        "image": "https://images.littleakiba.com/tcg/card70552-large.jpg"
     },
     {
         "name": "嵐の王の名の下に 獅子王",
         "code": "FGO/S87-007",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "キャメロットは崩れ、荒波の時代がおとずれる",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「獅子王の補佐官 アグラヴェイン」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「聖槍の担い手 獅子王」を1枚まで選び、舞台の好きな枠に置く。』",
-            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-            "【起】［(1) 他のあなたのキャラを1枚とこのカードを【レスト】する］ あなたは自分の控え室の「聖抜の儀」を1枚選び、手札に戻す。"
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[(2) REST 1 of your 「獅子王の補佐官 アグラヴェイン」 and this card] Choose up to 1 「聖槍の担い手 獅子王」 from your Hand, place it into any slot on Stage.』",
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【S】[(1) REST 1 of your other Character and this card] Choose 1 「聖抜の儀」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_007.png"
+        "image": "https://images.littleakiba.com/tcg/card70554-large.jpg"
     },
     {
         "name": "祝福された暴走 モードレッド",
         "code": "FGO/S87-008",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "オレは……今度こそ父上の騎士として死んでみせる！",
         "ability": [
-            "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 あなたのターン中、他のあなたの後列の「神霊 獅子王」か「嵐の王の名の下に 獅子王」がいるなら、このカードのパワーを＋4000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "【C】If opponent has Character with Level 3 or higher, this card gets -1 Level in your Hand.",
+            "【C】During your turn, if you have other 「神霊 獅子王」 or 「嵐の王の名の下に 獅子王」 at Back Row, this card gets +4000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may the top card of your Clock into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "008",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_008.png"
+        "image": "https://images.littleakiba.com/tcg/card70556-large.jpg"
     },
     {
         "name": "怪物に成りはてる トリスタン",
         "code": "FGO/S87-009",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "最期に…愉快なものを…見た…よう…で…",
         "ability": [
-            "【永】 他のあなたの《円卓の騎士》のキャラすべてに、パワーを＋500。",
-            "【自】［(1)］ あなたのキャラのトリガーチェックでトリガーアイコンが[SOUL]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《円卓の騎士》のキャラを1枚選び、手札に戻す。"
+            "【C】All your other 《円卓の騎士》 Character gets +500 Power.",
+            "【A】[(1)] When your Character Trigger Checks a Climax with 2 Soul Trigger Icon, you may pay the cost. If you did, choose 1 《円卓の騎士》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "009",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_009.png"
+        "image": "https://images.littleakiba.com/tcg/card70558-large.jpg"
     },
     {
         "name": "獣の心を持つ悪鬼 トリスタン",
         "code": "FGO/S87-010",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。』"
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand.",
+            "【A】When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to Stock. If you did, place 1 card from opponent's bottom Stock into Waiting Room.』"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "010",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_010.png"
+        "image": "https://images.littleakiba.com/tcg/card70559-large.jpg"
     },
     {
         "name": "聖都を治める王 獅子王",
         "code": "FGO/S87-011",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "……いいだろう",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "011",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_011.png"
+        "image": "https://images.littleakiba.com/tcg/card70561-large.jpg"
     },
     {
         "name": "鉄の騎士 アグラヴェイン",
         "code": "FGO/S87-012",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "誰にも侵されず、誰をも脅かさない理想の国をお作りください",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「聖都を治める王 獅子王」を1枚選び、ストック置場に置いてよい。"
+            "【A】When this card is placed on Stage from Hand, you may choose 1 「聖都を治める王 獅子王」 from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_012.png"
+        "image": "https://images.littleakiba.com/tcg/card70562-large.jpg"
     },
     {
         "name": "鉄のアグラヴェイン",
         "code": "FGO/S87-013",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "裏切り者だと？ 私が？ お前と同じ？\nはっはっはっはは…はーっはっはっは！\n笑いが止まらぬとはこのことだ!!",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。"
+            "【A】When this card is placed on Stage from Hand, look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 opponent's Character, move it to other empty slot on Stage, during this turn, this card gets +1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "013",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_013.png"
+        "image": "https://images.littleakiba.com/tcg/card70563-large.jpg"
     },
     {
         "name": "遊撃騎士 モードレッド",
         "code": "FGO/S87-014",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "任せろよ。ちょっくら殺してくる",
         "ability": [
-            "【自】［手札の「ゆるがぬ忠義 ガウェイン＆獅子王」を1枚控え室に置く］ あなたのクライマックスがクライマックス置場に置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置き、ターンの終わりに、このカードを控え室に置く。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "【A】[Place 1 「ゆるがぬ忠義 ガウェイン＆獅子王」 from Hand into Waiting Room] When a Climax is placed into your Climax Slot, if this card is at Front Row, you may pay the cost. If you did, choose 1 opponent's Character with Level 2 or lower at Front Row, place it into Waiting Room, at the end of turn, place this card into Waiting Room.",
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character into Stock. If you did, place the bottom card of opponent's Stock into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "014",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_014.png"
+        "image": "https://images.littleakiba.com/tcg/card70565-large.jpg"
     },
     {
         "name": "滅びゆく最果ての塔 アグラヴェイン",
         "code": "FGO/S87-015",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "まさか――貴方に比べれば、私など",
         "ability": [
-            "【永】 相手のカード名に「ランスロット」を含むキャラがいるなら、このカードのパワーを＋4000。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "【C】 If opponent has Character with 「ランスロット」 in its name, this card gets ＋4000 Power.",
+            "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may send that Character to Stock, If you did, place opponent's bottom Stock into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "015",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_015.png"
+        "image": "https://images.littleakiba.com/tcg/card70567-large.jpg"
     },
     {
         "name": "叛逆の騎士 モードレッド",
         "code": "FGO/S87-016",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "我が身よ！ キャメロットの栄華のために散華せよ！",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻し、他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「我が麗しき父への叛逆」があり、他のあなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたは自分の控え室の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻してよい。"
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《カルデア》 or 《キャメロット》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《カルデア》 or 《キャメロット》 Character, during this turn, it gets +1000 Power.",
+            "【A】【CXCOMBO】【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, if 「我が麗しき父への叛逆」 is in your Climax Slot, and you have other 《カルデア》 or 《キャメロット》 Character, you may choose 1 《カルデア》 or 《キャメロット》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "016",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_016.png"
+        "image": "https://images.littleakiba.com/tcg/card70568-large.jpg"
     },
     {
         "name": "不夜の聖罰 ガウェイン",
         "code": "FGO/S87-017",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "その覚悟に、相応しき対価を！",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の手札の「太陽の騎士 ガウェイン」を1枚まで選び、このカードがいた枠に置く。』",
-            "【自】 共鳴 ［手札の「聖抜の儀」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《カルデア》か《キャメロット》のキャラを2枚まで選び、思い出にし、そのターン中、このカードのパワーを＋1000。ターンの終わりに、あなたは自分の思い出置場のキャラを2枚選び、クロック置場の下に好きな順番で置く。"
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[(1) Place this card into Waiting Room] Choose up to 1 「太陽の騎士 ガウェイン」 from your Hand, place it into this card's previous slot on Stage.』",
+            "【A】RESONANCE [Reveal 1 「聖抜の儀」 from Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, choose up to 2 《カルデア》 or 《キャメロット》 Character from your Clock, send them to Memory, during this turn, this card gets +1000 Power. At the end of turn, choose 2 Character from your Memory, place them to bottom Clock in any order."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "017",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_017.png"
+        "image": "https://images.littleakiba.com/tcg/card70569-large.jpg"
     },
     {
         "name": "聖剣返還 獅子王",
         "code": "FGO/S87-018",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "誇るがいい、ベディヴィエール\n貴卿は、確かに――そなたの王の命を果たしたのだ",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《円卓の騎士》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《円卓の騎士》 Character or Event, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "018",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_018.png"
+        "image": "https://images.littleakiba.com/tcg/card70570-large.jpg"
     },
     {
         "name": "御仏の慈悲 モードレッド",
         "code": "FGO/S87-019",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "でもまあ、何だ、口だけじゃねぇ坊主ってのも、いるもんだな……",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+            "【C】If this card has Marker, this card gets +2000 Power, gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_019.png"
+        "image": "https://images.littleakiba.com/tcg/card70571-large.jpg"
     },
     {
         "name": "落日 ガウェイン",
         "code": "FGO/S87-020",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "また、王の戦いに間に合わない……",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】When you use this card's 『ASSIST』, if you have 《カルデア》 or 《キャメロット》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "020",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_020.png"
+        "image": "https://images.littleakiba.com/tcg/card70572-large.jpg"
     },
     {
         "name": "反転した妖弦使い トリスタン",
         "code": "FGO/S87-021",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 1,
+        "flavor_text": "……ああ……私は悲しい……",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【永】 このカードは相手の効果でパワーが減少しない。』",
-            "【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「痛哭の幻奏」があり、他のあなたの《円卓の騎士》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の《円卓の騎士》のキャラを3枚まで選び、ストック置場に好きな順番で置く。』『あなたは相手の後列のレベル1以下のキャラを1枚選び、控え室に置く。』"
+            "【C】If this card has Marker, this card gets +2500 Power, gains the following Ability. 『【C】This card's Power cannot be deducted by opponent's effect.』",
+            "【A】【CXCOMBO】【A】This Ability can be activated up to 1 time each turn. When this card dealt Damage is cancelled, if 「痛哭の幻奏」 is in your Climax Slot, and you have other 《カルデア》 or 《キャメロット》 Character, choose and perform 1 of the following effects.",
+            "『Choose up to 3 and you have other 《カルデア》 or 《キャメロット》 Character from your Waiting Room, place them into Stock in any order.』",
+            "『Choose 1 opponent's Character with Level 1 or lower at Back Row, place it into Waiting Room.』"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "021",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_021.png"
+        "image": "https://images.littleakiba.com/tcg/card70573-large.jpg"
     },
     {
         "name": "太陽の騎士 ガウェイン",
         "code": "FGO/S87-022",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 2,
-        "cost": 3,
+        "level": "2",
+        "cost": "3",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7000",
+        "soul": 3,
+        "flavor_text": "今の私は獅子王の騎士、ガウェインである。\n貴公が守るものと私が守るものは相いれぬ",
         "ability": [
-            "【永】 他のあなたの後列の、《カルデア》か《キャメロット》のキャラ1枚につき、このカードのパワーを＋2000。"
+            "【C】For each of your other 《カルデア》 or 《キャメロット》 Character at Back Row, this card gets +2000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "022",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_022.png"
+        "image": "https://images.littleakiba.com/tcg/card70574-large.jpg"
     },
     {
         "name": "聖抜の儀",
         "code": "FGO/S87-023",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Event",
         "color": "YELLOW",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "最果てに導かれる者は限られている。人の根は腐り落ちるもの。故に私は選び取る",
         "ability": [
-            "このカードは、あなたのカード名に「獅子王」を含むキャラがいないなら、手札からプレイできない。",
-            "あなたは自分のマーカーを持たない《円卓の騎士》のキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋1000。",
-            "あなたは自分の山札を上から4枚まで見て、《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "If you have no Character with 「獅子王」 in its name, you cannot play this card from Hand.",
+            "Choose 1 of your 《円卓の騎士》 Character that has no Marker, place this card under that Character face-up as Marker, during this turn, that Character gets +1000 Power.",
+            "Look at up to 4 cards from your top Deck, choose up to 1 《カルデア》 or 《キャメロット》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "023",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_023.png"
+        "image": "https://images.littleakiba.com/tcg/card70575-large.jpg"
     },
     {
         "name": "最果てにて輝ける槍",
         "code": "FGO/S87-024",
         "rarity": "CR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "CHOICE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "024",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_024.png"
+        "image": "https://images.littleakiba.com/tcg/card70576-large.jpg"
     },
     {
         "name": "転輪する勝利の剣",
         "code": "FGO/S87-025",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "CHOICE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この剣は太陽の映し身。あらゆる不浄を清める、焔の陽炎！",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "025",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_025.png"
+        "image": "https://images.littleakiba.com/tcg/card70578-large.jpg"
     },
     {
         "name": "我が麗しき父への叛逆",
         "code": "FGO/S87-026",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "-",
         "ability": [
-            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+            "【C】 All your Characters get +2 Soul."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "026",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_026.png"
+        "image": "https://images.littleakiba.com/tcg/card70580-large.jpg"
     },
     {
         "name": "痛哭の幻奏",
         "code": "FGO/S87-027",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "我が心のままに踊れ！",
         "ability": [
-            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+            "【C】 All your Characters get +2 Soul."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "027",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_027.png"
+        "image": "https://images.littleakiba.com/tcg/card70581-large.jpg"
     },
     {
         "name": "古き天空の女王 ニトクリス",
         "code": "FGO/S87-028",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "我が名はニトクリス。太陽王と共にこの地に召喚されしサーヴァント！",
         "ability": [
-            "【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-            "【起】 共鳴 ［(1) 手札の「太陽王 オジマンディアス」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "【S】[(1) Place 1 Climax from Hand into Waiting Room] Choose 1 Character from your Waiting Room, return it to Hand.",
+            "【S】RESONANCE [(1) Reveal 1 「太陽王 オジマンディアス」 from Hand, REST this card] Look at up to 3 cards from your top Deck, choose up to 1 《カルデア》 or 《キャメロット》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "028",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_028.png"
+        "image": "https://images.littleakiba.com/tcg/card70582-large.jpg"
     },
     {
         "name": "荒廃の地を往く法師 玄奘三蔵",
         "code": "FGO/S87-029",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "罰はね……罪の重さから心を救うためにあるのよ",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「五行山・釈迦如来掌」があり、他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、次の行動を2回行う。『あなたは自分の山札を上から2枚まで見て、《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「五行山・釈迦如来掌」 is in your Climax Slot, and you have 2 or more other 《カルデア》 or 《キャメロット》 Character, you may pay the cost. If you did, during this turn, this card gets +2000 Power, perform the following Action 2 times. 『Look at up to 2 cards from your top Deck, choose up to 1 《カルデア》 or 《キャメロット》 Character and show it to opponent, add it to Hand, place the remaining cards into Waiting Room.』"
         ],
         "attributes": [
-            "キャメロット",
-            "法師"
+            "《キャメロット》",
+            "《法師》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "029",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_029.png"
+        "image": "https://images.littleakiba.com/tcg/card70584-large.jpg"
     },
     {
         "name": "太陽王 オジマンディアス",
         "code": "FGO/S87-030",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "魔術王か……フン。恐れるに足りぬわ",
         "ability": [
-            "【永】 このカードの下に表向きのマーカーがあるなら、このカードのパワーを＋6000。",
-            "【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「光輝の大複合神殿」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "【C】If this card has a face-up Marker, this card gets +6000 Power.",
+            "【A】During the turn when this card is placed on Stage from Hand, at the beginning of Encore Step, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】[(2) Place 2 cards from Hand into Waiting Room] When this card's battle opponent becomes REVERSE, if 「光輝の大複合神殿」 is in your Climax Slot, you may pay the cost. If you did, place that Character into Clock, deal 2 Damage to opponent. (Damage can be cancelled)"
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "030",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_030.png"
+        "image": "https://images.littleakiba.com/tcg/card70586-large.jpg"
     },
     {
         "name": "世界の救済 オジマンディアス",
         "code": "FGO/S87-031",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "しかし “世界を救え”ときたか",
         "ability": [
-            "【永】 他のあなたの《ファラオ》のキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
-            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+            "【C】All your other 《ファラオ》 Character gains 『【A】ENCORE [Place the top card of your Deck into Clock]』.",
+            "【A】[Place 1 card from Hand into Waiting Room] When your Character Trigger Checks a Climax with Gold Trigger Icon, you may pay the cost. If you did, choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "031",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_031.png"
+        "image": "https://images.littleakiba.com/tcg/card70588-large.jpg"
     },
     {
         "name": "御仏の慈悲 玄奘三蔵",
         "code": "FGO/S87-032",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "自分の本当の望みも見えていない人には最後にちゃんと御仏の慈悲を示させないとね？",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《カルデア》か《キャメロット》のキャラならこのカードの下にマーカーとして表向きに置いてよい。（そうしないなら元に戻す）"
+            "【C】If this card has Marker, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《カルデア》 or 《キャメロット》 Character, you may place it under this card face-up as Marker. (If not, return revealed card to its original position)"
         ],
         "attributes": [
-            "キャメロット",
-            "法師"
+            "《キャメロット》",
+            "《法師》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "032",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_032.png"
+        "image": "https://images.littleakiba.com/tcg/card70590-large.jpg"
     },
     {
         "name": "ファラオとして ニトクリス",
         "code": "FGO/S87-033",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "オジマンディアス「余はここで休む。お前も休むがよい、ファラオ・ニトクリス」",
         "ability": [
-            "【永】 あなたのキャラすべてが緑か《カルデア》なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「永遠の国へ」があるなら、あなたは自分の控え室の、緑か《カルデア》のキャラを1枚選び、ストック置場に置いてよい。"
+            "【C】If all your Character are Green or 《カルデア》, this card gets +1000 Power, gains the following Ability. 『【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step.』",
+            "【A】【CXCOMBO】When this card attacks, if 「永遠の国へ」 is in your Climax Slot, you may choose 1 Green or 《カルデア》 Character from your Waiting Room, place it into Stock."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "033",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_033.png"
+        "image": "https://images.littleakiba.com/tcg/card70592-large.jpg"
     },
     {
         "name": "神王 オジマンディアス",
         "code": "FGO/S87-034",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "戦いもせず閉じこもるなど余らしくもない",
         "ability": [
-            "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、緑か《カルデア》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-            "【起】［【スタンド】しているこのカードを控え室に置く］ あなたは自分の「太陽王 オジマンディアス」を1枚選び、このカードをそのカードの下にマーカーとして表向きに置いてよい。",
-            "【起】［このカードを【レスト】する］ あなたは自分の、緑か《カルデア》のキャラを1枚選び、そのターン中、パワーを＋3000。"
+            "【A】【CLOCK】ALARM If this card is on top Clock, and you have 4 or more Green or 《カルデア》 Character, at the beginning of your Climax Phase, you may place the top card of your Deck into Stock.",
+            "【S】[Place this STANDING card into Waiting Room] Choose 1 of your 「太陽王 オジマンディアス」, you may place this card under that Character face-up as Marker.",
+            "【S】[REST this card] Choose 1 of your Green or 《カルデア》 Character, during this turn, it gets +3000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_034.png"
+        "image": "https://images.littleakiba.com/tcg/card70594-large.jpg"
     },
     {
         "name": "心優しき魔術女王 ニトクリス",
         "code": "FGO/S87-035",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "私からもお願いします！ ファラオよ。\n難民たちは傷つき、子供もいます",
         "ability": [
-            "【永】 あなたの、《カルデア》か《キャメロット》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 他のあなたの後列の、《カルデア》か《キャメロット》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+            "【C】If you have 4 or more 《カルデア》 or 《キャメロット》 Character, this card gets -1 Level in your Hand.",
+            "【C】For each of your other 《カルデア》 or 《キャメロット》 Character at Back Row, this card gets +500 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the bottom card of your Clock into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_035.png"
+        "image": "https://images.littleakiba.com/tcg/card70596-large.jpg"
     },
     {
         "name": "魔術女王の威光 ニトクリス",
         "code": "FGO/S87-036",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "お、起きなさい！ 不敬ですよ！",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻す。",
-            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "【A】［Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《カルデア》 or 《キャメロット》 Character from your Waiting Room, return it to Hand.",
+            "【A】When this card becomes REVERSE, reveal the top card of your Deck. If that card is Level 2 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "036",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_036.png"
+        "image": "https://images.littleakiba.com/tcg/card70598-large.jpg"
     },
     {
         "name": "正義の所在 玄奘三蔵",
         "code": "FGO/S87-037",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "あたしのお弟子が教えてくれたわ",
         "ability": [
-            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+            "【A】When this card's battle opponent becomes REVERSE, if there is a Climax in your Climax Slot, you may place the top card of your Deck into Stock."
         ],
         "attributes": [
-            "キャメロット",
-            "法師"
+            "《キャメロット》",
+            "《法師》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "037",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_037.png"
+        "image": "https://images.littleakiba.com/tcg/card70599-large.jpg"
     },
     {
         "name": "太陽のような寛大さ オジマンディアス",
         "code": "FGO/S87-038",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "よいか！ 二度と余の慈悲があると思うな\n貫いてみせよ その酔狂!!",
         "ability": [
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place the top card of opponent's Clock into Waiting Room. If you did, place that Character into Clock."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "038",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_038.png"
+        "image": "https://images.littleakiba.com/tcg/card70600-large.jpg"
     },
     {
         "name": "同盟の条件 オジマンディアス",
         "code": "FGO/S87-039",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "貴様がランスロットか。よいぞ、機というものを心得ている",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの、《カルデア》か《キャメロット》のキャラの枚数に等しい。",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《カルデア》 or 《キャメロット》 Character.",
+            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_039.png"
+        "image": "https://images.littleakiba.com/tcg/card70601-large.jpg"
     },
     {
         "name": "身外心の法 玄奘三蔵",
         "code": "FGO/S87-040",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "キャスター、玄奘三蔵!! これより憤怒によりて折伏をなす!!",
         "ability": [
-            "【自】［あなたの【スタンド】している、《カルデア》か《キャメロット》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「正義の所在 玄奘三蔵」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "【A】［REST 1 of your STANDING 《カルデア》 or 《キャメロット》 Character］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 2 「正義の所在 玄奘三蔵」, and place them on separate slot on Stage, shuffle the Deck afterwards.",
+            "【A】 When a Climax is placed into your Climax Slot, choose 1 of your Character, during this turn, it gets ＋2000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "法師"
+            "《キャメロット》",
+            "《法師》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_040.png"
+        "image": "https://images.littleakiba.com/tcg/card70602-large.jpg"
     },
     {
         "name": "エジプト領の守護 ニトクリス",
         "code": "FGO/S87-041",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "ここが太陽王の地と知って侵入したのですか？",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の「神王 オジマンディアス」を1枚選び、舞台の好きな枠に置く。』",
-            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。"
+            "【C】If your Level is 2 or higher, this card gains the following Ability. 『【S】[(1) Place 1 card from Hand into Waiting Room, REST this card] Choose 1 「神王 オジマンディアス」 from your Waiting Room, place it into any slot on Stage.』",
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_041.png"
+        "image": "https://images.littleakiba.com/tcg/card70603-large.jpg"
     },
     {
         "name": "挑発的な視線 ニトクリス",
         "code": "FGO/S87-042",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ふっ……",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの、《カルデア》か《キャメロット》のキャラがいるなら、このカードのパワーを＋3000。",
-            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+            "【C】During your turn, if you have other 《カルデア》 or 《キャメロット》 Character, this card gets +3000 Power.",
+            "【A】[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check 2 times during Trigger Step."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "042",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_042.png"
+        "image": "https://images.littleakiba.com/tcg/card70604-large.jpg"
     },
     {
         "name": "反攻勢力との合流 玄奘三蔵",
         "code": "FGO/S87-043",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "これ、立派な反逆罪よランスロット！ でも素敵だわ！ ほらマシュ",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《カルデア》か《キャメロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+            "【A】When this card is placed on Stage from Hand, choose 1 of your 《カルデア》 or 《キャメロット》 Character, during this turn, it gets +1500 Power.",
+            "【A】During this card's battle, if the Damage you received is cancelled, you may return this card to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "法師"
+            "《キャメロット》",
+            "《法師》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_043.png"
+        "image": "https://images.littleakiba.com/tcg/card70605-large.jpg"
     },
     {
         "name": "王の中の王 オジマンディアス",
         "code": "FGO/S87-044",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "唯一のファラオたる余がここに顕現し、我が領土はここにある。\nもはや人類は救われたも同然よ",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「太陽王の聖杯」を1枚選び、手札に戻す。",
-            "【自】［このカードを控え室に置く］ 他のあなたのバトル中の、《カルデア》か《キャメロット》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「太陽王の聖杯」 from your Waiting Room, return it to Hand.",
+            "【A】[Place this card into Waiting Room] When your other 《カルデア》 or 《キャメロット》 Character becomes REVERSE, if this card is at Back Row, you may pay the cost. If you did, REST that Character."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "044",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_044.png"
+        "image": "https://images.littleakiba.com/tcg/card70606-large.jpg"
     },
     {
         "name": "強者との対峙 玄奘三蔵",
         "code": "FGO/S87-045",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "モードレッド「何しろ次の人理には戦争なんざねぇ！\nオレのような馬鹿も生まれてこない！」",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。"
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《カルデア》 or 《キャメロット》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards.",
+            "【A】［Return 2 Character from your Waiting Room into Deck, shuffle the Deck afterwards］ When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, no Soul is deducted if this card Side Attacks."
         ],
         "attributes": [
-            "キャメロット",
-            "法師"
+            "《キャメロット》",
+            "《法師》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "045",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_045.png"
+        "image": "https://images.littleakiba.com/tcg/card70607-large.jpg"
     },
     {
         "name": "ファラオの神威 オジマンディアス",
         "code": "FGO/S87-046",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 相手のターン中、あなたのキャラすべてが《カルデア》か《キャメロット》なら、このカードのレベルを＋1し、パワーを＋1500。"
+            "【C】During opponent's turn, if all your Character are 《カルデア》 or 《キャメロット》, this card gets +1 Level and +1500 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_046.png"
+        "image": "https://images.littleakiba.com/tcg/card70608-large.jpg"
     },
     {
         "name": "用なき物の受け渡し ニトクリス",
         "code": "FGO/S87-047",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5000",
+        "soul": 1,
+        "flavor_text": "今すぐ門の前の兵たちを下がらせなさい。邪魔です",
         "ability": [
-            "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-            "【自】 他のあなたの、《カルデア》か《キャメロット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+            "【C】If the Character facing this card is Cost 0 or lower, this card cannot become REVERSE.",
+            "【A】When your other 《カルデア》 or 《キャメロット》 Character attacks, during this turn, this card gets +1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "047",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_047.png"
+        "image": "https://images.littleakiba.com/tcg/card70609-large.jpg"
     },
     {
         "name": "太陽王の聖杯",
         "code": "FGO/S87-048",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Event",
         "color": "GREEN",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "なまじ聖杯など手にしたことで、\n柄でもないことに――執心しすぎたのかもしれぬ",
         "ability": [
-            "あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+            "Choose 1 opponent's Character with Level 1 or higher. Opponent chooses 1 Character with Level X or lower from his/her Waiting Room, exchange them. X is equal to the Character's Level you chose -1."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "048",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_048.png"
+        "image": "https://images.littleakiba.com/tcg/card70610-large.jpg"
     },
     {
         "name": "光輝の大複合神殿",
         "code": "FGO/S87-049",
         "rarity": "CR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "全能の神よ！ 我が業を見よ！ あらゆる裁きはファラオが下すもの！",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "049",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_049.png"
+        "image": "https://images.littleakiba.com/tcg/card70611-large.jpg"
     },
     {
         "name": "永遠の国へ",
         "code": "FGO/S87-050",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "お前が冥府に連れ去られるのも面倒だ。\n余は、あの暗い国はあまり好かぬからな",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_050.png"
+        "image": "https://images.littleakiba.com/tcg/card70613-large.jpg"
     },
     {
         "name": "五行山・釈迦如来掌",
         "code": "FGO/S87-051",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "TREASURE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "では、そのわだかまりを断ちましょう",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "051",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_051.png"
+        "image": "https://images.littleakiba.com/tcg/card70614-large.jpg"
     },
     {
         "name": "毒の娘 静謐のハサン",
         "code": "FGO/S87-052",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "私の体液は毒。吐息も汗も唾液も……\n全てが必殺の毒……",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《カルデア》か《キャメロット》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】When this card becomes REVERSE, you may reveal up to 3 cards from your top Deck. If 1 or more is revealed, choose up to 1 《カルデア》 or 《キャメロット》 Character among those cards, add it to Hand, place the remaining cards into Waiting Room, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "052",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_052.png"
+        "image": "https://images.littleakiba.com/tcg/card70616-large.jpg"
     },
     {
         "name": "輝けるアガートラム ベディヴィエール",
         "code": "FGO/S87-053",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "何を犠牲にしようと、私は今度こそ。\n今度こそこの手で――我が王を、殺すのだ",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「剣を摂れ、銀色の腕」があるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《カルデア》か《キャメロット》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「剣を摂れ、銀色の腕」 is in your Climax Slot, place 2 cards from your top Deck into Waiting Room, choose up to 1 《カルデア》 or 《キャメロット》 Character with Level X or lower from your Waiting Room, return it to Hand, during this turn, this card gets +2000 Power. X is equal to the total Level of those cards placed into Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "053",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_053.png"
+        "image": "https://images.littleakiba.com/tcg/card70618-large.jpg"
     },
     {
         "name": "菫色の銀騎士 ベディヴィエール",
         "code": "FGO/S87-054",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "私もキャメロットが好きです。\nこの街の人々の笑顔が――",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+            "【C】If your Waiting Room has 2 or less Climax, this card gets -1 Level in your Hand.",
+            "【C】For each opponent's Character at Back Row, this card gets +1000 Power.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Stock."
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "054",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_054.png"
+        "image": "https://images.littleakiba.com/tcg/card70620-large.jpg"
     },
     {
         "name": "決戦前夜 静謐のハサン",
         "code": "FGO/S87-055",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "決戦の時来たりと聞いて、この静謐、急ぎ参上いたしました",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
-            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻す。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose 1 Character with Level X or lower from your Waiting Room, return it to Hand. X is equal to the revealed card's Level. (Climax is considered Level 0. Return revealed card to it original position)",
+            "【A】[(2)] When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《カルデア》 or 《キャメロット》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "055",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_055.png"
+        "image": "https://images.littleakiba.com/tcg/card70622-large.jpg"
     },
     {
         "name": "忠節の騎士 ベディヴィエール",
         "code": "FGO/S87-056",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "円卓の騎士を代表して貴方にお礼を",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《カルデア》か《キャメロット》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+            "【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top Deck or Waiting Room.",
+            "【A】At the beginning of opponent's Attack Phase, you may place the top card of your Deck into Waiting Room. If that card is a 《カルデア》 or 《キャメロット》 Character, you may move this card to an empty slot at Front Row."
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "056",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_056.png"
+        "image": "https://images.littleakiba.com/tcg/card70623-large.jpg"
     },
     {
         "name": "レプリカ ベディヴィエール",
         "code": "FGO/S87-057",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これが私に与えられた旅の果て。\n楽園の男に差し出された最後の探索",
         "ability": [
-            "【起】【CXコンボ】［(2) あなたの山札の上から1枚をクロック置場に置く］ あなたは自分の控え室の「剣を摂れ、銀色の腕」を1枚選び、クライマックス置場に置き、そのターン中、このカードのパワーを＋1000。"
+            "【S】【CXCOMBO】[(2) Place the top card of your Deck into Clock] Choose 1 「剣を摂れ、銀色の腕」 from your Waiting Room, place it into Climax Slot, during this turn, this card gets +1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "057",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_057.png"
+        "image": "https://images.littleakiba.com/tcg/card70625-large.jpg"
     },
     {
         "name": "渾身の一射 アーラシュ",
         "code": "FGO/S87-058",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-            "【自】【CXコンボ】［(3) このカードを控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「流星一条」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラすべてを、控え室に置く。"
+            "【A】When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power.",
+            "【A】【CXCOMBO】[(3) Place this card into Waiting Room] At the end of this card's attack, if 「流星一条」 is in your Climax Slot, you may pay the cost. If you did, place all opponent's Character with Level 2 or lower at Front Row into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "英雄"
+            "《キャメロット》",
+            "Eiyuu(Hero) 《英雄》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "058",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_058.png"
+        "image": "https://images.littleakiba.com/tcg/card70626-large.jpg"
     },
     {
         "name": "孤高の騎士 ランスロット",
         "code": "FGO/S87-059",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "滅びの確定した世界において、彼の王が示した道は正しく、なにより強固である！",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「湖光のランスロット」が置かれた時、前列にこのカードがいるなら、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルし、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +2000 Power.",
+            "【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+            "【A】【CXCOMBO】When 「湖光のランスロット」 is placed into your Climax Slot, if this card is at Front Row, choose up to 2 cards from opponent's Waiting Room, return them to Deck, shuffle the Deck afterwards, during this turn, this card gets +2000 Power and +1 Soul."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "059",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_059.png"
+        "image": "https://images.littleakiba.com/tcg/card70628-large.jpg"
     },
     {
-        "name": "初代ハサン・サッバーハ\"山の翁\"",
+        "name": "初代ハサン・サッバーハ“山の翁”",
         "code": "FGO/S87-060",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "11000",
+        "soul": 2,
+        "flavor_text": "彷徨える騎士よ。汝が主君を解放する術はただ一つ",
         "ability": [
-            "【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4500。",
-            "【自】 すべてのプレイヤーのアタックフェイズの始めに、前列にこのカードがいるなら、そのターン中、すべてのプレイヤーは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+            "【C】If your Back Row has 1 or less Character, this card cannot attack.",
+            "【A】When this card is placed on Stage from Hand, choose 1 opponent's Character at Front Row, during this turn, it gets -4500 Power.",
+            "【A】At the beginning of both players' Attack Phase, if this card is at Front Row, during this turn, both players cannot use 『【A】ENCORE』. (Cannot use 『【A】ENCORE [(3)]』 from rule also)"
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "060",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_060.png"
+        "image": "https://images.littleakiba.com/tcg/card70630-large.jpg"
     },
     {
         "name": "アーラシュ・カマンガー",
         "code": "FGO/S87-061",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "俺の名前をアンタが知ってるのはなぜだ？\n繋がる命があったからだ",
         "ability": [
-            "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「流星一条」が置かれた時、あなたのレベルが1以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「渾身の一射 アーラシュ」を1枚まで選び、このカードがいた枠に置く。",
-            "【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。"
+            "【A】【CXCOMBO】[Place this card into Waiting Room] When 「流星一条」 is placed into your Climax Slot, if your Level is 1 or higher, you may pay the cost. If you did, choose up to 1 「渾身の一射 アーラシュ」 from your Hand, place it into this card's previous slot on Stage.",
+            "【A】[(1)] During opponent's turn, when this card becomes REVERSE, you may pay the cost. If you did, REST this card, at the beginning of your next Encore Step, place this card into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "英雄"
+            "《キャメロット》",
+            "Eiyuu(Hero) 《英雄》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "061",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_061.png"
+        "image": "https://images.littleakiba.com/tcg/card70632-large.jpg"
     },
     {
-        "name": "グランドアサシン\"山の翁\"",
+        "name": "グランドアサシン“山の翁”",
         "code": "FGO/S87-062",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "天命は既に示された。運命はいずれ、汝ら二人に相応しき報いを与えよう",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「晩鐘」を1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, choose up to 1 opponent's Character, send it to Memory, opponent place that Character from Memory into any slot on Stage.",
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「晩鐘」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "062",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_062.png"
+        "image": "https://images.littleakiba.com/tcg/card70633-large.jpg"
     },
     {
         "name": "円卓の騎士道 ランスロット",
         "code": "FGO/S87-063",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "その呼び方は……心臓に悪い",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。』",
-            "【自】 このカードが手札か控え室から、舞台に置かれた時、他のあなたの「神霊 獅子王」か「嵐の王の名の下に 獅子王」がいるなら、あなたは自分の控え室の「聖抜の儀」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+            "【C】If this card has Marker, this card gets +2000 Power, this card gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《カルデア》 or 《キャメロット》 Character, REST it, move it to an empty slot at Back Row.』",
+            "【A】When this card is placed on Stage from Hand or Waiting Room, if you have other 「神霊 獅子王」 or 「嵐の王の名の下に 獅子王」, you may choose 1 「聖抜の儀」 from your Waiting Room, place it under this card face-up as Marker."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "063",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_063.png"
+        "image": "https://images.littleakiba.com/tcg/card70634-large.jpg"
     },
     {
         "name": "青ざめた死の舞踏 静謐のハサン",
         "code": "FGO/S87-064",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "白い手の運命が貴方に追いつきました。お覚悟を",
         "ability": [
-            "【永】 このカードが【レスト】しているなら、すべてのプレイヤーの前列のカード名に「藤丸」か「アーラシュ」か「ハサン」を含まないキャラすべてに、パワーを－500。",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+            "【C】If this card is in REST, both players' Character that has no 「藤丸」 or 「アーラシュ」 or 「ハサン」 in its name at Front Row gets -500 Power.",
+            "【S】[REST this card] Choose 1 of your Character, during this turn, it gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may place that Character to top Deck.』"
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "064",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_064.png"
+        "image": "https://images.littleakiba.com/tcg/card70636-large.jpg"
     },
     {
         "name": "強者との対峙 ランスロット",
         "code": "FGO/S87-065",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "5500",
+        "soul": 1,
+        "flavor_text": "アーラシュ「奇襲とは！ 円卓が聞いてあきれる！」",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +2000 Power.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "065",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_065.png"
+        "image": "https://images.littleakiba.com/tcg/card70637-large.jpg"
     },
     {
         "name": "聖剣返還 ベディヴィエール",
         "code": "FGO/S87-066",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "我が王、我が主よ。今こそ、いえ今度こそ\nこの剣を、お返しします",
         "ability": [
-            "【永】 前列にこのカードがいるなら、あなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋1500。",
-            "【自】【CXコンボ】［(4) 手札を2枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「剣を摂れ、銀色の腕」があり、他のあなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを2回与え、このカードを思い出にする。（ダメージキャンセルは発生する）"
+            "【C】If this card is at Front Row, all your 《カルデア》 or 《キャメロット》 Character gets +1500 Power.",
+            "【A】【CXCOMBO】[(4) Place 2 cards from Hand into Waiting Room] At the end of this card's attack, if 「剣を摂れ、銀色の腕」 is in your Climax Slot, and you have other 《カルデア》 or 《キャメロット》 Character, you may pay the cost. If you did, deal 3 Damage to opponent 2 times, send this card to Memory. (Damage can be cancelled)"
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "066",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_066.png"
+        "image": "https://images.littleakiba.com/tcg/card70638-large.jpg"
     },
     {
         "name": "妄想毒身 静謐のハサン",
         "code": "FGO/S87-067",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "500",
+        "soul": 1,
+        "flavor_text": "……！ 私はなんてことを……",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋500。",
-            "【自】［このカードの下のマーカーを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
-            "【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置く。"
+            "【C】All your other 《カルデア》 or 《キャメロット》 Character gets +500 Power.",
+            "【A】[Place 1 Marker from this card into Waiting Room] When this card attacks, you may pay the cost. If you did, choose 1 opponent's Character with Level 0 or lower at Front Row, place it into Waiting Room.",
+            "【S】[REST this card] If this card has no Marker, place the top card of your Deck under this card face-up as Marker."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "067",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_067.png"
+        "image": "https://images.littleakiba.com/tcg/card70639-large.jpg"
     },
     {
         "name": "誰かのための旅路 ベディヴィエール",
         "code": "FGO/S87-068",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "そうであったらいい。いえ、貴方がそう信じてくれるのなら――",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』"
+            "【C】If your Stock has 2 or less cards, this card gets +1500 Power.",
+            "【A】When this card is placed on Stage from Hand, both players perform the following Action. 『If your Memory has 5 or more cards, choose 4 cards from your Memory, place all cards except for those chosen cards from Memory into Waiting Room.』"
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "068",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_068.png"
+        "image": "https://images.littleakiba.com/tcg/card70640-large.jpg"
     },
     {
         "name": "原初の掟 呪腕のハサン",
         "code": "FGO/S87-069",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "この土地に住む人々を愛した！\nそのために生き、そのために死んだのだ！",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《カルデア》か《キャメロット》のキャラならこのカードの下にマーカーとして表向きに置いてよい。（そうしないなら元に戻す）",
-            "【自】［(1)］ このカードがフロントアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。"
+            "【C】If this card has Marker, this card gains the following Ability. 『【A】When this card becomes REVERSE, if this card's battle opponent is Level 1 or lower, you may REVERSE that Character.』",
+            "【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《カルデア》 or 《キャメロット》 Character, you may place it under this card face-up as Marker. (If not, return revealed card to its original position)",
+            "【A】[(1)] When this card Front Attacks, you may pay the cost. If you did, choose 1 opponent's Character, during this turn, it gets -1 Level."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "069",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_069.png"
+        "image": "https://images.littleakiba.com/tcg/card70641-large.jpg"
     },
     {
         "name": "ペルシャの大英雄 アーラシュ",
         "code": "FGO/S87-070",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "千里眼ってやつでな、いろいろと見えるのさ",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +1000 Power.",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《カルデア》 or 《キャメロット》 Character, REST it, move it to an empty slot at Back Row."
         ],
         "attributes": [
-            "キャメロット",
-            "英雄"
+            "《キャメロット》",
+            "Eiyuu(Hero) 《英雄》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "070",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_070.png"
+        "image": "https://images.littleakiba.com/tcg/card70642-large.jpg"
     },
     {
         "name": "落日 ベディヴィエール",
         "code": "FGO/S87-071",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。",
-            "【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+            "【A】When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may REVERSE that Character.",
+            "【S】【COUNTER】 ASSIST 1500 Level 1 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "071",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_071.png"
+        "image": "https://images.littleakiba.com/tcg/card70643-large.jpg"
     },
     {
         "name": "誇り高き暗殺者 呪腕のハサン",
         "code": "FGO/S87-072",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "そこな騎士は、円卓に連なる者であろう",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+            "【C】SUPPORT All your Character in front of this card gets +X Power. X is equal to that Character's Level x500.",
+            "【S】[REST this card] Choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "072",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_072.png"
+        "image": "https://images.littleakiba.com/tcg/card70644-large.jpg"
     },
     {
         "name": "聖槍の真実 ベディヴィエール",
         "code": "FGO/S87-073",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "7500",
+        "soul": 1,
+        "flavor_text": "あれはそもそも……キャメロットではなかったのですね……",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から4枚まで見て、クライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+            "【A】When this card is placed on Stage from Hand, look at up to 4 cards from your top Deck, choose up to 1 Climax and show it to opponent, add it to Hand, place the remaining cards into Waiting Room. If you added to Hand, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "キャメロット",
-            "遍歴の騎士"
+            "《キャメロット》",
+            "《遍歴の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "073",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_073.png"
+        "image": "https://images.littleakiba.com/tcg/card70645-large.jpg"
     },
     {
         "name": "凄烈なる湖の騎士 ランスロット",
         "code": "FGO/S87-074",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 2,
-        "cost": 2,
+        "level": "2",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "6000",
+        "soul": 2,
+        "flavor_text": "同じ裏切り者として貴様が悪行を認めるのなら慈悲をくれてやる",
         "ability": [
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-            "【自】 アンコール ［手札の、《カルデア》か《キャメロット》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【C】For each opponent's Character at Back Row, this card gets +2500 Power.",
+            "【A】ENCORE ［Place 1 《カルデア》 or 《キャメロット》 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "074",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_074.png"
+        "image": "https://images.littleakiba.com/tcg/card70646-large.jpg"
     },
     {
         "name": "晩鐘",
         "code": "FGO/S87-075",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Event",
         "color": "RED",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "今また友に背を向け、未来なき救いを最善とする。それが汝の輝きか",
         "ability": [
-            "このカードは、あなたの赤のキャラが2枚以下なら、手札からプレイできない。このカードを思い出にする。",
-            "【自】 記憶 あなたのアタックフェイズの始めに、思い出置場にこのカードがあるなら、このカードを控え室に置き、あなたは自分のキャラを1枚選び、そのキャラとそのキャラの正面のキャラに、そのターン中、次の2つの能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+            "If you have 2 or less Red Character, you cannot play this card from Hand.",
+            "Send this card to Memory.",
+            "【A】RECOLLECTION At the beginning of your Attack Phase, if this card is in Memory, place this card into Waiting Room, choose 1 of your Character, during this turn, that Character and the Character facing it gains 2 of the following Abilities.",
+            "『【A】When this card's battle opponent becomes REVERSE, you may place that Character to top Deck.』",
+            "『【A】When this card's battle opponent becomes REVERSE, you may choose 1 Character from your Waiting Room, return it to Hand.』"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "075",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_075.png"
+        "image": "https://images.littleakiba.com/tcg/card70647-large.jpg"
     },
     {
         "name": "第六特異点の探索",
         "code": "FGO/S87-076",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Event",
         "color": "RED",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "花の魔術師「罪人の願いを叶えよう。これが正真正銘最後の機会だ」",
         "ability": [
-            "あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+            "Choose up to 2 Character from your Waiting Room, return them to Hand, choose 1 card from your Hand, place it into Waiting Room."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "076",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_076.png"
+        "image": "https://images.littleakiba.com/tcg/card70648-large.jpg"
     },
     {
         "name": "剣を摂れ、銀色の腕",
         "code": "FGO/S87-077",
         "rarity": "CR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "我が魂喰らいて走れ！",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "077",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_077.png"
+        "image": "https://images.littleakiba.com/tcg/card70649-large.jpg"
     },
     {
         "name": "湖光のランスロット",
         "code": "FGO/S87-078",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "STANDBY"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この地に生きる者全てのため\n皆、剣を取れ！\n今こそ聖地を正しい姿に戻す時だ！",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+            "【A】 When this card is placed into Climax slot from Hand, perform the SWITCH effect.",
+            "(SWITCH：When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "078",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_078.png"
+        "image": "https://images.littleakiba.com/tcg/card70651-large.jpg"
     },
     {
         "name": "流星一条",
         "code": "FGO/S87-079",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "COMEBACK"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "この渾身の一射を放ちし後に、我が強靭の五体、即座に砕け散るであろう",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "079",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_079.png"
+        "image": "https://images.littleakiba.com/tcg/card70653-large.jpg"
     },
     {
         "name": "この霊基にかけて マシュ・キリエライト",
         "code": "FGO/S87-080",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "この霊基にかけて、今こそ円卓の不浄を断ちましょう！",
         "ability": [
-            "【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+            "【A】When this card attacks, if your Hand has 5 or more cards, choose 1 of your Character, during this turn, it gets +2000 Power.",
+            "【A】At the beginning of opponent's Attack Phase, you may move this card to an empty slot at Front Row."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "080",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_080.png"
+        "image": "https://images.littleakiba.com/tcg/card70655-large.jpg"
     },
     {
         "name": "大天才 レオナルド・ダ・ヴィンチ",
         "code": "FGO/S87-081",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "大天才、レオナルド・ダ・ヴィンチ！\n人理保障機関、カルデアの一員さ",
         "ability": [
-            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "【A】At the beginning of your Climax Phase, choose 1 of your Character, during this turn, it gets +500 Power.",
+            "【S】CONCENTRATION ［(1) REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "カルデア",
-            "天才"
+            "Chaldea 《カルデア》",
+            "Genius 《天才》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "081",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_081.png"
+        "image": "https://images.littleakiba.com/tcg/card70657-large.jpg"
     },
     {
         "name": "聖なる盾の騎士 マシュ・キリエライト",
         "code": "FGO/S87-082",
         "rarity": "RR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "……だから怖くても戦うのです。\nわたしはわたしが見たあの美しいもののために――",
         "ability": [
-            "【永】 他のあなたの後列の、《カルデア》か《キャメロット》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「いまは遙か理想の城」があるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の2つの能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』『【自】［(1) 手札の、《カルデア》か《キャメロット》のキャラを1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは【リバース】しない。』"
+            "【C】For each of your other 《カルデア》 or 《キャメロット》 Character at Back Row, this card gets +1000 Power.",
+            "【A】【CXCOMBO】When this card attacks, if 「いまは遥か理想の城」 is in your Climax Slot, choose 1 of your Character, until end of opponent's next turn, it gains 2 of the following Abilities.",
+            "『【C】The Character facing this card gets -3 Soul.』",
+            "『【A】[(1) Place 1 《カルデア》 or 《キャメロット》 Character from Hand into Waiting Room] When this card is being Front Attacked, you may pay the cost. If you did, during this turn, this card cannot become REVERSE.』"
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "082",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_082.png"
+        "image": "https://images.littleakiba.com/tcg/card70659-large.jpg"
     },
     {
         "name": "奮い立つ決意 マシュ・キリエライト",
         "code": "FGO/S87-083",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "藤丸立香「奮い立つ決意の壁を輝かせ、力なき人々を守護せよ！」",
         "ability": [
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「いまは遙か理想の城」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+            "【A】When a Climax is placed into your Climax Slot, during this turn, this card gets +1500 Power.",
+            "【A】【CXCOMBO】When this card's battle opponent becomes REVERSE, if 「いまは遥か理想の城」 is in your Climax Slot, you may choose 1 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "083",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_083.png"
+        "image": "https://images.littleakiba.com/tcg/card70661-large.jpg"
     },
     {
         "name": "由来を知る資格 マシュ・キリエライト",
         "code": "FGO/S87-084",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "3500",
+        "soul": 1,
+        "flavor_text": "ベディヴィエール「貴女には充分な資格がある。貴女自身の由来を知る資格が」",
         "ability": [
-            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-            "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「いまは遙か理想の城」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「聖なる盾の騎士 マシュ・キリエライト」を1枚まで選び、このカードがいた枠に置く。",
-            "【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+            "【C】SUPPORT All your Character with Level 3 or higher in front of this card gets +2000 Power.",
+            "【A】【CXCOMBO】[Place this card into Waiting Room] When 「いまは遥か理想の城」 is placed into your Climax Slot, you may pay the cost. If you did, choose up to 1 「聖なる盾の騎士 マシュ・キリエライト」 from your Hand, place it into this card's previous slot on Stage.",
+            "【S】[REST this card] Draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "084",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_084.png"
+        "image": "https://images.littleakiba.com/tcg/card70662-large.jpg"
     },
     {
         "name": "不滅の天才 レオナルド・ダ・ヴィンチ",
         "code": "FGO/S87-085",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "9000",
+        "soul": 2,
+        "flavor_text": "ハァイ、ナイスリアクション！",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】 記憶 ［(2) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたのレベルが3以上で、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置き、そのターン中、このカードのパワーを＋1000。"
+            "【C】For each of your other 《カルデア》 or 《キャメロット》 Character, this card gets +5500 Power.",
+            "【A】When this card is placed on Stage from Hand or Memory, you may place the top card of your Clock into Waiting Room.",
+            "【A】RECOLLECTION [(2) Place 1 card from Hand into Waiting Room] At the beginning of your Climax Phase, if your Level is 3 or higher, and this card is in Memory, you may pay the cost. If you did, place this card into an empty slot on Stage, during this turn, this card gets +1000 Power."
         ],
         "attributes": [
-            "カルデア",
-            "天才"
+            "Chaldea 《カルデア》",
+            "Genius 《天才》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "085",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_085.png"
+        "image": "https://images.littleakiba.com/tcg/card70664-large.jpg"
     },
     {
         "name": "円卓の騎士道 マシュ・キリエライト",
         "code": "FGO/S87-086",
         "rarity": "R",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 3,
-        "cost": 2,
+        "level": "3",
+        "cost": "2",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "10000",
+        "soul": 2,
+        "flavor_text": "そういうことですよね！ お父さん！",
         "ability": [
-            "【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+            "【A】At the beginning of opponent's Draw Phase, if this card is at Front Row, choose 1 of your Character, during this turn, it gets ＋4000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power, gains the following Ability. 『【A】When this card's battle opponent becomes REVERSE, you may deal 1 Damage to opponent.』(Damage can be cancelled)"
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "086",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_086.png"
+        "image": "https://images.littleakiba.com/tcg/card70665-large.jpg"
     },
     {
         "name": "チ・ヴェディアーモ レオナルド・ダ・ヴィンチ",
         "code": "FGO/S87-087",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "藤丸立香「ダ・ヴィンチちゃん？」",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【自】 このカードが舞台から控え室に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「不滅の天才 レオナルド・ダ・ヴィンチ」を1枚選び、思い出にしてよい。"
+            "【A】When this card is placed on Stage from Hand, if you have 2 or more other 《カルデア》 or 《キャメロット》 Character, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+            "【A】When this card is placed into Waiting Room from Stage, if your Memory has 2 or less cards, you may choose 1 「不滅の天才 レオナルド・ダ・ヴィンチ」 from your Waiting Room, send it to Memory."
         ],
         "attributes": [
-            "カルデア",
-            "天才"
+            "Chaldea 《カルデア》",
+            "Genius 《天才》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "087",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_087.png"
+        "image": "https://images.littleakiba.com/tcg/card70667-large.jpg"
     },
     {
         "name": "ご機嫌の理由 レオナルド・ダ・ヴィンチ",
         "code": "FGO/S87-088",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "そりゃもう！ これまでの特異点には、ご一緒できなかったからね！",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "【A】When this card is placed on Stage from Hand, place 2 cards from your top Deck into Waiting Room. If there is a Climax among those cards, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】[(1) Place 1 Climax from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Climax from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "カルデア",
-            "天才"
+            "Chaldea 《カルデア》",
+            "Genius 《天才》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "088",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_088.png"
+        "image": "https://images.littleakiba.com/tcg/card70668-large.jpg"
     },
     {
         "name": "誰かのための旅路 藤丸立香",
         "code": "FGO/S87-089",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "だったら――きっと、旅の終わりには意味がある。\nベディの長い旅路に報いるだけの、意味が",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+            "【A】When you use this card's 『ASSIST』, if you have 《カルデア》 or 《キャメロット》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
+            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
-            "カルデア",
-            "マスター"
+            "Chaldea 《カルデア》",
+            "Master 《マスター》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_089.png"
+        "image": "https://images.littleakiba.com/tcg/card70669-large.jpg"
     },
     {
         "name": "私の中の英霊 マシュ・キリエライト",
         "code": "FGO/S87-090",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "でも、わたしの中に眠っている英霊が誰なのか、\nわたしには分かりません",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+            "【C】During your turn, if you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +2000 Power.",
+            "【A】When this card attacks, if the Character facing this card is Level 2, during this turn, this card gets +6000 Power."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_090.png"
+        "image": "https://images.littleakiba.com/tcg/card70670-large.jpg"
     },
     {
         "name": "聖抜の真相 レオナルド・ダ・ヴィンチ",
         "code": "FGO/S87-091",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "これは……サー・ガウェイン！ 太陽の騎士だ！",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《カルデア》か《キャメロット》のキャラの枚数×500に等しい。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【A】When this card attacks, choose 1 of your other 《カルデア》 or 《キャメロット》 Character, during this turn, it gets +X Power. X is equal to the number of your other 《カルデア》 or 《キャメロット》 Character x500.",
+            "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
-            "カルデア",
-            "天才"
+            "Chaldea 《カルデア》",
+            "Genius 《天才》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "091",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_091.png"
+        "image": "https://images.littleakiba.com/tcg/card70671-large.jpg"
     },
     {
         "name": "誰かのための旅路 マシュ・キリエライト",
         "code": "FGO/S87-092",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1500",
+        "soul": 1,
+        "flavor_text": "-",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋500。",
-            "【自】［手札の、《カルデア》か《キャメロット》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+            "【C】All your other 《カルデア》 or 《キャメロット》 Character gets +500 Power.",
+            "【A】[Place 1 《カルデア》 or 《キャメロット》 Character from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, draw 1 card."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_092.png"
+        "image": "https://images.littleakiba.com/tcg/card70672-large.jpg"
     },
     {
         "name": "カルデアのマスター 藤丸立香",
         "code": "FGO/S87-093",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "行こう！ マシュ！",
         "ability": [
-            "【永】 他のあなたの「聖抜の真相 マシュ・キリエライト」すべてに、次の2つの能力を与える。『【永】 相手のターン中、このカードのパワーを＋1000。』『【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のカード名に「藤丸」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。』",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
-            ""
+            "【C】All your other 「聖抜の真相 マシュ・キリエライト」 gains 2 of the following Abilities.",
+            "『【C】During opponent's turn, this card gets +1000 Power.』",
+            "『【A】[(1)] At the beginning of opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your Character with 「藤丸」 in its name and this card, STAND and exchange them.』",
+            "【A】When this card's battle opponent becomes REVERSE, choose 1 of your other 《カルデア》 or 《キャメロット》 Character, REST it, move it to an empty slot at Back Row."
         ],
         "attributes": [
-            "カルデア",
-            "マスター"
+            "Chaldea 《カルデア》",
+            "Master 《マスター》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_093.png"
+        "image": "https://images.littleakiba.com/tcg/card70673-large.jpg"
     },
     {
         "name": "委ねられた善性 マシュ・キリエライト",
         "code": "FGO/S87-094",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "わたしは助けられたのでなく、委ねられた。\nそういうもののために生きなさい、と",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「人間の『善性』」を1枚選び、手札に戻す。",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻す。"
+            "【A】[Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「人間の『善性』」 from your Waiting Room, return it to Hand.",
+            "【S】[Place 1 card from Hand into Waiting Room, place this card into Waiting Room] Choose 1 《カルデア》 or 《キャメロット》 Character from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "094",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_094.png"
+        "image": "https://images.littleakiba.com/tcg/card70674-large.jpg"
     },
     {
         "name": "聖抜の真相 マシュ・キリエライト",
         "code": "FGO/S87-095",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "3000",
+        "soul": 1,
+        "flavor_text": "敵騎士、撃破しました",
         "ability": [
-            "-"
+            "Translations Coming Soon!"
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_095.png"
+        "image": "https://images.littleakiba.com/tcg/card70675-large.jpg"
     },
     {
         "name": "天才の出番 レオナルド・ダ・ヴィンチ",
         "code": "FGO/S87-096",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 1,
+        "level": "1",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "4500",
+        "soul": 1,
+        "flavor_text": "大丈夫。死んだふりは一回で十分さ",
         "ability": [
-            "【永】 応援 このカードの前のあなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「ついてきた甲斐」が置かれた時、他のあなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+            "【C】SUPPORT All your 《カルデア》 or 《キャメロット》 Character gets +X Power. X is equal to that Character's Level x500.",
+            "【A】【CXCOMBO】When 「ついてきた甲斐」 is placed into your Climax Slot, and you have other 《カルデア》 or 《キャメロット》 Character, choose 1 of your other Character, during this turn, it gains the following Ability. 『【A】 When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《カルデア》 or 《キャメロット》 Character and show it to opponent, add it to Hand, shuffle the Deck afterwards.』"
         ],
         "attributes": [
-            "カルデア",
-            "天才"
+            "Chaldea 《カルデア》",
+            "Genius 《天才》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "096",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_096.png"
+        "image": "https://images.littleakiba.com/tcg/card70676-large.jpg"
     },
     {
         "name": "聖杯の行方 ロマニ・アーキマン",
         "code": "FGO/S87-097",
         "rarity": "C",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 2,
-        "cost": 1,
+        "level": "2",
+        "cost": "1",
         "trigger": [
             "SOUL"
         ],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "おそらくは、十字軍の残党が聖杯を手にしているだろう。いつも聖杯を手にしてきたのは、敗者だったからね",
         "ability": [
-            "【自】［(2) 手札の、《カルデア》か《キャメロット》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "【A】［(2) Place 1 《カルデア》 or 《キャメロット》 Character from Hand into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it to bottom Deck.",
+            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
-            "カルデア",
-            "ドクター"
+            "Chaldea 《カルデア》",
+            "Dokutaa(Doctor) 《ドクター》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "097",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_097.png"
+        "image": "https://images.littleakiba.com/tcg/card70677-large.jpg"
     },
     {
         "name": "人間の『善性』",
         "code": "FGO/S87-098",
         "rarity": "U",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Event",
         "color": "BLUE",
-        "level": 2,
-        "cost": 0,
+        "level": "2",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "彼はわたしと先輩を――\nそういうことができる人間の『善性』を信じてくれた",
         "ability": [
-            "このカードは、あなたのカード名に「マシュ」を含むキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "あなたは自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「由来を知る資格 マシュ・キリエライト」を2枚まで選び、舞台の好きな枠に置く。"
+            "If you have no Character with 「マシュ」 in its name, you cannot play this card from Hand.",
+            "Look at up to 2 cards from your top Deck, place them on top Deck in any order.",
+            "You may choose 1 of your Character, place it into Waiting Room. If you did, choose up to 2 「由来を知る資格 マシュ・キリエライト」 from your Waiting Room, place them into any slot on Stage."
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "098",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_098.png"
+        "image": "https://images.littleakiba.com/tcg/card70678-large.jpg"
     },
     {
         "name": "いまは遙か理想の城",
         "code": "FGO/S87-099",
         "rarity": "CR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "それは全ての疵、全ての怨恨を癒す我らが故郷――顕現せよ",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "099",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_099.png"
+        "image": "https://images.littleakiba.com/tcg/card70679-large.jpg"
     },
     {
         "name": "ついてきた甲斐",
         "code": "FGO/S87-100",
         "rarity": "CC",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Climax",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [
             "SOUL",
             "GATE"
         ],
-        "flavor_text": "",
+        "power": "N/A",
+        "soul": 0,
+        "flavor_text": "ここから先は通すわけにはいかないね！",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Arch：When this card is triggered, choose 1 Climax from your Waiting Room, you may return it to Hand)"
         ],
-        "attributes": [
-            "特徴なし"
-        ],
+        "attributes": [],
         "set": "FGO",
         "release": "S87",
         "sid": "100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_100.png"
+        "image": "https://images.littleakiba.com/tcg/card70681-large.jpg"
     },
     {
         "name": "死の裁定 獅子王",
         "code": "FGO/S87-101",
         "rarity": "PR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "YELLOW",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "では頭を上げよガウェイン、膝はついたままでよい。\n立ち上がる必要はもうないのだからな",
         "ability": [
-            "【永】 あなたのキャラすべてが《カルデア》か《キャメロット》なら、このカードのパワーを＋1000。"
+            "【C】If all your Character are 《カルデア》 or 《キャメロット》, this card gets +1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "円卓の騎士"
+            "《キャメロット》",
+            "《円卓の騎士》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "101",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_101.png"
+        "image": "https://images.littleakiba.com/tcg/card70682-large.jpg"
     },
     {
         "name": "ファラオの水浴び ニトクリス",
         "code": "FGO/S87-102",
         "rarity": "PR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "GREEN",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2500",
+        "soul": 1,
+        "flavor_text": "貴方は不思議ですね。私たちサーヴァントと同じ匂いがするのに……",
         "ability": [
-            "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「ファラオの水浴び ニトクリス」を1枚選び、舞台の好きな枠に置く。"
+            "【A】When this card's battle opponent becomes REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose 1 「ファラオの水浴び ニトクリス」 from your Memory, place it into any slot on Stage."
         ],
         "attributes": [
-            "キャメロット",
-            "ファラオ"
+            "《キャメロット》",
+            "《ファラオ》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "102",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_102.png"
+        "image": "https://images.littleakiba.com/tcg/card70683-large.jpg"
     },
     {
         "name": "報われた想い 静謐のハサン",
         "code": "FGO/S87-103",
         "rarity": "PR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "RED",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "2000",
+        "soul": 1,
+        "flavor_text": "私は……もう十分に報われましたから……",
         "ability": [
-            "【自】 あなたのトリガーアイコンが[COMEBACK]のクライマックスがクライマックス置場に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻し、他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "【A】When a Climax with Gate Trigger Icon is placed into your Climax Slot, choose 1 opponent's Character at Front Row, during this turn, it gets -1000 Power.",
+            "【A】[(1) Place 1 card from Hand into Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《カルデア》 or 《キャメロット》 Character from your Waiting Room, return it to Hand, choose 1 of your other 《カルデア》 or 《キャメロット》 Character, during this turn, it gets +1000 Power."
         ],
         "attributes": [
-            "キャメロット",
-            "山の翁"
+            "《キャメロット》",
+            "《山の翁》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "103",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_103.png"
+        "image": "https://images.littleakiba.com/tcg/card70684-large.jpg"
     },
     {
         "name": "思わぬ光景 マシュ・キリエライト",
         "code": "FGO/S87-104",
         "rarity": "PR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 1,
-        "cost": 0,
+        "level": "1",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "4000",
+        "soul": 1,
+        "flavor_text": "……せんぱ……",
         "ability": [
-            "【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【永】 相手のターン中、このカードのパワーを＋1000。"
+            "【C】If you have 2 or more other 《カルデア》 or 《キャメロット》 Character, this card gets +2000 Power.",
+            "【C】During opponent's turn, this card gets +1000 Power."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "104",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_104.png"
+        "image": "https://images.littleakiba.com/tcg/card70685-large.jpg"
     },
     {
         "name": "決闘開始 マシュ・キリエライト",
         "code": "FGO/S87-P01",
         "rarity": "PR",
-        "expansion": "Fate/Grand Order - Camelot",
+        "expansion": "Fate/Grand Order Movie -Shinsei Entaku Ryouiki Camelot-",
         "side": "S",
         "type": "Character",
         "color": "BLUE",
-        "level": 0,
-        "cost": 0,
+        "level": "0",
+        "cost": "0",
         "trigger": [],
-        "flavor_text": "",
+        "power": "1000",
+        "soul": 1,
+        "flavor_text": "ここはわたしにお任せを、マスター！\nわたしは決してあの人には負けません！",
         "ability": [
-            "【永】 他のあなたの「マスターへの信頼 マシュ・キリエライト」すべてに、パワーを＋1000。",
-            "【自】【CXコンボ】［手札の、「信じると決めた『選択』」か「いまは遙か理想の城」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「信じると決めた『選択』」か「いまは遙か理想の城」を1枚選び、手札に戻す。"
+            "【C】 All your other 「マスターへの信頼 マシュ・キリエライト」 gets ＋1000 Power.",
+            "【A】【CXCOMBO】［Place 1 「信じると決めた『選択』」 or 「いまは遙か理想の城」 from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「信じると決めた『選択』」 or 「いまは遙か理想の城」 from your Waiting Room, return it to Hand."
         ],
         "attributes": [
-            "カルデア",
-            "シールダー"
+            "Chaldea 《カルデア》",
+            "Shielder 《シールダー》"
         ],
         "set": "FGO",
         "release": "S87",
         "sid": "P01",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_p01.png"
+        "image": "https://images.littleakiba.com/tcg/card70686-large.jpg"
     }
 ]
