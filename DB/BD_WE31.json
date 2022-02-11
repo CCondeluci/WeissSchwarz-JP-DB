@@ -1,350 +1,934 @@
 [
     {
-        "name": "“マジシャンズスマイル”弦巻こころ",
-        "code": "BD/WE31-P01",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
+        "name": "\"Smiling Magic\" Kanon Matsubara",
+        "code": "BD/WE31-001",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
         "trigger": [],
-        "power": "3500",
-        "soul": 1,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
-            "【C】 You cannot play Event or 『ASSIST』 from Hand.",
-            "【A】 ENCORE ［Place 1 of your 《音楽》 Character from Stage into Waiting Room］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
+            "【CONT】 All of your other yellow characters get +500 power.",
+            "【AUTO】 When your other yellow character or this card is placed on the stage from your hand, you may look at the top card of your deck."
         ],
         "attributes": [
-            "Music 《音楽》",
-            "Hello, Happy World! 《ハロー、ハッピーワールド！》"
+            "Music",
+            "Hello, Happy World!"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_001.png"
+    },
+    {
+        "name": "\"Smiling Magic\" Misaki Okusawa",
+        "code": "BD/WE31-002",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 【CXCombo】 When a card named \"Smiling Magic\" is placed on your climax area, choose one of your characters, and until end of turn, that character gets +1000 power and the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, during that attack, perform a trigger check two times on the trigger step.\"",
+            "【ACT】 Brainstorm [(1) 【Rest】 two of your characters] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one character in your waiting room, and return it to your hand."
+        ],
+        "attributes": [
+            "Music",
+            "Hello, Happy World!"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_002.png"
+    },
+    {
+        "name": "\"A Sparkling Stage Awaits\" Hina Hikawa",
+        "code": "BD/WE31-003",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your 《Music》 characters, and that character gets +1 level and +1000 power until end of turn."
+        ],
+        "attributes": [
+            "Music",
+            "Pastel*Palettes"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_003.png"
+    },
+    {
+        "name": "\"Smiling Magic\" Kokoro Tsurumaki",
+        "code": "BD/WE31-004",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 During your turn, this card gets +1000 power.",
+            "【AUTO】 【CXCombo】 When a card named \"Smiling Magic\" is placed on your climax area, if you have another 《Music》 character, until end of turn, this card gets +1500 power and the following ability. \"【AUTO】 When this card's trigger check reveals a 【Soul】 trigger icon, search your deck for up to one 《Music》 character, reveal it to your opponent, put it into your hand, and shuffle your deck.\""
+        ],
+        "attributes": [
+            "Music",
+            "Hello, Happy World!"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_004.png"
+    },
+    {
+        "name": "\"Smiling Magic\" Kaoru Seta",
+        "code": "BD/WE31-005",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When you use this card's \"Backup\", if all of your characters are yellow, you may put the top card of your deck into your stock.",
+            "【ACT】 【Counter】 Backup 2000, Level 1 [(1) Put this card from your hand into your waiting room]"
+        ],
+        "attributes": [
+            "Music",
+            "Hello, Happy World!"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_005.png"
+    },
+    {
+        "name": "\"Smiling Magic\" Hagumi Kitazawa",
+        "code": "BD/WE31-006",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, draw a card, choose a card in your hand, put it into your waiting room, choose up to one of your opponent's characters, and return it to your opponent's hand.",
+            "【AUTO】 【CXCombo】 When a card named \"Smiling Magic\" is placed on your climax area, until end of turn, this card gets +1500 power and the following ability. \"【AUTO】 This ability activates up to one time per turn. When this card's trigger check reveals a 【Soul】 trigger icon, you may deal three damage to your opponent.\""
+        ],
+        "attributes": [
+            "Music",
+            "Hello, Happy World!"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_006.png"
+    },
+    {
+        "name": "Smiling Magic",
+        "code": "BD/WE31-007",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul."
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_007.png"
+    },
+    {
+        "name": "\"Glow-Up Rock\" Tsugumi Hazawa",
+        "code": "BD/WE31-008",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 【Clock】 Alarm If this card is the top card of your clock, all of your 《Afterglow》 characters get the following ability. \"【AUTO】 [(1)] When this card attacks, you may pay the cost. If you do, look at the top card of your opponent's deck, and put it on the top or at the bottom of your opponent's deck.\"",
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, choose a card in your clock, return it to your hand, and put the top card of your deck into your clock."
+        ],
+        "attributes": [
+            "Music",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_008.png"
+    },
+    {
+        "name": "\"Glow-Up Rock\" Tomoe Udagawa",
+        "code": "BD/WE31-009",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 【CXCombo】 When a card named \"Glow-Up Rock\" is placed on your climax area, look at the top card of your deck, put it on the top of your deck or into your waiting room, and reveal the top card of your deck. If that card is a character with \"Alarm\", put it into your stock.",
+            "【AUTO】 When a climax is placed on your climax area, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "attributes": [
+            "Music",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_009.png"
+    },
+    {
+        "name": "\"A Sparkling Stage Awaits\" Maya Yamato",
+        "code": "BD/WE31-010",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +X power until end of turn. X is equal to 500 multiplied by the number of 《Music》 characters you have.",
+            "【AUTO】 When this card is placed on the stage from your hand, you may choose the bottom card of your clock and a 《Pastel*Palettes》 character in your waiting room, and exchange them."
+        ],
+        "attributes": [
+            "Music",
+            "Pastel*Palettes"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_010.png"
+    },
+    {
+        "name": "\"Glow-Up Rock\" Himari Uehara",
+        "code": "BD/WE31-011",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 【CXCombo】 When this card attacks, if a card named \"Glow-Up Rock\" is in your climax area, you may choose a character with \"Alarm\" in your waiting room, and put it into your stock."
+        ],
+        "attributes": [
+            "Music",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_011.png"
+    },
+    {
+        "name": "\"Glow-Up Rock\" Moca Aoba",
+        "code": "BD/WE31-012",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When a climax is placed on your climax area, this card gets +1500 power until end of turn.",
+            "【AUTO】 When this card attacks, if the character facing this card is level 3 or higher, this card gets +6000 power until end of turn."
+        ],
+        "attributes": [
+            "Music",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_012.png"
+    },
+    {
+        "name": "\"Glow-Up Rock\" Ran Mitake",
+        "code": "BD/WE31-013",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 If you have a card named \"\"Glow-Up Rock\" Tsugumi Hazawa\" in your clock, this card gets -1 level while in your hand.",
+            "【CONT】 If this card is in your center stage, all of your 《Music》 characters get +1500 power.",
+            "【AUTO】 【CXCombo】 [(2)] When a card named \"Glow-Up Rock\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, search your deck for up to two 《Afterglow》 characters, reveal them to your opponent, put them into your hand, choose up to one card named \"\"Glow-Up Rock\" Ran Mitake\" in your hand, put it on any position of your stage, and shuffle your deck."
+        ],
+        "attributes": [
+            "Music",
+            "Afterglow"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_013.png"
+    },
+    {
+        "name": "\"A Sparkling Stage Awaits\" Eve Wakamiya",
+        "code": "BD/WE31-014",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 At the beginning of your opponent's draw phase, if this card is in your center stage, choose one of your characters, and that character gets +4000 power until end of turn.",
+            "【AUTO】 【CXCombo】 When this card's battle opponent becomes 【Reverse】, if a card named \"A Sparkling Stage Awaits\" is in your climax area, search your deck for up to two 《Pastel*Palettes》 characters, reveal them to your opponent, put them into your hand, and shuffle your deck."
+        ],
+        "attributes": [
+            "Music",
+            "Pastel*Palettes"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_014.png"
+    },
+    {
+        "name": "Glow-Up Rock",
+        "code": "BD/WE31-015",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul."
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_015.png"
+    },
+    {
+        "name": "\"Colorful Poppin'!\" Kasumi Toyama",
+        "code": "BD/WE31-016",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 During your turn, if there is a marker underneath this card, this card gets +2000 power.",
+            "【AUTO】 When this card is placed on the stage from your hand, reveal the top card of your deck. If that card is a 《Music》 character, you may put it face down underneath this card as a marker."
+        ],
+        "attributes": [
+            "Music",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_016.png"
+    },
+    {
+        "name": "\"A Sparkling Stage Awaits\" Aya Maruyama",
+        "code": "BD/WE31-017",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 You can play this card from your hand without meeting the color requirement.",
+            "【CONT】 If the number of 《Pastel*Palettes》 characters you have is four or more, this card gets -1 level while in your hand.",
+            "【AUTO】 【CXCombo】 [Put a card from your hand into your waiting room] When a card named \"A Sparkling Stage Awaits\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, reveal the top card of your deck. If that card is a 《Pastel*Palettes》 character, put it on any position of your stage, and that character gets +3000 power until end of turn."
+        ],
+        "attributes": [
+            "Music",
+            "Pastel*Palettes"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_017.png"
+    },
+    {
+        "name": "\"Colorful Poppin'!\" Saya Yamabuki",
+        "code": "BD/WE31-018",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 This card gets +1000 power for each of your other 《Music》 characters.",
+            "【AUTO】 [(1)] At the beginning of the encore step, if you do not have any other 【Rest】 characters in your center stage, you may pay the cost. If you do, 【Rest】 this card."
+        ],
+        "attributes": [
+            "Music",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_018.png"
+    },
+    {
+        "name": "\"Colorful Poppin'!\" Rimi Ushigome",
+        "code": "BD/WE31-019",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 If the number of other 《Music》 characters you have is two or more, this card gets +2000 power.",
+            "【AUTO】 【CXCombo】 When this card attacks, if a card named \"Colorful Poppin'!\" is in your climax area, choose one of your other 《Music》 characters and this card, and those characters get +2500 power until the end of your opponent's next turn.",
+            "【AUTO】 [(1)] During your turn, when this card's battle opponent becomes 【Reverse】, you may pay the cost. If you do, deal one damage to your opponent."
+        ],
+        "attributes": [
+            "Music",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_019.png"
+    },
+    {
+        "name": "Colorful Poppin'!",
+        "code": "BD/WE31-020",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card is placed on your climax area from your hand, perform the 【Standby】 effect."
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_020.png"
+    },
+    {
+        "name": "\"Colorful Poppin'!\" Arisa Ichigaya",
+        "code": "BD/WE31-021",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, put the top two cards of your deck into your waiting room. If there is a climax among those cards, you may put the top card of your opponent's deck into your opponent's waiting room. If you do, choose a card in your opponent's waiting room, and put it on the top of your opponent's deck.",
+            "【AUTO】 When this card attacks, choose one of your characters, and that character gets +1000 power until end of turn."
+        ],
+        "attributes": [
+            "Music",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_021.png"
+    },
+    {
+        "name": "\"Overlapping Blue Roses\" Yukina Minato",
+        "code": "BD/WE31-022",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 Bond／\"\"Overlapping Blue Roses\" Ako Udagawa\" [Put a card from your hand into your waiting room]",
+            "【AUTO】 Bond／\"\"Overlapping Blue Roses\" Rinko Shirokane\" [Put a card from your hand into your waiting room]"
+        ],
+        "attributes": [
+            "Music",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_022.png"
+    },
+    {
+        "name": "\"Overlapping Blue Roses\" Lisa Imai",
+        "code": "BD/WE31-023",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card is placed on the stage from your hand, this card gets +1500 power until the end of your opponent's next turn.",
+            "【AUTO】 When this card becomes 【Reverse】 in battle, put this card at the bottom of your deck."
+        ],
+        "attributes": [
+            "Music",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_023.png"
+    },
+    {
+        "name": "\"Overlapping Blue Roses\" Sayo Hikawa",
+        "code": "BD/WE31-024",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 When this card attacks, choose one of your characters, and that cahracter gets +1000 power until end of turn.",
+            "【AUTO】 When this card becomes 【Reverse】, if this card's battle opponent is cost 0 or lower, you may put that character at the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Music",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_024.png"
+    },
+    {
+        "name": "\"A Sparkling Stage Awaits\" Chisato Shirasagi",
+        "code": "BD/WE31-025",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 If the number of colors of your characters on stage is four or more, all of your other characters get +1000 power.",
+            "【AUTO】 【CXCombo】 [(1) Put a card from your hand into your waiting room] When a card named \"A Sparkling Stage Awaits\" is placed on your climax area, you may pay the cost. If you do, look at up to four cards from the top of your deck, choose one card from among them, put it into your hand, and put the rest on the top of your deck in any order."
+        ],
+        "attributes": [
+            "Music",
+            "Pastel*Palettes"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_025.png"
+    },
+    {
+        "name": "\"Colorful Poppin'!\" Tae Hanazono",
+        "code": "BD/WE31-026",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【AUTO】 【CXCombo】 [(1)] When a card named \"Colorful Poppin'!\" is placed on your climax area, if this card is in your center stage, you may pay the cost. If you do, choose one of your other 《Poppin'Party》 characters, and 【Stand】 it."
+        ],
+        "attributes": [
+            "Music",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_026.png"
+    },
+    {
+        "name": "\"Overlapping Blue Roses\" Rinko Shirokane",
+        "code": "BD/WE31-027",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 Assist All of your characters in front of this card get +X power. X is equal to 500 multiplied by that character's level.",
+            "【AUTO】 【CXCombo】 [Put a card from your hand into your waiting room & 【Rest】 two of your 【Stand】 《Roselia》 characters] When a card named \"Overlapping Blue Roses\" is placed on your climax area, if your level is 3 or higher, you may pay the cost. If you do, choose up to three cards in your opponent's waiting room, return them to your opponent's deck, and your opponent shuffles his or her deck."
+        ],
+        "attributes": [
+            "Music",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_027.png"
+    },
+    {
+        "name": "\"Overlapping Blue Roses\" Ako Udagawa",
+        "code": "BD/WE31-028",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 This card gets +500 power for each of your other 《Roselia》 characters.",
+            "【AUTO】 When this card is placed on the stage from your hand, draw up to two cards, choose a card in your hand, and put it into your waiting room.",
+            "【AUTO】 【CXCombo】 [(2)] When this card attacks, if a card named \"Overlapping Blue Roses\" is in your climax area, and the number of other 《Music》 characters you have is four or more, you may pay the cost. If you do, deal five damage to your opponent."
+        ],
+        "attributes": [
+            "Music",
+            "Roselia"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_028.png"
+    },
+    {
+        "name": "A Sparkling Stage Awaits",
+        "code": "BD/WE31-029",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul."
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_029.png"
+    },
+    {
+        "name": "Overlapping Blue Roses",
+        "code": "BD/WE31-030",
+        "rarity": "NR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 All of your characters get +1000 power and +1 soul."
+        ],
+        "attributes": [],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_030.png"
+    },
+    {
+        "name": "\"Magician's Smile\" Kokoro Tsurumaki",
+        "code": "BD/WE31-P01",
+        "rarity": "PR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【CONT】 You cannot play event cards and \"Backup\" from your hand.",
+            "【AUTO】 Encore [Put a 《Music》 character from your stage into your clock]"
+        ],
+        "attributes": [
+            "Music",
+            "Hello, Happy World!"
         ],
         "set": "BD",
         "release": "WE31",
         "sid": "P01",
-        "image": "https://images.littleakiba.com/tcg/card46269-large.jpg"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p01.png"
     },
     {
-        "name": "“マジシャンズスマイル”弦巻こころ",
-        "code": "BD/WE31-P01S",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
-        "type": "Character",
-        "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "3500",
-        "soul": 1,
-        "flavor_text": "-",
-        "ability": [
-            "【C】 You cannot play Event or 『ASSIST』 from Hand.",
-            "【A】 ENCORE ［Place 1 of your 《音楽》 Character from Stage into Waiting Room］ （When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST）"
-        ],
-        "attributes": [
-            "Music 《音楽》",
-            "Hello, Happy World! 《ハロー、ハッピーワールド！》"
-        ],
-        "set": "BD",
-        "release": "WE31",
-        "sid": "P01S",
-        "image": "https://images.littleakiba.com/tcg/card46273-large.jpg"
-    },
-    {
-        "name": "“ロックな一体感”美竹蘭",
+        "name": "\"Rock as One\" Ran Mitake",
         "code": "BD/WE31-P02",
         "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
         "trigger": [],
-        "power": "1000",
-        "soul": 1,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
-            "【A】［① Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+            "【AUTO】 [(1) Put a card from your hand into your waiting room] When this card is placed on the stage from your hand, you may pay the cost. If you do, look at up to three cards from the top of your deck, choose up to one card from among them, put it into your hand, and put the rest into your waiting room."
         ],
         "attributes": [
-            "Music 《音楽》",
-            "Afterglow 《Afterglow》"
+            "Music",
+            "Afterglow"
         ],
         "set": "BD",
         "release": "WE31",
         "sid": "P02",
-        "image": "https://images.littleakiba.com/tcg/card46270-large.jpg"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p02.png"
     },
     {
-        "name": "“ロックな一体感”美竹蘭",
-        "code": "BD/WE31-P02S",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "1000",
-        "soul": 1,
-        "flavor_text": "-",
-        "ability": [
-            "【A】［① Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to 3 cards from your top Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
-        ],
-        "attributes": [
-            "Music 《音楽》",
-            "Afterglow 《Afterglow》"
-        ],
-        "set": "BD",
-        "release": "WE31",
-        "sid": "P02S",
-        "image": "https://images.littleakiba.com/tcg/card46272-large.jpg"
-    },
-    {
-        "name": "“憧れのお姉ちゃん”牛込ゆり",
+        "name": "\"The Sister I Adore\" Yuri Ushigome",
         "code": "BD/WE31-P03",
         "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
         "trigger": [
             "SOUL"
         ],
-        "power": "9500",
-        "soul": 2,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
-            "【C】 EXPERIENCE If your Clock has 「Glitter*Green 鰐部七菜」 and 「Glitter*Green 二十騎ひなこ」, this card gets −1 Level in your Hand.",
-            "【A】 When this card is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +4500 Power, this card gains the following ability. 『【C】 During this card's battle, all players cannot play 『ASSIST』 from Hand.』"
+            "【CONT】 Experience If there is a card named \"Glitter*Green, Nanana Wanibe\" and \"Glitter*Green, Hinako Nijikki\" in your level, this card gets -1 level while in your hand.",
+            "【AUTO】 When this card is placed on the stage from your hand, until the end of your opponent's next turn, this card gets +4500 power and the following ability. \"【CONT】 During this card's battle, all players cannot play \"Backup\" from hand.\""
         ],
         "attributes": [
-            "Music 《音楽》",
-            "Glitter*Green 《Glitter*Green》"
+            "Music",
+            "Glitter*Green"
         ],
         "set": "BD",
         "release": "WE31",
         "sid": "P03",
-        "image": "https://images.littleakiba.com/tcg/card46271-large.jpg"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p03.png"
     },
     {
-        "name": "“憧れのお姉ちゃん”牛込ゆり",
-        "code": "BD/WE31-P03S",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
-        "type": "Character",
-        "color": "GREEN",
-        "level": "3",
-        "cost": "2",
-        "trigger": [
-            "SOUL"
-        ],
-        "power": "9500",
-        "soul": 2,
-        "flavor_text": "-",
-        "ability": [
-            "【C】 EXPERIENCE If your Clock has 「Glitter*Green 鰐部七菜」 and 「Glitter*Green 二十騎ひなこ」, this card gets −1 Level in your Hand.",
-            "【A】 When this card is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +4500 Power, this card gains the following ability. 『【C】 During this card's battle, all players cannot play 『ASSIST』 from Hand.』"
-        ],
-        "attributes": [
-            "Music 《音楽》",
-            "Glitter*Green 《Glitter*Green》"
-        ],
-        "set": "BD",
-        "release": "WE31",
-        "sid": "P03S",
-        "image": "https://images.littleakiba.com/tcg/card46492-large.jpg"
-    },
-    {
-        "name": "“あたふたアドリブ”丸山彩",
+        "name": "\"Ad-lib of Panic\" Aya Maruyama",
         "code": "BD/WE31-P04",
         "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
         "trigger": [
             "SOUL"
         ],
-        "power": "2500",
-        "soul": 1,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
-            "【A】［(1)］ When you use this card's 『ASSIST』, if there is a total of 4 Colours of Character on your Stage, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle your Deck afterwards.",
-            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+            "【AUTO】 [(1)] When you use this card's \"Backup\", if the number of colors of your characters on stage is four or more, you may pay the cost. If you do, return all cards in your waiting room to your deck, and shuffle your deck.",
+            "【ACT】 【Counter】 Backup 2500, Level 2 [(1) Put this card from your hand into your waiting room]"
         ],
         "attributes": [
-            "Music 《音楽》",
-            "Pastel*Palettes 《Pastel＊Pal》"
+            "Music",
+            "Pastel*Palettes"
         ],
         "set": "BD",
         "release": "WE31",
         "sid": "P04",
-        "image": "https://images.littleakiba.com/tcg/card56582-large.jpg"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p04.png"
     },
     {
-        "name": "“あたふたアドリブ”丸山彩",
-        "code": "BD/WE31-P04S",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "trigger": [
-            "SOUL"
-        ],
-        "power": "2500",
-        "soul": 1,
-        "flavor_text": "-",
-        "ability": [
-            "【A】［(1)］ When you use this card's 『ASSIST』, if there is a total of 4 Colours of Character on your Stage, you may pay the cost. If you did, return all cards from your Waiting Room into Deck, shuffle your Deck afterwards.",
-            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
-        ],
-        "attributes": [
-            "Music 《音楽》",
-            "Pastel*Palettes 《Pastel＊Pal》"
-        ],
-        "set": "BD",
-        "release": "WE31",
-        "sid": "P04S",
-        "image": "https://images.littleakiba.com/tcg/card56583-large.jpg"
-    },
-    {
-        "name": "“お揃いの衣装”戸山香澄",
+        "name": "\"Matching Outfits\" Kasumi Toyama",
         "code": "BD/WE31-P05",
         "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
         "trigger": [
             "SOUL"
         ],
-        "power": "6500",
-        "soul": 1,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
-            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of Event in your Waiting Room ×1500.",
-            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may REVERSE that Character."
+            "【AUTO】 When this card attacks, choose one of your other 《Music》 characters, and that character gets +X power until end of turn. X is equal to 1500 multiplied by the number of event cards in your waiting room.",
+            "【AUTO】 When this card becomes 【Reverse】, if the level of this card's battle opponent is higher than your opponent's level, you may 【Reverse】 that character."
         ],
         "attributes": [
-            "Music 《音楽》",
-            "Poppin’Party 《Poppin’Par》"
+            "Music",
+            "Poppin'Party"
         ],
         "set": "BD",
         "release": "WE31",
         "sid": "P05",
-        "image": "https://images.littleakiba.com/tcg/card56584-large.jpg"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p05.png"
     },
     {
-        "name": "“お揃いの衣装”戸山香澄",
-        "code": "BD/WE31-P05S",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
-        "type": "Character",
-        "color": "RED",
-        "level": "2",
-        "cost": "1",
-        "trigger": [
-            "SOUL"
-        ],
-        "power": "6500",
-        "soul": 1,
-        "flavor_text": "-",
-        "ability": [
-            "【A】 When this card attacks, choose 1 of your other 《音楽》 Character, during this turn, it gets ＋Ｘ Power. Ｘ is equal to the number of Event in your Waiting Room ×1500.",
-            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may REVERSE that Character."
-        ],
-        "attributes": [
-            "Music 《音楽》",
-            "Poppin’Party 《Poppin’Par》"
-        ],
-        "set": "BD",
-        "release": "WE31",
-        "sid": "P05S",
-        "image": "https://images.littleakiba.com/tcg/card56585-large.jpg"
-    },
-    {
-        "name": "“進むべき道、共に歩む仲間”湊友希那",
+        "name": "\"Friends You Walk Your Chosen Path With\" Yukina Minato",
         "code": "BD/WE31-P06",
         "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
         "trigger": [
             "SOUL"
         ],
-        "power": "6500",
-        "soul": 1,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
-            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
+            "【AUTO】 When this card becomes 【Reverse】, if the level of this card's battle opponent is higher than your opponent's level, you may put that character at the bottom of your opponent's deck."
         ],
         "attributes": [
-            "Music 《音楽》",
-            "Roselia 《Roselia》"
+            "Music",
+            "Roselia"
         ],
         "set": "BD",
         "release": "WE31",
         "sid": "P06",
-        "image": "https://images.littleakiba.com/tcg/card56586-large.jpg"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p06.png"
     },
     {
-        "name": "“進むべき道、共に歩む仲間”湊友希那",
-        "code": "BD/WE31-P06S",
-        "rarity": "PR",
-        "expansion": "Bang Dream! Girls Band Party Special Set",
-        "side": "WE",
-        "type": "Character",
-        "color": "BLUE",
-        "level": "2",
-        "cost": "1",
-        "trigger": [
-            "SOUL"
-        ],
-        "power": "6500",
-        "soul": 1,
-        "flavor_text": "-",
-        "ability": [
-            "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is higher than opponent's Level, you may place that Character to bottom Deck."
-        ],
-        "attributes": [
-            "Music 《音楽》",
-            "Roselia 《Roselia》"
-        ],
-        "set": "BD",
-        "release": "WE31",
-        "sid": "P06S",
-        "image": "https://images.littleakiba.com/tcg/card56587-large.jpg"
-    },
-    {
-        "name": "“あたしもペンギン！”弦巻こころ",
+        "name": "\"あたしもペンギン！\"弦巻こころ",
         "code": "BD/WE31-P07",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "BanG Dream Special Pack",
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -361,15 +945,15 @@
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p07.png"
     },
     {
-        "name": "“蘭のアイコンタクト”美竹蘭",
+        "name": "\"蘭のアイコンタクト\"美竹蘭",
         "code": "BD/WE31-P08",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "BanG Dream Special Pack",
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -386,15 +970,15 @@
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p08.png"
     },
     {
-        "name": "“宣誓！花火大会！”戸山香澄",
+        "name": "\"宣誓！花火大会！\"戸山香澄",
         "code": "BD/WE31-P09",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "BanG Dream Special Pack",
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -411,15 +995,15 @@
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p09.png"
     },
     {
-        "name": "“初心者バード”湊友希那",
+        "name": "\"初心者バード\"湊友希那",
         "code": "BD/WE31-P10",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "BanG Dream Special Pack",
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -435,15 +1019,15 @@
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p10.png"
     },
     {
-        "name": "“本気・待機……”丸山彩",
+        "name": "\"本気・待機……\"丸山彩",
         "code": "BD/WE31-P11",
         "rarity": "PR",
-        "expansion": "Various",
+        "expansion": "BanG Dream Special Pack",
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -458,5 +1042,30 @@
         "release": "WE31",
         "sid": "P11",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p11.png"
+    },
+    {
+        "name": "\"みんなでお花見\"戸山香澄",
+        "code": "BD/WE31-P12S",
+        "rarity": "PR",
+        "expansion": "BanG Dream Special Pack",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "音楽",
+            "Poppin'Party"
+        ],
+        "set": "BD",
+        "release": "WE31",
+        "sid": "P12S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_p12s.png"
     }
 ]

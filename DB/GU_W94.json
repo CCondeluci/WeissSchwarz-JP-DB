@@ -1,0 +1,2788 @@
+[
+    {
+        "name": "振り回され隊 シャロ",
+        "code": "GU/W94-001",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのソウルを＋1。",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_001.png"
+    },
+    {
+        "name": "\"幼馴染同士\"シャロ",
+        "code": "GU/W94-002",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一緒にお風呂」があり、他のあなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、あなたは自分の山札を上から4枚まで見て、カード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_002.png"
+    },
+    {
+        "name": "Sing For You シャロ＆リゼ",
+        "code": "GU/W94-003",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたのカード名に「シャロ」か「千夜」を含むキャラの枚数×500に等しい。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_003.png"
+    },
+    {
+        "name": "Sing For You シャロ",
+        "code": "GU/W94-004",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのカード名に「シャロ」か「千夜」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_004.png"
+    },
+    {
+        "name": "Welcome！ シャロ",
+        "code": "GU/W94-005",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたのカード名に「シャロ」か「千夜」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_005.png"
+    },
+    {
+        "name": "\"プレゼント交換\" シャロ",
+        "code": "GU/W94-006",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】［手札のカード名に「シャロ」か「千夜」を含むキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたのカード名に「シャロ」か「千夜」を含むキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "特待生"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_006.png"
+    },
+    {
+        "name": "照れ笑い シャロ",
+        "code": "GU/W94-007",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室のカード名に「シャロ」か「千夜」を含むキャラを1枚を選び、入れ替えてよい。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "特待生"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_007.png"
+    },
+    {
+        "name": "\"うさみみパーカー\"シャロ",
+        "code": "GU/W94-008",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "特待生"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_008.png"
+    },
+    {
+        "name": "お祭り気分 シャロ",
+        "code": "GU/W94-009",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てカード名に「シャロ」か「千夜」か「ココア」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_009.png"
+    },
+    {
+        "name": "みんなで浴衣 シャロ",
+        "code": "GU/W94-010",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「シャロ」か「千夜」を含むキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_010.png"
+    },
+    {
+        "name": "For You！ シャロ",
+        "code": "GU/W94-011",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_011.png"
+    },
+    {
+        "name": "先輩と一緒 シャロ",
+        "code": "GU/W94-012",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お祭り気分 シャロ」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
+            "【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_012.png"
+    },
+    {
+        "name": "幸せそうなシャロ",
+        "code": "GU/W94-013",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのカード名に「シャロ」か「千夜」を含むキャラすべてに、パワーを＋500。",
+            "【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "特待生"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_013.png"
+    },
+    {
+        "name": "お盆 de シャロ",
+        "code": "GU/W94-014",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは4回まで、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置き、自分の山札の上から1枚を、クロック置場に置く。』"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "特待生"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_014.png"
+    },
+    {
+        "name": "ポットでお届け シャロ",
+        "code": "GU/W94-015",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの正面のキャラは他の枠に動かせない。",
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_015.png"
+    },
+    {
+        "name": "\"フルール・ド・ラパンのウェイトレス\"シャロ",
+        "code": "GU/W94-016",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "特待生"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_016.png"
+    },
+    {
+        "name": "一緒にお風呂",
+        "code": "GU/W94-017",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_017.png"
+    },
+    {
+        "name": "ドレスアップ 千夜",
+        "code": "GU/W94-018",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたのカード名に「シャロ」か「千夜」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_018.png"
+    },
+    {
+        "name": "Welcome！ 千夜",
+        "code": "GU/W94-019",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_019.png"
+    },
+    {
+        "name": "Sing For You 千夜",
+        "code": "GU/W94-020",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_020.png"
+    },
+    {
+        "name": "\"プレゼント交換\" 千夜",
+        "code": "GU/W94-021",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_021.png"
+    },
+    {
+        "name": "楽しければオッケー 千夜",
+        "code": "GU/W94-022",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_022.png"
+    },
+    {
+        "name": "Sing For You 千夜＆ココア",
+        "code": "GU/W94-023",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見てカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_023.png"
+    },
+    {
+        "name": "木組みの街で 千夜",
+        "code": "GU/W94-024",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_024.png"
+    },
+    {
+        "name": "はんなり 千夜",
+        "code": "GU/W94-025",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_025.png"
+    },
+    {
+        "name": "\"マイペース\"千夜",
+        "code": "GU/W94-026",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_026.png"
+    },
+    {
+        "name": "\"幼馴染同士\"千夜",
+        "code": "GU/W94-027",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_027.png"
+    },
+    {
+        "name": "みんなで浴衣 千夜",
+        "code": "GU/W94-028",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_028.png"
+    },
+    {
+        "name": "商売上手 千夜",
+        "code": "GU/W94-029",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは自分のカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_029.png"
+    },
+    {
+        "name": "\"頭いいお姉ちゃんアピール\"千夜",
+        "code": "GU/W94-030",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_030.png"
+    },
+    {
+        "name": "ぷくー顔 千夜",
+        "code": "GU/W94-031",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_031.png"
+    },
+    {
+        "name": "寂しんぼ 千夜",
+        "code": "GU/W94-032",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「買い物帰りの二人」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「For You！ 千夜」を1枚まで選び、このカードがいた枠に置く。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_032.png"
+    },
+    {
+        "name": "For You！ 千夜",
+        "code": "GU/W94-033",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「買い物帰りの二人」があるなら、あなたは自分の山札を見てカード名に「シャロ」か「千夜」を含むキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+            "【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_033.png"
+    },
+    {
+        "name": "買い物帰りの二人",
+        "code": "GU/W94-034",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_034.png"
+    },
+    {
+        "name": "振り回され隊 リゼ",
+        "code": "GU/W94-035",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ラビットハウス》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_035.png"
+    },
+    {
+        "name": "\"将来のユメ\"ココア",
+        "code": "GU/W94-036",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+            "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ラビットハウス》か《Dear My Sister》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_036.png"
+    },
+    {
+        "name": "トリックオアトリート モカ＆チノ＆ココア",
+        "code": "GU/W94-037",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_037.png"
+    },
+    {
+        "name": "ドレスアップ ココア",
+        "code": "GU/W94-038",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《ラビットハウス》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】［手札の《ラビットハウス》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時かアタックした時、あなたはコストを払ってよい。そうしたら、相手は自分の山札の上から9枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_038.png"
+    },
+    {
+        "name": "出会えてよかった チノ&ココア",
+        "code": "GU/W94-039",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+            "【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「枕投げ」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、相手に1ダメージを与え、そのターン中、このカードのパワーを＋6000。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "ラビットハウス"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_039.png"
+    },
+    {
+        "name": "Sing For You ココア",
+        "code": "GU/W94-040",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札の《ラビットハウス》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ラビットハウス》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_040.png"
+    },
+    {
+        "name": "\"プレゼント交換\" ココア",
+        "code": "GU/W94-041",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ラビットハウス》か《パン》のキャラを1枚選び、手札に戻す。",
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "パン"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_041.png"
+    },
+    {
+        "name": "私らしさ リゼ",
+        "code": "GU/W94-042",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ラビットハウス》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "武器"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_042.png"
+    },
+    {
+        "name": "いっしょに行こう ココア",
+        "code": "GU/W94-043",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置き、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "パン"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_043.png"
+    },
+    {
+        "name": "Sing For You リゼ",
+        "code": "GU/W94-044",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ラビットハウス》のキャラを1枚選び、手札に戻し、他の自分の《ラビットハウス》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_044.png"
+    },
+    {
+        "name": "Welcome！ ココア",
+        "code": "GU/W94-045",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+            "【自】【CXコンボ】 記憶 あなたのクライマックス置場に「ただいま」が置かれた時、あなたのレベルが3以上で、思い出置場にこのカードがあるなら、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_045.png"
+    },
+    {
+        "name": "\"プレゼント交換\" リゼ",
+        "code": "GU/W94-046",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの、「お見舞い ココア」と「お茶目さん チノ」がいるなら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】 このカードがアタックした時、他のあなたの《ラビットハウス》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "武器"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_046.png"
+    },
+    {
+        "name": "Welcome！ リゼ",
+        "code": "GU/W94-047",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。",
+            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_047.png"
+    },
+    {
+        "name": "\"いらっしゃいませ\"モカ",
+        "code": "GU/W94-048",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《Dear My Sister》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
+            "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の控え室の「Welcome！ ココア」を1枚選び、思い出にしてよい。"
+        ],
+        "attributes": [
+            "パン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_048.png"
+    },
+    {
+        "name": "\"いつもの二人\"ココア",
+        "code": "GU/W94-049",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。",
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_049.png"
+    },
+    {
+        "name": "For You！ リゼ",
+        "code": "GU/W94-050",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラすべてに、パワーを＋500。",
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_050.png"
+    },
+    {
+        "name": "みんなで浴衣 リゼ",
+        "code": "GU/W94-051",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの前列の中央の枠の、《ラビットハウス》か《Dear My Sister》のキャラに、パワーを＋1000。",
+            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_051.png"
+    },
+    {
+        "name": "ちょっとびっくり ココア",
+        "code": "GU/W94-052",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《Dear My Sister》なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ただいま」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《Dear My Sister》のキャラなら手札に加える。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_052.png"
+    },
+    {
+        "name": "\"お姉ちゃん代理\"リゼ",
+        "code": "GU/W94-053",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 あなたの思い出置場に「Welcome！ ココア」があるなら、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_053.png"
+    },
+    {
+        "name": "みんなで浴衣 ココア&チノ",
+        "code": "GU/W94-054",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_054.png"
+    },
+    {
+        "name": "\"今も昔も優しい\"リゼ",
+        "code": "GU/W94-055",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは他の自分の、《ラビットハウス》か《Dear My Sister》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_055.png"
+    },
+    {
+        "name": "お見舞い ココア",
+        "code": "GU/W94-056",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "パン"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_056.png"
+    },
+    {
+        "name": "\"冬服\"リゼ",
+        "code": "GU/W94-057",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの、「Welcome！ ココア」と「\"みんなで花火\"チノ」すべてに、パワーを＋500。",
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_057.png"
+    },
+    {
+        "name": "\"お姉ちゃん\"モカ",
+        "code": "GU/W94-058",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+            "【自】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘは他のあなたのカード名に「ココア」か「モカ」を含むキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "パン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_058.png"
+    },
+    {
+        "name": "\"不思議の国\"リゼ",
+        "code": "GU/W94-059",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、赤か《Dear My Sister》のキャラを1枚選び、手札に戻し、他の自分の、赤か《Dear My Sister》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_059.png"
+    },
+    {
+        "name": "\"凛々しく\"リゼ",
+        "code": "GU/W94-060",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの《ラビットハウス》のキャラすべてに、パワーを＋500。",
+            "【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "武器"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_060.png"
+    },
+    {
+        "name": "ココア画伯",
+        "code": "GU/W94-061",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "パン"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_061.png"
+    },
+    {
+        "name": "\"パン作り\"モカ",
+        "code": "GU/W94-062",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 あなたの思い出置場に「Welcome！ ココア」があるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+        ],
+        "attributes": [
+            "パン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_062.png"
+    },
+    {
+        "name": "わんわんココア",
+        "code": "GU/W94-063",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの、《ラビットハウス》か《パン》のキャラが3枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "パン"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_063.png"
+    },
+    {
+        "name": "\"バラと爆薬の番人\"リゼ",
+        "code": "GU/W94-064",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《ラビットハウス》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "武器"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_064.png"
+    },
+    {
+        "name": "部活の助っ人！ リゼ",
+        "code": "GU/W94-065",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "武器"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_065.png"
+    },
+    {
+        "name": "手作りのぬいぐるみ リゼ",
+        "code": "GU/W94-066",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「軍事機密だ」があり、他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたは1枚まで引き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_066.png"
+    },
+    {
+        "name": "枕投げ",
+        "code": "GU/W94-067",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_067.png"
+    },
+    {
+        "name": "ただいま",
+        "code": "GU/W94-068",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_068.png"
+    },
+    {
+        "name": "軍事機密だ",
+        "code": "GU/W94-069",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_069.png"
+    },
+    {
+        "name": "お茶目さん チノ",
+        "code": "GU/W94-070",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 相手のアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "コーヒー"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_070.png"
+    },
+    {
+        "name": "Sing For You サキ",
+        "code": "GU/W94-071",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 記憶 思い出置場にこのカードがあるなら、あなたの「Sing For You チノ」すべてに、パワーを＋500。",
+            "【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「Sing For You チノ」を1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_071.png"
+    },
+    {
+        "name": "Sing For You チノ",
+        "code": "GU/W94-072",
+        "rarity": "RR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 記憶 ［(1) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「Sing For You」があり、あなたの思い出置場の「Sing For You サキ」が2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードをＸ枚まで選び、山札に戻し、相手はその山札をシャッフルし、相手に2ダメージを与える。Ｘはあなたの、青か《ラビットハウス》のキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_072.png"
+    },
+    {
+        "name": "Sing For You チマメ隊",
+        "code": "GU/W94-073",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、青か《ラビットハウス》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_073.png"
+    },
+    {
+        "name": "\"ラビットハウスの制服\"メグ",
+        "code": "GU/W94-074",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの前列の中央の枠の青のキャラに、パワーを＋500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "バレエ"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_074.png"
+    },
+    {
+        "name": "\"プレゼント交換\" チノ",
+        "code": "GU/W94-075",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてが《ラビットハウス》なら、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「寝言むにゃむにゃ」があるなら、あなたは自分の山札を見て《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "コーヒー"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_075.png"
+    },
+    {
+        "name": "振り回され隊 チノ",
+        "code": "GU/W94-076",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの、青か《ラビットハウス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「Sing For You サキ」を1枚選び、思い出にしてよい。",
+            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Sing For You"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_076.png"
+    },
+    {
+        "name": "リラックスタイム マヤ",
+        "code": "GU/W94-077",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、他のあなたの青のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "八重歯"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_077.png"
+    },
+    {
+        "name": "リラックスタイム メグ",
+        "code": "GU/W94-078",
+        "rarity": "R",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの青のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、青のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "バレエ"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_078.png"
+    },
+    {
+        "name": "\"いいセンス\"マヤ",
+        "code": "GU/W94-079",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが青のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の青のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+        ],
+        "attributes": [
+            "八重歯"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_079.png"
+    },
+    {
+        "name": "Welcome！ チノ",
+        "code": "GU/W94-080",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札を1枚控え室に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+            "【起】【CXコンボ】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「ただいま」か「おかえりなさい」1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_080.png"
+    },
+    {
+        "name": "中学生 チノ",
+        "code": "GU/W94-081",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の青のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "コーヒー"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_081.png"
+    },
+    {
+        "name": "Pyon-Pyon Music ココア&チノ",
+        "code": "GU/W94-082",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの青のキャラすべてに、パワーを＋500し、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_082.png"
+    },
+    {
+        "name": "メイド服姿のチノ",
+        "code": "GU/W94-083",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "コーヒー"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_083.png"
+    },
+    {
+        "name": "\"みんなで花火\"チノ",
+        "code": "GU/W94-084",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】［あなたのクライマックス置場のクライマックスを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「おかえりなさい」を1枚まで選び、クライマックス置場に置く。",
+            "【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「おかえりなさい」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_084.png"
+    },
+    {
+        "name": "みんなで浴衣 メグ&マヤ",
+        "code": "GU/W94-085",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたの、青か《Dear My Sister》のキャラすべてに、パワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+        ],
+        "attributes": [
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_085.png"
+    },
+    {
+        "name": "\"いつもの二人\"チノ",
+        "code": "GU/W94-086",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て青か《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_086.png"
+    },
+    {
+        "name": "尾行ごっこ マヤ",
+        "code": "GU/W94-087",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが青のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "八重歯"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_087.png"
+    },
+    {
+        "name": "元気な妹 マヤ",
+        "code": "GU/W94-088",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードがアタックした時、あなたは他の自分の青のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの青のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "八重歯",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_088.png"
+    },
+    {
+        "name": "\"自分探しの旅\"青山ブルーマウンテン",
+        "code": "GU/W94-089",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「\"自分探しの旅\"青山ブルーマウンテン」を1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "小説",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_089.png"
+    },
+    {
+        "name": "おっとりした妹 メグ",
+        "code": "GU/W94-090",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+            "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "バレエ",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_090.png"
+    },
+    {
+        "name": "\"バレエが得意\"メグ",
+        "code": "GU/W94-091",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の青のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "バレエ"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_091.png"
+    },
+    {
+        "name": "いつの日か チノ",
+        "code": "GU/W94-092",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのカード名に「ココア」か「リゼ」を含むキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ラビットハウス》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "コーヒー"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_092.png"
+    },
+    {
+        "name": "\"きっかけのぬいぐるみ\"チノ",
+        "code": "GU/W94-093",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】［手札の青のキャラを2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、山札の下に置く。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_093.png"
+    },
+    {
+        "name": "\"一歩ずつ\"チノ",
+        "code": "GU/W94-094",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたの青のキャラすべてに、パワーを＋1500。",
+            "【自】［手札を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "コーヒー"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_094.png"
+    },
+    {
+        "name": "じゃんけん…",
+        "code": "GU/W94-095a",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったなら、あなたは1枚引く。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "095a",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_095a.png"
+    },
+    {
+        "name": "じゃんけん…",
+        "code": "GU/W94-095b",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったなら、あなたは1枚引く。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "095b",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_095b.png"
+    },
+    {
+        "name": "じゃんけん…",
+        "code": "GU/W94-095c",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったなら、あなたは1枚引く。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "095c",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_095c.png"
+    },
+    {
+        "name": "チマメ隊、敬礼！",
+        "code": "GU/W94-096a",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 集中 このカードは、あなたの青のキャラが3枚以下なら、手札からプレイできない。",
+            "あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "096a",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_096a.png"
+    },
+    {
+        "name": "チマメ隊、敬礼！",
+        "code": "GU/W94-096b",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 集中 このカードは、あなたの青のキャラが3枚以下なら、手札からプレイできない。",
+            "あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "096b",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_096b.png"
+    },
+    {
+        "name": "チマメ隊、敬礼！",
+        "code": "GU/W94-096c",
+        "rarity": "U",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 集中 このカードは、あなたの青のキャラが3枚以下なら、手札からプレイできない。",
+            "あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "096c",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_096c.png"
+    },
+    {
+        "name": "怖い話",
+        "code": "GU/W94-097",
+        "rarity": "C",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+            "あなたはバトル中のキャラを1枚選び、そのターン中、ソウルを－1。"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_097.png"
+    },
+    {
+        "name": "Sing For You",
+        "code": "GU/W94-098",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_098.png"
+    },
+    {
+        "name": "寝言むにゃむにゃ",
+        "code": "GU/W94-099",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_099.png"
+    },
+    {
+        "name": "おかえりなさい",
+        "code": "GU/W94-100",
+        "rarity": "CC",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GU",
+        "release": "W94",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_100.png"
+    },
+    {
+        "name": "お祭り気分 シャロ",
+        "code": "GU/W94-101",
+        "rarity": "PR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てカード名に「シャロ」か「千夜」か「ココア」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "フルール",
+            "ド",
+            "ラパン",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_101.png"
+    },
+    {
+        "name": "\"マイペース\"千夜",
+        "code": "GU/W94-102",
+        "rarity": "PR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 他のあなたのカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。"
+        ],
+        "attributes": [
+            "甘兎庵",
+            "和菓子"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_102.png"
+    },
+    {
+        "name": "\"いつもの二人\"ココア",
+        "code": "GU/W94-103",
+        "rarity": "PR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。",
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_103.png"
+    },
+    {
+        "name": "手作りのぬいぐるみ リゼ",
+        "code": "GU/W94-104",
+        "rarity": "PR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「軍事機密だ」があり、他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたは1枚まで引き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_104.png"
+    },
+    {
+        "name": "\"いつもの二人\"チノ",
+        "code": "GU/W94-105",
+        "rarity": "PR",
+        "expansion": "Gochiusa Re:Edit",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て青か《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "ラビットハウス",
+            "Dear My Sister"
+        ],
+        "set": "GU",
+        "release": "W94",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_105.png"
+    }
+]
