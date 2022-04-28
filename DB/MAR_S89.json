@@ -14,8 +14,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《MARVEL》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《MARVEL》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+            "AUTO - This ability activates up to twice per turn. When your other <MARVEL> characters are placed on stage from hand, this turn, this gets +1000 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <MARVEL> characters, Rest it, and move it to an empty Back Row slot. "
         ],
         "attributes": [
             "MARVEL"
@@ -40,8 +40,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《MARVEL》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《MARVEL》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+            "AUTO - This ability activates up to twice per turn. When your other <MARVEL> characters are placed on stage from hand, this turn, this gets +1000 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <MARVEL> characters, Rest it, and move it to an empty Back Row slot. "
         ],
         "attributes": [
             "MARVEL"
@@ -68,9 +68,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
-            "【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、ターンの終わりに、あなたに1ダメージを与える。（ダメージキャンセルは発生する）"
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, until the end of your opponent's next turn, this gets +4500 power, and gains the following ability: \"CONT - During this card's battle, all players cannot play BACKUPs from hand.\"",
+            "AUTO - (1) When this card's battle opponent is Reversed, you may pay cost. If you do, deal 1 damage to your opponent, then at the end of this turn, deal 1 damage to yourself.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -97,8 +97,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《MARVEL》のキャラか「ムジョルニア」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】【CXコンボ】［(1) 手札の、《MARVEL》のキャラか「ムジョルニア」を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「北欧の伝説 ソー」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与え、そのターン中、このカードのパワーを＋3000。Ｘはあなたの控え室の「ムジョルニア」の枚数に等しい。（ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, search your deck for up to 1 <MARVEL> character or \"Mjölnir\" (Event), show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - {CX COMBO} [(1) Discard 1 <MARVEL> character or \"Mjölnir\" (Event - 025)] When this attacks, if you have the Choice CX (026) in your Climax Area, you may pay cost. If you do, deal X damage to your opponent, then this turn, this gets +3000 power. X equals to the number of \"Mjölnir\" (Event - 025) in your Waiting Room.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -123,8 +123,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのクライマックスフェイズの始めに、あなたは相手の山札を上から1枚見てよい。（見たカードは元に戻す）",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。』"
+            "AUTO - At the start of your Climax Phase, you may look at the top card of your opponent's deck.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\""
         ],
         "attributes": [
             "MARVEL"
@@ -149,8 +149,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのクライマックスフェイズの始めに、あなたは相手の山札を上から1枚見てよい。（見たカードは元に戻す）",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。』"
+            "AUTO - At the start of your Climax Phase, you may look at the top card of your opponent's deck.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\""
         ],
         "attributes": [
             "MARVEL"
@@ -175,8 +175,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[RETURN]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "AUTO - When a Climax with a Wind Trigger is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Wind Climax among them, choose up to 1 character from your Waiting Room, and add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -201,8 +201,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[RETURN]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "AUTO - When a Climax with a Wind Trigger is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Wind Climax among them, choose up to 1 character from your Waiting Room, and add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -227,8 +227,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "CONT - You cannot play Events or BACKUPs from hand.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this card's battle opponent is Reversed, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -253,8 +253,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "CONT - You cannot play Events or BACKUPs from hand.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this card's battle opponent is Reversed, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -279,8 +279,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Guardians of the Galaxy」があり、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは相手の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から3枚まで見て、《MARVEL》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
+            "CONT - For each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Wind CX (028) in your Climax Area, and you have 2 or more other <MARVEL> characters, mill the top 3 cards of your opponent's deck. If there is a Climax(es) among those cards, look at up to 3 cards from the top of your deck, choose up to 3 <MARVEL> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room, then this turn, this gets +1000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -305,8 +305,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Guardians of the Galaxy」があり、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは相手の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から3枚まで見て、《MARVEL》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
+            "CONT - For each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Wind CX (028) in your Climax Area, and you have 2 or more other <MARVEL> characters, mill the top 3 cards of your opponent's deck. If there is a Climax(es) among those cards, look at up to 3 cards from the top of your deck, choose up to 3 <MARVEL> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room, then this turn, this gets +1000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -333,8 +333,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《MARVEL》のキャラの枚数に等しい。",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "AUTO - When you use this card's BACKUP, send X cards from the bottom of your opponent's deck to Waiting Room. X equals the number of your <MARVEL> characters.",
+            "ACT - BACKUP +3000"
         ],
         "attributes": [
             "MARVEL"
@@ -361,8 +361,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《MARVEL》のキャラの枚数に等しい。",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "AUTO - When you use this card's BACKUP, send X cards from the bottom of your opponent's deck to Waiting Room. X equals the number of your <MARVEL> characters.",
+            "ACT - BACKUP +3000"
         ],
         "attributes": [
             "MARVEL"
@@ -389,8 +389,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋1500。",
-            "【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から2枚までを、ストック置場に置く。』"
+            "CONT - During your turn, for each of your other <MARVEL> characters, this gets +1500 power.",
+            "AUTO - When a Climax with a Wind Trigger is placed in your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then this turn, this gains the following ability: \"AUTO - When this card's battle opponent is Reversed, you may put the top 2 cards of your deck into Stock.\""
         ],
         "attributes": [
             "MARVEL"
@@ -417,8 +417,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋1500。",
-            "【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から2枚までを、ストック置場に置く。』"
+            "CONT - During your turn, for each of your other <MARVEL> characters, this gets +1500 power.",
+            "AUTO - When a Climax with a Wind Trigger is placed in your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then this turn, this gains the following ability: \"AUTO - When this card's battle opponent is Reversed, you may put the top 2 cards of your deck into Stock.\""
         ],
         "attributes": [
             "MARVEL"
@@ -445,8 +445,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《MARVEL》のキャラの枚数に等しい。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <MARVEL> characters.",
+            "AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, this turn, this gets +2000 power, and gains the following ability: \"AUTO - When this card's battle opponent is Reversed, you may deal 1 damage to your opponent.\" \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -473,8 +473,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《MARVEL》のキャラの枚数に等しい。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <MARVEL> characters.",
+            "AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, this turn, this gets +2000 power, and gains the following ability: \"AUTO - When this card's battle opponent is Reversed, you may deal 1 damage to your opponent.\" \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -499,8 +499,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "AUTO - When this is placed on stage from hand, choose 1 of your <MARVEL> characters, this turn, it gets +1500 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -525,8 +525,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラすべてに、パワーを＋500。",
-            "【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《MARVEL》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "CONT - All of your other <MARVEL> characters get +500 power.",
+            "ACT - [(2) Rest this] Search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "MARVEL"
@@ -551,8 +551,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［このカードを控え室に置く］ 他のあなたの《MARVEL》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
-            "【起】［このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "AUTO - [Send this to Waiting Room] When your other <MARVEL> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot, Rested.",
+            "ACT - [Rest this] Choose 1 of your <MARVEL> characters, this turn, it gets +1500 power.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -577,8 +577,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
-            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, this turn, this gets +2000 power.",
+            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, choose 1 of your other <MARVEL> characters, and return it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -603,8 +603,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ あなたのキャラのトリガーチェックでトリガーアイコンが[RETURN]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "AUTO - (1) When your character's Trigger Check reveals a Climax with a Wind Trigger, you may pay cost. If you do, draw 1. ",
+            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -629,8 +629,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋4000。",
-            "【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。』（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+            "CONT - During your turn, this gets +4000 power.",
+            "AUTO - When a Climax with a Wind Trigger is placed on your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then this turn, this gains the following ability: \"AUTO - When this card's battle opponent is Reversed, reveal the top card of your deck. If that card is Level 1 or higher, add it to hand.\"\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -655,8 +655,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「苦悩の天才科学者 ハルク」があり、他のあなたの《MARVEL》のキャラがいるなら、あなたは自分の山札を見て《MARVEL》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "CONT - During your turn, for each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have the Choice CX (027) in your Climax Area, and you have another <MARVEL> character,  search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, shuffle your deck afterwards, then choose 1 of your characters, this turn, it gets +1000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -683,8 +683,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】［(1)］ あなたのキャラのトリガーチェックでトリガーアイコンが[RETURN]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "CONT - ASSIST Level x 500",
+            "AUTO - (1) When your character's Trigger Check reveals a Climax with a Wind Trigger, you may pay cost. If you do, choose 1 <MARVEL> character in your Waiting Room, add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -711,8 +711,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「トレジャー・ハンター スター・ロード」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から4枚まで見て、カードを4枚まで選び、控え室に置き、残りのカードを山札に戻し、相手はその山札をシャッフルする。"
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX COMBO} [(1) Discard 1 card] When this attacks, if you have the Wind CX (029) in your Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your opponent's deck, choose up to 4 cards from among them, send them to Waiting Room, put the rest on top of your opponent's deck, and your opponent shuffles their deck afterwards.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -737,8 +737,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-            "【自】［(1) 手札の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, add it to hand and discard 1 card.",
+            "AUTO - [(1) Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
         ],
         "attributes": [
             "MARVEL"
@@ -763,8 +763,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《MARVEL》のキャラの枚数×1000に等しい。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。"
+            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <MARVEL> characters milled times 1000.",
+            "AUTO - [Discard 1 Card] When this card is placed from your hand to the stage, you may pay the cost, if you do, you may choose a Level 0 or lower character in your waiting room, put it on any spot on the stage.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -789,8 +789,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
-            "【起】［手札の《MARVEL》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』（公開したカードは元に戻す）"
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals that character's Soul times 1000.",
+            "ACT - [Discard 1 <MARVEL> character] Reveal the top card of your deck. If you revealed a <MARVEL> character, this turn, this gets the following ability: \"CONT - When this is attacking, you can instead choose 1 of your opponent's Back Row characters, this card may Front Attack treating that character as the Defending character.\""
         ],
         "attributes": [
             "MARVEL"
@@ -815,8 +815,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Front Row characters, until the end of your opponent's next turn, it gets +2000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
         ],
         "attributes": [
             "MARVEL"
@@ -843,8 +843,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+            "CONT - If you have 2 or more other <MARVEL>  characters, this gets +4000 power.",
+            "AUTO - When this is Reversed, put the top card of your deck into Clock, Rest this."
         ],
         "attributes": [
             "MARVEL"
@@ -869,11 +869,13 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "あなたのカード名に「ソー」を含むキャラか「生ける伝説 キャプテン・アメリカ」がいるなら、次の2つの効果のうちあなたが選んだ1つを行う。",
-            "『相手のキャラすべてに、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、他の枠に動かせず、思い出にできない。』』",
-            "『あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《MARVEL》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。』（クライマックスのレベルは0として扱う）"
+            "If you have a character with \"Thor\" in its name or {3/2 Captain America - 074}, perform 1 of the following 2 effects:",
+            "a) \"All of your opponent's characters, this turn, gains the following ability: \"CONT - This cannot be returned to hand, move to another slot, nor sent to Memory.\"\"",
+            "b) \"Mill 2, then choose up to 1 Level X or lower <MARVEL> character from your Waiting Room, and add it to hand, then choose 1 of your characters, this turn, it gets +1000 power. X equals the sum of Levels of cards milled by this effect.\" \r\n"
         ],
-        "attributes": [],
+        "attributes": [
+            "Event"
+        ],
         "set": "MAR",
         "release": "S89",
         "sid": "025",
@@ -1000,8 +1002,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたのレベルが2以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "ACT - [(1) Send this Standing card to Memory] If you are level 2 or higher, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1026,8 +1028,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+            "CONT - If you have 5 or more hand, this gets +1500 power, and gains the following ability: \"CONT - The character across from this cannot move to other slots.\"",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to your empty Front Row Center Slot."
         ],
         "attributes": [
             "MARVEL"
@@ -1052,8 +1054,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+            "CONT - If you have 5 or more hand, this gets +1500 power, and gains the following ability: \"CONT - The character across from this cannot move to other slots.\"",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to your empty Front Row Center Slot."
         ],
         "attributes": [
             "MARVEL"
@@ -1078,8 +1080,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてが《MARVEL》なら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋3000。』『【自】［(1) このカードを思い出にする］ 他のあなたの《MARVEL》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。』",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「音速飛行 アイアンマン」があり、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+            "CONT - If all of your characters are <MARVEL>, this gains the following 2 abilities, \r\n- \"CONT - During your turn, this gets +3000 power.\"\r\n- \"AUTO - [(1) Send this to Memory] When your other <MARVEL> character is Front Attacked, you may pay cost. If you do, return that character to hand.\"",
+            "AUTO - {CX COMBO} When this attacks, if you have the Door CX (068) in your Climax Area, and you have 2 or more other <MARVEL> characters, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
         ],
         "attributes": [
             "MARVEL"
@@ -1106,9 +1108,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの《MARVEL》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。"
+            "CONT - If you have 4 or more <MARVEL> characters, this gets -1 Level in hand.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock.",
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500. "
         ],
         "attributes": [
             "MARVEL"
@@ -1135,9 +1137,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの《MARVEL》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。"
+            "CONT - If you have 4 or more <MARVEL> characters, this gets -1 Level in hand.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock.",
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500. "
         ],
         "attributes": [
             "MARVEL"
@@ -1164,8 +1166,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。",
-            "【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock",
+            "AUTO - [(3) Discard 2 cards] When this attacks, you may pay cost. If you do, deal 4 damage to your opponent. "
         ],
         "attributes": [
             "MARVEL"
@@ -1192,8 +1194,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。",
-            "【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock",
+            "AUTO - [(3) Discard 2 cards] When this attacks, you may pay cost. If you do, deal 4 damage to your opponent. "
         ],
         "attributes": [
             "MARVEL"
@@ -1218,8 +1220,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてが《MARVEL》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』",
-            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
+            "CONT - If all of your characters are <MARVEL>, this gets +1500 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, choose 1 <MARVEL> character in your Waiting Room, add it to hand, then discard 1 card.\"",
+            "AUTO - During this card's battle, when damage you take is not cancelled, this turn, this gets +1500 power."
         ],
         "attributes": [
             "MARVEL"
@@ -1244,8 +1246,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてが《MARVEL》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』",
-            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
+            "CONT - If all of your characters are <MARVEL>, this gets +1500 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, choose 1 <MARVEL> character in your Waiting Room, add it to hand, then discard 1 card.\"",
+            "AUTO - During this card's battle, when damage you take is not cancelled, this turn, this gets +1500 power."
         ],
         "attributes": [
             "MARVEL"
@@ -1270,9 +1272,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラか「Iron Man Armor」ならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
-            "【自】［手札の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「Iron Man Armor」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "CONT - During your turn, if this has a Marker underneath it, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character or \"Iron Man Armor\" (Event - 066), you may put it underneath this card Face-down as a Marker.",
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 \"Iron Man Armor\" (Event - 066), show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "MARVEL"
@@ -1297,9 +1299,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラか「Iron Man Armor」ならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
-            "【自】［手札の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「Iron Man Armor」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "CONT - During your turn, if this has a Marker underneath it, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character or \"Iron Man Armor\" (Event - 066), you may put it underneath this card Face-down as a Marker.",
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 \"Iron Man Armor\" (Event - 066), show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "MARVEL"
@@ -1324,8 +1326,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《MARVEL》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "MARVEL"
@@ -1350,8 +1352,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《MARVEL》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "MARVEL"
@@ -1376,8 +1378,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは自分の山札の上から8枚を公開し、その山札をシャッフルする。それらのカードのクライマックスの枚数が8枚以上なら、あなたは勝利する。（公開したカードは元に戻す）"
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <MARVEL> characters, reveal the top 8 cards of your deck, then shuffle your deck afterwards. If you revealed 8 or more Climaxes, you win the game. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1402,8 +1404,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは自分の山札の上から8枚を公開し、その山札をシャッフルする。それらのカードのクライマックスの枚数が8枚以上なら、あなたは勝利する。（公開したカードは元に戻す）"
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <MARVEL> characters, reveal the top 8 cards of your deck, then shuffle your deck afterwards. If you revealed 8 or more Climaxes, you win the game. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1428,8 +1430,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×1000に等しい。",
-            "【起】［(1)］ 他のあなたの《MARVEL》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 1000.",
+            "ACT - (1) If you have 2 or more other <MARVEL> characters, this turn, this gets +1000 power and your opponent cannot use \"AUTO - ENCORE\"\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1454,8 +1456,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×1000に等しい。",
-            "【起】［(1)］ 他のあなたの《MARVEL》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 1000.",
+            "ACT - (1) If you have 2 or more other <MARVEL> characters, this turn, this gets +1000 power and your opponent cannot use \"AUTO - ENCORE\"\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1480,8 +1482,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《MARVEL》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「宇宙のバランス サノス」があるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室の《MARVEL》のキャラを1枚まで選び、手札に戻す。"
+            "AUTO - When this attacks, if you have 2 or more other <MARVEL> characters, this turn, this gets +2000 power.",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have the +2 Soul CX (070) in your Climax Area, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then choose up to 1 <MARVEL> character in your Waiting Room, add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -1508,9 +1510,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。",
-            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+            "AUTO - When this is placed on stage from hand, choose 1 other character, this turn, it gets +1 Level.",
+            "AUTO - When this is Reversed, reveal the top card of your deck. If that card is Level 2 or higher, you may return this to hand.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may Reverse that character. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1537,8 +1539,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
-            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「超一流のエージェント ブラック・ウィドウ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, this turn, all of your characters get +2000 power.",
+            "AUTO - {CX COMBO} (2) When this attacks, if you have the Standby CX (069) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent."
         ],
         "attributes": [
             "MARVEL"
@@ -1565,8 +1567,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
-            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「超一流のエージェント ブラック・ウィドウ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, this turn, all of your characters get +2000 power.",
+            "AUTO - {CX COMBO} (2) When this attacks, if you have the Standby CX (069) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent."
         ],
         "attributes": [
             "MARVEL"
@@ -1591,8 +1593,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
-            "【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+            "AUTO - [Shuffle 2 characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, this turn, this does not suffer Soul Penalty when Side Attacking.",
+            "AUTO - When this attacks, choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -1617,8 +1619,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-            "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +2000 power.",
+            "AUTO - [(1) Discard 1 card, Send this to Memory] When this is Reversed, you may pay cost. If you do, Draw 1 card.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1643,8 +1645,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［他のあなたの舞台の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「インフィニティ・ガントレット」を1枚選び、手札に戻す。",
-            "【自】［手札の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "AUTO - [Send 1 of your other <MARVEL> characters on stage to Waiting Room] When this placed on stage from hand, you may pay cost. If you do, choose 1 \"Infinity Gauntlet\" (Event - 067) in your Waiting Room, add it to hand.",
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1669,8 +1671,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《MARVEL》のキャラの枚数×500に等しい。",
-            "【自】［(1) このカードを思い出にする］ 他のあなたのキャラが舞台から控え室に置かれた時、他のあなたの「ホークアイ」がいるなら、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 500.",
+            "AUTO - [(1) Send this to Memory] When your other character is sent from Stage to Waiting Room, if you have another {R 0/0 Hawkeye - 075}. you may pay cost. If you do, return that character to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -1695,8 +1697,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《MARVEL》のキャラの枚数×500に等しい。",
-            "【起】［(1) 手札を1枚控え室に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 500.",
+            "ACT - [(1) Discard 1 card] Choose 1 of your opponent's characters, move it to an opponent's empty slot."
         ],
         "attributes": [
             "MARVEL"
@@ -1721,8 +1723,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「フォトンブラスト」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +1500 power and \"AUTO - ENCORE [Discard 1 characters]\"",
+            "AUTO - {CX COMBO} When this card's battle opponent is Reversed, if you have the Standby CX (071) in your Climax Area, choose 1 character in your Waiting Room, you may add it to hand. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1749,8 +1751,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×1000に等しい。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals the number of your other <MARVEL> characters times 1000.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
         ],
         "attributes": [
             "MARVEL"
@@ -1777,8 +1779,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードの下にマーカーがないなら、このカードのパワーを－10000し、このカードは次の能力を得る。『【永】 このカードは他の枠に動かせない。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Iron Man Armor」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+            "CONT - If this does not have a Marker underneath it, this gets -10000 power and the following ability: \"CONT - This cannot move to other slots.\" ",
+            "AUTO - When this is placed on stage from hand, choose 1 \"Iron Man Armor\" (Event - 066) in your Waiting Room, you may put it underneath this card Face-down as a Marker."
         ],
         "attributes": [
             "MARVEL"
@@ -1805,9 +1807,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】 このカードが手札から舞台に置かれた時か「最新鋭のパワードスーツ アイアンマン」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+            "CONT - If you have 2 or more other <MARVEL>  characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, or by the AUTO Effect of {3/2 Iron Man - 052}, you may Heal 1.",
+            "ACT - (1) During this turn, this gets +1000 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, you may send that character to the top of your opponent's deck.\""
         ],
         "attributes": [
             "MARVEL"
@@ -1834,8 +1836,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの控え室の「ウェブスリンガー スパイダーマン」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ウェブスリンガー スパイダーマン」を1枚選び、舞台の好きな枠に置く。"
+            "CONT - If the number of {3/2 Spiderman - 051} in your Waiting Room is 2 or more, this gets -1 Level in hand.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 {3/2 Spiderman - 051} from your Waiting Room, and place it on stage in any slot. "
         ],
         "attributes": [
             "MARVEL"
@@ -1860,8 +1862,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋500。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[SOUL]のクライマックス1枚につき、あなたは自分の山札を見て《MARVEL》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "AUTO - At the start of your Climax Phase, choose 1 of your <MARVEL> characters, this turn, it gets +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax with 2 Soul Trigger Icons among them, search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "MARVEL"
@@ -1886,8 +1888,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《MARVEL》のキャラの枚数×1000に等しい。",
-            "【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計×2000に等しい。"
+            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <MARVEL> characters milled times 1000.",
+            "AUTO - When this attacks, mill 2, and this turn, this gets +X power. X equals the sum of Soul Triggers milled times 2000."
         ],
         "attributes": [
             "MARVEL"
@@ -1912,9 +1914,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-            "【起】［このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "AUTO - This ability activates up to once per turn. When you use an ACT ability, choose 1 of your characters, this turn, it gets +500 power.",
+            "ACT - [Rest this] Choose 1 of your <MARVEL> characters, this turn, it gets +1000 power.",
+            "ACT - [(2) Rest this] Choose 1 <MARVEL> character in your Waiting Room, add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -1939,8 +1941,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
-            "【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「ウルトロン」を1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。"
+            "AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.",
+            "AUTO - (1) When this is sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 {copy of this card}, show it to your opponent, place it on stage in any slot Rested, and shuffle your deck afterwards.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -1965,8 +1967,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.",
+            "AUTO - [Return this to hand] When your Climax is placed on the Climax Area, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +2000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -1991,8 +1993,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻し、他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "AUTO - When this is placed on stage from hand, mill 2. If there is a Climax(es) among those cards, choose 1 of your characters, this turn, it gets +1500 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, add it to hand, then choose 1 of your other <MARVEL> characters, this turn, it gets +1000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -2017,8 +2019,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+            "AUTO - This ability activates up to once per turn. When you use an ACT ability, choose 1 of your <MARVEL> characters, this turn, it gets +1500 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character."
         ],
         "attributes": [
             "MARVEL"
@@ -2043,9 +2045,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのトリガーアイコンが[COMEBACK]のクライマックスがクライマックス置場に置かれた時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、ソウルを＋1。",
-            "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】［(1) このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+            "AUTO - When a Climax with a Door Trigger is placed on your Climax Area, choose 1 of your <MARVEL> characters, this turn, it gets +1 Soul.",
+            "AUTO - When your other character's battle opponent is Reversed, choose 1 of your <MARVEL> characters, this turn, it gets +1000 power.",
+            "ACT - [(1) Rest this] Choose 1 of your <MARVEL> characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, choose 1 character from your Waiting Room, you may add it to hand.\" \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2072,9 +2074,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《MARVEL》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】 あなたのトリガーアイコンが[SOUL]のクライマックスがクライマックス置場に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【起】 集中 ［(2) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のクライマックスを1枚まで選び、手札に戻す。"
+            "CONT - ASSIST Level x 500 to <MARVEL> characters.",
+            "AUTO - When a Climax with a 2 Soul Triggers is placed on your Climax Area, choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power.",
+            "ACT - BRAINSTORM [(2) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 Climax from your Waiting Room, and add it to hand.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2101,9 +2103,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋3000。",
-            "【起】［手札の《MARVEL》のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+            "AUTO - When this attacks, choose 1 of your <MARVEL> characters, this turn, it gets +3000 power.",
+            "ACT - [Discard 1 <MARVEL> character] Choose 1 of your characters, this turn, it gets +3000 power.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +3000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -2130,9 +2132,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「超人 ハルク」すべてに、次の能力を与える。『【永】 あなたは自分の「超人 ハルク」の【自】の効果によるダメージを受けない。』",
-            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-            "【起】［このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
+            "CONT - All of your other {3/2 Hulk - 002} gains the following ability: \"CONT - You cannot take damage from the AUTO effect of {3/2 Hulk - 002}\"",
+            "CONT - ASSIST +2000 to Level 3 or higher characters in front of this card.",
+            "ACT - [Rest this] Choose 1 of your <Marvel> characters, this turn, it gets +500 power and the following ability: \"AUTO - When this card's battle opponent is Reversed, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.\""
         ],
         "attributes": [
             "MARVEL"
@@ -2159,8 +2161,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがフロントアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×3000に等しい。",
-            "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+            "AUTO - When this Front Attacks, this turn, this gets +X power. X Equals to this card's Soul times 3000.",
+            "AUTO - (1) When this card's Level 2 or higher battle opponent is Reversed, you may pay cost. If you do, choose 1 character in your Waiting Room, you may add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -2187,8 +2189,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの《MARVEL》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】【CXコンボ】［あなたのクライマックス置場の「スーパーヒーロー スパイダーマン」を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいて、他のあなたの《MARVEL》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを2枚まで選び、手札に戻し、相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
+            "CONT - If you have 4 or more <MARVEL> characters, this gets -1 Level in hand.",
+            "AUTO - {CX COMBO} [Send the Door CX (072) from your Climax Area to Waiting Room] At the start of your Encore Step, if this is in the Front Row, and you have 4 or more other <MARVEL> characters, you may pay cost. If you do, choose up to 2 <MARVEL> characters in your Waiting Room, add them to hand, then choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability: \"CONT - This cannot move to other slots.\"\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2213,8 +2215,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "このカードは、あなたのカード名に「アイアンマン」を含むキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の控え室の《MARVEL》のキャラを2枚まで選び、手札に戻し、自分のマーカーを持たないカード名に「アイアンマン」を含むキャラを1枚選び、このカードをそのキャラの下にマーカーとして裏向きに置く。"
+            "If you do not have a character with \"Iron Man\" in its name, you cannot play this from hand.",
+            "You can choose up to 2 <MARVEL> characters in your Waiting Room, add them to hand, choose 1 of your characters with \"Iron Man\" in its name that does not have a Marker underneath it, put this card underneath it Face-down as a Marker\r\n"
         ],
         "attributes": [],
         "set": "MAR",
@@ -2237,10 +2239,14 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "次の3つの効果を1回ずつ行う。",
-            "『あなたは自分のキャラすべてを、思い出にする。あなたはそれらのキャラを裏向きにシャッフルする。それらのカードが2枚か3枚なら、あなたはそれらのカードを1枚選び、控え室に置く。4枚以上なら、あなたはそれらのカードを2枚選び、控え室に置く。』『相手は自分のキャラすべてを、思い出にする。相手はそれらのキャラを裏向きにシャッフルする。それらのカードが2枚か3枚なら、相手はそれらのカードを1枚選び、控え室に置く。4枚以上なら、相手はそれらのカードを2枚選び、控え室に置く。』『あなたはこれらの効果で思い出にしたカードすべてを表向きにし、舞台の別々の枠に置く。』"
+            "Perform each of the following 3 effects one at a time:",
+            "- \"Send all of your characters to Memory face-down, shuffle them. If there are 2 or 3 characters, chooses 1 of them, send it to Waiting Room. If there are 4 or more characters, choose 2 of them, send them to Waiting Room.\"",
+            "- \"Send all of your opponent's characters to Memory face-down, shuffle them. If there are 2 or 3 characters, your opponent chooses 1 of them, send it to Waiting Room. If there are 4 or more characters, your opponent chooses 2 of them, send them to Waiting Room.\"",
+            "- \"You turn all cards sent to Memory by this effect Face-up and place them on their respective stages in separate slots.\" "
         ],
-        "attributes": [],
+        "attributes": [
+            "Event"
+        ],
         "set": "MAR",
         "release": "S89",
         "sid": "067",
@@ -2317,8 +2323,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードと同じカード名のカードは、デッキに8枚まで入れることができる。",
-            "【永】 あなたの《MARVEL》のキャラすべてに、ソウルを＋2。"
+            "CONT - You can play up to 8 copies of this card in your deck.",
+            "CONT - All of your <MARVEL> characters get +2 Souls. \r\n"
         ],
         "attributes": [],
         "set": "MAR",
@@ -2394,8 +2400,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「弓矢の達人 ホークアイ」があり、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら手札に加え、あなたは相手の後列のコスト0以下のキャラを1枚まで選び、控え室に置く。（そうでないなら元に戻す）"
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Pants CX (098) in the Climax Area, and you have 2 or more other <MARVEL> characters, reveal the top card of your deck. If that card is a <MARVEL> character, add it to hand, choose up to 1 of your opponent's Cost 0 or lower characters in the Back Row, send it to Waiting Room. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2422,8 +2428,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「伝説のソルジャー キャプテン・アメリカ」が置かれた時、前列にこのカードがいて、他のあなたの《MARVEL》のキャラが4枚以上なら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX COMBO} When the Pants CX (099) is placed in your Climax Area, if this is in the Front Row, and you have 4 or more other <MARVEL> characters, this turn, all of your other characters gain the following ability: \"AUTO - (1) When this attacks, you may pay cost. If you do, deal 1 damage to your opponent.\" \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2448,8 +2454,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, choose 1 of your characters, this turn, it gets +2000 power.",
+            "ACT - [Discard 1 card, Send this to Waiting Room] Choose 1 <MARVEL> character from your Waiting Room, add it to hand. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2474,8 +2480,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character, choose 1 of your characters, this turn, it gets +2000 power.",
+            "ACT - [Discard 1 card, Send this to Waiting Room] Choose 1 <MARVEL> character from your Waiting Room, add it to hand. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2500,8 +2506,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の《MARVEL》のキャラを1枚まで選び、前列の左の枠に置き、その山札をシャッフルする。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Cost 0 <MARVEL> character whose Level is equal or lower than your Level, place it on stage in the Front Row left-most slot, and shuffle your deck afterwards.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2526,8 +2532,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の《MARVEL》のキャラを1枚まで選び、前列の左の枠に置き、その山札をシャッフルする。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Cost 0 <MARVEL> character whose Level is equal or lower than your Level, place it on stage in the Front Row left-most slot, and shuffle your deck afterwards.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2552,8 +2558,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠の《MARVEL》のキャラに、パワーを＋1500。",
-            "【起】［手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。"
+            "CONT - Your other character in the Front Row Center Slot gets +1500 power.",
+            "ACT - [Discard 2 card, Rest this] Look at up to 6 cards from the top of your deck, choose 3 cards from among them, send them to Waiting Room, then put the rest on top of your deck in any order. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2578,8 +2584,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠の《MARVEL》のキャラに、パワーを＋1500。",
-            "【起】［手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。"
+            "CONT - Your other character in the Front Row Center Slot gets +1500 power.",
+            "ACT - [Discard 2 card, Rest this] Look at up to 6 cards from the top of your deck, choose 3 cards from among them, send them to Waiting Room, then put the rest on top of your deck in any order. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2604,8 +2610,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, mill 2 cards, if you milled a Climax, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand.",
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -2630,8 +2636,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, mill 2 cards, if you milled a Climax, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand.",
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -2656,8 +2662,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《MARVEL》のキャラがいるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
-            "【自】 あなたのアタックフェイズの始めに、次の相手のターンの終わりまで、あなたはこのカードのパワーを－3500してよい。そうしたら、次の相手のターンの終わりまで、このカードのソウルを＋1し、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。』"
+            "CONT - During your turn, if you have another <MARVEL> character, this gets +1000 power and the following ability: \"AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.\"",
+            "AUTO - At the start of your Attack Phase, until the end of your opponent's next turn, you may have this card get -3500 power. If you do, until the end of your opponent's next turn, this gets +1 soul and the following ability: \"AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck.\""
         ],
         "attributes": [
             "MARVEL"
@@ -2682,8 +2688,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《MARVEL》のキャラがいるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
-            "【自】 あなたのアタックフェイズの始めに、次の相手のターンの終わりまで、あなたはこのカードのパワーを－3500してよい。そうしたら、次の相手のターンの終わりまで、このカードのソウルを＋1し、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。』"
+            "CONT - During your turn, if you have another <MARVEL> character, this gets +1000 power and the following ability: \"AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.\"",
+            "AUTO - At the start of your Attack Phase, until the end of your opponent's next turn, you may have this card get -3500 power. If you do, until the end of your opponent's next turn, this gets +1 soul and the following ability: \"AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck.\""
         ],
         "attributes": [
             "MARVEL"
@@ -2708,8 +2714,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《MARVEL》のキャラがいるなら、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
-            "【自】 このカードがアタックした時、あなたは他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。"
+            "AUTO - When this attacks, if you have another <MARVEL> character, this turn, this gets +1 Level and +1000 power.",
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals the number of your other <MARVEL> characters times 500"
         ],
         "attributes": [
             "MARVEL"
@@ -2734,8 +2740,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《MARVEL》のキャラがいるなら、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
-            "【自】 このカードがアタックした時、あなたは他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。"
+            "AUTO - When this attacks, if you have another <MARVEL> character, this turn, this gets +1 Level and +1000 power.",
+            "AUTO - When this attacks, choose 1 of your other <MARVEL> characters, this turn, it gets +X power. X equals the number of your other <MARVEL> characters times 500"
         ],
         "attributes": [
             "MARVEL"
@@ -2762,9 +2768,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-            "【自】 このカードが舞台から控え室に置かれた時、あなたは自分のマーカーを持たないカード名に「ファルコン」を含むキャラを1枚選び、このカードをそのキャラの下にマーカーとして裏向きに置いてよい。"
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, choose 1 of your characters with \"Falcon\" in its name that does not have a Marker underneath it, you may put this card underneath it Face-up as a Marker"
         ],
         "attributes": [
             "MARVEL"
@@ -2791,9 +2797,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-            "【自】 このカードが舞台から控え室に置かれた時、あなたは自分のマーカーを持たないカード名に「ファルコン」を含むキャラを1枚選び、このカードをそのキャラの下にマーカーとして裏向きに置いてよい。"
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, choose 1 of your characters with \"Falcon\" in its name that does not have a Marker underneath it, you may put this card underneath it Face-up as a Marker"
         ],
         "attributes": [
             "MARVEL"
@@ -2818,8 +2824,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラすべてに、パワーを＋500。",
-            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+            "CONT - All of your other <MARVEL> characters get +500.",
+            "AUTO - [Discard 1 card] When your character's Trigger Check reveals a Pants CX, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room."
         ],
         "attributes": [
             "MARVEL"
@@ -2844,8 +2850,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置いてよい。",
-            "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it to the bottom of your opponent's deck.",
+            "AUTO - At the start of your opponent's Draw Phase, reveal the top card of your deck. If that card is Level 1 or higher, you may return this card to hand.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -2870,8 +2876,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《MARVEL》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+            "AUTO - When you use this card's BACKUP, if you have an <MARVEL> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "ACT - BACKUP +1000"
         ],
         "attributes": [
             "MARVEL"
@@ -2896,8 +2902,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラがいるなら、このカードのパワーを＋1500。",
-            "【自】 あなたのアタックフェイズの始めに、次の相手のターンの終わりまで、あなたはこのカードのパワーを－4000してよい。そうしたら、そのターン中、このカードのソウルを＋1し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。』"
+            "CONT - If you have another <MARVEL> character, this gets +1500 power.",
+            "AUTO - At the start of your Attack Phase, until the end of your opponent's next turn, you may have this card get -4000 power. If you do, this turn, this gets +1 soul and the following ability: \"AUTO - When this attacks, choose 1 of your characters, this turn, it gets +3000 power.\""
         ],
         "attributes": [
             "MARVEL"
@@ -2922,7 +2928,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters, your opponent chooses 1 Level X or lower character from their Waiting Room, and swaps the two characters. X equals the Level of the character chosen by you -1."
         ],
         "attributes": [
             "MARVEL"
@@ -2949,8 +2955,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +2500"
         ],
         "attributes": [
             "MARVEL"
@@ -2977,8 +2983,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［手札の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ウィンター・ソルジャー」を1枚選び、舞台の好きな枠に置く。",
-            "【自】 このカードがアタックした時、他のあなたの「ウィンター・ソルジャー」がいるなら、そのターン中、このカードのパワーを＋6000。"
+            "AUTO - [Discard 1 <MARVEL> character] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {2/1 Winter Soldier - 089} from your Waiting Room, and place it on stage in any slot.",
+            "AUTO - When this attacks, if you have another {2/1 Winter Soldier - 089}, this turn, this gets +6000 power. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3005,8 +3011,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「ファルコン」がいるなら、このカードのパワーを＋4000。",
-            "【自】 相手のアタックフェイズの始めに、あなたは自分の「ファルコン」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+            "CONT - If you have another {2/1 Falcon - 088}, this gets +4000 power.",
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your {2/1 Falcon - 088} characters and this card, you may Stand them and swap their positions on stage."
         ],
         "attributes": [
             "MARVEL"
@@ -3033,8 +3039,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。",
-            "【自】［(1) 手札の《MARVEL》のキャラを2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500.",
+            "AUTO - [(1) Discard 2 <MARVEL> characters] This ability can only be activated up to once per turn. During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, Stand this card."
         ],
         "attributes": [
             "MARVEL"
@@ -3059,8 +3065,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。",
-            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+            "AUTO - When this attacks, choose 1 card in your Opponent's Clock, you may send it to Waiting Room. If you do, your opponent puts the top card of their deck to Clock.",
+            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row."
         ],
         "attributes": [
             "MARVEL"
@@ -3085,8 +3091,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋500。",
-            "【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《MARVEL》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "AUTO - At the start of your Climax Phase, choose 1 of your <MARVEL> characters, this turn, it gets +500 power.",
+            "ACT - [(1) Rest 2 characters] Mill 2, then choose up to 1 Level X or lower <MARVEL> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
         ],
         "attributes": [
             "MARVEL"
@@ -3111,8 +3117,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-            "【自】 アンコール ［あなたの舞台の《MARVEL》のキャラを1枚クロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "CONT - All of your opponent's characters get \"AUTO - ENCORE (2)\"",
+            "AUTO - ENCORE [Send 1 of your <MARVEL> characters on stage to the top of your Clock]"
         ],
         "attributes": [
             "MARVEL"
@@ -3137,8 +3143,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの《MARVEL》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。",
-            "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「Avengers」があり、前列にこのカードがいて、他のあなたの《MARVEL》のキャラがいるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードは【リバース】しない。』"
+            "AUTO - When this attacks, if you have another <MARVEL> character, this turn, this gets +3000 power.",
+            "AUTO - {CX COMBO} At the start of your Encore Step, if you have the Pants CX (100) in your Climax Area, this is in the Front Row, and you have another <MARVEL> character, until the end of your opponent's next turn, this gains the following ability: \"CONT - This cannot be Reversed\"\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3163,8 +3169,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+            "CONT - If this has a Marker underneath it, for each of your other <MARVEL> characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your other characters, you may put it underneath this card Face-down as a Marker."
         ],
         "attributes": [
             "MARVEL"
@@ -3191,7 +3197,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの後列の《MARVEL》のキャラ1枚につき、このカードのパワーを＋2000。"
+            "CONT - For each of your other Back Row <MARVEL> characters, this gets +2000 power. "
         ],
         "attributes": [
             "MARVEL"
@@ -3216,10 +3222,12 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "このカードは、あなたのカード名に「キャプテン・アメリカ」を含むキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の山札を見て《MARVEL》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札の自分のレベル以下のレベルの《MARVEL》のキャラを2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。"
+            "If you do not have a character with \"Captain America\" in its name, you cannot play this from hand.",
+            "Search your deck for up to 2 <MARVEL> character, show them to your opponent, add them to hand, choose up to 2 <MARVEL> characters from your hand whose Level is equal or lower than your Level, place it on stage in separate slots, and shuffle your deck afterwards."
         ],
-        "attributes": [],
+        "attributes": [
+            "Event"
+        ],
         "set": "MAR",
         "release": "S89",
         "sid": "097",
@@ -3323,8 +3331,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたの《MARVEL》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+            "CONT - ASSIST Level x 500 to <MARVEL> characters.",
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, send the rest to Waiting Room, and discard 1 card. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3349,8 +3357,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ このカードがフロントアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+            "AUTO - (1) When this Front attacks, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -1 Level.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character."
         ],
         "attributes": [
             "MARVEL"
@@ -3375,8 +3383,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラか「Iron Man Armor」ならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+            "CONT - If this has a Marker underneath it, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <MARVEL> character or \"Iron Man Armor\" (Event), you may put it underneath this card Face-down as a Marker."
         ],
         "attributes": [
             "MARVEL"
@@ -3403,9 +3411,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "CONT - ASSIST +2000",
+            "AUTO - When this is placed on stage from hand, draw up to 2 cards, then discard 1 card.",
+            "ACT - [Rest this] Look at up to 2 cards from the top of your deck, and put them back on top in any order.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3430,8 +3438,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "CONT - ASSIST +500",
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gets +1000 power."
         ],
         "attributes": [
             "MARVEL"
@@ -3456,7 +3464,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
+            "CONT - If you have 2 or less Stock, this gets +1500 power."
         ],
         "attributes": [
             "MARVEL"
@@ -3481,8 +3489,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《MARVEL》のキャラがいるなら、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「TD20_ソーCX分」があり、他のあなたの《MARVEL》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《MARVEL》のキャラか「025_ムジョルニアEV」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "CONT - During your turn, if you have another <MARVEL> character, this gets +1500 power.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Choice CX (T07) in your Climax Area, and you have another <MARVEL> character, look at up to 4 cards from the top of your deck, choose up to 1 <MARVEL> character or \"Mjölnir\" (Booster Event - 025) from among them, show it to your opponent, add it to hand, send the rest to Waiting Room. \r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3507,8 +3515,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 他のあなたの《MARVEL》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。",
-            "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "AUTO - When your other <MARVEL> character attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 500.",
+            "AUTO - ENCORE [Put the top card of your deck into Clock]"
         ],
         "attributes": [
             "MARVEL"
@@ -3535,8 +3543,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋3000。",
-            "【自】 アンコール ［手札の《MARVEL》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +3000 power.",
+            "AUTO - ENCORE [Discard 1 <MARVEL> character]"
         ],
         "attributes": [
             "MARVEL"
@@ -3561,7 +3569,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "Deal 2 Damage to your opponent."
         ],
         "attributes": [],
         "set": "MAR",
@@ -3610,8 +3618,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「TD07_ホークアイ」すべてに、パワーを＋1000。",
-            "【自】 絆／「TD07_ホークアイ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「TD07_ホークアイ」を1枚選び、手札に戻す）"
+            "CONT - All of your other {1/0 Vanilla Hawkeye - T19} gets +1000 power.",
+            "AUTO - BOND (1) to {1/0 Vanilla Hawkeye - T19}\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3636,7 +3644,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《MARVEL》のキャラの枚数×500に等しい。"
+            "AUTO - When this is placed on stage from hand, choose 1 of your <MARVEL> characters, this turn, it gets +X power. X equals the number of your <MARVEL> characters times 500.\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3663,8 +3671,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《MARVEL》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "AUTO - When you use this card's BACKUP, reveal the top card of your deck. If that card is a <MARVEL> character, add it to hand and discard 1 card.",
+            "ACT - BACKUP +2000"
         ],
         "attributes": [
             "MARVEL"
@@ -3691,8 +3699,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "CONT - ASSIST Level x 500",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
         ],
         "attributes": [
             "MARVEL"
@@ -3719,7 +3727,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《MARVEL》のキャラの枚数×1000に等しい。"
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 1000."
         ],
         "attributes": [
             "MARVEL"
@@ -3746,8 +3754,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「TD19_アイアンマンCX拾」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのレベル0以下のカードの枚数に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.",
+            "AUTO - {CX COMBO} (2) When this attacks, if you have the Door CX (T14) in your Climax Area, you may pay cost. If you do, send the bottom 4 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent. X equals the number of Level 0 cards sent to Waiting Room by this effect. (Climaxes are considered Level 0 for this effect)\r\n"
         ],
         "attributes": [
             "MARVEL"
@@ -3798,8 +3806,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
-            "【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+            "AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck."
         ],
         "attributes": [
             "MARVEL"
@@ -3824,8 +3832,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠の《MARVEL》のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "CONT - Your other <MARVEL> character in the Front Row Center Slot gets \"AUTO - ENCORE [Discard 1 character]\"",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card. "
         ],
         "attributes": [
             "MARVEL"
@@ -3850,8 +3858,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
         ],
         "attributes": [
             "MARVEL"
@@ -3876,7 +3884,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "AUTO - When this attacks, choose 1 of your characters, this turn, it gets +2500 power."
         ],
         "attributes": [
             "MARVEL"
@@ -3928,8 +3936,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "CONT - For each of your other <MARVEL> characters, this gets +500 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1."
         ],
         "attributes": [
             "MARVEL"
