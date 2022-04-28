@@ -7,23 +7,30 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「愛の翼 トール」がいるなら、他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋1000。",
-            "【起】［このカードを【レスト】する］ 他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "[C] – If you have another [愛の翼 トール], all of your other《Human》or《Dragon》Characters gain +1000 Power.",
+            "[S] – [REST this card] If you have four or more other《Human》or《Dragon》Characters, draw one card, choose one card in your Hand, send it to Waiting Room.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four card of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "001",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_001.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_001.png",
+        "jpAbility": [
+            "【永】 他のあなたの「愛の翼 トール」がいるなら、他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋1000。",
+            "【起】［このカードを【レスト】する］ 他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ]
     },
     {
         "name": "人間とドラゴンの架け橋 トール＆小林さん",
@@ -33,25 +40,34 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】 共鳴 ［手札の「ドラゴンとの信頼関係 小林さん」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『あなたは自分のクロックの上から1枚を、控え室に置く。』（ダメージキャンセルは発生する）"
+            "[C] – If you have four or more《Human》or《Dragon》Characters, this card gets -1 Level in Hand.",
+            "[C] – If you have two or more other《Human》or《Dragon》Characters, this card gets +1000 Power.",
+            "[A] – RESONANCE [Reveal one [人間とドラゴンの架け橋 トール＆小林さん] in your Hand] When this card is placed on Stage from Hand, you may pay the cost. If you did, perform one of the following effects of your choice:",
+            "-Deal one damage to your opponent. (Damage can be canceled)",
+            "-Send the top card of your Clock to Waiting Room."
         ],
         "attributes": [
-            "人間",
-            "ドラゴン"
+            "Human",
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "002",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_002.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_002.png",
+        "jpAbility": [
+            "【永】 あなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】 共鳴 ［手札の「ドラゴンとの信頼関係 小林さん」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『あなたは自分のクロックの上から1枚を、控え室に置く。』（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "パーフェクトメイド トール",
@@ -61,24 +77,33 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「伝えたかった言葉」があり、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『［(2) 手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。』（マイナスの数は宣言できない。ダメージキャンセルは発生する）"
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO When this card attacks, if you have [伝えたかった言葉] in your Climax Zone, if you have another《Human》or《Dragon》Character, perform one of the following two effects:",
+            "-Deal one damage to your opponent",
+            "-[(2) Send one《Human》or《Dragon》Character from Hand to Waiting Room] You may pay the cost. If you did, choose any number, deal X damage to your opponent. X is the number you chose.",
+            "(You cannot choose negative numbers. Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "003",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_003.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_003.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「伝えたかった言葉」があり、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『［(2) 手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。』（マイナスの数は宣言できない。ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "ゴーゴーちょろゴンズ！ トール",
@@ -88,22 +113,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
-            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck, if that card is Level 2 or higher, send it to Stock. (Climax is considered Level 0. If not return revealed card to its original position)",
+            "[A] – [(2)] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, search your Deck for up to one《Human》or《Dragon》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "004",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_004.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_004.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "スク水、プール日和! 小林さん",
@@ -113,22 +144,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
-            "【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "[A] – [Send this card to Waiting Room] When your other Character is sent from Stage to Waiting Room, if this card is in Back Row, you may pay the cost. If you did, place that Character in its previous slot in REST.",
+            "[S] – [REST this card] Choose one of your《Human》or《Dragon》Characters, during this turn, it gains +1500 Power."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "005",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_005.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_005.png",
+        "jpAbility": [
+            "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+            "【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ]
     },
     {
         "name": "おやすみの時間 カンナ",
@@ -138,22 +175,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "[A] – When this card is placed on Stage from Hand, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +1500 Power.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is cost 0 or lower, you may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_006.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_006.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ]
     },
     {
         "name": "認識阻害 トール",
@@ -163,22 +206,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
-            "【自】 絆／「ドラゴンとの信頼関係 小林さん」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ドラゴンとの信頼関係 小林さん」を1枚選び、手札に戻す）"
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +3000 Power.",
+            "[A] – BOND / [ドラゴンとの信頼関係 小林さん] [Send one card from Hand to Waiting Room]"
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_007.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_007.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】 絆／「ドラゴンとの信頼関係 小林さん」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ドラゴンとの信頼関係 小林さん」を1枚選び、手札に戻す）"
+        ]
     },
     {
         "name": "ゴーゴーちょろゴンズ！ カンナ",
@@ -188,23 +237,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "[S] – BRAINSTORM [(1)] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "008",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_008.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_008.png",
+        "jpAbility": [
+            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ]
     },
     {
         "name": "浜辺の誘い カンナ",
@@ -214,22 +268,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠のキャラに、ソウルを＋1。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[C] – If this card is in your Front Row Center Slot, this card gains +1 Soul.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Human》or《Dragon》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "009",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_009.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_009.png",
+        "jpAbility": [
+            "【永】 他のあなたの前列の中央の枠のキャラに、ソウルを＋1。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "いたずら大好き カンナ",
@@ -239,22 +299,30 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時かあなたのメインフェイズの始めに、そのターン中、このカードは次の2つの能力のうちあなたが選んだ1つを得る。『【永】 あなたのターン中、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、このカードのパワーを＋3000。』『【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。』",
-            "【自】【CXコンボ】［あなたのクライマックス置場の「遊びざかりな年頃」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+            "[A] – During the Main Phase of when this card is placed on Stage from Hand, during this turn, this card gains one of the following two effects of your choice:",
+            "[C] – During your turn, if you have another《Human》or《Dragon》Character this card gains +3000 Power.",
+            "-[S] – [REST this card] Choose one of your《Human》or《Dragon》Characters, during this turn, it gains +1500 Power.",
+            "[A] – CX COMBO [Send one [遊びざかりな年頃] in your Climax Zone to Waiting Room] At the beginning of your Encore Step, you may pay the cost. If you did, choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "010",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_010.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_010.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時かあなたのメインフェイズの始めに、そのターン中、このカードは次の2つの能力のうちあなたが選んだ1つを得る。『【永】 あなたのターン中、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、このカードのパワーを＋3000。』『【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。』",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「遊びざかりな年頃」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "ちょろゴン☆ブレス 小林さん",
@@ -264,22 +332,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て『共鳴』を持つキャラか「ドラゴンとの信頼関係 小林さん」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+            "[A] – [Send one《Human》or《Dragon》Character from Hand to Waiting Room] When this card is placed on Stage to Hand, if all of your Characters are《Human》or《Dragon》you may pay the cost. If you did, search your Deck for up to one Character with RESONANCE or [ドラゴンとの信頼関係 小林さん」], reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[S] – [Send this card to Waiting Room, send one card from Hand to Waiting Room] Choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "011",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_011.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_011.png",
+        "jpAbility": [
+            "【自】［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て『共鳴』を持つキャラか「ドラゴンとの信頼関係 小林さん」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "混沌勢 トール",
@@ -289,23 +363,31 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「ドラゴンとの信頼関係 小林さん」がいるなら、このカードのパワーを＋2000。",
-            "【自】 このカードがアタックした時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-            "【自】 共鳴 ［手札の「ドラゴンとの信頼関係 小林さん」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+            "[C] – If you have another [ドラゴンとの信頼関係 小林さん」], this card gains +2000 Power.",
+            "[A] – When this card attacks, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +1500 Power and the following effect:",
+            "-[C] – This card cannot be chosen by your opponent’s effects.",
+            "[A] – RESONANCE [Reveal one [ドラゴンとの信頼関係 小林さん」] in your Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, draw one card, choose one card in your Hand, send it to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_012.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_012.png",
+        "jpAbility": [
+            "【永】 他のあなたの「ドラゴンとの信頼関係 小林さん」がいるなら、このカードのパワーを＋2000。",
+            "【自】 このカードがアタックした時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+            "【自】 共鳴 ［手札の「ドラゴンとの信頼関係 小林さん」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+        ]
     },
     {
         "name": "恐れ知らず カンナ",
@@ -315,22 +397,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。"
+            "[A] – When this card is placed on Stage from Hand, look at the top two cards of your Deck, place them on top of Deck in any order.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your opponent’s Characters, move it to an empty slot on Stage, during this turn, it gains +1000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "013",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_013.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_013.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。"
+        ]
     },
     {
         "name": "愛の契り トール",
@@ -340,22 +428,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《人間》か《ドラゴン》のキャラの枚数×500に等しい。",
-            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Human》or《Dragon》Characters x500.",
+            "[A] – [(2)] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "014",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_014.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_014.png",
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《人間》か《ドラゴン》のキャラの枚数×500に等しい。",
+            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "料理はおまかせ！ トール",
@@ -365,24 +459,31 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "[A] – When you use this card’s BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, send that Character to Memory.",
+            "[S] – COUNTER 3000 Power BACKUP Level 2"
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "015",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_015.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_015.png",
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ]
     },
     {
         "name": "いつも通りの日常 トール",
@@ -392,22 +493,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-            "【自】 このカードがアタックした時、あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "[A] – When this card is placed on Stage from Hand, choose one of your《Human》or《Dragon》Characters, during this turn, it gains +1500 Power.",
+            "[A] – When this card attacks, choose one of your《Human》or《Dragon》Characters, during this turn, it gains +1500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "016",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_016.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_016.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードがアタックした時、あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ]
     },
     {
         "name": "人間生活へのあこがれ カンナ",
@@ -417,22 +524,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の、《人間》か《ドラゴン》のキャラを1枚ずつ選び、入れ替える。"
+            "[C] – All of your other《Human》or《Dragon》Characters gain +500 Power.",
+            "[S] – [REST this card] Choose one card in your Level Zone and one《Human》or《Dragon》Character in your Waiting Room, swap them."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "017",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_017.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_017.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の、《人間》か《ドラゴン》のキャラを1枚ずつ選び、入れ替える。"
+        ]
     },
     {
         "name": "初対面 トール",
@@ -442,22 +555,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがダイレクトアタックした時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、ソウルを＋1。",
-            "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+            "[A] – When this card Direct Attacks, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +1 Soul.",
+            "[A] – At the beginning of your opponent’s Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "018",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_018.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_018.png",
+        "jpAbility": [
+            "【自】 このカードがダイレクトアタックした時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+            "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ]
     },
     {
         "name": "元気を出す手段 カンナ",
@@ -467,21 +586,27 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+            "[S] – BRAINSTORM [(1)] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, perform the following effect:",
+            "-Choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand, choose one card in your Hand, send it to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_019.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_019.png",
+        "jpAbility": [
+            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+        ]
     },
     {
         "name": "愛の翼 トール",
@@ -491,24 +616,30 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 他のあなたの、《人間》か《ドラゴン》のキャラがアタックした時、あなたはこのカードの下のマーカーの枚数以下の好きな数を宣言し、そのターン中、そのキャラのパワーを＋1000し、ソウルを＋Ｘ。Ｘはあなたの宣言した数に等しい。（マイナスの数は宣言できない）",
-            "【自】【CXコンボ】［(1) あなたのクライマックス置場の「羽を伸ばして」を1枚控え室に置く］ あなたのアタックフェイズの始めに、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《人間》か《ドラゴン》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の山札の上から1枚までを、このカードの下にマーカーとして表向きに置く。"
+            "[A] – When your other《Human》or《Dragon》Character attacks, declare a number less than or equal to the number of markers underneath this card, during this turn, that Character gains +1000 Power and +X Soul. X is the number declared.",
+            "[A] – CX COMBO [(1) Send one [羽を伸ばして] in your Climax Zone to Waiting Room] At the beginning of your Attack Phase, if you have four or more other《Human》or《Dragon》Characters, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to three《Human》or《Dragon》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room, look at up to one card from the top of your Deck, place it underneath this card faceup as a marker."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "020",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_020.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_020.png",
+        "jpAbility": [
+            "【自】 他のあなたの、《人間》か《ドラゴン》のキャラがアタックした時、あなたはこのカードの下のマーカーの枚数以下の好きな数を宣言し、そのターン中、そのキャラのパワーを＋1000し、ソウルを＋Ｘ。Ｘはあなたの宣言した数に等しい。（マイナスの数は宣言できない）",
+            "【自】【CXコンボ】［(1) あなたのクライマックス置場の「羽を伸ばして」を1枚控え室に置く］ あなたのアタックフェイズの始めに、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《人間》か《ドラゴン》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の山札の上から1枚までを、このカードの下にマーカーとして表向きに置く。"
+        ]
     },
     {
         "name": "小学生 カンナ",
@@ -518,24 +649,30 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたのストックが5枚以下なら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+            "[A] – When this card is placed on Stage from Hand, if you have five or less Stock, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, reveal the top two cards of your Deck, your opponent chooses one Character or Event among them, add it to Hand, send the remaining cards to Waiting Room.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level. You may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "021",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_021.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_021.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたのストックが5枚以下なら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ]
     },
     {
         "name": "メイド談義",
@@ -545,18 +682,23 @@
         "side": "W",
         "type": "Event",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "Send all of your opponents Stock to Waiting Room, send the same number of cards from the top of their Deck to Stock. Choose up to one Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "022",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_022.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_022.png",
+        "jpAbility": [
+            "相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ]
     },
     {
         "name": "伝えたかった言葉",
@@ -566,21 +708,27 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "023",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_023.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_023.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ]
     },
     {
         "name": "遊びざかりな年頃",
@@ -590,22 +738,28 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "RETURN"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Wind: When this card is triggered, you may choose one of your opponent’s Characters, return it to Hand.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "024",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_024.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_024.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "羽を伸ばして",
@@ -615,21 +769,26 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+            "[A] – When this card is placed into your Climax Zone from Hand, choose up to one Level one or lower Character in your Waiting Room, place it into Stock. During this turn, all of your Characters gain +1 Soul."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "025",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_025.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_025.png",
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+        ]
     },
     {
         "name": "スク水、プール日和! トール",
@@ -639,22 +798,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ドラゴンの底力」があり、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+            "[C] – If you have two or more other《Human》or《Dragon》Characters, this card gains +2000 Power.",
+            "[A] – CX COMBO When this card attacks, if you have [ドラゴンの底力] in your Climax Zone, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "026",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_026.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_026.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ドラゴンの底力」があり、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "ちょろゴン☆ブレス イルル",
@@ -664,24 +829,31 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 3,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「お宝を探して」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手にＸダメージを与えてよい。Ｘはこのカードのソウルに等しい。』（ダメージキャンセルは発生する）",
-            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《人間》か《ドラゴン》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+            "[A] – CX COMBO [(1)] When [お宝を探して] is placed in your Climax Zone, you may pay the cost. If you did, during this turn, this card gains the following effect:",
+            "-[A] – This effect activates up to once per turn. When this card’s damage is canceled, you may deal X damage to your opponent. X is this Character’s Soul. (Damage can be canceled)",
+            "[A] – When this card attacks, reveal the top card of your Deck. If that card is a《Human》or《Dragon》Character, you may deal one damage to your opponent. (Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "027",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_027.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_027.png",
+        "jpAbility": [
+            "【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「お宝を探して」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手にＸダメージを与えてよい。Ｘはこのカードのソウルに等しい。』（ダメージキャンセルは発生する）",
+            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《人間》か《ドラゴン》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+        ]
     },
     {
         "name": "思い出の人形 イルル",
@@ -691,22 +863,29 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[A] – When this card is placed on Stage from Hand, choose one of your Characters, until end of opponent’s next turn, it gains the following effect:",
+            "-[C] – This card cannot be REVERSE by the [A] effect of your opponent’s Characters.",
+            "[S] – [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, search your Deck for up to one《Human》or《Dragon》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "028",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_028.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_028.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "覚醒 トール",
@@ -716,22 +895,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。",
-            "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+            "[A] – [Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand.",
+            "[A] – [Return this card to Hand] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, choose one of your Characters, until end of opponent’s next turn, it gains +1000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "029",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_029.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_029.png",
+        "jpAbility": [
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。",
+            "【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ]
     },
     {
         "name": "犬猿の仲 トール＆エルマ",
@@ -741,21 +926,27 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてがカード名に「トール」か「エルマ」を含むなら、このカードのパワーを＋2000。",
-            "【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「トール」か「エルマ」を含むキャラを1枚選び、手札に戻す。"
+            "[C] – If all of your other Characters have “Tohru” or “Elma” in their card name, this card gains +2000 Power.",
+            "[A] – [(1)] During the turn this card is placed on Stage from Hand, if this card’s battle opponent is REVERSE, you may pay the cost. If you did, choose one Character in your Waiting Room with “Tohru” or “Elma” in their card name, add it to Hand."
         ],
         "attributes": [
-            "ドラゴン"
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "030",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_030.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_030.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてがカード名に「トール」か「エルマ」を含むなら、このカードのパワーを＋2000。",
+            "【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「トール」か「エルマ」を含むキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "お年頃のふたり イルル＆会田タケト",
@@ -765,22 +956,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたのカード名に「イルル」か「タケト」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】［(1)］ このカードがアタックした時、他のあなたのカード名に「イルル」か「タケト」を含むキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+            "[C] – If you have two or more other Characters with “Iruru” or “Taketo” in their card name, this card gains +1000 Power.",
+            "[A] – [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Step twice during Trigger Step."
         ],
         "attributes": [
-            "人間",
-            "ドラゴン"
+            "Human",
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "031",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_031.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_031.png",
+        "jpAbility": [
+            "【永】 他のあなたのカード名に「イルル」か「タケト」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】［(1)］ このカードがアタックした時、他のあなたのカード名に「イルル」か「タケト」を含むキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+        ]
     },
     {
         "name": "オタク同盟 ファフニール＆滝谷真",
@@ -790,24 +987,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +1000 Power."
         ],
         "attributes": [
-            "人間",
-            "ドラゴン"
+            "Human",
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "032",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_032.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_032.png",
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ]
     },
     {
         "name": "本気を出した引きこもり ファフニール",
@@ -817,24 +1020,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ この能力は1ターンにつき1回まで発動する。あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
-            "【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「オタクの真剣勝負」があるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+            "[A] – [(1)] This effect activates up to once per turn. When your Character Trigger Checks a Climax with Gold Bar as its Trigger Icon, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)",
+            "[A] – CX COMBO [(3) Send one card from Hand to Waiting Room] This effect activates up to once per turn. When this card’s battle opponent is REVERSE, if you have [オタクの真剣勝負] in your Climax Zone, you may pay the cost. If you did, STAND this card."
         ],
         "attributes": [
-            "ドラゴン",
-            "引きこもり"
+            "Dragon",
+            "Hikikomori"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "033",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_033.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_033.png",
+        "jpAbility": [
+            "【自】［(1)］ この能力は1ターンにつき1回まで発動する。あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+            "【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「オタクの真剣勝負」があるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+        ]
     },
     {
         "name": "ちょろゴン☆ブレス トール",
@@ -844,24 +1053,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-            "【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+            "[A] – When this card is placed on Stage from Hand, draw up to two cards, choose one card in your Hand, send it to Waiting Room.",
+            "[A] – [Send two cards from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, send the bottom four cards of opponent’s Deck to Waiting Room, deal X damage to your opponent. X is the amount of Climaxes sent to Waiting Room by this effect. (Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_034.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_034.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+            "【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "お気に入りの服装 トール",
@@ -871,22 +1086,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "[A] – When this card is placed on Stage from Hand, choose up to one of your opponent’s Characters, send it to Memory, your opponent places that Character from Memory to any slot on Stage.",
+            "[A] – When this card is placed on Stage from Hand, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +2000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_035.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_035.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ]
     },
     {
         "name": "メイドなドラゴン トール",
@@ -896,22 +1117,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "[C] – ASSIST All of your Characters in front of this card gains +500 Power.",
+            "[S] – [(1) Send this card to Waiting Room] Look at up to four cards from the top of your Deck, choose up to one《Human》or《Dragon》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "036",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_036.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_036.png",
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "死闘に備えて ファフニール",
@@ -921,22 +1148,29 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードの正面のキャラは他の枠に動かせない。』",
-            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[C] – ASSIST All of your Characters in front of this card gains the following effect:",
+            "-[C] – This Character across from this card cannot move to other slots.",
+            "[S] – BRAINSTORM [(1) REST two of your Characters] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, search your Deck for up to one《Human》or《Dragon》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "ドラゴン",
-            "引きこもり"
+            "Dragon",
+            "Hikikomori"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "037",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_037.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_037.png",
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードの正面のキャラは他の枠に動かせない。』",
+            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "混沌勢の最過激派 イルル",
@@ -946,22 +1180,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+            "[C] – During this card’s battle, your opponent cannot play BACKUP from Hand.",
+            "[A] – When this card attacks, if the Character across from this card is Level 2 or higher, during this turn, this card gains +6000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "038",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_038.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_038.png",
+        "jpAbility": [
+            "【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+        ]
     },
     {
         "name": "こだわりの持ち主 小林さん",
@@ -971,24 +1211,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "[A] – [(2)] When you use this card’s BACKUP, you may pay the cost. If you did, return all of your cards in Waiting Room to your Deck, shuffle your Deck afterwards.",
+            "[S] – COUNTER 2500 Power BACKUP Level 2"
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "039",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_039.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_039.png",
+        "jpAbility": [
+            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ]
     },
     {
         "name": "同僚 滝谷真",
@@ -998,24 +1244,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 このカードがアタックした時、他のあなたの「本気を出した引きこもり ファフニール」がいるなら、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+            "[C] – For each of your other《Human》or《Dragon》Characters, this card gains +1000 Power.",
+            "[A] – When this card attacks, if you have another [本気を出した引きこもり ファフニール], look at up to two cards from the top of your Deck, choose up to two cards among them, place them on top of your Deck in any order, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "人間",
-            "オタク"
+            "Human",
+            "Otaku"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_040.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_040.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 このカードがアタックした時、他のあなたの「本気を出した引きこもり ファフニール」がいるなら、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "新たな決断 ファフニール",
@@ -1025,22 +1277,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, choose one of your opponent’s Characters in Front Row, during this turn, it gets -1000 Power.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may send the top card of your opponent’s Clock to Waiting Room. If you did, send that Character to Clock."
         ],
         "attributes": [
-            "ドラゴン",
-            "引きこもり"
+            "Dragon",
+            "Hikikomori"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_041.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_041.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ]
     },
     {
         "name": "種族を超えて 小林さん",
@@ -1050,22 +1308,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［あなたの控え室の、《人間》か《ドラゴン》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』",
-            "【自】 このカードがアタックした時、あなたは自分のカード名に「イルル」を含むキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 相手のターン中、このカードのパワーを＋2000。』"
+            "[A] – [Return two《Human》or《Dragon》Characters in your Waiting Room to your Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your《Human》or《Dragon》Characters, during this turn, it gains the following effect:",
+            "-[C] – This card can Side Attack without Soul Penalty.",
+            "[A] – When this card attacks, if you have another Character with “Ilulu” in their card name, until end of opponent’s next turn, it gains the following effect:",
+            "-[C] – During your opponent’s turn, this card gains +2000 Power."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "042",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_042.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_042.png",
+        "jpAbility": [
+            "【自】［あなたの控え室の、《人間》か《ドラゴン》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』",
+            "【自】 このカードがアタックした時、あなたは自分のカード名に「イルル」を含むキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 相手のターン中、このカードのパワーを＋2000。』"
+        ]
     },
     {
         "name": "幼少期の記憶 イルル",
@@ -1075,21 +1341,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+            "[A] – [Send one card from Hand to Waiting Room] When this car is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level one or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_043.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_043.png",
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ]
     },
     {
         "name": "裏の顔 滝谷真",
@@ -1099,22 +1370,29 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-            "【自】 あなたのトリガーアイコンが[TREASURE]のクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+            "[A] – When this card is placed on Stage from Hand, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +2000 Power.",
+            "[A] – When a Climax with Gold Bar as its Trigger Icon is placed in your Climax Zone, during this turn, this card gains +1000 Power and the following effect:",
+            "-[A] – [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step."
         ],
         "attributes": [
-            "人間",
-            "オタク"
+            "Human",
+            "Otaku"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "044",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_044.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_044.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ]
     },
     {
         "name": "わるだくみ トール",
@@ -1124,49 +1402,61 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードはサイドアタックできない。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《人間》か《ドラゴン》のキャラの枚数×1000に等しい。"
+            "[C] – This card cannot Side Attack.",
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room, during this turn, this card gains +X Power. X is the number of《Human》or《Dragon》Characters sent to Waiting Room by this card’s effect x1000."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "045",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_045.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_045.png",
+        "jpAbility": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《人間》か《ドラゴン》のキャラの枚数×1000に等しい。"
+        ]
     },
     {
-        "name": "“脱皮” トール",
+        "name": "\"脱皮\" トール",
         "code": "KMD/W96-046",
         "rarity": "C",
         "expansion": "Kobayashi's Dragon Maid",
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-            "【永】 他のあなたの前列の「“脱皮” トール」1枚につき、このカードのパワーを＋2000。"
+            "[C] – You can include as many copies of this card in your Deck.",
+            "[C] – For each of your other [“脱皮” トール] in Front Row, this card gains +2000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_046.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_046.png",
+        "jpAbility": [
+            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+            "【永】 他のあなたの前列の「“脱皮” トール」1枚につき、このカードのパワーを＋2000。"
+        ]
     },
     {
         "name": "刹那の別れ ファフニール",
@@ -1176,22 +1466,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+            "[C] – All of your other《Human》or《Dragon》Characters gain +500 Power.",
+            "[A] – When your Character Trigger Checks a Climax with Bar as its Trigger Icon, choose one of your Characters, until end of opponent’s next turn, it gains +1000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "引きこもり"
+            "Dragon",
+            "Hikikomori"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "047",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_047.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_047.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ]
     },
     {
         "name": "町の治安維持 トール",
@@ -1201,24 +1497,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+            "[A] – When your Character Trigger Checks a Climax, choose one of your Characters, during this turn, it gains +1 Soul.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s, you may send the top card of your opponent’s Clock to Waiting Room. If you did, send that Character to Clock."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "048",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_048.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_048.png",
+        "jpAbility": [
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ]
     },
     {
         "name": "プレゼントを探して",
@@ -1228,19 +1530,26 @@
         "side": "W",
         "type": "Event",
         "color": "GREEN",
-        "level": "2",
-        "cost": "3",
+        "level": 2,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【カウンター】 あなたの、《人間》か《ドラゴン》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
-            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "COUNTER If you have five or more《Human》or《Dragon》Characters, choose one battling Character, during this turn, it gains the following effect:",
+            "-[C] – This card cannot deal damage to players.",
+            "Choose one of your Characters, during this turn, it gains +1500 Power."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "049",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_049.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_049.png",
+        "jpAbility": [
+            "【カウンター】 あなたの、《人間》か《ドラゴン》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
+            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ]
     },
     {
         "name": "お宝を探して",
@@ -1250,21 +1559,27 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "TREASURE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_050.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_050.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ]
     },
     {
         "name": "ドラゴンの底力",
@@ -1274,21 +1589,27 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "TREASURE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "051",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_051.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_051.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ]
     },
     {
         "name": "オタクの真剣勝負",
@@ -1298,21 +1619,27 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "TREASURE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "052",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_052.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_052.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ]
     },
     {
         "name": "休日のお出かけ トール＆カンナ＆小林さん",
@@ -1322,21 +1649,27 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+            "[A] – At the beginning of your opponent’s Attack Phase, if all of your Characters are《Human》or《Dragon》 you may send the top card of your Deck to Waiting Room. If that card is a Level 2 or lower Character, during this turn, this card gains the following effect:",
+            "-[A] – When this card is Front Attacked, you may return this card to Hand."
         ],
         "attributes": [
-            "人間",
-            "ドラゴン"
+            "Human",
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "053",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_053.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_053.png",
+        "jpAbility": [
+            "【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+        ]
     },
     {
         "name": "いたずら好きな幼竜 カンナ",
@@ -1346,22 +1679,30 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お披露目サプライズ」があり、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、次の2つの効果を好きな順番で1回ずつ行う。『あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。』『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+            "[C] – During your turn, this card gains +2000 Power.",
+            "[A] – CX COMBO When this card’s battle opponent is REVERSE, if [お披露目サプライズ] in your Climax Zone, if you have four or more other《Human》or《Dragon》Characters, perform the following two effects in any order of your choice:",
+            "-Choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand.",
+            "-You may choose one of your opponent’s Level 1 or higher Characters. If you did, your opponent chooses one Level X or lower Character in their Waiting Room, exchange them. X is the chosen Character’s Level -1."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "054",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_054.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_054.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お披露目サプライズ」があり、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、次の2つの効果を好きな順番で1回ずつ行う。『あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。』『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+        ]
     },
     {
         "name": "スク水、プール日和! カンナ",
@@ -1371,24 +1712,31 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］』を得て、このカードの正面のキャラのソウルを－1。",
-            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「みんなの待つ場所へ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「渾身のいたずら」を1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』"
+            "[C] – EXPERIENCE If the total Level of cards in your Level Zone is 4 or higher, this card gains +1000 Power, [A] – ENCORE [Send one《Human》or《Dragon》Character from Hand to Waiting Room], the Character across from this card gets -1 Soul.",
+            "[A] – CX COMBO [Send one card from Hand to Waiting Room] When this card attacks, if you have [みんなの待つ場所へ] in your Climax Zone, you may pay the cost. If you did, choose one [渾身のいたずら] in your Waiting Room, add it to Hand, until end of opponents next turn this card gains +2000 Power and the following effect:",
+            "-[C] – The Character across from this card gets -1 Soul."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "055",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_055.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_055.png",
+        "jpAbility": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］』を得て、このカードの正面のキャラのソウルを－1。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「みんなの待つ場所へ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「渾身のいたずら」を1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』"
+        ]
     },
     {
         "name": "覚醒 カンナ",
@@ -1398,22 +1746,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "056",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_056.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_056.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ]
     },
     {
         "name": "ゴーゴーちょろゴンズ！ イルル",
@@ -1423,22 +1777,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【自】【CXコンボ】［(1) あなたの舞台のキャラを1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「芽生えた感情」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置く。"
+            "[A] – When this card is placed on Stage from Hand, if you have two or more other《Human》or《Dragon》Characters, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+            "[A] – CX COMBO [(1)] Send one of your other Characters on Stage to Waiting Room] At the end of this card’s attack, if you have [芽生えた感情] in your Climax Zone, if you have six or less cards in your Hand, you may pay the cost. If you did, choose one Character with a Level is your current Level+1 or lower in your Hand, place it on any slot on Stage in REST."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "057",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_057.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_057.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】【CXコンボ】［(1) あなたの舞台のキャラを1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「芽生えた感情」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置く。"
+        ]
     },
     {
         "name": "号泣 才川リコ",
@@ -1448,22 +1808,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれたターン中、あなたのクライマックスフェイズの始めに、他のあなたの「不敵な企み カンナ」がいるなら、このカードを【リバース】する。",
-            "【自】 このカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《人間》か《ドラゴン》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+            "[A] – During the turn this card is placed on Stage from Hand, at the beginning of your Climax Phase, if you have another [不敵な企み カンナ], REVERSE this card.",
+            "[A] – When this card is REVERSE, you may reveal up to three cards from the top of your Deck. If you revealed one or more cards, choose up to one《Human》or《Dragon》Character among them, add it to Hand, choose one card in your Hand, send it to Waiting Room."
         ],
         "attributes": [
-            "人間",
-            "小学生"
+            "Human",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "058",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_058.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_058.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれたターン中、あなたのクライマックスフェイズの始めに、他のあなたの「不敵な企み カンナ」がいるなら、このカードを【リバース】する。",
+            "【自】 このカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《人間》か《ドラゴン》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ]
     },
     {
         "name": "ちょろゴン☆ブレス カンナ",
@@ -1473,23 +1839,30 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【自】［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「いたずら好きな幼竜 カンナ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【起】［このカードを【レスト】する］ あなたは自分の「いたずら好きな幼竜 カンナ」を1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+            "[C] – All of your other《Human》or《Dragon》Characters gain +500 Power.",
+            "[A] – [Send one《Human》or《Dragon》Character in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one [いたずら好きな幼竜 カンナ], reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[S] – [REST this card] Choose one of your [いたずら好きな幼竜 カンナ], during this turn, it gains +1000 Power and +1 Soul."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "059",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_059.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_059.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【自】［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「いたずら好きな幼竜 カンナ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【起】［このカードを【レスト】する］ あなたは自分の「いたずら好きな幼竜 カンナ」を1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+        ]
     },
     {
         "name": "ずっと一緒 カンナ＆才川リコ",
@@ -1499,25 +1872,32 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《人間》か《ドラゴン》のキャラの枚数に等しい。"
+            "[C] – If you have two or less Climaxes in Waiting Room, this card gets -1 Level in Hand.",
+            "[C] – EXPERIENCE If the total level of cards in your Level Zone is four or more, this card gains +1000 Power.",
+            "[A] – When this card is placed on Stage from Hand, look at up to X card from the top of your Deck. choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room. X is the number of your《Human》or《Dragon》Characters."
         ],
         "attributes": [
-            "人間",
-            "ドラゴン"
+            "Human",
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "060",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_060.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_060.png",
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《人間》か《ドラゴン》のキャラの枚数に等しい。"
+        ]
     },
     {
         "name": "不敵な企み カンナ",
@@ -1527,22 +1907,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたは他の自分の【リバース】している「号泣 才川リコ」を1枚選び、【スタンド】してよい。",
-            "【自】 このカードがアタックした時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "[A] – During the turn this card is placed on Stage from Hand, at the beginning of your Attack Phase, you may choose one of your other REVERSE [号泣 才川リコ], STAND it.",
+            "[A] – When this card attacks, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +2000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "061",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_061.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_061.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたは他の自分の【リバース】している「号泣 才川リコ」を1枚選び、【スタンド】してよい。",
+            "【自】 このカードがアタックした時、あなたは他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ]
     },
     {
         "name": "はじめての気持ち イルル",
@@ -1552,22 +1938,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
+            "[C] – All of your other《Human》or《Dragon》Characters gain +500 Power.",
+            "[S] – [REST this card] Choose one of your《Human》or《Dragon》Characters, until end of opponent’s next turn, it gains +500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "062",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_062.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_062.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
+        ]
     },
     {
         "name": "新生活の始まり 小林さん",
@@ -1577,21 +1969,26 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "063",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_063.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_063.png",
+        "jpAbility": [
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "人間との共存 イルル",
@@ -1601,21 +1998,27 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「人間との共存 イルル」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルし、そのターン中、そのキャラのパワーを＋1000し、そのキャラに次の能力を与える。『【自】 ターンの終わりに、このカードを控え室に置く。』"
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on stage from Hand, you may pay the cost. If you did, search your Deck for one [人間との共存 イルル], place it on Stage in any slot, shuffle your Deck afterwards, during this turn, that Character gains +1000 Power and the following effect:",
+            "-[A] – At the end of turn, send this card to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "064",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_064.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_064.png",
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「人間との共存 イルル」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルし、そのターン中、そのキャラのパワーを＋1000し、そのキャラに次の能力を与える。『【自】 ターンの終わりに、このカードを控え室に置く。』"
+        ]
     },
     {
         "name": "永遠の友達 才川リコ",
@@ -1625,24 +2028,30 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "[A] – When you use this card’s BACKUP, if all of your Characters are《Human》or《Dragon》, you may send the top card of your Deck to Stock.",
+            "[S] – COUNTER 2000 Power BACKUP Level 1"
         ],
         "attributes": [
-            "人間",
-            "小学生"
+            "Human",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "065",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_065.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_065.png",
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ]
     },
     {
         "name": "思春期の高校生 会田タケト",
@@ -1652,25 +2061,32 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-            "【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-            "【起】［このカードを【レスト】する］ 他のあなたの「ちょろゴン☆ブレス イルル」がいるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+            "[C] – ASSIST All of your Level 3 or higher Characters in front of this card gains +2000 Power.",
+            "[A] – When your opponent uses BRAINSTORM, if a Climax is sent to Waiting Room by that effect, choose one of your Characters, during this turn, it gains +2000 Power.",
+            "[S] – [REST this card] If you have another [ちょろゴン☆ブレス イルル], look at up to two cards from the top of your Deck, place them on top of Deck in any order."
         ],
         "attributes": [
-            "人間",
-            "駄菓子屋"
+            "Human",
+            "Candy Store"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "066",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_066.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_066.png",
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+            "【起】［このカードを【レスト】する］ 他のあなたの「ちょろゴン☆ブレス イルル」がいるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+        ]
     },
     {
         "name": "自分で選んだ居場所 カンナ",
@@ -1680,22 +2096,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋4000。",
-            "【自】［他のあなたの【スタンド】している、《人間》か《ドラゴン》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替え、自分のキャラを1枚まで選び、そのターン中、パワーを＋500。"
+            "[C] – EXPERIENCE During your turn, if the total Level of cards in your Level Zone is 2 or higher, this card gains +4000 Power.",
+            "[A] – [REST one of your other STAND《Human》or《Dragon》Characters] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one card in your Level Zone and one card in your Waiting Room, swap them, choose one of your Characters, during this turn, it gains +500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "067",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_067.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_067.png",
+        "jpAbility": [
+            "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋4000。",
+            "【自】［他のあなたの【スタンド】している、《人間》か《ドラゴン》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替え、自分のキャラを1枚まで選び、そのターン中、パワーを＋500。"
+        ]
     },
     {
         "name": "怠惰な混沌勢 イルル",
@@ -1705,22 +2127,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたのカード名に「イルル」か「タケト」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
-            "【自】［(1) このカードを控え室に置く］ 他のあなたのカード名に「イルル」か「タケト」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+            "[C] – If you have two or more other Characters with “Ilulu” or “Taketo” in their card name, this card gains +1000 Power.",
+            "[A] – [(1) Send this card to Waiting Room] When your other Character with “Ilulu” or “Taketo” in their card name is Front Attacked, you may pay the cost. If you did, return that Character to Hand"
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "068",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_068.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_068.png",
+        "jpAbility": [
+            "【永】 他のあなたのカード名に「イルル」か「タケト」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたのカード名に「イルル」か「タケト」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+        ]
     },
     {
         "name": "お互いの気持ち 小林さん",
@@ -1730,21 +2158,27 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのトリガーアイコンが[COMEBACK]のクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+            "[A] – When a Climax with Door as its Trigger Icon is placed in your Climax Zone, during this turn, this card gains +1000 Power and the following effect:",
+            "-[A] – [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "069",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_069.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_069.png",
+        "jpAbility": [
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ]
     },
     {
         "name": "新勢力！ カンナ",
@@ -1754,24 +2188,31 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「渾身のいたずら」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】 チェンジ ［(1) 手札の、《人間》か《ドラゴン》のキャラを2枚控え室に置き、このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「スク水、プール日和! カンナ」を1枚選び、このカードがいた枠に置き、次の相手のターンの終わりまで、そのキャラに次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one [渾身のいたずら], reveal it to your opponent, shuffle your Deck afterwards.",
+            "[A] – CHANGE [(1) Send two《Human》or《Dragon》Characters from your Hand to Waiting Room, return this card to Hand] At the beginning of your Climax Phase, you may pay the cost. If you did, choose on [スク水、プール日和! カンナ] in your Waiting Room, place it in this card’s previous slot, until end of opponent’s next turn, it gains the following effect:",
+            "-[C] – This card cannot be chosen by your opponent’s effects."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "070",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_070.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_070.png",
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「渾身のいたずら」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 チェンジ ［(1) 手札の、《人間》か《ドラゴン》のキャラを2枚控え室に置き、このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「スク水、プール日和! カンナ」を1枚選び、このカードがいた枠に置き、次の相手のターンの終わりまで、そのキャラに次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+        ]
     },
     {
         "name": "幼きドラゴン カンナ",
@@ -1781,23 +2222,28 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の手札をランダムに1枚選んで公開し、思い出にし、次の相手のターンの終わりに、相手はそのカードを手札に戻す。"
+            "[A] – When this card is placed on Stage from Hand, you randomly select one card in your opponent’s Hand, reveal it, send it to Memory, at the end of your opponent’s next turn, your opponent returns that card to their Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "071",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_071.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_071.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の手札をランダムに1枚選んで公開し、思い出にし、次の相手のターンの終わりに、相手はそのカードを手札に戻す。"
+        ]
     },
     {
         "name": "人間との対話 イルル",
@@ -1807,24 +2253,30 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+            "[C] – For each of your other《Human》or《Dragon》Characters, this card gains +500 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Clock to Stock."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "072",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_072.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_072.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+        ]
     },
     {
         "name": "渾身のいたずら",
@@ -1834,19 +2286,25 @@
         "side": "W",
         "type": "Event",
         "color": "RED",
-        "level": "3",
-        "cost": "0",
+        "level": 3,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "このカードは、あなたの「スク水、プール日和! カンナ」がいないなら、手札からプレイできない。",
-            "【CXコンボ】 共鳴 ［手札を1枚控え室に置き、手札の「みんなの待つ場所へ」を1枚公開する］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のカードなら、相手に3ダメージを与え、そうでないなら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+            "If you do not have [スク水、プール日和! カンナ] you cannot play this card from Hand.",
+            "CX COMBO RESONANCE [Send one card from Hand to Waiting Room, reveal one [みんなの待つ場所へ] in your Hand] You may pay the cost. If you did, reveal the top card of your Deck. If that card is a Level 0 or lower card, deal three damage to your opponent, otherwise deal one damage to your opponent, send the top card of your Clock to Waiting Room. (Climax is considered Level 0. Damage can be canceled)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "073",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_073.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_073.png",
+        "jpAbility": [
+            "このカードは、あなたの「スク水、プール日和! カンナ」がいないなら、手札からプレイできない。",
+            "【CXコンボ】 共鳴 ［手札を1枚控え室に置き、手札の「みんなの待つ場所へ」を1枚公開する］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のカードなら、相手に3ダメージを与え、そうでないなら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "お披露目サプライズ",
@@ -1856,21 +2314,27 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "074",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_074.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_074.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "みんなの待つ場所へ",
@@ -1880,21 +2344,27 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "075",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_075.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_075.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "芽生えた感情",
@@ -1904,21 +2374,26 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+            "[A] – When this card is placed into your Climax Zone from Hand, choose up to one Level one or lower Character in your Waiting Room, place it into Stock. During this turn, all of your Characters gain +1 Soul."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "076",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_076.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_076.png",
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+        ]
     },
     {
         "name": "ちょろゴン☆ブレス ルコア",
@@ -1928,21 +2403,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、レベル1以下のキャラか、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "[A] – [Send the top card of your Deck to Clock] When this card is REVERSE in battle, you may pay the cost, if all of your Characters are《Human》or《Dragon》 you may pay the cost. If you did, look at up to two cards from the top of your Deck, choose up to one Level 1 or lower Character or one Event among them, reveal it to your opponent, add it to hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "077",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_077.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_077.png",
+        "jpAbility": [
+            "【自】［あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、レベル1以下のキャラか、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "覚醒 エルマ",
@@ -1952,25 +2432,32 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+            "[C] – If you have four or more《Human》or《Dragon》Characters, this card gets -1 Level in your Hand.",
+            "[C] – For each of your opponent’s Characters in Back Row, this card gains +1000 Power.",
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "078",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_078.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_078.png",
+        "jpAbility": [
+            "【永】 あなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ]
     },
     {
         "name": "ちょろゴン☆ブレス エルマ",
@@ -1980,22 +2467,28 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【自】【CXコンボ】［手札のクライマックスを1枚控え室に置く］ あなたのキャラのトリガーチェックで「調和勢の激白」か「強者との戦い」がでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+            "[C] – All of your other《Human》or《Dragon》Characters gains +500 Power.",
+            "[A] – CX COMBO [Send one Climax from Hand to Waiting Room] When your Character Trigger Checks [調和勢の激白] or [強者との戦い], you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "079",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_079.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_079.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【自】【CXコンボ】［手札のクライマックスを1枚控え室に置く］ あなたのキャラのトリガーチェックで「調和勢の激白」か「強者との戦い」がでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "ゴーゴーちょろゴンズ！ ルコア",
@@ -2005,22 +2498,28 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、あなたのキャラすべてが《人間》か《ドラゴン》なら、このカードのパワーを＋2000。",
-            "【自】［このカードを控え室に置く］ 他のあなたの、《人間》か《ドラゴン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "[C] – During your turn, if all of your Characters are《Human》or《Dragon》 this card gains +1500 Power.",
+            "[A] – [Send this card to Waiting Room] When your other《Human》or《Dragon》Character is Front Attacked, you may pay the cost. If you did, choose one of your battling Characters, during this turn, it gains +1500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "080",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_080.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_080.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、あなたのキャラすべてが《人間》か《ドラゴン》なら、このカードのパワーを＋2000。",
+            "【自】［このカードを控え室に置く］ 他のあなたの、《人間》か《ドラゴン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ]
     },
     {
         "name": "刺激的な毎日 ルコア＆真ヶ土翔太",
@@ -2030,24 +2529,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの前列の「悪魔的な抱擁 ルコア」と後列の「魔法の才能 真ヶ土翔太」がいるなら、このカードのパワーを＋8000。",
-            "【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[C] – During your turn, if you have another [悪魔的な抱擁 ルコア] in your Front Row and [魔法の才能 真ヶ土翔太] in your Back Row, this card gains +8000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have two or more other《Human》or《Dragon》Characters, search your Deck for up to one《Human》or《Dragon》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "人間",
-            "ドラゴン"
+            "Human",
+            "Dragon"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "081",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_081.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_081.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの前列の「悪魔的な抱擁 ルコア」と後列の「魔法の才能 真ヶ土翔太」がいるなら、このカードのパワーを＋8000。",
+            "【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "ゴーゴーちょろゴンズ！ エルマ",
@@ -2057,25 +2562,34 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、このカードの下のマーカー1枚につき、あなたの「ゴーゴーちょろゴンズ！ エルマ」すべてに、パワーを＋1000。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「無限の食欲」を2枚まで選び、手札に戻す。』『あなたは自分のクロックの上から1枚を、ストック置場に置く。』",
-            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「調和勢の激白」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+            "[C] – If you have four or more other《Human》or《Dragon》Characters, for every Marker underneath this card, all of your [ゴーゴーちょろゴンズ！ エルマ] gains +1000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, perform one of the following two effects of your choice:",
+            "-Choose two [無限の食欲] in your Waiting Room, add it to Hand.",
+            "-Send the top card of your Clock to Stock.",
+            "[A] – CX COMBO When this card attacks, if you have [調和勢の激白] in your Climax Zone, you may deal one damage to your opponent. (Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "082",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_082.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_082.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、このカードの下のマーカー1枚につき、あなたの「ゴーゴーちょろゴンズ！ エルマ」すべてに、パワーを＋1000。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「無限の食欲」を2枚まで選び、手札に戻す。』『あなたは自分のクロックの上から1枚を、ストック置場に置く。』",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「調和勢の激白」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "悪魔的な抱擁 ルコア",
@@ -2085,24 +2599,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時か「魔法の才能 真ヶ土翔太」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「召喚失敗？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を下から5枚まで見て、クライマックスを2枚まで選び、クロック置場に置き、残りのカードを控え室に置く。"
+            "[A] – When this card is placed on Stage from Hand or by the [A] effect of [魔法の才能 真ヶ土翔太], you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO [(2) Send one card from Hand to Waiting Room] When this card’s battle opponent is REVERSE, if you have [召喚失敗？] in your Climax Zone, you may pay the cost. If you did, look at up to five cards card from the bottom of your opponent’s Deck, choose up to two Climaxes among them, send them to Clock, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "083",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_083.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_083.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時か「魔法の才能 真ヶ土翔太」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「召喚失敗？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を下から5枚まで見て、クライマックスを2枚まで選び、クロック置場に置き、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "ダイナマイトボディ ルコア",
@@ -2112,22 +2632,29 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 相手のターン中、このカードのパワーを＋2000。",
-            "【自】 あなたのメインフェイズの始めに、そのターン中、このカードは次の能力を得る。『【自】 あなたのアンコールステップの始めに、前列にこのカードがいて、このカードが【スタンド】しているなら、あなたはこのカードを【レスト】し、自分の山札の上から1枚を公開し、そのカードをストック置場に置き、相手にＸダメージを与える。Ｘはそのカードのトリガーアイコンの[SOUL]の合計＋1に等しい。』（ダメージキャンセルは発生する）"
+            "[C] – During your opponent’s turn, this card gains +2000 Power.",
+            "[A] – At the beginning of your Main Phase, during this turn, this card gains the following effect:",
+            "-[A] – At the beginning of your Encore Step, if this card is in Front Row, if this card is STAND, then REST it, reveal the top card of your Deck, send that card to Stock, deal X damage to your opponent. X is the number of Soul Trigger Icons that card has +1. (Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "084",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_084.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_084.png",
+        "jpAbility": [
+            "【永】 相手のターン中、このカードのパワーを＋2000。",
+            "【自】 あなたのメインフェイズの始めに、そのターン中、このカードは次の能力を得る。『【自】 あなたのアンコールステップの始めに、前列にこのカードがいて、このカードが【スタンド】しているなら、あなたはこのカードを【レスト】し、自分の山札の上から1枚を公開し、そのカードをストック置場に置き、相手にＸダメージを与える。Ｘはそのカードのトリガーアイコンのの合計＋1に等しい。』（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "甘いもの大好き エルマ",
@@ -2137,21 +2664,26 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラか「無限の食欲」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "[A] – [(1)] When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one <> or <> Character or [無限の食欲], reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "085",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_085.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_085.png",
+        "jpAbility": [
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラか「無限の食欲」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "捕食者 エルマ",
@@ -2161,22 +2693,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「強者との戦い」があり、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』『［(1)］ あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無限の食欲」を2枚まで選び、手札に戻す。』"
+            "[C] – During your turn, this card gains +2000 Power.",
+            "[A] – CX COMBO When this card’s battle opponent is REVERSE, if you have [強者との戦い] in your Climax Zone, if you have another《Human》or《Dragon》Character, perform one of the following two effects of your choice:",
+            "-Choose one Character in your Waiting Room, add it to Hand.",
+            "-[(1)] You may pay the cost. If you did, choose up to two [無限の食欲] in your Waiting Room, add them to Hand."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "086",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_086.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_086.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「強者との戦い」があり、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』『［(1)］ あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無限の食欲」を2枚まで選び、手札に戻す。』"
+        ]
     },
     {
         "name": "甘美な提案 小林さん",
@@ -2186,22 +2726,28 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無限の食欲」を1枚選び、手札に戻す。"
+            "[A] – When this card is placed in Stage from Hand, reveal the top card of your Deck, place it on top or bottom of Deck.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did choose one [無限の食欲] in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "087",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_087.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_087.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無限の食欲」を1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "巨大な翼竜 ルコア",
@@ -2211,23 +2757,28 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to bottom of Deck."
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "088",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_088.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_088.png",
+        "jpAbility": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+        ]
     },
     {
         "name": "魔法の才能 真ヶ土翔太",
@@ -2237,24 +2788,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】【CXコンボ】［(1) 手札を2枚控え室に置く］ あなたのクライマックス置場に「召喚失敗？」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「悪魔的な抱擁 ルコア」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+            "[C] – ASSIST All of your Characters in Front of this card gain +X Power. X is that Character’s Level x 500.",
+            "[A] – CX COMBO [(1) Send two cards from Hand to Waiting Room] When [召喚失敗？] is placed in your Climax Zone, you may pay the cost. If you did, search your Deck for up to one [悪魔的な抱擁 ルコア] place it on any slot on Stage, shuffle your Deck afterwards."
         ],
         "attributes": [
-            "人間",
-            "魔法使い"
+            "Human",
+            "Mage"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_089.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_089.png",
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】【CXコンボ】［(1) 手札を2枚控え室に置く］ あなたのクライマックス置場に「召喚失敗？」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「悪魔的な抱擁 ルコア」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "メイド体験 ルコア",
@@ -2264,23 +2821,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたのカード名に「ルコア」か「翔太」を含むキャラすべてに、パワーを＋500。",
-            "【自】 絆／「主人として 真ヶ土翔太」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主人として 真ヶ土翔太」を1枚選び、手札に戻す）",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+            "[C] – All of your other cards with “Lucoa” or “Shota” in their card name gains +500 Power.",
+            "[A] – BOND / [主人として 真ヶ土翔太] [Send one card from Hand to Waiting Room]",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_090.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_090.png",
+        "jpAbility": [
+            "【永】 他のあなたのカード名に「ルコア」か「翔太」を含むキャラすべてに、パワーを＋500。",
+            "【自】 絆／「主人として 真ヶ土翔太」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主人として 真ヶ土翔太」を1枚選び、手札に戻す）",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+        ]
     },
     {
         "name": "主人として 真ヶ土翔太",
@@ -2290,22 +2854,29 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom of Deck.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, perform the following effect:",
+            "-Look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
-            "人間",
-            "魔法使い"
+            "Human",
+            "Mage"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "091",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_091.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_091.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+        ]
     },
     {
         "name": "秘めたポテンシャル エルマ",
@@ -2315,22 +2886,28 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
-            "【自】 他のあなたの、《人間》か《ドラゴン》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+            "[A] – When this card is placed on Stage from Hand, you may choose one card in your Hand, send it to Stock.",
+            "[A] – When your other《Human》or《Dragon》Character attacks, during this turn, this card gains +1500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_092.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_092.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
+            "【自】 他のあなたの、《人間》か《ドラゴン》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+        ]
     },
     {
         "name": "元神 ルコア",
@@ -2340,22 +2917,28 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
-            "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+            "[A] – [(2)] When you use this card’s BACKUP, you may pay the cost. If you did, send the top card of your Clock to Waiting Room.",
+            "[S] – COUNTER 1500 Power BACKUP Level 1"
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_093.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_093.png",
+        "jpAbility": [
+            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+        ]
     },
     {
         "name": "揺らぐ信念 エルマ",
@@ -2365,23 +2948,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋500。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《人間》か《ドラゴン》のキャラか「無限の食欲」なら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-            "【自】 あなたのクライマックスフェイズの始めに、後列にこのカードがいるなら、あなたはこのカードの下のマーカーをすべて控え室に置く。"
+            "[C] – For each Marker underneath this card, this card gains +500 Power.",
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Human》or《Dragon》Character or [無限の食欲], add it to Hand, choose one card in your Hand, send it to Waiting Room. (If not return revealed card to its original positions)",
+            "[A] – At the beginning of your Climax Phase, if this card is Front Row, send all Markers underneath this card to Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "094",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_094.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_094.png",
+        "jpAbility": [
+            "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《人間》か《ドラゴン》のキャラか「無限の食欲」なら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【自】 あなたのクライマックスフェイズの始めに、後列にこのカードがいるなら、あなたはこのカードの下のマーカーをすべて控え室に置く。"
+        ]
     },
     {
         "name": "新入社員 エルマ",
@@ -2391,24 +2981,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋1000。",
-            "【自】 アンコール ［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "[C] – For each of your other《Human》or《Dragon》Characters, this card gains +1000 Power.",
+            "[A] – ENCORE [Send one《Human》or《Dragon》Character from Hand to Waiting Room]"
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_095.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_095.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 アンコール ［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ]
     },
     {
         "name": "決死の行動 小林さん",
@@ -2418,24 +3014,30 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+            "[C] – During this card’s battle, all players cannot play BACKUP from Hand.",
+            "[A] – When this card attacks, if the Character across from this card is Level 3 or higher, during this turn, this card gains +6000 Power."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "096",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_096.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_096.png",
+        "jpAbility": [
+            "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ]
     },
     {
         "name": "無限の食欲",
@@ -2445,20 +3047,28 @@
         "side": "W",
         "type": "Event",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "このカードと同じカード名のカードは、デッキに8枚まで入れることができる。このカードは、あなたのカード名に「エルマ」を含むキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の山札の上から1枚を公開する。そのカードが《人間》か《ドラゴン》のキャラか「無限の食欲」なら手札に加える。（そうでないなら元に戻す）",
-            "あなたはこのカードを自分の、「ゴーゴーちょろゴンズ！ エルマ」か「揺らぐ信念 エルマ」の下にマーカーとして表向きに置いてよい。"
+            "You can run up to eight copies of this card in your Deck.",
+            "If you do not have a Character with “Elma” in their card name, you cannot play this card from Hand.",
+            "Reveal the top card of your Deck. If that card is a《Human》or《Dragon》Character or [無限の食欲], add it to Hand. (If not return card to its original position)",
+            "You may choose one [ゴーゴーちょろゴンズ！ エルマ] or [捕食者 エルマ], place this card underneath that card faceup as a Marker."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "097",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_097.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_097.png",
+        "jpAbility": [
+            "このカードと同じカード名のカードは、デッキに8枚まで入れることができる。このカードは、あなたのカード名に「エルマ」を含むキャラがいないなら、手札からプレイできない。",
+            "あなたは自分の山札の上から1枚を公開する。そのカードが《人間》か《ドラゴン》のキャラか「無限の食欲」なら手札に加える。（そうでないなら元に戻す）",
+            "あなたはこのカードを自分の、「ゴーゴーちょろゴンズ！ エルマ」か「揺らぐ信念 エルマ」の下にマーカーとして表向きに置いてよい。"
+        ]
     },
     {
         "name": "調和勢の激白",
@@ -2468,22 +3078,28 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "098",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_098.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_098.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "強者との戦い",
@@ -2493,21 +3109,27 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "DRAW"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "099",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_099.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_099.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ]
     },
     {
         "name": "召喚失敗？",
@@ -2517,22 +3139,28 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_100.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_100.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "演奏もおまかせ トール",
@@ -2542,21 +3170,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
+            "[C] – If this card is in Front Row Center Slot, this card gains +1 Level and +2500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "101",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_101.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_101.png",
+        "jpAbility": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
+        ]
     },
     {
         "name": "人間の覚悟 小林さん",
@@ -2566,22 +3199,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。"
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, during this turn, this card gains +3000 Power."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "102",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_102.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_102.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。"
+        ]
     },
     {
         "name": "焦燥 カンナ",
@@ -2591,24 +3230,30 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "[A] – When you use this card’s BACKUP, send the top three cards of your Deck to Waiting Room.",
+            "[S] – COUNTER 2000 Power BACKUP Level 1"
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "103",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_103.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_103.png",
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ]
     },
     {
         "name": "知らなかった世界 イルル",
@@ -2618,24 +3263,30 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "2",
+        "level": 2,
+        "cost": 2,
+        "power": 7500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 アンコール ［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "[C] – If you have two or more other《Human》or《Dragon》Characters, this card gains +2000 Power.",
+            "[A] – ENCORE [Send one 《Human》or《Dragon》 Character from Hand to Waiting Room]"
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "104",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_104.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_104.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札の、《人間》か《ドラゴン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ]
     },
     {
         "name": "炸裂‼ちょろゴン☆ブレス",
@@ -2645,8 +3296,10 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -2669,8 +3322,10 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -2694,8 +3349,10 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -2719,8 +3376,10 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
@@ -2743,22 +3402,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "[C] – During your turn, all of your other《Human》or《Dragon》Characters gain +500 Power.",
+            "[S] – [(1) REST this card] Flip the top five cards of your Deck, send them to Waiting Room. For each Climax among those cards, draw up to one card."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T01",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t01.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t01.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+        ]
     },
     {
         "name": "恋路の応援 カンナ",
@@ -2768,21 +3433,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻し、他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your《Human》or《Dragon》Characters in Waiting Room, add it to Hand, choose one of your other《Human》or《Dragon》Characters, during this turn, it gains +1000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T02",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t02.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t02.png",
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻し、他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ]
     },
     {
         "name": "プールサイドの誘惑 トール",
@@ -2792,22 +3462,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+            "[C] – All of your opponent’s Characters gain ENCORE – [(2)].",
+            "[A] – At the beginning of your opponent’s Attack Phase, you may move this card to an empty center slot in your Front Row."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T03",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t03.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t03.png",
+        "jpAbility": [
+            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+        ]
     },
     {
         "name": "拾い食い カンナ",
@@ -2817,21 +3493,26 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +2500 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T04",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t04.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t04.png",
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ]
     },
     {
         "name": "自称最強メイド トール",
@@ -2841,22 +3522,28 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、あなたのキャラすべてが《人間》か《ドラゴン》なら、このカードのパワーを＋2000。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「最高の思い出作り」があるなら、あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "[C] – During your turn, if all of your Characters are《Human》or《Dragon》 this card gains +2000 Power.",
+            "[A] – CX COMBO When this card’s battle opponent is REVERSE, if you have [最高の思い出作り] in your Climax Zone, look at up to four cards from the top of your Deck, choose up to one《Human》or《Dragon》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room, choose one of your Characters, during this turn, it gains +2000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T05",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t05.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t05.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、あなたのキャラすべてが《人間》か《ドラゴン》なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「最高の思い出作り」があるなら、あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ]
     },
     {
         "name": "思春期の到来 イルル",
@@ -2866,24 +3553,30 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋4000。",
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、ストック置場に置いてよい。"
+            "[A] – When this card is placed on Stage from Hand, if you have another《Human》or《Dragon》Character, during this turn, this card gains +4000 Power.",
+            "[A] – When this card is placed on Stage from Hand, if you have four or more other《Human》or《Dragon》Characters, you may choose one《Human》or《Dragon》Character in your Waiting Room, send it to Stock."
         ],
         "attributes": [
-            "ドラゴン",
-            "混沌勢"
+            "Dragon",
+            "Chaos Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T06",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t06.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t06.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋4000。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、ストック置場に置いてよい。"
+        ]
     },
     {
         "name": "モデルポーズ ルコア",
@@ -2893,24 +3586,31 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, look at the top card of your Deck, place it on top of Deck or Waiting Room."
         ],
         "attributes": [
-            "ドラゴン",
-            "傍観勢"
+            "Dragon",
+            "Spectating Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T07",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t07.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t07.png",
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
+        ]
     },
     {
         "name": "あなただけの専属メイド トール",
@@ -2920,24 +3620,30 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card’s battle opponent is REVERSE, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "メイド"
+            "Dragon",
+            "Maid"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T08",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t08.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t08.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "見返り和装 カンナ",
@@ -2947,24 +3653,31 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたはこのカード以外のすべてのプレイヤーのキャラすべてを、控え室に置いてよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）",
-            "【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+            "[A] – During the turn this card is placed on Stage from Hand, at the beginning of your Attack Phase, you may send all other player’s Characters to Waiting Room. If you did, during this turn, this card gains the following effect:",
+            "-[A] – This effect activates up to once per turn. When this card’s damage is canceled, you may deal three damage to your opponent.",
+            "[A] – [Send two cards from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
         ],
         "attributes": [
-            "ドラゴン",
-            "小学生"
+            "Dragon",
+            "Elementary School Student"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T09",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t09.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t09.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたはこのカード以外のすべてのプレイヤーのキャラすべてを、控え室に置いてよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+            "【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "最高の思い出作り",
@@ -2974,21 +3687,27 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "T10",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t10.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t10.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ]
     },
     {
         "name": "あなたと見た景色",
@@ -2998,21 +3717,26 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+            "[C] – All of your Characters gain +2 Soul."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "T11",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t11.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t11.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ]
     },
     {
         "name": "至福の時間 小林さん",
@@ -3022,22 +3746,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
-            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+            "[C] – All of your other《Human》or《Dragon》Characters gain +500 Power.",
+            "[S] – [(2) REST this card] Choose one《Human》or《Dragon》Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T12",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t12.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t12.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《人間》か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "平穏な日常生活 小林さん",
@@ -3047,22 +3777,29 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「はじめてのパソコン エルマ」すべてに、パワーを＋500し、次の能力を与える。『【自】［このカードを控え室に置く］ 他のあなたの、《人間》か《ドラゴン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。』",
-            "【自】 絆／「はじめてのパソコン エルマ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「はじめてのパソコン エルマ」を1枚選び、手札に戻す）"
+            "[C] – All of your other [じめてのパソコン エルマ] gain +500 Power and the following effect:",
+            "-[A] – [Send this card to Waiting Room] When your other《Human》or《Dragon》Character is Front Attacked, you may pay the cost. If you did, choose one of your battling Characters, during this turn, it gains +1500 Power.",
+            "[A] – BOND / [じめてのパソコン エルマ] [Send one card from Hand to Waiting Room]"
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T13",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t13.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t13.png",
+        "jpAbility": [
+            "【永】 他のあなたの「はじめてのパソコン エルマ」すべてに、パワーを＋500し、次の能力を与える。『【自】［このカードを控え室に置く］ 他のあなたの、《人間》か《ドラゴン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。』",
+            "【自】 絆／「はじめてのパソコン エルマ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「はじめてのパソコン エルマ」を1枚選び、手札に戻す）"
+        ]
     },
     {
         "name": "聖海の巫女 エルマ",
@@ -3072,21 +3809,26 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+            "[A] – When this card is placed on Stage from Hand, if you have another《Human》or《Dragon》Character, during this turn, this card gains +2000 Power."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T14",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t14.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t14.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+        ]
     },
     {
         "name": "はじめてのパソコン エルマ",
@@ -3096,8 +3838,10 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
         "ability": [
@@ -3120,23 +3864,28 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+            "[S] – COUNTER 2500 Power BACKUP Level 1"
         ],
         "attributes": [
-            "人間",
-            "社畜SE"
+            "Human",
+            "Company Slave SE"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T16",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t16.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t16.png",
+        "jpAbility": [
+            "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ]
     },
     {
         "name": "参戦！ ファフニール",
@@ -3146,24 +3895,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2000。",
-            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+            "[C] – For each of your opponent’s Characters in Back Row, this card gains +2000 Power.",
+            "[A] – [(1)] At the beginning of Encore Step, if you have no other REST Characters, you may pay the cost. If you did, REST this card."
         ],
         "attributes": [
-            "ドラゴン",
-            "引きこもり"
+            "Dragon",
+            "Hikikomori"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T17",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t17.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t17.png",
+        "jpAbility": [
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2000。",
+            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+        ]
     },
     {
         "name": "調和勢 エルマ",
@@ -3173,24 +3928,30 @@
         "side": "W",
         "type": "Character",
         "color": "GREEN",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《人間》か《ドラゴン》のキャラの枚数×1000に等しい。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your《Human》or《Dragon》Characters x1000.",
+            "[A] – When this card’s battle opponent is REVERSE, you may send that Character to Memory."
         ],
         "attributes": [
-            "ドラゴン",
-            "調和勢"
+            "Dragon",
+            "Harmony Faction"
         ],
         "set": "KMD",
         "release": "W96",
         "sid": "T18",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t18.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t18.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《人間》か《ドラゴン》のキャラの枚数×1000に等しい。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+        ]
     },
     {
         "name": "信頼のハイタッチ",
@@ -3200,18 +3961,23 @@
         "side": "W",
         "type": "Event",
         "color": "GREEN",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "Choose one of your Characters, send it to Waiting Room. If you did, search your Deck for up to one Climax, add it to Hand, reveal it to your opponent, shuffle your Deck afterwards."
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "T19",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t19.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t19.png",
+        "jpAbility": [
+            "あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "ドタバタショッピング",
@@ -3221,20 +3987,26 @@
         "side": "W",
         "type": "Climax",
         "color": "GREEN",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "POOL"
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[POOL]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bag: When this card is triggered, you may place the top card of your Deck into Stock.)"
         ],
         "attributes": [],
         "set": "KMD",
         "release": "W96",
         "sid": "T20",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t20.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t20.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ]
     }
 ]
