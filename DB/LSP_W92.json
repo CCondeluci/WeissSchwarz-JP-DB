@@ -2853,17 +2853,22 @@
         "color": "RED",
         "level": 0,
         "cost": 0,
+        "power": 500,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[C] – All of your other [スクールアイドル 澁谷 かのん] gain +1000 Power.",
+            "[A] – BOND / [スクールアイドル 澁谷 かのん] [(1)] (When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [スクールアイドル 澁谷 かのん] in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
             "【永】 他のあなたの「スクールアイドル 澁谷 かのん」すべてに、パワーを＋1000。",
             "【自】 絆／「スクールアイドル 澁谷 かのん」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「スクールアイドル 澁谷 かのん」を1枚選び、手札に戻す）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T01",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t01.png"
     },
@@ -2877,17 +2882,22 @@
         "color": "RED",
         "level": 0,
         "cost": 0,
+        "power": 1000,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +1000 Power.",
+            "[A] – [Place one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
             "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
             "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T02",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t02.png"
     },
@@ -2901,17 +2911,22 @@
         "color": "RED",
         "level": 0,
         "cost": 0,
+        "power": 1500,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[A] – When your other《Music》Character or this card is placed on Stage from Hand, you may look at the top card of your Deck. (Return card to its original position)",
+            "[S] – [REST this card] Choose one of your《Music》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
             "【自】 他のあなたの《音楽》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
             "【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T03",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t03.png"
     },
@@ -2925,16 +2940,20 @@
         "color": "RED",
         "level": 0,
         "cost": 0,
+        "power": 4000,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[C] – All of your opponnent’s Characters gain [[C] – ENCORE [(2)] ]."
+        ],
+        "jpAbility": [
             "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T04",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t04.png"
     },
@@ -2948,17 +2967,22 @@
         "color": "RED",
         "level": 1,
         "cost": 0,
+        "power": 4500,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have three or less Stock, you may send that Character to top of Deck."
+        ],
+        "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
             "【自】 このカードのバトル相手が【リバース】した時、あなたのストックが3枚以下なら、あなたはそのキャラを山札の上に置いてよい。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T05",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t05.png"
     },
@@ -2972,16 +2996,20 @@
         "color": "RED",
         "level": 1,
         "cost": 0,
+        "power": 4500,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose one of your other《Music》Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T06",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t06.png"
     },
@@ -2995,16 +3023,18 @@
         "color": "RED",
         "level": 1,
         "cost": 0,
+        "power": 5500,
         "trigger": [],
         "flavor_text": "",
-        "ability": [
-            "-"
+        "ability": [],
+        "jpAbility": [
+            "–"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T07",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t07.png"
     },
@@ -3018,18 +3048,22 @@
         "color": "RED",
         "level": 2,
         "cost": 1,
+        "power": 3500,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[C] – During your turn, this card gains +10000 Power."
+        ],
+        "jpAbility": [
             "【永】 あなたのターン中、このカードのパワーを＋10000。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T08",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t08.png"
     },
@@ -3043,19 +3077,24 @@
         "color": "RED",
         "level": 2,
         "cost": 2,
+        "power": 7000,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[A] – When your other《Music》Character attacks, during this turn, this card gains +2000 Power.",
+            "[A] – ENCORE [Place one《Music》Character from your Hand to Waiting Room]"
+        ],
+        "jpAbility": [
             "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
             "【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T09",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t09.png"
     },
@@ -3069,16 +3108,20 @@
         "color": "RED",
         "level": 2,
         "cost": 2,
+        "power": 0,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "Choose up to two Characters in your Waiting Room, add them to Hand."
+        ],
+        "jpAbility": [
             "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T10",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t10.png"
     },
@@ -3092,19 +3135,24 @@
         "color": "RED",
         "level": 0,
         "cost": 0,
+        "power": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
         "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T11",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t11.png"
     },
@@ -3118,19 +3166,23 @@
         "color": "RED",
         "level": 0,
         "cost": 0,
+        "power": 0,
         "trigger": [
             "SOUL",
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[C] – All of your Characters gain +2 Soul."
+        ],
+        "jpAbility": [
             "【永】 あなたのキャラすべてに、ソウルを＋2。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T12",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t12.png"
     },
@@ -3144,17 +3196,22 @@
         "color": "BLUE",
         "level": 0,
         "cost": 0,
+        "power": 500,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[A] – [(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Music》Character, show it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, draw up to one card."
+        ],
+        "jpAbility": [
             "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
             "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T13",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t13.png"
     },
@@ -3168,17 +3225,22 @@
         "color": "BLUE",
         "level": 0,
         "cost": 0,
+        "power": 3000,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[C] – This card cannot Side Attack.",
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room, during this turn, this card gains +X Power. X is the number of《Music》Characters sent to Waiting Room by this effect x1000."
+        ],
+        "jpAbility": [
             "【永】 このカードはサイドアタックできない。",
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T14",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t14.png"
     },
@@ -3192,18 +3254,22 @@
         "color": "BLUE",
         "level": 1,
         "cost": 1,
+        "power": 1000,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[S] – COUNTER Level 1 2500 Power BACKUP"
+        ],
+        "jpAbility": [
             "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T15",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t15.png"
     },
@@ -3217,17 +3283,22 @@
         "color": "BLUE",
         "level": 1,
         "cost": 1,
+        "power": 5500,
         "trigger": [],
         "flavor_text": "",
         "ability": [
+            "[C] – If all of your Characters are《Music》, this card gains +2000 Power.",
+            "[A] – ENCORE [Place the top card of your Deck into Clock]"
+        ],
+        "jpAbility": [
             "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。",
             "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T16",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t16.png"
     },
@@ -3241,19 +3312,24 @@
         "color": "BLUE",
         "level": 2,
         "cost": 1,
+        "power": 2500,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gain +X Power. X is that Character’s Level x500.",
+            "[S] – [REST this card] Draw one card, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
             "【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T17",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t17.png"
     },
@@ -3267,19 +3343,24 @@
         "color": "BLUE",
         "level": 3,
         "cost": 2,
+        "power": 9500,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at up to three cards from the top of your Deck, place them on top of your Deck in any order, choose up to one of your opponent’s Characters, return it to Hand.",
+            "[S] – [(1)] Choose one of your《Music》Characters, during this turn, it gains +1 Soul."
+        ],
+        "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
             "【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T18",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t18.png"
     },
@@ -3293,19 +3374,24 @@
         "color": "BLUE",
         "level": 3,
         "cost": 2,
+        "power": 10000,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
         "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO When this card attacks, if [私立結ヶ丘女子高等学校1年生] is in your Climax Zone, send the bottom four cards of your opponent’s Deck to Waiting Room, deal X damage to your opponent. X is the number of Climaxes among those cards. (Damage can be cancelled)"
+        ],
+        "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
             "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「私立結ヶ丘女子高等学校1年生」があるなら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T19",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t19.png"
     },
@@ -3319,20 +3405,25 @@
         "color": "BLUE",
         "level": 0,
         "cost": 0,
+        "power": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
         "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
         ],
         "attributes": [
-            "音楽"
+            "Music"
         ],
         "set": "LSP",
-        "release": "W92",
+        "release": "92",
         "sid": "T20",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t20.png"
     }
