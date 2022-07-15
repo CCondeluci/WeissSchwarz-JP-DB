@@ -1,0 +1,4335 @@
+[
+    {
+        "name": "秋色ハイ、ターッチ♪　高槻やよい",
+        "code": "IAS/S93-003",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Music》Characters, this card gains +2000 Power.",
+            "[A] – CX COMBO [(3) Send one《Music》Character from Hand to Waiting Room] This effect activates up to once per turn. At the end of this card’s attack, if you have [Deep, Deep Blue] in your Climax Zone, if you have two or more other《Music》Characters, you may pay the cost. If you did, STAND this card, choose up to three cards in your opponent’s Waiting Room, return them to Deck, your opponent shuffles their Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】［(3) 手札の《音楽》のキャラを1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「Deep, Deep Blue」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Family"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_003.png"
+    },
+    {
+        "name": "うきうきスイートタイム　双海真美",
+        "code": "IAS/S93-005",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if you have two or more other《Music》Characters, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+            "[A] – [(1) Send one《Music》Character from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Twins"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_005.png"
+    },
+    {
+        "name": "恋する視線　星井美希",
+        "code": "IAS/S93-010",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – This effect activates up to two times per turn. When your other《Music》Character is placed on Stage from Hand, during this turn, this card gains +1000 Power.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When your other《Music》Character is Front Attacked, you may pay the cost. If you did, return that Character to Hand."
+        ],
+        "jpAbility": [
+            "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたの《音楽》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Nails"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_010.png"
+    },
+    {
+        "name": "ウォータードリーム　三浦あずさ",
+        "code": "IAS/S93-011",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, all of your other《Music》Characters gain +1000 Power.",
+            "[S] – [(1) Send one card from Hand to Waiting Room, REST this card] Look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+            "【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Fortune Telling"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_011.png"
+    },
+    {
+        "name": "秋を彩るエンターテイナー　双海亜美",
+        "code": "IAS/S93-017",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if you have four or more other《Music》Characters, you may choose one《Music》Character in your Waiting Room, send it to Stock.",
+            "[A] – When this card attacks, choose one of your《Music》Characters, during this turn, it gains +X Power. X is the number of your《Music》Characters x1000."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+            "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "Music",
+            "Twins"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_017.png"
+    },
+    {
+        "name": "迷子の特等席　三浦あずさ",
+        "code": "IAS/S93-019",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other [夕映えに歌声を 如月千早] gains the following effect:",
+            "-[A] – [(1)] When this card attacks, if you have two or more other《Music》Characters, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand.",
+            "[C] – All of your other《Music》Characters gain +500 Power.",
+            "[S] – [(1) REST this card] If you have another [夕映えに歌声を 如月千早], choose one of your Characters, during this turn, it gains +2000 Power, perform the following effect four times:",
+            "-You may send the top three cards of your Deck to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「夕映えに歌声を　如月千早」すべてに、次の能力を与える。『【自】［(1)］ このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。』",
+            "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+            "【起】［(1) このカードを【レスト】する］ 他のあなたの「夕映えに歌声を　如月千早」がいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の行動を4回行う。『あなたは自分の山札の上から3枚を、控え室に置いてよい。』"
+        ],
+        "attributes": [
+            "Music",
+            "Fortune Telling"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_019.png"
+    },
+    {
+        "name": "スプライトイルミネーション　高槻やよい",
+        "code": "IAS/S93-025",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have another《Music》Character, during this turn, this card gains +1500 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, choose one of your other《Music》Characters, REST it, move it to an empty slot in Back Row."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "Music",
+            "Family"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_025.png"
+    },
+    {
+        "name": "神懸りし舞調べ　星井美希",
+        "code": "IAS/S93-026",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one of your《Music》Character on Stage to Waiting Room] When you use this card’s BACKUP, you may pay the cost. If you did, choose one of your opponent’s Characters, during this turn, it gets -1 Soul.",
+            "[S] – COUNTER 2500 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】［(1) あなたの舞台の《音楽》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－1。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "Music",
+            "Nails"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_026.png"
+    },
+    {
+        "name": "ときめきハプニング　双海亜美",
+        "code": "IAS/S93-028",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax along those cards, choose one of your Characters, during this turn, it gains +1500 Power.",
+            "[A] – When this card is placed on Stage from Hand, choose one of your《Music》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Music",
+            "Twins"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_028.png"
+    },
+    {
+        "name": "砂浜のグラビアアイドル　双海真美",
+        "code": "IAS/S93-033",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, reveal the top card of your Deck. If that card is a《Music》Character, add it to Hand, choose one card in your Hand, send it to Waiting Room. (If not return revealed card to its original position)",
+            "[S] – COUNTER 2000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "Music",
+            "Twins"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_033.png"
+    },
+    {
+        "name": "Deep, Deep Blue",
+        "code": "IAS/S93-038",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_038.png"
+    },
+    {
+        "name": "ブランニュー・シーナリー　萩原雪歩",
+        "code": "IAS/S93-045",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have two or more other《Music》Characters, this card gains +2000 Power and the following effect:",
+            "-[A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Level 0 or lower《Music》Character in your Waiting Room, place it on any slot on Stage."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Tea"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_045.png"
+    },
+    {
+        "name": "桃色スマイル♪　菊地 真",
+        "code": "IAS/S93-049",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – Your other《Music》Character in Front Row Center Slot gains +1500 Power.",
+            "[S] – [REST this card] Reveal the top card of your Deck. If that card is a《Music》Character, choose one of your Characters, during this turn, it gains +1000 Power. (Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの前列の中央の枠の《音楽》のキャラに、パワーを＋1500。",
+            "【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Music",
+            "Karate"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_049.png"
+    },
+    {
+        "name": "優しく告げる春の足音　我那覇 響",
+        "code": "IAS/S93-050",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] – At the beginning of opponent’s Draw Phase, reveal the top card of your Deck. If that card is Level 1 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Music",
+            "Animal"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_050.png"
+    },
+    {
+        "name": "つながる笑顔　天海春香",
+        "code": "IAS/S93-060",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If all of your Characters are《Music》, this card gains the following two effects:",
+            "-[A] – During opponent’s turn, when damage dealt to you isn’t canceled, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "-[A] – ENCORE – [Send one Character from Hand to Waiting Room]",
+            "[A] – CX COMBO [(2)] When this card attacks, if you have [LEADER!!] in your Climax Zone, if you have four or more other《Music》Characters, you may pay the cost. If you did, deal three damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《音楽》なら、このカードは次の2つの能力を得る。『【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』",
+            "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「LEADER!!」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_060.png"
+    },
+    {
+        "name": "小さなスノードロップ　萩原雪歩",
+        "code": "IAS/S93-062",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO When [ラビットファー] is placed in your Climax Zone, if you have another《Music》Character, reveal the top card of your Deck. If that card is a《Music》Character add it to Hand. (If not return card to its original position)",
+            "[S] – BRAINSTORM [(1)] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards perform the following effect:",
+            "-Look at up to three cards from the top of your Deck. choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】 あなたのクライマックス置場に「ラビットファー」が置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加える。（そうでないなら元に戻す）",
+            "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。』"
+        ],
+        "attributes": [
+            "Music",
+            "Tea"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_062.png"
+    },
+    {
+        "name": "大航海の、その先へ！　菊地 真",
+        "code": "IAS/S93-064",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Music》Characters, this card gains +2000 Power.",
+            "[A] – When this card attacks, if all of your Characters are《Music》, look at up to two cards from the top of your Deck, choose one card among them, place it on top of Deck, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 このカードがアタックした時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Karate"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_064.png"
+    },
+    {
+        "name": "空にこだまする歌声　我那覇 響",
+        "code": "IAS/S93-068",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Music》or《Animal》Characters in your Front Row, this card gains +2000 Power.",
+            "[A] – ENCORE [Send one Character from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの前列の、《音楽》か《動物》のキャラ1枚につき、このカードのパワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Music",
+            "Animal"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_068.png"
+    },
+    {
+        "name": "伝説を継ぐ者へ　天海春香",
+        "code": "IAS/S93-071",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Return two Characters in your Waiting Room to your Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, draw one card, choose one card in your Hand, send it to Waiting Room.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Sweets"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_071.png"
+    },
+    {
+        "name": "LEADER!!",
+        "code": "IAS/S93-081",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_081.png"
+    },
+    {
+        "name": "ラビットファー",
+        "code": "IAS/S93-082",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_082.png"
+    },
+    {
+        "name": "スノーファンタジーナイト　四条貴音",
+        "code": "IAS/S93-084",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If this card has a Marker underneath it, this card gains +2000 Power.",
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, you may place it underneath this card face down as a Marker. (If not return card to its original position)",
+            "[A] – At the beginning of opponent’s Attack Phase, you may move this card to an empty Front Row Center Slot."
+        ],
+        "jpAbility": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "高貴"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_084.png"
+    },
+    {
+        "name": "アクアマリンマーメイド　如月千早",
+        "code": "IAS/S93-090",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom of Deck.",
+            "[A] – CX COMBO [Return this card to Hand] When [LEADER!!] is placed in your Climax Zone, if you have another《Music》Character, you may pay the cost. If you did, choose one of your Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card attacks, during this attack, perform Trigger Check twice during Trigger Step."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【自】【CXコンボ】［このカードを手札に戻す］ あなたのクライマックス置場に「LEADER!!」が置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ],
+        "attributes": [
+            "Music",
+            "Camera"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_090.png"
+    },
+    {
+        "name": "月光ファンタジア　水瀬伊織",
+        "code": "IAS/S93-093",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Music》Characters, this card gains +1500 Power and [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[A] – When this card attacks, choose one of your other《Music》Characters, during this turn, it gains +X Power. X is that Character’s Soul x1000."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+        ],
+        "attributes": [
+            "Music",
+            "Stuffed Animal"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_093.png"
+    },
+    {
+        "name": "知性派ハイカラ娘　秋月律子",
+        "code": "IAS/S93-097",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If all of your Characters are《Music》this card gains the following two effects:",
+            "-[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Music》Characters in Back Row x2000.",
+            "[A] – ENCORE [Send one Character from Hand to Waiting Room]",
+            "[A] – [Send this card to Waiting Room] When your other《Music》Character is Front Attacked, you may pay the cost. If you did, choose one of your battling Characters, during this turn, it gains +3000 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《音楽》なら、このカードは次の2つの能力を得る。『【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの後列の《音楽》のキャラの枚数×2000に等しい。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』",
+            "【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+        ],
+        "attributes": [
+            "Music",
+            "Glasses"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_097.png"
+    },
+    {
+        "name": "一夜限りの魔法　水瀬伊織",
+        "code": "IAS/S93-102",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, choose one of your Characters, during this turn, it gains +1000 Power.",
+            "[A] – [Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Stuffed Animal"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_102.png"
+    },
+    {
+        "name": "アイドルの試練　如月千早",
+        "code": "IAS/S93-109",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When a Climax is placed in your Climax Zone, during this turn, this card gains +1500 Power.",
+            "[A] – When this card attacks, if the Character across from this card is Level 3 or higher, during this turn, this card gains +6000 Power."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "Music",
+            "Camera"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "109",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_109.png"
+    },
+    {
+        "name": "麗しきエルディスト　四条貴音",
+        "code": "IAS/S93-114",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Music》Characters, this card gains +500 Power.",
+            "[A] – CX COMBO When this card attacks, if you have [瞳の中のシリウス] in your Climax Zone, you may choose one《Music》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「瞳の中のシリウス」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "高貴"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "114",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_114.png"
+    },
+    {
+        "name": "万全のサポート　秋月律子",
+        "code": "IAS/S93-115",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Music》Characters ×500.",
+            "[A] – ENCORE [Send one Character from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Music",
+            "Glasses"
+        ],
+        "set": "IAS",
+        "release": "93",
+        "sid": "115",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_115.png"
+    },
+    {
+        "name": "瞳の中のシリウス",
+        "code": "IAS/S93-123",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "123",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_123.png"
+    },
+    {
+        "name": "Deep, Deep Blue",
+        "code": "IAS/S93-125",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "125",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_125.png"
+    },
+    {
+        "name": "LEADER!!",
+        "code": "IAS/S93-134",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "134",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_134.png"
+    },
+    {
+        "name": "ラビットファー",
+        "code": "IAS/S93-135",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IAS",
+        "release": "93",
+        "sid": "135",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_135.png"
+    },
+    {
+        "name": "聖夜を飾る雪だるま　宮尾美也",
+        "code": "IMS/S93-001",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [REST this card] Reveal the top card of your Deck. If that card is Level 1 or higher, place it on top or bottom of Deck. (Climax is considered Level 0. Return revealed card to its original position)",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはそのカードを山札の上か下に置く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Shogi"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_001.png"
+    },
+    {
+        "name": "水上のユーフォリア　伊吹 翼",
+        "code": "IMS/S93-002",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if all of your Characters are《Music》, this card gains +2000 Power.",
+            "[A] – CX COMBO [Send one card from Hand to Waiting Room] When this card attacks, if you have [サンルズム・オーケストラ] in your Climax Zone, if you have another《Music》Character, you may pay the cost. If you did, look at up to four cards from the top of your Deck choose up to two《Music》Characters or [フラスタ] among them, reveal them to your opponent, add them to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「サンリズム・オーケストラ♪」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラか「フラスタ」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Fashionable"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_002.png"
+    },
+    {
+        "name": "ウインタースノーマジック　桜守歌織",
+        "code": "IMS/S93-004",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO When [Reach 4 the Dre@m!] is placed in your Climax Zone, if this card is in Front Row, choose one of your other《Music》Characters, during this turn, it gains the following two effects:",
+            "-[A] – [Send two《Music》Character from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, deal one damage to your opponent, during this turn, it gains +1000 Power.",
+            "-[A] – This effect activates up to once per turn. When this card’s dealt damage is canceled, you may deal two damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「Reach 4 the Dre@m!」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、次の2つの能力を与える。『【自】［手札の《音楽》のキャラを2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋1000。』『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に2ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music",
+            "Teacher"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_004.png"
+    },
+    {
+        "name": "いたずら大作戦　大神 環",
+        "code": "IMS/S93-006",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [REST two of your STAND Characters] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send the top card of your Deck to Stock.",
+            "[A] – At the beginning of your Climax Phase, choose one of your《Music》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】［あなたの【スタンド】しているキャラを2枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Music",
+            "Exploration"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_006.png"
+    },
+    {
+        "name": "寿の華、ごらんあれ！　箱崎星梨花",
+        "code": "IMS/S93-007",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Sheltered Girl"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_007.png"
+    },
+    {
+        "name": "クリスマス・ミッション　望月杏奈",
+        "code": "IMS/S93-008",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – EXPERIENCE If you have another [幸せはラージサイズで 七尾百合子], all of your other《Music》Characters gain + X Power. X is the number of colors in your Level Zone x500.",
+            "[S] – CX COMBO [(2)] If you have another [幸せはラージサイズで 七尾百合子], search your Deck for up to one [成長Chu→Lover!!], place it in your Climax Zone, shuffle your Deck afterwards, choose one of your Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 経験 他のあなたの「幸せはラージサイズで　七尾百合子」がいるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル置場のカードの持つ色の合計×500に等しい。",
+            "【起】【CXコンボ】［(2)］ 他のあなたの「幸せはラージサイズで　七尾百合子」がいるなら、あなたは自分の山札を見て「成長Chu→LOVER!!」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Music",
+            "Game"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_008.png"
+    },
+    {
+        "name": "オレンジの空の下　豊川風花",
+        "code": "IMS/S93-009",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have another《Music》Character, this card gains +1500 Power.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Music》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Nurse"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_009.png"
+    },
+    {
+        "name": "光照らす鼓草　木下ひなた",
+        "code": "IMS/S93-012",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, choose one of your Characters, during this turn, it gains +2000 Power. (Return revealed card to its original position)",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is cost 0 or lower, you may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Apple"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_012.png"
+    },
+    {
+        "name": "ドキドキの瞬間　篠宮可憐",
+        "code": "IMS/S93-013",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand.",
+            "[S] – [(1) Send this card to Waiting Room] Choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Aroma"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_013.png"
+    },
+    {
+        "name": "レディーオンザビーチ　馬場このみ",
+        "code": "IMS/S93-014",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have two or more other《Music》Characters, this card gains +2000 Power.",
+            "[A] – [(1) REST one of your other STAND《Music》Characters] During the turn this card is placed on Stage from Hand, when this card’s battle opponent is REVERSE, you may pay the cost. If you did, search your Deck for up to one《Music》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】［(1) 他のあなたの【スタンド】している《音楽》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Adult Theme"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_014.png"
+    },
+    {
+        "name": "ラブリー・バレンタイン　野々原 茜",
+        "code": "IMS/S93-015",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your opponent’s Characters x2000.",
+            "[A] – [(1)] When this card’s Level 2 or higher battle opponent is REVERSE, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。",
+            "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Pudding"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_015.png"
+    },
+    {
+        "name": "笑顔が咲く季節　島原エレナ",
+        "code": "IMS/S93-016",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。』"
+        ],
+        "attributes": [
+            "Music",
+            "Samba"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_016.png"
+    },
+    {
+        "name": "ハッピー・ホーリーナイト　北上麗花",
+        "code": "IMS/S93-018",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or less Climaxes in your Waiting Room, this card gets -1 Level in your Hand.",
+            "[A] – When this card is placed on Stage from Hand, draw up to two cards, choose two cards in your Hand, send them to Waiting Room, perform the following effect:",
+            "-You may choose one of your opponent’s Level 1 or higher Characters. If you did, your opponent chooses one Level X or lower Character in their Waiting Room, exchange them. X is the chosen Character’s Level -1."
+        ],
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、次の行動を行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+        ],
+        "attributes": [
+            "Music",
+            "Mountain Climbing"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_018.png"
+    },
+    {
+        "name": "夏のおすそわけ　木下ひなた",
+        "code": "IMS/S93-020",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – All of your other [オトナの魅力　馬場このみ] gain the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, look at up to three cards from the top of your Deck, place them on top of Deck in any order.",
+            "[A] – [(1)] When your Character Trigger Checks a Climax with Wind Trigger Icon, you may pay the cost. If you did, draw one card.",
+            "[S] – [REST this card] Choose one of your《Music》Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「オトナの魅力　馬場このみ」すべてに、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。』",
+            "【自】［(1)］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Music",
+            "Apple"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_020.png"
+    },
+    {
+        "name": "一撃必殺！　伊吹 翼",
+        "code": "IMS/S93-021",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have five or more cards in Hand, this card gains +1000 Power and the following effect:",
+            "-[C] – This card and the Character across from this card cannot Side Attack.",
+            "[A] – At the beginning of opponent’s Attack Phase, you may move this card to an empty slot in Front Row with a opponent’s Character across from it."
+        ],
+        "jpAbility": [
+            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Fashionable"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_021.png"
+    },
+    {
+        "name": "柔らかな眼差し　島原エレナ",
+        "code": "IMS/S93-022",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or less Stock, this card gains +1500 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have another《Music》Character, you may choose one of your opponent’s Level 0 or lower Characters in Front Row, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+            "【自】 このカードのバトル相手が【リバース】した時、他のあなたの《音楽》のキャラがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Samba"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_022.png"
+    },
+    {
+        "name": "かわいい猛獣使い　馬場このみ",
+        "code": "IMS/S93-023",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – The Character across from this card cannot move to other slots.",
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, during this turn, this card gains +2000 Power. (Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 このカードの正面のキャラは他の枠に動かせない。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Music",
+            "Adult Theme"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_023.png"
+    },
+    {
+        "name": "くのいち姫　望月杏奈",
+        "code": "IMS/S93-024",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If this card has a Marker underneath it, this card gains +2000 Power.",
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, you may place that card underneath this card face down as a Marker. (If not return card to its original position)",
+            "[A] – [(1)] At the beginning of Encore Step, if you have no other REST Characters, you may pay the cost. If you did, REST this card."
+        ],
+        "jpAbility": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
+            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+        ],
+        "attributes": [
+            "Music",
+            "Game"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_024.png"
+    },
+    {
+        "name": "ファンタジックキャンドルナイト　大神 環",
+        "code": "IMS/S93-027",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have four or more《Music》Characters, this card gets -1 Level in your Hand.",
+            "[C] – For each of your opponent’s Characters in Back Row, this card gains +1000 Power.",
+            "[A] – CX COMBO [Send one [Arrive You ~それが運命でも~] in your Climax Zone to Waiting Room] At the end of this card’s attack, if you have four or more other《Music》Characters, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to three《Music》Characters or Events among them, reveal them to your opponent, add them to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「Arrive You ～それが運命でも～」を1枚控え室に置く］ このカードのアタックの終わりに、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《音楽》のキャラかイベントを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Exploration"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_027.png"
+    },
+    {
+        "name": "憧れの先生　桜守歌織",
+        "code": "IMS/S93-029",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "[A] – When this card attacks, reveal the top card of your Deck. If that card is a Climax, search your Deck for up to one《Music》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards. (If not return card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Music",
+            "Teacher"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_029.png"
+    },
+    {
+        "name": "涙輝く表彰台　宮尾美也",
+        "code": "IMS/S93-030",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +2500 Power.",
+            "[A] – ENCORE [Send one Character from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Music",
+            "Shogi"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_030.png"
+    },
+    {
+        "name": "悩ましダンス　豊川風花",
+        "code": "IMS/S93-031",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +3000 Power.",
+            "[A] – CX COMBO [Send one card from Hand to Waiting Room] When this card’s battle opponent is REVERSE, if you have [White Vows] in your Climax Zone, if you have another《Music》Character, you may pay the cost. If you did, choose up to two《Music》Characters in your Waiting Room, add them to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「White Vows」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Nurse"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_031.png"
+    },
+    {
+        "name": "うざカワクィーン　野々原 茜",
+        "code": "IMS/S93-032",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have another《Music》Character, this card gains +1500 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have a Climax with Wind Trigger Icon in your Climax Zone, look at up to two cards from the top of your Deck, place them on top of Deck in any order, reveal the top card of your Deck. If that card is Level 1 of higher, add it to Hand. (Climax is considered Level 0. If not return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンがのクライマックスがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Music",
+            "Pudding"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_032.png"
+    },
+    {
+        "name": "サンセットビーチ　北上麗花",
+        "code": "IMS/S93-034",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – When a Climax with Wind Trigger Icon is placed in your Climax Zone, choose one of your Characters, during this turn, it gains +1500 Power.",
+            "[A] – [(1)] When your Character Trigger Checks a Climax with Wind Trigger Icon, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】［(1)］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Mountain Climbing"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_034.png"
+    },
+    {
+        "name": "大人になったら　箱崎星梨花",
+        "code": "IMS/S93-035",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your other《Music》Characters x1500.",
+            "[A] – When this card attacks, if you have four or more other《Music》Characters, choose one of your Characters, during this turn, it gains +2 Soul."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1500に等しい。",
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。"
+        ],
+        "attributes": [
+            "Music",
+            "Sheltered Girl"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_035.png"
+    },
+    {
+        "name": "夏が香る景色　篠宮可憐",
+        "code": "IMS/S93-036",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Music》Characters, this card gains +500 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Event in your Waiting Room, add it to Hand, during this turn, this card gains +1000 Power.",
+            "[A] – CX COMBO [(1) Send one Event with “Awakening Item” in their card name to Waiting Room] When this card attacks, if you have [ハルマチ女子] in your Climax Zone, if you have another《Music》Character, you may pay the cost. If you did, deal one damage to your opponent two times. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】［(1) 手札のカード名に「覚醒アイテム」を含むイベントを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ハルマチ女子」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music",
+            "Aroma"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_036.png"
+    },
+    {
+        "name": "サンリズム・オーケストラ♪",
+        "code": "IMS/S93-037",
+        "rarity": "CR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_037.png"
+    },
+    {
+        "name": "Reach 4 the Dre@m!",
+        "code": "IMS/S93-039",
+        "rarity": "CR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_039.png"
+    },
+    {
+        "name": "成長Chu→LOVER!!",
+        "code": "IMS/S93-040",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_040.png"
+    },
+    {
+        "name": "Arrive You ～それが運命でも～",
+        "code": "IMS/S93-041",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Wind: When this card is triggered, you may choose one of your opponent’s Characters, return it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_041.png"
+    },
+    {
+        "name": "White Vows",
+        "code": "IMS/S93-042",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_042.png"
+    },
+    {
+        "name": "ハルマチ女子",
+        "code": "IMS/S93-043",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Wind: When this card is triggered, you may choose one of your opponent’s Characters, return it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_043.png"
+    },
+    {
+        "name": "チアフル・クリスマス！　高山紗代子",
+        "code": "IMS/S93-044",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +1000 Power.",
+            "[A] – [(1) Send one《Music》Character in your Waiting Room to bottom of Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one Level 1 or lower Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】［(1) あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Hot Blooded"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_044.png"
+    },
+    {
+        "name": "サンライト・ブライド　春日未来",
+        "code": "IMS/S93-046",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If all of your Characters are《Music》, this card gains +1000 Power.",
+            "[A] – CX COMBO When this card attacks, if you have [Starry Melody] in your Climax Zone, if you have another《Music》Character, choose up to one Level X or lower《Music》Character in your Waiting Room, add it to Hand, during this turn, this card gains +1000 Power. X is the number of [Starry Melody] in your Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Starry Melody」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。Ｘはあなたの控え室の「Starry Melody」の枚数に等しい。"
+        ],
+        "attributes": [
+            "Music",
+            "Hair Clip"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_046.png"
+    },
+    {
+        "name": "はじける夏の味♪　佐竹美奈子",
+        "code": "IMS/S93-047",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at up to X cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room.",
+            "[A] – CX COMBO [Send two cards from Hand to Waiting Room] When this card attacks, if you have [BORN ON DREAM!] in your Climax Zone, if all of your Characters are《Music》, you may pay the cost. If you did, choose up to one card in your opponent’s Waiting Room, place it on top of Deck, deal four damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+            "【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「BORN ON DREAM!」があり、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music",
+            "Cuisine"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_047.png"
+    },
+    {
+        "name": "幸せはラージサイズで　七尾百合子",
+        "code": "IMS/S93-048",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO [Send one [成長Chu→Lover!!] in your Climax Zone to Waiting Room] At the beginning of your Encore Step, if you have another [クリスマス・ミッション 望月杏奈], you may pay the cost. If you did, look at up to two cards from the top of your Deck, place them on top of Deck in any order, draw one card.",
+            "[S] – BRAINSTORM [(1) REST two of your Characters] Flip the top five cards of your Deck, send them to Waiting Room. For each Climax among those cards, search your Deck for up to one《Music》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】［あなたのクライマックス置場の「成長Chu→LOVER!!」を1枚控え室に置く］ あなたのアンコールステップの始めに、他のあなたの「クリスマス・ミッション　望月杏奈」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、1枚まで引く。",
+            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Book"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_048.png"
+    },
+    {
+        "name": "小悪魔リビングデッド　松田亜利沙",
+        "code": "IMS/S93-051",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When a Climax with Door Trigger Icon is placed in your Climax Zone, during this turn, all of your Characters gain +1000 Power.",
+            "[A] – When your Character Trigger Checks a Climax with Door Trigger Icon, choose one of your Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Music",
+            "Camera"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_051.png"
+    },
+    {
+        "name": "へっちゃらプライド　中谷 育",
+        "code": "IMS/S93-052",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, all players perform the following effect:",
+            "-If your Memory is five or more, choose four cards in Memory, send all other cards in Memory to Waiting Room.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Music",
+            "Anime"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_052.png"
+    },
+    {
+        "name": "エンジョイ?ウィンターデート　矢吹可奈",
+        "code": "IMS/S93-053",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand, choose one of your other《Music》Characters, during this turn, it gains +1000 Power.",
+            "[A] – When your Climax is placed in your opponent’s Climax Zone, you may send this card to Stock."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻し、他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Song"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_053.png"
+    },
+    {
+        "name": "秋の匂いに包まれて　田中琴葉",
+        "code": "IMS/S93-054",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +X Power. X is the number of your《Music》Characters x500.",
+            "[S] – [(2) REST this card] Choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Diligence"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_054.png"
+    },
+    {
+        "name": "今年もダイナミックに！　横山奈緒",
+        "code": "IMS/S93-055",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1 Level and +1000 Power.",
+            "[A] – When this card attacks, choose one of your other《Music》Characters, until end of opponent’s next turn, it gains +X Power. X is the number of your other《Music》Characters x500."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "Music",
+            "Kansai Dialect"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_055.png"
+    },
+    {
+        "name": "クリスマス★スイーツ　徳川まつり",
+        "code": "IMS/S93-056",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, send the bottom X cards of your opponent’s Deck to Waiting Room. X is the number of your《Music》Characters.",
+            "[S] – COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "Music",
+            "Princess"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_056.png"
+    },
+    {
+        "name": "冬も元気いっぱい！　高坂海美",
+        "code": "IMS/S93-057",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 7500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – EXPERIENCE If the total Level of cards in your Level Zone is three or higher, this card gains the following two effects:",
+            "-[A] – When this card attacks, during this turn, this card gains +3000 Power.",
+            "-[A] – ENCORE [Send one《Music》Character from Hand to Waiting Room]",
+            "[A] – CX COMBO [Send one [ビッグバンズパリポー!!!!!] in your Climax Zone to Waiting Room] During your Climax Phase, if this card is placed on Stage by the effect of [ビッグバンズパリポー!!!!!], you may pay the cost. If you did, STAND this card."
+        ],
+        "jpAbility": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の2つの能力を得る。『【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋3000。』『【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］』",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「ビッグバンズバリボー!!!!!」を1枚控え室に置く］ あなたのクライマックスフェイズ中、このカードが「ビッグバンズバリボー!!!!!」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_057.png"
+    },
+    {
+        "name": "凛として、華やかに　エミリー",
+        "code": "IMS/S93-058",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +2000 Power.",
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[S] – [REST this card] Choose one of your《Music》Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Music",
+            "Japanese Dance"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_058.png"
+    },
+    {
+        "name": "ニューイヤー・ゴング　福田のり子",
+        "code": "IMS/S93-059",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If your opponent has a Level 3 or higher Character, this card gets -1 Level in your Hand.",
+            "[A] – When this card is placed on Stage from Hand, look at up to three cards from the top of your Deck, place it on top of Deck in any order, choose up to one of your opponent’s Characters, return it to Hand.",
+            "[A] – When this card is placed on Stage from Hand, if you have another《Music》Character, until end of opponent’s next turn, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Music",
+            "Pro Wrestling"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_059.png"
+    },
+    {
+        "name": "大願成就の予感！　春日未来",
+        "code": "IMS/S93-061",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other《Music》Characters gain +500 Power.",
+            "[S] – [Send this card to Waiting Room] If you have another [新しい自分へ 田中琴葉], choose one [新しい自分へ 田中琴葉] in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+            "【起】［このカードを控え室に置く］ 他のあなたの「新しい自分へ　田中琴葉」がいるなら、あなたは自分の控え室の「新しい自分へ　田中琴葉」を1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Hair Clip"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_061.png"
+    },
+    {
+        "name": "プリンセスロード　徳川まつり",
+        "code": "IMS/S93-063",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if your opponent has one or less Characters in Front Row, you may choose one of your opponents cost 0 or lower Characters in Front Row, send it to Waiting Room.",
+            "[A] – [(2)] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。",
+            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Princess"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_063.png"
+    },
+    {
+        "name": "マイティセーラーズ　高坂海美",
+        "code": "IMS/S93-065",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Music》Characters in Back Row, this card gains +1000 Power.",
+            "[A] – ACCELERATE [Send one《Music》Character in your Waiting Room to bottom of Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, look at the top card of your Deck, place it on top of Deck or Waiting Room, choose one《Music》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_065.png"
+    },
+    {
+        "name": "照れ笑いの撫子　エミリー",
+        "code": "IMS/S93-066",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card Front Attacks, during this turn, this card gains +X Power. X is this card’s Soul x1500.",
+            "[A] – CX COMBO This effect activates up to once per turn. When this card’s dealt damage is canceled, if you have [百花は月下に散りぬるを] in your Climax Zone, if all of your Characters are《Music》, look at up to six cards from the top of your Deck, choose up to two《Music》Characters among them, reveal them to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードがフロントアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×1500に等しい。",
+            "【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「百花は月下に散りぬるを」があり、あなたのキャラすべてが《音楽》なら、あなたは自分の山札を上から6枚まで見て、《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Japanese Dance"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_066.png"
+    },
+    {
+        "name": "死の猛攻　田中琴葉",
+        "code": "IMS/S93-067",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, for each of your other《Music》Characters, this card gains +1500 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, you may send that Character to Memory."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Diligence"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_067.png"
+    },
+    {
+        "name": "お気に入りの傘　福田のり子",
+        "code": "IMS/S93-069",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have another《Music》Character, this card gains +3000 Power.",
+            "[A] – When this card attacks, if you have a Climax in your Climax Zone, reveal the top card of your Deck. If that card is a Level 1 or higher card, send it to Stock. (Climax is considered Level 0. If not return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】 このカードがアタックした時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Music",
+            "Pro Wrestling"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_069.png"
+    },
+    {
+        "name": "魅惑のドロップ　横山奈緒",
+        "code": "IMS/S93-070",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +500 Power.",
+            "[A] – When you use ACCELERATE, choose one of your Characters, during this turn, it gains the following effect:",
+            "-[A] – [(1)] When this card’s battle opponent is REVERSE, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【自】 あなたが『加速』を使った時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』"
+        ],
+        "attributes": [
+            "Music",
+            "Kansai Dialect"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_070.png"
+    },
+    {
+        "name": "ぽかぽかサービス　佐竹美奈子",
+        "code": "IMS/S93-072",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose one of your《Music》Characters, during this turn, it gains +X Power. X is the number of your《Music》Characters x500.",
+            "[A] – When this card attacks, if you have two or more other《Music》Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Music",
+            "Cuisine"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_072.png"
+    },
+    {
+        "name": "クランクアップ！　七尾百合子",
+        "code": "IMS/S93-073",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have another《Music》Character, during this turn, this card gains +3000 Power.",
+            "[A] – ACCELERATE [Send one《Music》Character in your Waiting Room to bottom of Clock] At the beginning of your Climax Phase, if you have another《Music》Character, you may pay the cost. If you did, during this turn, this card gains +4000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。",
+            "【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
+        ],
+        "attributes": [
+            "Music",
+            "Book"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_073.png"
+    },
+    {
+        "name": "記念スナップ　高山紗代子",
+        "code": "IMS/S93-074",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +3500 Power. This card gains the following effect:",
+            "-[A] – At the end of turn, send this card to Waiting Room.",
+            "[S] – [(1)] During this turn, this card gains +1000 Power. This card gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send that Character to top of Deck."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
+            "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+        ],
+        "attributes": [
+            "Music",
+            "Hot Blooded"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_074.png"
+    },
+    {
+        "name": "コットンキャンディバス　矢吹可奈",
+        "code": "IMS/S93-075",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 2000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If your Level is 2 or higher, this card gains the following effect:",
+            "-[S] – [(1) Send this card to Waiting Room] Choose up to one [いつでもオンステージ! 春日未来] in your Hand、 place it in this card’s previous slot.",
+            "[C] – ASSIST All of your《Music》Characters in front of this card gains +1000 Power.",
+            "[S] – [REST this card] Look at up to two cards from the top of your Deck, place them on top of Deck in any order."
+        ],
+        "jpAbility": [
+            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の手札の「いつでもオンステージ！　春日未来」を1枚まで選び、このカードがいた枠に置く。』",
+            "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Song"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_075.png"
+    },
+    {
+        "name": "梅雨限定スタイル　松田亜利沙",
+        "code": "IMS/S93-076",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [Send this card to Clock] Choose up to two《Music》Characters in your Waiting Room, add them to Hand.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +3000 Power."
+        ],
+        "jpAbility": [
+            "【起】［このカードをクロック置場に置く］ あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+        ],
+        "attributes": [
+            "Music",
+            "Camera"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_076.png"
+    },
+    {
+        "name": "運命の再会　中谷 育",
+        "code": "IMS/S93-077",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Music》Characters x1000.",
+            "[A] – [(1)] At the beginning of your opponent’s Attack Phase, you may pay the cost. If you did, choose one of your《Music》Characters and this card, STAND and exchange them."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
+            "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+        ],
+        "attributes": [
+            "Music",
+            "Anime"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_077.png"
+    },
+    {
+        "name": "Starry Melody",
+        "code": "IMS/S93-078",
+        "rarity": "CR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_078.png"
+    },
+    {
+        "name": "BORN ON DREAM!",
+        "code": "IMS/S93-079",
+        "rarity": "CR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_079.png"
+    },
+    {
+        "name": "ビッグバンズバリボー!!!!!",
+        "code": "IMS/S93-080",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_080.png"
+    },
+    {
+        "name": "百花は月下に散りぬるを",
+        "code": "IMS/S93-083",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +2 Soul."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_083.png"
+    },
+    {
+        "name": "おいしく召し上がれ…?　周防桃子",
+        "code": "IMS/S93-085",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have four or more other《Music》Characters, choose one of your Characters, during this turn, it gains +2500 Power and [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[A] – CX COMBO At the beginning of your Encore Step, if you have [ラスト・アクトレス] in your Climax Zone, if this card is in Front Row, if you have two or more other《Music》Characters, if there is no Character across from this card or is REVERSE, search your Deck for up to one《Music》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+            "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「ラスト・アクトレス」があり、前列にこのカードがいて、他のあなたの《音楽》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Child Actor"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_085.png"
+    },
+    {
+        "name": "都会の風に吹かれて　白石 紬",
+        "code": "IMS/S93-086",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have four or more《Music》Characters, this card gets -1 Level in your Hand.",
+            "[A] – When this card is placed on Stage from Hand, perform one of the two following effects of your choice:",
+            "-Look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room.",
+            "-Send one card in your Hand to Waiting Room. If you did, send the top card of your Clock to Stock.",
+            "[A] – When this card attacks, if you have another《Music》Character, during this turn, this card gains +3000."
+        ],
+        "jpAbility": [
+            "【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』『あなたは自分の手札を1枚選び、控え室に置く。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。』",
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "Music",
+            "Japanese Sweets"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_086.png"
+    },
+    {
+        "name": "水滴のプリズム　最上静香",
+        "code": "IMS/S93-087",
+        "rarity": "RR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand or by the [A] effect of [迎春プレイヤー ジュリア], you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO [(1) Send one card from Hand to Waiting Room] When this card attacks, if you have [ハーモニクス] in your Climax Zone, if you have another《Music》Character, you may pay the cost. If you did, send the bottom four cards of opponent’s Deck to Waiting Room, deal X damage to your opponent, during this turn, this card gains +2000 Power. X is the number of Level 0 or lower cards sent to Waiting Room by this effect. (Climax is considered Level 0. Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時か「迎春プレイヤー　ジュリア」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ハーモニクス」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはそれらのカードのレベル0以下のカードの枚数に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music",
+            "Piano"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_087.png"
+    },
+    {
+        "name": "KOINOBORIは天高く　ロコ",
+        "code": "IMS/S93-088",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Music》Characters, this card gains +2000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have four or less Stock, you may send that Character to bottom of Deck."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたのストックが4枚以下なら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Art"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_088.png"
+    },
+    {
+        "name": "降り注ぐシャインシャワー　真壁瑞希",
+        "code": "IMS/S93-089",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room, during this turn, this card gains +X Power. X is the number of《Music》Characters sent to Waiting Room by this effect x1000.",
+            "[A] – [(1) Send the top card of your Deck to Clock] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, search your Deck for up to one cost 0 or lower《Music》Character whose Level is less than or equal to your Level, place it in REST in any slot, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の《音楽》のキャラを1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Magic Trick"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_089.png"
+    },
+    {
+        "name": "常夏パラダイス！　舞浜 歩",
+        "code": "IMS/S93-091",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – At the beginning of your Climax Phase, choose one of your《Music》Characters, during this turn, it gains +500 Power.",
+            "[A] – [(1)] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋500。",
+            "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Music",
+            "Dance"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_091.png"
+    },
+    {
+        "name": "秋色に染まる世界　北沢志保",
+        "code": "IMS/S93-092",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each Character in your opponent’s Back Row, this card gains +1500 Power.",
+            "[A] – When this card attacks, during this turn, all of your Characters gain the following effect:",
+            "-[A] – [Send one Climax from Hand to Waiting Room] When this card Trigger Checks a Climax, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。",
+            "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［手札のクライマックスを1枚控え室に置く］ このカードのトリガーチェックでクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。』"
+        ],
+        "attributes": [
+            "Music",
+            "Cool"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_092.png"
+    },
+    {
+        "name": "魅惑のアクアヴィーナス　所 恵美",
+        "code": "IMS/S93-094",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – [Send one card from Hand to Waiting Room] When your Character Trigger Checks a Climax with Pants Trigger Icon you may pay the cost. If you did, look at up to two cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Friendly Thoughts"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_094.png"
+    },
+    {
+        "name": "ひらりひらりと魅せられて　百瀬莉緒",
+        "code": "IMS/S93-095",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Music》Character in your Waiting Room, add it to Hand.",
+            "[S] – [Send this card to Waiting Room] Choose one of your opponent’s Characters, return it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+            "【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Sexy"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_095.png"
+    },
+    {
+        "name": "太陽のスポットライト　二階堂千鶴",
+        "code": "IMS/S93-096",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Music》Characters, this card gains +4000 Power.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, if you have another《Music》Character, you may pay the cost. If you did, your opponent chooses one Climax in their Waiting Room, return all other cards in their Waiting Room to Deck, shuffle their Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Celeb"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_096.png"
+    },
+    {
+        "name": "スウィート・パレットランド　永吉 昴",
+        "code": "IMS/S93-098",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have two or more other《Music》Characters, during this turn, this card gains +4000 Power.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card’s battle opponent is REVERSE, you may pay the cost. If you did, send the bottom four cards of your opponent’s Deck to Waiting Room, deal X damage to your opponent. X is the number of Climaxes sent to Waiting Room by this effect. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_098.png"
+    },
+    {
+        "name": "花より咲き誇り　天空橋朋花",
+        "code": "IMS/S93-099",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – EXPERIENCE If you have [花より咲き誇り 天空橋朋花] in your Level Zone, this card gets -1 Level in your Hand.",
+            "[C] – For each of your other《Music》Characters in Back Row, this card gains +1500 Power.",
+            "[A] – CX COMBO When [brave HARMONY] is placed in your Climax Zone, if this card is in Front Row, choose up to one《Music》Character in your Waiting Room, add it to Hand, until end of opponent’s next turn, this card gains the following effect:",
+            "-[C] – The Character across from this card gets -2 Soul."
+        ],
+        "jpAbility": [
+            "【永】 経験 あなたのレベル置場に「花より咲き誇り　天空橋朋花」があるなら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1500。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「brave HARMONY」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+        ],
+        "attributes": [
+            "Music",
+            "Holy Mother"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_099.png"
+    },
+    {
+        "name": "迎春プレイヤー　ジュリア",
+        "code": "IMS/S93-100",
+        "rarity": "R",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO When this card attacks, if you have [ハーモニクス] in your Climax Zone, look at up to two cards from the top of your opponent’s Deck, choose up to one card among them, place it on bottom of Deck, place the remaining cards on top of Deck in any order, during this turn, this card gains +3000 Power.",
+            "[A] – RESONANCE [(1) Reveal one [水滴のプリズム 最上静香] in your Hand] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [水滴のプリズム 最上静香] in your Waiting Room, place it on any slot on Stage, during this turn, that card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ハーモニクス」があるなら、あなたは相手の山札を上から2枚まで見て、カードを1枚まで選び、山札の下に置き、残りのカードを山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋3000。",
+            "【自】 共鳴 ［(1) 手札の「水滴のプリズム　最上静香」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水滴のプリズム　最上静香」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Music",
+            "Rock"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_100.png"
+    },
+    {
+        "name": "紅白乱れ梅ライブ　最上静香",
+        "code": "IMS/S93-101",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] When this card is placed on Stage from Hand, you may choose one card in your Level Zone and one card in your Waiting Room, exchange them.",
+            "[S] – [Send one card from Hand to Waiting Room, send this card to Waiting Room] Choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。",
+            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music",
+            "Piano"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_101.png"
+    },
+    {
+        "name": "スイートドーナツステージ　所 恵美",
+        "code": "IMS/S93-103",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Level 0 or lower Character among those cards, during this turn, this card can Side Attack without Soul Penalty.",
+            "[A] – When this card attacks, choose one of your《Music》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Music",
+            "Friendly Thoughts"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_103.png"
+    },
+    {
+        "name": "ロマンチック・ディナー　百瀬莉緒",
+        "code": "IMS/S93-104",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When a Climax with Pants Trigger Icon is placed in your Climax Zone, during this turn, all of your Characters gain +500 Power.",
+            "[S] – [REST this card] Choose one of your《Music》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Music",
+            "Sexy"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_104.png"
+    },
+    {
+        "name": "舞踏会の主賓　二階堂千鶴",
+        "code": "IMS/S93-105",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your opponent’s turn, all of your other《Music》Characters gain +1000 Power.",
+            "[A] – [Send this card to Waiting Room] When your other《Music》Character is sent from Stage to Waiting Room, if this card is in your Back Row, you may pay the cost. If you did, place that Character in its previous slot in REST."
+        ],
+        "jpAbility": [
+            "【永】 相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+            "【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Celeb"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_105.png"
+    },
+    {
+        "name": "夕闇の悪戯　天空橋朋花",
+        "code": "IMS/S93-106",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When a Climax is placed in your Climax Zone, during this turn, this card gains +500 Power and the following effect:",
+            "-[A] – [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step.",
+            "[A] – When your other《Music》Character attacks, during this turn, this card gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+            "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "Music",
+            "Holy Mother"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_106.png"
+    },
+    {
+        "name": "ふたりきりの街角　舞浜 歩",
+        "code": "IMS/S93-107",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, send that Character to Memory.",
+            "[S] – COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "Music",
+            "Dance"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_107.png"
+    },
+    {
+        "name": "2人のキャンバス　ロコ",
+        "code": "IMS/S93-108",
+        "rarity": "U",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Music》Characters, this card gains +1000 Power.",
+            "[A] – CX COMBO When [月曜日のクリームソーダ] is placed in your Climax Zone, if this card is in Front Row, if you have four or more other《Music》Characters, choose up to one Character in your Waiting Room, add it to Hand, choose up to one《Music》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「月曜日のクリームソーダ」が置かれた時、前列にこのカードがいて、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Art"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "108",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_108.png"
+    },
+    {
+        "name": "寛ぎのひととき　北沢志保",
+        "code": "IMS/S93-110",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other《Music》Characters gain +500 Power.",
+            "[A] – When [Parade d’amour] is placed in your Climax Zone, if you have three or more other《Music》Characters in your Front Row, you may choose one《Music》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「Parade d’amour」が置かれた時、後列にこのカードがいて、他のあなたの前列の《音楽》のキャラが3枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Cool"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "110",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_110.png"
+    },
+    {
+        "name": "爽快ポケバイレース！　永吉 昴",
+        "code": "IMS/S93-111",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have five or more cards in Hand, choose one of your Characters, during this turn, it gains +2000 Power.",
+            "[A] – ENCORE [Send one Character from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Music",
+            "Sports"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "111",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_111.png"
+    },
+    {
+        "name": "ちびっ娘お姫様　周防桃子",
+        "code": "IMS/S93-112",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your《Music》Characters x1000.",
+            "[A] – During this card’s battle, if damage dealt to you is canceled, you may return this card to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。",
+            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+        ],
+        "attributes": [
+            "Music",
+            "Child Actor"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "112",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_112.png"
+    },
+    {
+        "name": "勇気を示す者　白石 紬",
+        "code": "IMS/S93-113",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send one card from Hand to Stock.",
+            "[A] – [Send one《Music> Character from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one [クリスマスの贈り物 真壁瑞希], reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
+            "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「クリスマスの贈り物　真壁瑞希」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music",
+            "Japanese Sweets"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "113",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_113.png"
+    },
+    {
+        "name": "はにかみパレオ　ジュリア",
+        "code": "IMS/S93-116",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if you have another《Music》Character, during this turn, this card gains +2000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have another《Music》Character, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+            "【自】 このカードのバトル相手が【リバース】した時、他のあなたの《音楽》のキャラがいるなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "Music",
+            "Rock"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "116",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_116.png"
+    },
+    {
+        "name": "笑顔満開Ｖサイン！　真壁瑞希",
+        "code": "IMS/S93-117",
+        "rarity": "C",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to bottom of Deck.",
+            "[S] – COUNTER 1500 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+            "【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+        ],
+        "attributes": [
+            "Music",
+            "Magic Trick"
+        ],
+        "set": "IMS",
+        "release": "93",
+        "sid": "117",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_117.png"
+    },
+    {
+        "name": "ラスト・アクトレス",
+        "code": "IMS/S93-118",
+        "rarity": "CR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "118",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_118.png"
+    },
+    {
+        "name": "ハーモニクス",
+        "code": "IMS/S93-119",
+        "rarity": "CR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "119",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_119.png"
+    },
+    {
+        "name": "月曜日のクリームソーダ",
+        "code": "IMS/S93-120",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "120",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_120.png"
+    },
+    {
+        "name": "brave HARMONY",
+        "code": "IMS/S93-121",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "121",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_121.png"
+    },
+    {
+        "name": "Parade d’amour",
+        "code": "IMS/S93-122",
+        "rarity": "CC",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "122",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_122.png"
+    },
+    {
+        "name": "サンリズム・オーケストラ♪",
+        "code": "IMS/S93-124",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "124",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_124.png"
+    },
+    {
+        "name": "Reach 4 the Dre@m!",
+        "code": "IMS/S93-126",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "126",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_126.png"
+    },
+    {
+        "name": "成長Chu→LOVER!!",
+        "code": "IMS/S93-127",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "127",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_127.png"
+    },
+    {
+        "name": "Arrive You ～それが運命でも～",
+        "code": "IMS/S93-128",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Wind: When this card is triggered, you may choose one of your opponent’s Characters, return it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "128",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_128.png"
+    },
+    {
+        "name": "White Vows",
+        "code": "IMS/S93-129",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "129",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_129.png"
+    },
+    {
+        "name": "ハルマチ女子",
+        "code": "IMS/S93-130",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Wind: When this card is triggered, you may choose one of your opponent’s Characters, return it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "130",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_130.png"
+    },
+    {
+        "name": "Starry Melody",
+        "code": "IMS/S93-131",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "131",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_131.png"
+    },
+    {
+        "name": "BORN ON DREAM!",
+        "code": "IMS/S93-132",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "132",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_132.png"
+    },
+    {
+        "name": "ビッグバンズバリボー!!!!!",
+        "code": "IMS/S93-133",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "133",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_133.png"
+    },
+    {
+        "name": "百花は月下に散りぬるを",
+        "code": "IMS/S93-136",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +2 Soul."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "136",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_136.png"
+    },
+    {
+        "name": "ラスト・アクトレス",
+        "code": "IMS/S93-137",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "137",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_137.png"
+    },
+    {
+        "name": "ハーモニクス",
+        "code": "IMS/S93-138",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "138",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_138.png"
+    },
+    {
+        "name": "月曜日のクリームソーダ",
+        "code": "IMS/S93-139",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "139",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_139.png"
+    },
+    {
+        "name": "brave HARMONY",
+        "code": "IMS/S93-140",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "140",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_140.png"
+    },
+    {
+        "name": "Parade d’amour",
+        "code": "IMS/S93-141",
+        "rarity": "PR",
+        "expansion": "Million Live Vol.2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "IMS",
+        "release": "93",
+        "sid": "141",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_141.png"
+    }
+]
