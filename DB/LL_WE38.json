@@ -13,8 +13,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, during this turn, this card gains +2000 Power. (Return revealed card to its original position)",
-            "[A] &#8211; [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+            "[A] - When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character, during this turn, this card gains +2000 Power. (Return revealed card to its original position)",
+            "[A] - [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
@@ -42,9 +42,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your Characters with &#8220;Maki&#8221;, &#8220;Nico&#8221; or &#8220;Eli&#8221; in their card name x500.",
-            "[A] &#8211; ACCELERATE [Send the top card of your Deck to Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gains +1000 Power and the following effect:",
-            "-[A] &#8211; When this card&#8217;s battle opponent is REVERSE, look at up to four cards from the top of your Deck, choose up to one Character with &#8220;Maki&#8221;, &#8220;Nico&#8221; or &#8220;Eli&#8221; in their card name, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+            "[A] - When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your Characters with \"Maki\", \"Nico\" or \"Eli\" in their card name x500.",
+            "[A] - ACCELERATE [Send the top card of your Deck to Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gains +1000 Power and the following effect:",
+            "-[A] - When this card's battle opponent is REVERSE, look at up to four cards from the top of your Deck, choose up to one Character with \"Maki\", \"Nico\" or \"Eli\" in their card name, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたのカード名に「真姫」か「にこ」か「絵里」を含むキャラの枚数×500に等しい。",
@@ -74,9 +74,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When you use this card&#8217;s BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
-            "-[A] &#8211; When this card&#8217;s battle opponent is REVERSE, send that Character to Memory.",
-            "[S] &#8211; COUNTER 3000 Power BACKUP Level 2"
+            "[A] - When you use this card's BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
+            "-[A] - When this card's battle opponent is REVERSE, send that Character to Memory.",
+            "[S] - COUNTER 3000 Power BACKUP Level 2"
         ],
         "jpAbility": [
             "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
@@ -104,8 +104,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
-            "[A] &#8211; [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+            "[A] - When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] - [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
@@ -133,8 +133,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; RECOLLECTION During your turn, if you have a card in Memory, this card gains +3000 power.",
-            "[A] &#8211; [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step."
+            "[C] - RECOLLECTION During your turn, if you have a card in Memory, this card gains +3000 power.",
+            "[A] - [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step."
         ],
         "jpAbility": [
             "【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋3000。",
@@ -162,8 +162,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If all of your Characters are《Music》, this card gains +1000 Power.",
-            "[A] &#8211; CX COMBO EXPERIENCE When this card attacks, if you have 優しく見つめて in your Climax Zone, if the total Level of cards in your Level Zone is 2 or higher, send the top two cards of your Deck to Waiting Room, choose up to one Level X or lower《Music》Character in your Waiting Room, add it to Hand, during this turn, this card gains +1000 Power. X is the total Level of cards sent to Waiting Room by this effect. (Climax is considered Level 0)"
+            "[C] - If all of your Characters are《Music》, this card gains +1000 Power.",
+            "[A] - CX COMBO EXPERIENCE When this card attacks, if you have 優しく見つめて in your Climax Zone, if the total Level of cards in your Level Zone is 2 or higher, send the top two cards of your Deck to Waiting Room, choose up to one Level X or lower《Music》Character in your Waiting Room, add it to Hand, during this turn, this card gains +1000 Power. X is the total Level of cards sent to Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "jpAbility": [
             "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。",
@@ -191,8 +191,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "A] &#8211; [(1) Send the top card of your Deck to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one Level 1 or lower Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterward.",
-            "[A] &#8211; When this card attacks, choose one of your Characters, during this turn, it gains +1000 Power."
+            "A] - [(1) Send the top card of your Deck to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one Level 1 or lower Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterward.",
+            "[A] - When this card attacks, choose one of your Characters, during this turn, it gains +1000 Power."
         ],
         "jpAbility": [
             "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
@@ -220,9 +220,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If you have five or more cards in Hand, this card gains +1 Level and +1500 Power and the following effect:",
+            "[C] - If you have five or more cards in Hand, this card gains +1 Level and +1500 Power and the following effect:",
             "-[C] The Character across from this card and this card cannot Side Attack.",
-            "[A] &#8211; At the beginning of opponent&#8217;s Attack Phase, you may move this card to an empty slot in Front Row that has an opponent&#8217;s Character across from it."
+            "[A] - At the beginning of opponent's Attack Phase, you may move this card to an empty slot in Front Row that has an opponent's Character across from it."
         ],
         "jpAbility": [
             "【永】 あなたの手札が5枚以上なら、このカードのレベルを＋1し、パワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』",
@@ -252,8 +252,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
-            "[A] &#8211; CX COMBO When this card attacks, if you have リラックスして楽しいステージ in your Climax Zone, look at up to two cards from the top of your opponent&#8217;s Deck, choose up to two cards among them, place them on top of Deck in any order, send the remaining cards to Waiting Room, during this turn, this card gains +1000 Power."
+            "[A] - When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] - CX COMBO When this card attacks, if you have リラックスして楽しいステージ in your Climax Zone, look at up to two cards from the top of your opponent's Deck, choose up to two cards among them, place them on top of Deck in any order, send the remaining cards to Waiting Room, during this turn, this card gains +1000 Power."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
@@ -281,8 +281,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If all of your Characters are《Music》, this card gains +1000 Power.",
-            "[A] &#8211; [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+            "[C] - If all of your Characters are《Music》, this card gains +1000 Power.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "jpAbility": [
             "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。",
@@ -310,8 +310,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If this card has a Marker underneath it, this card gains +2000 Power.",
-            "[A] &#8211; When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character or [可愛い自撮り写真], you may place that card underneath this card facedown as a Marker. (If not return revealed card to its original position)"
+            "[C] - If this card has a Marker underneath it, this card gains +2000 Power.",
+            "[A] - When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character or [可愛い自撮り写真], you may place that card underneath this card facedown as a Marker. (If not return revealed card to its original position)"
         ],
         "jpAbility": [
             "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
@@ -339,8 +339,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If this card has a Marker underneath it, this card gains +2000 Power.",
-            "[A] &#8211; When this card is placed on Stage from Hand, reveal the top card of Deck. If that card is《Music》or [璃奈ちゃんボード], you may send that card underneath this card as a marker faceup. (If not return card to its original position)"
+            "[C] - If this card has a Marker underneath it, this card gains +2000 Power.",
+            "[A] - When this card is placed on Stage from Hand, reveal the top card of Deck. If that card is《Music》or [璃奈ちゃんボード], you may send that card underneath this card as a marker faceup. (If not return card to its original position)"
         ],
         "jpAbility": [
             "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
@@ -370,9 +370,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, until end of opponent&#8217;s next turn, this card gains +4500 Power and the following effect:",
-            "-[C] &#8211; During this card&#8217;s battle, all players cannot play BACKUP from Hand.",
-            "[A] &#8211; When this card&#8217;s battle opponents is REVERSE, you may send that Character to Memory."
+            "[A] - When this card is placed on Stage from Hand, until end of opponent's next turn, this card gains +4500 Power and the following effect:",
+            "-[C] - During this card's battle, all players cannot play BACKUP from Hand.",
+            "[A] - When this card's battle opponents is REVERSE, you may send that Character to Memory."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターンの次のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
@@ -400,8 +400,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When your other Character is REVERSE in battle, choose one of your Characters, during this turn, it gains +1000 Power.",
-            "[S] &#8211; [(2) REST this card] Choose one Character in your Waiting Room, add it to Hand."
+            "[A] - When your other Character is REVERSE in battle, choose one of your Characters, during this turn, it gains +1000 Power.",
+            "[S] - [(2) REST this card] Choose one Character in your Waiting Room, add it to Hand."
         ],
         "jpAbility": [
             "【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
@@ -429,9 +429,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; All of your Characters gain the following effect:",
-            "-[C] &#8211; This card cannot Side Attack.",
-            "[A] &#8211; ENCORE [(1) Send one Characters on Stage to Waiting Room]"
+            "[C] - All of your Characters gain the following effect:",
+            "-[C] - This card cannot Side Attack.",
+            "[A] - ENCORE [(1) Send one Characters on Stage to Waiting Room]"
         ],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
@@ -459,8 +459,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; During your turn, this card gains +1000 Power.",
-            "[A] &#8211; When this card attacks, choose one of your other《Music》Characters, during this turn, it gains +X Power. X is the number of your other《Music》Characters x500."
+            "[C] - During your turn, this card gains +1000 Power.",
+            "[A] - When this card attacks, choose one of your other《Music》Characters, during this turn, it gains +X Power. X is the number of your other《Music》Characters x500."
         ],
         "jpAbility": [
             "【永】 あなたのターン中、このカードのパワーを＋1000。",
@@ -490,8 +490,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When you use this card&#8217;s BACKUP, if all of your Characters are《Music》, you may send the top card of your Deck to Stock.",
-            "[S] &#8211; COUNTER 2000 Power BACKUP Level 1"
+            "[A] - When you use this card's BACKUP, if all of your Characters are《Music》, you may send the top card of your Deck to Stock.",
+            "[S] - COUNTER 2000 Power BACKUP Level 1"
         ],
         "jpAbility": [
             "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
@@ -519,7 +519,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+            "[A] - [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
         ],
         "jpAbility": [
             "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
@@ -546,7 +546,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Level 0 or lower Character in your Waiting Room, place it on Stage in any slot"
+            "[A] - [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Level 0 or lower Character in your Waiting Room, place it on Stage in any slot"
         ],
         "jpAbility": [
             "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。"
@@ -575,8 +575,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; For each of your other《Music》Characters, this card gains +1000 Power.",
-            "[A] &#8211; When this card is placed on Stage from Hand, if you have four or more other《Music》Characters, you may choose one《Music》Character in your Waiting Room, send it to Stock."
+            "[C] - For each of your other《Music》Characters, this card gains +1000 Power.",
+            "[A] - When this card is placed on Stage from Hand, if you have four or more other《Music》Characters, you may choose one《Music》Character in your Waiting Room, send it to Stock."
         ],
         "jpAbility": [
             "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
@@ -606,8 +606,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, you may choose one《Music》Character in your Waiting Room, add it to Hand.",
-            "[A] &#8211; [Send two cards from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
+            "[A] - When this card is placed on Stage from Hand, you may choose one《Music》Character in your Waiting Room, add it to Hand.",
+            "[A] - [Send two cards from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。",
@@ -635,8 +635,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, you may send the top three cards of your Deck to Waiting Room.",
-            "[A] &#8211; [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
+            "[A] - When this card is placed on Stage from Hand, you may send the top three cards of your Deck to Waiting Room.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
@@ -664,9 +664,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, all players perform the following effect:",
+            "[A] - When this card is placed on Stage from Hand, all players perform the following effect:",
             "-If your Memory is five or more, choose four cards in your Memory, send all other cards in your Memory to Waiting Room.",
-            "[A] &#8211; When this card attacks, choose one of your other《Music》Characters, during this turn, it gains +X Power. X is the number of your other《Music》Characters x500."
+            "[A] - When this card attacks, choose one of your other《Music》Characters, during this turn, it gains +X Power. X is the number of your other《Music》Characters x500."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
@@ -696,7 +696,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is REVERSE, if this card&#8217;s battle opponent&#8217;s Level is higher than your opponent&#8217;s Level, you may send that Character to Stock. If you did, your opponent send the bottom card of their Stock to Waiting Room."
+            "[A] - When this card is REVERSE, if this card's battle opponent's Level is higher than your opponent's Level, you may send that Character to Stock. If you did, your opponent send the bottom card of their Stock to Waiting Room."
         ],
         "jpAbility": [
             "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
@@ -725,8 +725,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; [REST one of your STAND Characters] When this card is placed on Stage from Hand, you may pay the cost. If you, your opponent chooses one Climax in their Waiting Room, return all other cards in their Waiting Room to Deck, shuffle their Deck afterwards.",
-            "[A] &#8211; [(1) Send one card from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, until end of opponent&#8217;s turn, this card gains +2500 Power and +1 Soul."
+            "[A] - [REST one of your STAND Characters] When this card is placed on Stage from Hand, you may pay the cost. If you, your opponent chooses one Climax in their Waiting Room, return all other cards in their Waiting Room to Deck, shuffle their Deck afterwards.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, until end of opponent's turn, this card gains +2500 Power and +1 Soul."
         ],
         "jpAbility": [
             "【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
@@ -754,7 +754,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; [(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards in your Waiting Room to your Deck, shuffle your Deck afterwards."
+            "[A] - [(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards in your Waiting Room to your Deck, shuffle your Deck afterwards."
         ],
         "jpAbility": [
             "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
@@ -781,8 +781,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
-            "[A] &#8211; [Return this card to Hand] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, choose one Character in your Waiting Room, until end of opponent&#8217;s next turn, it gains +1000 Power."
+            "[A] - When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "[A] - [Return this card to Hand] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, choose one Character in your Waiting Room, until end of opponent's next turn, it gains +1000 Power."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
@@ -812,9 +812,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; All of your Characters in front of this card gains +X Power. X is that Characters Level x500.",
-            "[A] &#8211; When your Character Trigger Checks a Door Climax, if this card has one or less Marker underneath it, you may choose one card in your Waiting Room, place it underneath this card faceup as a Marker.",
-            "[S] &#8211; [(1) Send two Markers underneath this card to Waiting Room] Choose one Red card in your Waiting Room, add it to Hand."
+            "[C] - All of your Characters in front of this card gains +X Power. X is that Characters Level x500.",
+            "[A] - When your Character Trigger Checks a Door Climax, if this card has one or less Marker underneath it, you may choose one card in your Waiting Room, place it underneath this card faceup as a Marker.",
+            "[S] - [(1) Send two Markers underneath this card to Waiting Room] Choose one Red card in your Waiting Room, add it to Hand."
         ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
@@ -843,8 +843,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[S] &#8211; [Send this card to Waiting Room, send one card from Hand to Waiting Room] Choose one Character in your Waiting Room, add it to Hand.",
-            "[S] &#8211; [REST this card] Choose one of your Characters, until end of opponent&#8217;s next turn, it gains +1000 Power."
+            "[S] - [Send this card to Waiting Room, send one card from Hand to Waiting Room] Choose one Character in your Waiting Room, add it to Hand.",
+            "[S] - [REST this card] Choose one of your Characters, until end of opponent's next turn, it gains +1000 Power."
         ],
         "jpAbility": [
             "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
@@ -874,9 +874,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; ASSIST All of your Characters in front of this card gains +X Power. X is that Character&#8217;s Level x500.",
-            "[A] &#8211; [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [動画配信] in your Waiting Room, add it to Hand.",
-            "[A] &#8211; CX COMBO When [穏やかな日差しの下で] is placed in your Climax Zone, choose up to two of your Characters, during this turn, it gains +1500 Power."
+            "[C] - ASSIST All of your Characters in front of this card gains +X Power. X is that Character's Level x500.",
+            "[A] - [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [動画配信] in your Waiting Room, add it to Hand.",
+            "[A] - CX COMBO When [穏やかな日差しの下で] is placed in your Climax Zone, choose up to two of your Characters, during this turn, it gains +1500 Power."
         ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
@@ -905,8 +905,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, if you have another《Music》Character, during this turn, this card gains +1 Level and +1500 Power.",
-            "[A] &#8211; When this card&#8217;s battle opponent is REVERSE, choose one of your other《Music》Character, REST it, move it to an empty slot in Back Row."
+            "[A] - When this card is placed on Stage from Hand, if you have another《Music》Character, during this turn, this card gains +1 Level and +1500 Power.",
+            "[A] - When this card's battle opponent is REVERSE, choose one of your other《Music》Character, REST it, move it to an empty slot in Back Row."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。",
@@ -934,8 +934,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, if you have another《Music》Character, during this turn, this card gains +2000 Power.",
-            "[A] &#8211; When this card attacks, if you have another《Music》Character, if the Character across from this card is Level 2, during this turn, this card gains +4500 Power."
+            "[A] - When this card is placed on Stage from Hand, if you have another《Music》Character, during this turn, this card gains +2000 Power.",
+            "[A] - When this card attacks, if you have another《Music》Character, if the Character across from this card is Level 2, during this turn, this card gains +4500 Power."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
@@ -965,9 +965,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, you may send the top card of Clock to Waiting Room.",
-            "[A] &#8211; CX COMBO When this card attacks, if you have [絶対の契約] in your Climax Zone, during this turn, this card gains the following effect:",
-            "-[A] &#8211; This effect activates up to two times per turn. When this card&#8217;s dealt damage is not canceled, you may deal two damage to your opponent. (Damage can be canceled)"
+            "[A] - When this card is placed on Stage from Hand, you may send the top card of Clock to Waiting Room.",
+            "[A] - CX COMBO When this card attacks, if you have [絶対の契約] in your Climax Zone, during this turn, this card gains the following effect:",
+            "-[A] - This effect activates up to two times per turn. When this card's dealt damage is not canceled, you may deal two damage to your opponent. (Damage can be canceled)"
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
@@ -995,8 +995,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand.",
-            "[A] &#8211; When this card&#8217;s dealt damage is canceled, you may send this card to Stock."
+            "[A] - [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand.",
+            "[A] - When this card's dealt damage is canceled, you may send this card to Stock."
         ],
         "jpAbility": [
             "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
@@ -1024,7 +1024,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; [Send one card from Hand to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to X cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room. X is the number of your other《Music》Characters."
+            "[A] - [Send one card from Hand to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to X cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room. X is the number of your other《Music》Characters."
         ],
         "jpAbility": [
             "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《音楽》のキャラの枚数に等しい。"
@@ -1051,8 +1051,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[A] &#8211; When this card is placed on Stage from Hand, choose one of your other《Music》Characters, during this turn, it gains +1000 Power.",
-            "[A] &#8211; [Return this card to Hand] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, choose one of your Characters, during this turn, it gains +2000 Power."
+            "[A] - When this card is placed on Stage from Hand, choose one of your other《Music》Characters, during this turn, it gains +1000 Power.",
+            "[A] - [Return this card to Hand] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, choose one of your Characters, during this turn, it gains +2000 Power."
         ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
@@ -1080,9 +1080,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If your Level is 2 or higher, this card gains the following effect:",
-            "-[S] &#8211; [(1) Send this card to Waiting Room] Choose one [“代わってあげるよ♪”松浦 果南] in your Waiting Room, place it in this card&#8217;s previous slot.",
-            "[S] &#8211; [(1) REST this card] Look at up to two cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+            "[C] - If your Level is 2 or higher, this card gains the following effect:",
+            "-[S] - [(1) Send this card to Waiting Room] Choose one [“代わってあげるよ♪”松浦 果南] in your Waiting Room, place it in this card's previous slot.",
+            "[S] - [(1) REST this card] Look at up to two cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
         ],
         "jpAbility": [
             "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“代わってあげるよ♪”松浦 果南」を1枚選び、このカードがいた枠に置く。』",
@@ -1110,9 +1110,9 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; The Character across from this card gains [A] &#8211; ENCORE [(2)].",
-            "[A] &#8211; This effect activates up to once per turn. When you use [S], during this turn, this card gains the following effect:",
-            "-[A] &#8211; When this card&#8217;s battle opponent is REVERSE, you may send the top card of your Deck to Stock."
+            "[C] - The Character across from this card gains [A] - ENCORE [(2)].",
+            "[A] - This effect activates up to once per turn. When you use [S], during this turn, this card gains the following effect:",
+            "-[A] - When this card's battle opponent is REVERSE, you may send the top card of your Deck to Stock."
         ],
         "jpAbility": [
             "【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。",
@@ -1142,10 +1142,10 @@
         ],
         "flavor_text": "",
         "ability": [
-            "[C] &#8211; If you have four or more《Music》Characters, this card gets -1 Level in your Hand.",
-            "[C] &#8211; If you have two or more other《Music》Characters, this card gains +1500 Power, and the following effect:",
-            "-[C] &#8211; During this card&#8217;s battle, your opponent cannot play Events from Hand.",
-            "[A] &#8211; When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room."
+            "[C] - If you have four or more《Music》Characters, this card gets -1 Level in your Hand.",
+            "[C] - If you have two or more other《Music》Characters, this card gains +1500 Power, and the following effect:",
+            "-[C] - During this card's battle, your opponent cannot play Events from Hand.",
+            "[A] - When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room."
         ],
         "jpAbility": [
             "【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
