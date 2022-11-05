@@ -1,0 +1,3277 @@
+[
+    {
+        "name": "ナザリック最高の智者 デミウルゴス",
+        "code": "OVL/S99-001",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, this card gains +2000 Power.",
+            "[A] - CX COMBO When this card attacks, if you have [作戦の真意] in your Climax Zone, if you have two or more other《Heteromorphic》or《Nazarick》Characters, perform one of the following two effects of your choice:",
+            "-Look at up to four cards from the top of your Deck, choose up to one《Heteromorphic》or《Nazarick》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room.",
+            "-Choose one Level 2 or higher《Heteromorphic》or《Nazarick》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「作戦の真意」があり、他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から4枚まで見て、《異形種》か《ナザリック》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『あなたは自分の控え室のレベル2以上の、《異形種》か《ナザリック》のキャラを1枚選び、手札に戻す。』"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_001.png"
+    },
+    {
+        "name": "本当の力 ナーベラル",
+        "code": "OVL/S99-002",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have four or more《Heteromorphic》or《Nazarick》Characters, this card gets -1 Level in your Hand.",
+            "[C] - For each Character in your opponent's Back Row, this card gains +1000 Power.",
+            "[A] - When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたの、《異形種》か《ナザリック》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_002.png"
+    },
+    {
+        "name": "魔導国建国 デミウルゴス",
+        "code": "OVL/S99-003",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have two or more other《Heteromorphic》or《Nazarick》Characters, this card gains +2000 Power.",
+            "[A] - At the beginning of opponent's Attack Phase, if this card is in Front Row Center Slot, you may move this card to an empty slot in Front Row."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 相手のアタックフェイズの始めに、前列の中央の枠にこのカードがいるなら、あなたはこのカードを前列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_003.png"
+    },
+    {
+        "name": "人間との交流 ルプスレギナ",
+        "code": "OVL/S99-004",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - You can play this card from Hand without color requirement.",
+            "[C] - During your turn, this card gains +5000 Power.",
+            "[A] - CX COMBO [Send one card from Hand to Waiting Room] When this card's battle opponent is REVERSE, if you have [残忍な素顔] in your Climax Zone, if you have two or more other《Heteromorphic》or《Nazarick》or《Carne Village》Characters, you may pay the cost. If you did, choose up to two《Heteromorphic》or《Nazarick》or《Carne Village》Characters in your Waiting Room, add them to Hand."
+        ],
+        "jpAbility": [
+            "【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+            "【永】 あなたのターン中、このカードのパワーを＋5000。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「残忍な素顔」があり、他のあなたの、《異形種》か《ナザリック》か《カルネ村》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《異形種》か《ナザリック》か《カルネ村》のキャラを2枚まで選び、手札に戻す。コストを払わないなら、あなたは自分の控え室の、《異形種》か《ナザリック》か《カルネ村》のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_004.png"
+    },
+    {
+        "name": "美しき冒険者 ナーベ",
+        "code": "OVL/S99-005",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When a Climax is placed in your Climax Area, during this turn, this card gains +1500 Power.",
+            "[A] - When this card's battle opponent is REVERSE, if you have a Climax in your Climax Zone, you may send the top card of your Deck to Stock."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Raven Black"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_005.png"
+    },
+    {
+        "name": "魔導国建国 シャルティア",
+        "code": "OVL/S99-006",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If all of your Characters are《Heteromorphic》or《Nazarick》, this card gains +1500 Power and the following effect:",
+            "-[C] - If the Character across from this card is cost 0 or lower, this card cannot be REVERSE.",
+            "[A] - When this card's battle opponent is REVERSE, you may send the top card of your Deck underneath this card face up as a Marker.",
+            "[A] - At the beginning of your Main Phase, if this card has a Marker underneath it, if your Level is 2 or higher, send this card to Waiting Room, choose up to one [対峙する絶望 シャルティア] in your Hand, place it in this card's previous slot."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《異形種》か《ナザリック》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。』",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置いてよい。",
+            "【自】 あなたのメインフェイズの始めに、このカードの下にマーカーがあり、あなたのレベルが2以上なら、あなたはこのカードを控え室に置き、自分の手札の「対峙する絶望 シャルティア」を1枚まで選び、このカードがいた枠に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_006.png"
+    },
+    {
+        "name": "対峙する絶望 シャルティア",
+        "code": "OVL/S99-007",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] - CX COMBO [(1)] This effect activates up to once per turn. At the end of this card's attack, if you have [逃走の果て] in your Climax Zone, if the slot across from this card has no Character or is REVERSE, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a《Heteromorphic》or《Nazarick》Character, choose one of your《Heteromorphic》or《Nazarick》Characters and this card, exchange them, STAND this card. (Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】［(1)］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「逃走の果て」があり、このカードの正面のキャラがいないか【リバース】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《異形種》か《ナザリック》のキャラなら、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚とこのカードを選び、入れ替え、このカードを【スタンド】する。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_007.png"
+    },
+    {
+        "name": "侵入者へ向ける視線 シズ",
+        "code": "OVL/S99-008",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When your other Character's battle opponent is REVERSE in battle, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +500 Power.",
+            "[S] - BRAINSTORM [(1) REST this card] Flip the top four card of your Deck, send them to Waiting Room. For each Climax among those cards, perform the following effect:",
+            "-Look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_008.png"
+    },
+    {
+        "name": "作戦の確認 シャルティア",
+        "code": "OVL/S99-009",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your other《Heteromorphic》or《Nazarick》Characters gain +500 Power.",
+            "[A] - [Send one Climax in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Heteromorphic》or《Nazarick》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋500。",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_009.png"
+    },
+    {
+        "name": "来訪者への洗礼 デミウルゴス",
+        "code": "OVL/S99-010",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +1500 Power.",
+            "[A] - When this card attacks, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードがアタックした時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_010.png"
+    },
+    {
+        "name": "余裕の勝利 ルプスレギナ",
+        "code": "OVL/S99-011",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, choose one of your opponent's Characters, until end of opponent's next turn, it gains the following effect:",
+            "-[C] - This card cannot move to other slots on Stage.",
+            "[A] - When this card attacks, choose one of your other《Heteromorphic》or《Nazarick》or《Carne Village》Characters, during this turn, it gains +X Power. X is the number of your other《Heteromorphic》or《Nazarick》or《Carne Village》Characters x500."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+            "【自】 このカードがアタックした時、あなたは他の自分の、《異形種》か《ナザリック》か《カルネ村》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》か《カルネ村》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_011.png"
+    },
+    {
+        "name": "裸の付き合い デミウルゴス",
+        "code": "OVL/S99-012",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card attacks if you have two or more other《Heteromorphic》or《Nazarick》Characters, look at up to two cards from the top of your Deck, choose up to one card among them, place it on top of Deck, send the remaining cards to Waiting Room.",
+            "[A] - When this card is REVERSE in battle, if this card's battle opponent is cost 0 or lower, you may send that Character to Stock. If you did, send the bottom card of opponent's Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_012.png"
+    },
+    {
+        "name": "代価の要求 モモン",
+        "code": "OVL/S99-013",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When you use this card’s BACKUP, send the bottom X cards of opponent’s Deck to Waiting Room. X is the number of your《Heteromorphic》or《Humanoid》Characters.",
+            "[S] - COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの、《異形種》か《人間種》のキャラの枚数に等しい。",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Raven Black"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_013.png"
+    },
+    {
+        "name": "事後の報告 エントマ",
+        "code": "OVL/S99-014",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - For each of your other《Heteromorphic》or《Nazarick》Characters in Front Row, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの後列の、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_014.png"
+    },
+    {
+        "name": "妖艶なる戦闘メイド ソリュシャン",
+        "code": "OVL/S99-015",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If all of the cards among them are《Heteromorphic》or《Nazarick》Characters, choose one of your opponent's Level 3 or lower Characters in Back Row. That Character does not STAND during opponent's next Stand Phase.",
+            "[A] - When this card attacks, reveal the top card of your Deck. If that card is a《Heteromorphic》or《Nazarick》Character or Event, add it to Hand, choose one card in your Hand, send it to Waiting Room. (If not return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードがすべて《異形種》か《ナザリック》のキャラなら、あなたは相手の後列のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《異形種》か《ナザリック》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_015.png"
+    },
+    {
+        "name": "退屈な襲撃 シャルティア",
+        "code": "OVL/S99-016",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《異形種》か《ナザリック》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_016.png"
+    },
+    {
+        "name": "悪へ振るう拳 セバス",
+        "code": "OVL/S99-017",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your other [新たな生活 ツアレ] gains +500 Power and the following effect:",
+            "-[C] - If the card across from this card is cost 0 or lower, this card cannot be REVERSE."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「新たな生活 ツアレ」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。』"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_017.png"
+    },
+    {
+        "name": "武技の習得 ハムスケ",
+        "code": "OVL/S99-018",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If this card has a Marker underneath it, this card gains +2000 Power.",
+            "[A] - When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Heteromorphic》or《Nazarick》Character, you may place that card underneath this card face up as a Marker. (If not return card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《異形種》か《ナザリック》のキャラならこのカードの下にマーカーとして表向きに置いてよい。（そうしないなら元に戻す）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_018.png"
+    },
+    {
+        "name": "新たな生活 ツアレ",
+        "code": "OVL/S99-019",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [],
+        "jpAbility": [
+            "-"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_019.png"
+    },
+    {
+        "name": "咄嗟の謝罪 ナーベラル",
+        "code": "OVL/S99-020",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If your opponent has a Climax in their Climax Zone, the Character across from this card gets -1 Soul.",
+            "[A] - When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Heteromorphic》or《Nazarick》Characters x1000."
+        ],
+        "jpAbility": [
+            "【永】 相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを－1。",
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_020.png"
+    },
+    {
+        "name": "ご褒美の百科事典",
+        "code": "OVL/S99-021",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Send all cards in your Hand to Waiting Room, draw X cards, send the top card of your Deck to Clock, choose one of your Characters, during this turn, it gains +1000 Power. X is the number of cards sent to Waiting Room by this effect +1."
+        ],
+        "jpAbility": [
+            "あなたは自分の手札すべてを、控え室に置き、Ｘ枚引き、自分の山札の上から1枚を、クロック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはこの効果で控え室に置かれたカードの枚数＋1に等しい。"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_021.png"
+    },
+    {
+        "name": "作戦の真意",
+        "code": "OVL/S99-022",
+        "rarity": "CR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_022.png"
+    },
+    {
+        "name": "残忍な素顔",
+        "code": "OVL/S99-023",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_023.png"
+    },
+    {
+        "name": "逃走の果て",
+        "code": "OVL/S99-024",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_024.png"
+    },
+    {
+        "name": "建国宣言の玉座 アルベド",
+        "code": "OVL/S99-025",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - At the beginning of your Encore Step, if you have a Climax in your Climax Zone, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+            "[S] - BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 あなたのアンコールステップの始めに、クライマックス置場にクライマックスがあるなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_025.png"
+    },
+    {
+        "name": "ダークエルフの魔獣使い アウラ",
+        "code": "OVL/S99-026",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] - [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_026.png"
+    },
+    {
+        "name": "気弱な階層守護者 マーレ",
+        "code": "OVL/S99-027",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, perform one of the following two effects of your choice:",
+            "-Send the top card of your Clock to Waiting Room.",
+            "-Your opponent chooses one Climax in their Waiting Room, return all other cards in their Waiting Room to Deck, shuffle their Deck afterwards.",
+            "[A] - CX COMBO [(1) Send one card from Hand to Waiting Room] When this card attacks, if you have [帝国への使者] in your Climax Zone, you may pay the cost. If you did, deal two damage to your opponent, during this turn, this card gains +1000 Power. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置く。』『相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「帝国への使者」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1000。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_027.png"
+    },
+    {
+        "name": "魔導王 アインズ",
+        "code": "OVL/S99-028",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - CX COMBO If you have [黒き豊穣への貢] in your Climax, if this card is in Front Row, if you have another《Heteromorphic》or《Nazarick》Character, send up to one card from the top of your Clock to Waiting Room, perform one of the following three effects of your choice:",
+            "-Choose up to five [黒い子山羊] in your Waiting Room, place them underneath this card as Markers in any order.",
+            "-Send all Markers underneath this card to Memory, choose X of your opponent's Characters, send them to Waiting Room. X is the number of cards sent to Memory by this effect.",
+            "-Deal one damage to your opponent, during this turn, this card gains +2000 Power. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】 あなたのクライマックス置場に「黒き豊穣への貢」が置かれた時、前列にこのカードがいて、他のあなたの、《異形種》か《ナザリック》のキャラがいるなら、あなたは自分のクロックの上から1枚までを、控え室に置き、次の3つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「黒い仔山羊」を5枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。』『あなたはこのカードの下のマーカーすべてを、思い出にし、相手のキャラをＸ枚選び、控え室に置く。Ｘはこの効果で思い出にしたカードの枚数に等しい。』『相手に1ダメージを与え、そのターン中、このカードのパワーを＋2000。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_028.png"
+    },
+    {
+        "name": "建国宣言の玉座 マーレ",
+        "code": "OVL/S99-029",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your other《Heteromorphic》or《Nazarick》Characters gain +500 Power.",
+            "[A] - [Send one Climax from Hand to Waiting Room] When your Character's Trigger Check reveals a Climax, you may pay the cost. If you did, look at up to two cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋500。",
+            "【自】［手札のクライマックスを1枚控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_029.png"
+    },
+    {
+        "name": "方針会議 デミウルゴス",
+        "code": "OVL/S99-030",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, you may send the top three cards of your Deck to Waiting Room.",
+            "[A] - [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_030.png"
+    },
+    {
+        "name": "嬉しい言葉 アルベド",
+        "code": "OVL/S99-031",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, all players perform the following effect:",
+            "-If you have five or more Memory, choose four cards in your Memory, send all other cards in your Memory to Waiting Room.",
+            "[A] - When your other《Heteromorphic》or《Nazarick》Character attacks, during this turn, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+            "【自】 他のあなたの、《異形種》か《ナザリック》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_031.png"
+    },
+    {
+        "name": "豊穣の母神からの返礼 アインズ",
+        "code": "OVL/S99-032",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - Your [黒い子山羊] in Hand gets -1 cost.",
+            "[C] - ASSIST All of your《Heteromorphic》or《Nazarick》Characters in front of this card gains +X Power. X is that Character's Level x500.",
+            "[A] - CX COMBO When [黒き豊穣への貢] is placed in your Climax Zone, choose one of your [魔導王 アインズ], during this turn, it gains +4500 Power, until end of opponent's next turn, this card gains the following two effects:",
+            "-[C] - During opponent's turn, this card cannot be chosen by opponent's effects.",
+            "-[C] - During opponent's turn, this card and its battle opponent cannot be REVERSE."
+        ],
+        "jpAbility": [
+            "【永】 あなたの手札の「黒い仔山羊」のコストを－1。",
+            "【永】 応援 このカードの前のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「黒き豊穣への貢」が置かれた時、あなたは自分の「魔導王 アインズ」を1枚選び、そのターン中、パワーを＋4500し、次の相手のターンの終わりまで、次の2つの能力を与える。『【永】 相手のターン中、このカードは相手の効果に選ばれない。』『【永】 相手のターン中、このカードのバトル相手とこのカードは【リバース】しない。』"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_032.png"
+    },
+    {
+        "name": "魔導国建国 アウラ",
+        "code": "OVL/S99-033",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, during this turn, this card gains +3000 Power.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] When 帝国への使者 is placed in your Climax Zone, if this card is in your Front Row, you may pay the cost. If you did, choose up to one [気弱な階層守護者 マーレ] in your Hand, place it on Stage in any slot.",
+            "[A] - When this card's battle opponent is REVERSE, if you have a Climax in your Climax Zone, you may send the top card of your Deck to Stock."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ あなたのクライマックス置場に「帝国への使者」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「気弱な階層守護者 マーレ」を1枚まで選び、舞台の好きな枠に置く。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_033.png"
+    },
+    {
+        "name": "予想外の効果 アインズ",
+        "code": "OVL/S99-034",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If your Level is 2 or higher, this card gains the following effect:",
+            "-[S] - [(1) Send one card from Hand to Waiting Room, send this card to Waiting Room] Choose up to one [魔導王 アインズ] in your Hand, place it in this card's previous slot.",
+            "[A] - [(1) Send the top card of your Deck to Clock, return this card to Hand] At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, choose one of your other《Heteromorphic》or《Nazarick》Characters, return it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「魔導王 アインズ」を1枚まで選び、このカードがいた枠に置く。』",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の、《異形種》か《ナザリック》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_034.png"
+    },
+    {
+        "name": "休暇のひと時 マーレ",
+        "code": "OVL/S99-035",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, choose up to one of your opponent's Characters, send it to Memory, your opponent places that Character from Memory onto any slot on Stage.",
+            "[A] - When this card is placed on Stage from Hand, choose one of your other《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_035.png"
+    },
+    {
+        "name": "反逆者へ振るう刃 アルベド",
+        "code": "OVL/S99-036",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, this card gains +1000 Power.",
+            "[A] - CX COMBO This effect cannot be activated on the first turn of the player going first. When this card attacks, if you have [王を守護するもの] in your Climax Zone, if you have another《Heteromorphic》or《Nazarick》Character, if you have six or less cards in your Hand, choose up to one Level 0 or lower《Heteromorphic》or《Nazarick》Character in your Waiting Room, place it in Stage in any slot, during this turn, you cannot attack four or more times."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 この能力は先攻プレイヤーの第1ターンなら発動しない。このカードがアタックした時、クライマックス置場に「王を守護するもの」があり、他のあなたの、《異形種》か《ナザリック》のキャラがいて、あなたの手札が6枚以下なら、あなたは自分の控え室のレベル0以下の、《異形種》か《ナザリック》のキャラを1枚まで選び、舞台のキャラのいない枠に置き、そのターン中、あなたは4回目以降のアタックができない。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_036.png"
+    },
+    {
+        "name": "漏れ出た笑い アルベド",
+        "code": "OVL/S99-037",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your other [惜しみない狂愛 アルベド] gains +1000 Power.",
+            "[C] - ASSIST All of your Characters in front of this card gains +500.",
+            "[A] - [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one [惜しみない狂愛 アルベド], reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「惜しみない狂愛 アルベド」すべてに、パワーを＋1000。",
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「惜しみない狂愛 アルベド」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_037.png"
+    },
+    {
+        "name": "我が儘な支配者 アインズ",
+        "code": "OVL/S99-038",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, choose one《Heteromorphic》or《Nazarick》Character, during this turn, it gains +1500 Power.",
+            "[A] - When this card's battle opponent is REVERSE, if this card's battle opponent is REVERSE, you may send the top card of opponent's Clock to Waiting Room. If you did, send that Character to Clock."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_038.png"
+    },
+    {
+        "name": "プレアデスの副リーダー ユリ",
+        "code": "OVL/S99-039",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have four or more other《Heteromorphic》or《Nazarick》Characters, this card gains +6000 Power.",
+            "[A] - When this card is placed on Stage from Hand, if you have two or more other《Heteromorphic》or《Nazarick》Characters, you may draw two cards. If you did, choose two cards in your Hand, send it to Waiting Room.",
+            "[A] - When this card is placed on Stage from Hand, if you have four or more other《Heteromorphic》or《Nazarick》Characters, you may pay choose one《Heteromorphic》or《Nazarick》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《異形種》か《ナザリック》のキャラが4枚以上なら、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_039.png"
+    },
+    {
+        "name": "懸命なごまかし アインズ",
+        "code": "OVL/S99-040",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [Return two Characters in your Waiting Room to Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card can Side Attack without Soul Penalty.",
+            "[A] - When this card attacks, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】 このカードがアタックした時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_040.png"
+    },
+    {
+        "name": "主への喝采 マーレ",
+        "code": "OVL/S99-041",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - You cannot play Events or BACKUP from Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_041.png"
+    },
+    {
+        "name": "地形操作 マーレ",
+        "code": "OVL/S99-042",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have another [入場コール アウラ], this card gains +4000 Power.",
+            "[A] - When your Character Trigger Checks a Climax, during this turn, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「入場コール アウラ」がいるなら、このカードのパワーを＋4000。",
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_042.png"
+    },
+    {
+        "name": "頷けない話 アウラ",
+        "code": "OVL/S99-043",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [Send one [冷酷なる追跡者 シャルティア] from Hand to Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gains +1500 Power and the following two effects:",
+            "-[(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step.",
+            "-[A] - When this card's battle opponent is REVERSE, you may choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札の「冷酷なる追跡者 シャルティア」を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500し、このカードは次の2つの能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_043.png"
+    },
+    {
+        "name": "入場コール アウラ",
+        "code": "OVL/S99-044",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - ASSIST All of your《Heteromorphic》or《Nazarick》Characters in front of this card gains +X Power. X is that Character's Level x500.",
+            "[A] - [(1) REST this card] When your other [地形操作 マーレ] battle opponent is REVERSE, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】［(1) 【スタンド】しているこのカードを【レスト】する］ 他のあなたの「地形操作 マーレ」のバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_044.png"
+    },
+    {
+        "name": "遅かった気付き コキュートス",
+        "code": "OVL/S99-045",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have another Level 3 or higher Character, this card gains +4000 Power.",
+            "[C] - If you have two or more other《Heteromorphic》or《Nazarick》Characters, this card gains +3000 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋4000。",
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_045.png"
+    },
+    {
+        "name": "皇帝への呼びかけ アウラ",
+        "code": "OVL/S99-046",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, if this card is in Front Row Center Slot, this card gains +7000 Power and +2 Soul."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、このカードのパワーを＋7000し、ソウルを＋2。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_046.png"
+    },
+    {
+        "name": "黒い仔山羊",
+        "code": "OVL/S99-047",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you do not have a Character with \"Ainz\" in their card name, you cannot play this card from Hand.",
+            "Choose up to one《Heteromorphic》or《Nazarick》Character in your Waiting Room, add it to Hand, choose one of your Characters, during this turn, it gains +1000 Power.",
+            "[C] - You can have up to five cards with the same name as this card in your Deck.",
+            "[A] - RECOLLECTION [(1) Send one card from Hand to Waiting Room] If this card is in Memory, at the beginning of your Encore Step, if you have [魔導王 アインズ], you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "このカードは、あなたのカード名に「アインズ」を含むキャラがいないなら、手札からプレイできない。",
+            "あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【永】 このカードと同じカード名のカードは、デッキに5枚まで入れることができる。",
+            "【自】 記憶 ［(1) 手札を1枚控え室に置く］ 思い出置場にこのカードがあり、あなたのアンコールステップの始めに、あなたの「魔導王 アインズ」がいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_047.png"
+    },
+    {
+        "name": "ウォーバイコーンロード",
+        "code": "OVL/S99-048",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 0,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Choose one of your Characters, send it to Stock. If you did, reveal the top card of your Deck. If that card. If that card is a Character with one or more of the same traits as the Character sent to Stock by this effect, place that Character on Stage in any slot. (If not return revealed card to its originla position)"
+        ],
+        "jpAbility": [
+            "あなたは自分のキャラを1枚選び、ストック置場に置く。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがこの効果でストック置場に置かれたキャラと同じ特徴を1つ以上持つキャラなら舞台の好きな枠に置く。（そうでないなら元に戻す）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_048.png"
+    },
+    {
+        "name": "黒き豊穣への貢",
+        "code": "OVL/S99-049",
+        "rarity": "CR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_049.png"
+    },
+    {
+        "name": "帝国への使者",
+        "code": "OVL/S99-050",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_050.png"
+    },
+    {
+        "name": "王を守護するもの",
+        "code": "OVL/S99-051",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_051.png"
+    },
+    {
+        "name": "配下への思い アインズ",
+        "code": "OVL/S99-052",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(1) Send one card from Hand to Waiting Room] When this card is placed on stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Heteromorphic》or《Nazarick》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[A] - [Send the top card of your Deck to Clock] When this card is REVERSE in battle, if all of your Characters are《Heteromorphic》or《Nazarick》, you may pay the cost. If you did, look at up to two cards from the top of your Deck, choose up to one Level 1 or lower Character or Event among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《異形種》か《ナザリック》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】［あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《異形種》か《ナザリック》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、レベル1以下のキャラか、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_052.png"
+    },
+    {
+        "name": "可憐な吸血鬼 シャルティア",
+        "code": "OVL/S99-053",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, this card gains +2000 Power.",
+            "[A] - CX COMBO At the end of this card's attack, if you have [屈辱の罰] in your Climax Zone, if you have two or more other《Heteromorphic》or《Nazarick》Characters, if the slot across from this card has no Character or is REVERSE, choose up to one《Heteromorphic》or《Nazarick》Character in your Waiting Room, add it to Hand, you may send this card to Memory. If this card is sent to Memory, at the beginning of your next Draw Phase, choose one [可憐な吸血鬼 シャルティア], place it on Stage in any slot."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「屈辱の罰」があり、他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚まで選び、手札に戻し、このカードを思い出にしてよい。思い出にしたなら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「可憐な吸血鬼 シャルティア」を1枚選び、舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_053.png"
+    },
+    {
+        "name": "主へと捧ぐ愛 アルベド",
+        "code": "OVL/S99-054",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, or by the [A] effect of [作戦の意図 アルベド], you may send the top card of your Clock to Waiting Room.",
+            "[A] - CX COMBO When this card attacks, if you have [抑えきれない感情] in your Climax Zone, if you have two or more other《Heteromorphic》or《Nazarick》Characters, deal one damage to your opponent, until end of opponent's next turn, during opponent's Climax Phase or during this card's battle, you do not take damage from the [A] effects of opponent's Characters. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時か「作戦の意図 アルベド」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「抑えきれない感情」があり、他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、相手に1ダメージを与え、次の相手のターンの終わりまで、相手のクライマックスフェイズ中かこのカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_054.png"
+    },
+    {
+        "name": "死を運ぶ者 アインズ",
+        "code": "OVL/S99-055",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - At the beginning of your Climax Phase, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +1000 Power.",
+            "[S] - [REST this card] Choose one of your opponent's Characters in Front Row, during this turn, it gets -1000 Power."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_055.png"
+    },
+    {
+        "name": "セコンド アルベド",
+        "code": "OVL/S99-056",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, this card gains +1000 Power.",
+            "[A] - When this card's battle opponent is REVERSE, choose one of your other《Heteromorphic》or《Nazarick》Characters, REST it, move it to an empty slot in Back Row."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《異形種》か《ナザリック》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_056.png"
+    },
+    {
+        "name": "魔導国建国 セバス",
+        "code": "OVL/S99-057",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, if you have another《Heteromorphic》or《Nazarick》Character, during this turn, this card gains +2000 Power.",
+            "[A] - [(1) Send two cards from Hand to Waiting Room] During the turn this card is placed on Stage from Hand, when this card attacks, you may pay the cost. If you did, search your Deck for up to two《Heteromorphic》or《Nazarick》Characters, reveal them to your opponent, add them to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《異形種》か《ナザリック》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+            "【自】［(1) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《異形種》か《ナザリック》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_057.png"
+    },
+    {
+        "name": "騎獣召喚 アルベド",
+        "code": "OVL/S99-058",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room, during this turn, this card gains +X Power. X is the number of《Heteromorphic》or《Nazarick》Characters sent to Waiting Room x1000.",
+            "[A] - [(1)] During the turn this card is placed on Stage from Hand, when this card's battle opponent is REVERSE, you may pay the cost. If you did, reveal the top two cards of your Deck, your opponent chooses one Character or Event among those cards, add that card to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《異形種》か《ナザリック》のキャラの枚数×1000に等しい。",
+            "【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_058.png"
+    },
+    {
+        "name": "魔導国建国 アインズ",
+        "code": "OVL/S99-059",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have two or more other《Heteromorphic》or《Nazarick》Characters, this card gains +2000 Power.",
+            "[A] - CX COMBO When this card's battle opponent is REVERSE if you have [アインズ・ウール・ゴウン魔道国] in your Climax Zone, you may choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「アインズ・ウール・ゴウン魔導国」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_059.png"
+    },
+    {
+        "name": "驚きの事実 シャルティア",
+        "code": "OVL/S99-060",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 3000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - ASSIST All of your Characters in front of this card gains +2000 Power.",
+            "[A] - [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Clock to Stock.",
+            "[A] - [(3) Send two cards from Hand to Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, deal five damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+            "【自】［(3) 手札を2枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_060.png"
+    },
+    {
+        "name": "支配者へ向ける賛美 シャルティア",
+        "code": "OVL/S99-061",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - At the beginning of your Climax Phase, if you have another Character with \"Shalltear\" in their card name, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "[S] - BRAINSTORM [(1) REST two of your Characters] Flip the top five cards of your Deck, send them to Waiting Room. For each Climax among those cards, search your Deck for up to one《Heteromorphic》or《Nazarick》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスフェイズの始めに、他のあなたのカード名に「シャルティア」を含むキャラがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《異形種》か《ナザリック》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_061.png"
+    },
+    {
+        "name": "新妻ごっこ アルベド",
+        "code": "OVL/S99-062",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If this card is in Back Row, if you have another [可愛らしい失態 アルベド], your [超越者 アインズ] gets -1 cost in Hand.",
+            "[S] - BRAINSTORM [(1 REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 後列にこのカードがいて、他のあなたの後列の「可愛らしい失態 アルベド」がいるなら、あなたの手札の「超越者 アインズ」のコストを－1。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_062.png"
+    },
+    {
+        "name": "作戦の意図 アルベド",
+        "code": "OVL/S99-063",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - ASSIST All of your Characters in front of this card gain +1500 Power.",
+            "[A] - CX COMBO [(1) Send one card from Hand to Waiting Room] When [抑えきれない感情] is placed in your Climax Zone, if your Level is 2 or higher, you may pay the cost. If you did, choose one [主へと捧ぐ愛 アルベド] in your Waiting Room, place it in this card's previous slot, choose up to one [暴走する思い] in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックス置場に「抑えきれない感情」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主へと捧ぐ愛 アルベド」を1枚まで選び、このカードがいた枠に置き、自分の控え室の「暴走する思い」を1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_063.png"
+    },
+    {
+        "name": "侵入者へのもてなし アインズ",
+        "code": "OVL/S99-064",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - For each of your other《Heteromorphic》or《Nazarick》Characters, this card gains +1000 Power.",
+            "[A] - ENCORE [Send one card from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_064.png"
+    },
+    {
+        "name": "方針会議 アインズ",
+        "code": "OVL/S99-065",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, send the top two cards of Deck to Waiting Room. If there is a Climax among those cards, during this turn, this card gains +1000 Power and +1 Soul.",
+            "[A] - When this card is placed on Stage from hand, if you have another《Heteromorphic》or《Nazarick》Character, during this turn, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《異形種》か《ナザリック》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_065.png"
+    },
+    {
+        "name": "たゆまぬ努力 アインズ",
+        "code": "OVL/S99-066",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [小鬼将軍の角笛] in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「小鬼将軍の角笛」を1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_066.png"
+    },
+    {
+        "name": "冷酷なる追跡者 シャルティア",
+        "code": "OVL/S99-067",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [],
+        "jpAbility": [
+            "-"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_067.png"
+    },
+    {
+        "name": "喧騒のスパ アインズ",
+        "code": "OVL/S99-068",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During opponent's turn, this card gains +1000 Power.",
+            "[A] - When this card attacks, choose one of your other《Heteromorphic》or《Nazarick》Characters, during this turn, this card gains +X Power. X is the number of your other《Heteromorphic》or《Nazarick》Characters x500."
+        ],
+        "jpAbility": [
+            "【永】 相手のターン中、このカードのパワーを＋1000。",
+            "【自】 このカードがアタックした時、あなたは他の自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_068.png"
+    },
+    {
+        "name": "立ちはだかる セバス",
+        "code": "OVL/S99-069",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, choose one of your opponent's Characters, until end of opponent's next turn, it gains the following effect:",
+            "-[C] - This card cannot move to other slots on Stage.",
+            "[A] - When this card is REVERSE, if this card's battle opponent's Level is higher than your opponent's Level, you may send that Character to Memory."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_069.png"
+    },
+    {
+        "name": "謁見中の軽口 シャルティア",
+        "code": "OVL/S99-070",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card attacks, if the Character across from this card is Level 3 or higher, during this turn, this card gains +6000 Power.",
+            "[A] - [Send this card to Waiting Room] When your other《Heteromorphic》or《Nazarick》Character is Front Attacked, you may pay the cost. If you did, choose one of your battling Characters, during this turn, it gains +3000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+            "【自】［このカードを控え室に置く］ 他のあなたの、《異形種》か《ナザリック》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_070.png"
+    },
+    {
+        "name": "暴走する思い",
+        "code": "OVL/S99-071",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER If you do not have [主へと捧ぐ愛 アルベド], you cannot play this card from Hand.",
+            "If your Level is 2, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains +1500 Power and the following effect:",
+            "-[C] - The Character across from this card gets -3 Soul.",
+            "[(1)] If your Level is 3, you may pay the cost. If you did, choose one of your《Heteromorphic》or《Nazarick》Characters, during this turn, it gains the following effect:",
+            "-[C] - The Character across from this card gets -3 Soul."
+        ],
+        "jpAbility": [
+            "【カウンター】 このカードは、あなたの「主へと捧ぐ愛 アルベド」がいないなら、手札からプレイできない。",
+            "あなたのレベルが2なら、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』",
+            "［(1)］ あなたのレベルが3なら、あなたはコストを払ってよい。そうしたら、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_071.png"
+    },
+    {
+        "name": "真なる死",
+        "code": "OVL/S99-072",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you don't have another <Grotesque Race> or <Nazarick> character, this cannot be played from hand.",
+            "Choose 1 of your opponent's Level 3 or lower character, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "このカードは、あなたの、《異形種》か《ナザリック》のキャラがいないなら、手札からプレイできない。",
+            "あなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_072.png"
+    },
+    {
+        "name": "抑えきれない感情",
+        "code": "OVL/S99-073",
+        "rarity": "CR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_073.png"
+    },
+    {
+        "name": "屈辱の罰",
+        "code": "OVL/S99-074",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_074.png"
+    },
+    {
+        "name": "アインズ・ウール・ゴウン魔導国",
+        "code": "OVL/S99-075",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_075.png"
+    },
+    {
+        "name": "四腕の武人 コキュートス",
+        "code": "OVL/S99-076",
+        "rarity": "RR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If all of your Characters are《Heteromorphic》or《Nazarick》, this card gains +1000 Power.",
+            "[C] - During opponent's turn, if you have another《Heteromorphic》or《Nazarick》Character, this card gains +1500 Power.",
+            "[A] - At the beginning of opponent's Attack Phase, you may move this card to an empty slot in your Front Row that has an opponent's Character across it."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《異形種》か《ナザリック》なら、このカードのパワーを＋1000。",
+            "【永】 相手のターン中、他のあなたの、《異形種》か《ナザリック》のキャラがいるなら、このカードのパワーを＋1500。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_076.png"
+    },
+    {
+        "name": "魔導国建国 コキュートス",
+        "code": "OVL/S99-077",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, look at up to two cards from the top of your Deck, place them on top of Deck in any order.",
+            "[A] - When this card attacks, choose one of your other《Heteromorphic》or《Nazarick》Characters, until end of opponent's next turn, it gains +1000 Power and [A] - ENCORE [Send one Character from Hand to Waiting Room]."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+            "【自】 このカードがアタックした時、あなたは他の自分の、《異形種》か《ナザリック》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_077.png"
+    },
+    {
+        "name": "小柄な魔法詠唱者 イビルアイ",
+        "code": "OVL/S99-078",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [Send one card in your Hand to Waiting Room] When your Character's Trigger Check reveals a Climax with Pants Trigger Icon, if you have a Climax in your Climax Zone, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand.",
+            "[S] - BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたのクライマックス置場にクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Blue Rose"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_078.png"
+    },
+    {
+        "name": "やさしさの顔 ラナー",
+        "code": "OVL/S99-079",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - ASSIST All of your Level 3 or higher Characters in front of this card gains +2000 Power.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gains the following effect:",
+            "-[C] - If you do not have another [やさしさの顔　ラナ], after performing the effect of [\"青の薔薇\" イビルアイ], choose up to one of the effects that was not chosen, perform that effect.",
+            "[S] - [REST this card] If your opponent has five or less cards in Waiting Room, send the top five cards of opponent's Deck to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】［(1) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】 他のあなたの「やさしさの顔 ラナー」がいないなら、あなたは自分の「“蒼の薔薇” イビルアイ」の【CXコンボ】で選んだ効果を行った後、選ばなかった効果のうち1つまで選んで行ってよい。』",
+            "【起】［このカードを【レスト】する］ 相手の控え室が5枚以下なら、相手は自分の山札の上から5枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Royalty"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_079.png"
+    },
+    {
+        "name": "指導者としての決断 エンリ",
+        "code": "OVL/S99-080",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your other《Carne Village》Characters gain +2000 Power.",
+            "[A] - When this card is placed on Stage from Hand, you may choose one《Carne Village》Character in your Waiting Room, add it to Hand.",
+            "[A] - CX COMBO [(2) Send one card from Hand to Waiting Room] When [最後の手段] is placed in your Climax Zone, if you have two or more other《Carne Village》Characters, you may pay the cost. If you did, deal X damage to your opponent. X is the number of your [ゴブリン近衛隊] in Front Row. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《カルネ村》のキャラすべてに、パワーを＋2000。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《カルネ村》のキャラを1枚選び、手札に戻してよい。",
+            "【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「最後の手段」が置かれた時、他のあなたの《カルネ村》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘは他のあなたの前列の「ゴブリン近衛隊」の枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_080.png"
+    },
+    {
+        "name": "名残惜しい別れ イビルアイ",
+        "code": "OVL/S99-081",
+        "rarity": "R",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have two or less Climaxes in your Waiting Room, this card gets -1 Level in your Hand.",
+            "[A] - [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Clock to Stock."
+        ],
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Blue Rose"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_081.png"
+    },
+    {
+        "name": "手を取り進む エンリ",
+        "code": "OVL/S99-082",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - ASSIST During your turn, if you have five or more cards in your Hand, all of your Characters in front of this card gains +500 Power.",
+            "[S] - BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 あなたのターン中、あなたの手札が5枚以上なら、このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_082.png"
+    },
+    {
+        "name": "苦しい戦い イビルアイ",
+        "code": "OVL/S99-083",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, if you have another Blue or《Raven Black》Character, this card gains +1500 Power.",
+            "[A] - CX COMBO When this card's battle opponent is REVERSE, if you have [忘れていた感情] in your Climax Zone, if you have two or more other Blue or《Raven Black》Characters, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの、青か《漆黒》のキャラがいるなら、このカードのパワーを＋1500。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「忘れていた感情」があり、他のあなたの、青か《漆黒》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Blue Rose"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_083.png"
+    },
+    {
+        "name": "ねぎらいの言葉 コキュートス",
+        "code": "OVL/S99-084",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When you use this card's BACKUP, send the top three cards of your Deck to Waiting Room.",
+            "[S] - COUNTER 2000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_084.png"
+    },
+    {
+        "name": "村人への気持ち ジュゲム",
+        "code": "OVL/S99-085",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have two or more other《Carne Village》Characters, this card gains +8000 Power.",
+            "[A] - When this card is placed on Stage from Hand, until end of opponent's next turn, this card gains the following two effects:",
+            "-[C] - During opponent's turn, this card gains +2000 Power",
+            "-[C] - BODYGUARD"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《カルネ村》のキャラが2枚以上なら、このカードのパワーを＋8000。",
+            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』"
+        ],
+        "attributes": [
+            "Demi-Human",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_085.png"
+    },
+    {
+        "name": "ゴブリン近衛隊",
+        "code": "OVL/S99-086",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - You can run up to thirteen copies of this card in your Deck.",
+            "[A] - When this card is placed on Stage from Hand or by the effect of [小鬼将軍の角笛], you may send the top card of your Clock to Waiting Room.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] When this card attacks, if you have another [指導者としての決断 エンリ], you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 このカードと同じカード名のカードは、デッキに13枚まで入れることができる。",
+            "【自】 このカードが手札から舞台に置かれた時か「小鬼将軍の角笛」の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの「指導者としての決断 エンリ」がいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Demi-Human",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_086.png"
+    },
+    {
+        "name": "鮮血帝 ジルクニフ",
+        "code": "OVL/S99-087",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If this card is in your Front Row, all of your Blue or《Raven Black》Characters gain +1500 Power.",
+            "[A] - [Send two cards from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to three cards in your opponent's Waiting Room, return them to Deck, opponent shuffles their Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 前列にこのカードがいるなら、あなたの、青か《漆黒》のキャラすべてに、パワーを＋1500。",
+            "【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Emperor"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_087.png"
+    },
+    {
+        "name": "家族との会話 ラナー",
+        "code": "OVL/S99-088",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - ALARM If this card is the top card of your Clock, at the beginning of your Main Phase, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+            "[A] - ALARM If this card is the top card of your Clock, if you have three or more《Heteromorphic》,《Nazarick》or Characters with \"Climb\" in their card name, at the beginning of your Climax Phase, choose one of your Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《異形種》か《ナザリック》かカード名に「クライム」を含むキャラが3枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Royalty"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_088.png"
+    },
+    {
+        "name": "純白の鎧 クライム",
+        "code": "OVL/S99-089",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, if you have [家族との会話 ラナー] in your Clock, this card gains +4000 Power.",
+            "[A] - BOND / [家族との会話 ラナー] [Send the top card of your Deck to Clock, REST this card]"
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、あなたのクロック置場に「家族との会話 ラナー」があるなら、このカードのパワーを＋4000。",
+            "【自】 絆／「家族との会話 ラナー」 ［あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「家族との会話 ラナー」を1枚選び、手札に戻す）"
+        ],
+        "attributes": [
+            "Humanoid"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_089.png"
+    },
+    {
+        "name": "ゴブリン軍楽隊",
+        "code": "OVL/S99-090",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - You can run as many copies of this card as you like in your Deck.",
+            "[A] - When this card is REVERSE in battle, you may reveal up to three cards from the top of your Deck. If you revealed one or more cards, choose up to one《Carne Village》Character, add it to Hand, send the remaining cards to Waiting Room, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《カルネ村》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "Demi-Human",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_090.png"
+    },
+    {
+        "name": "一人での町 エンリ",
+        "code": "OVL/S99-091",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(1) Send one [小鬼将軍の角笛] in your Hand to Memory] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to one [村人への気持ち ジュゲム] in your Hand, place it on Stage in any slot.",
+            "[A] - When this card is REVERSE, if this card's battle opponent is cost 0 or lower, you may send that Character to bottom of Deck."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札の「小鬼将軍の角笛」を1枚思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「村人への気持ち ジュゲム」を1枚まで選び、舞台の好きな枠に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_091.png"
+    },
+    {
+        "name": "アピールチャンス ンフィーレア",
+        "code": "OVL/S99-092",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] - [(2) REST this card] Send the top card of your Clock to Waiting Room.",
+            "[S] - [REST this card] If this card does not have a Marker underneath it, choose one《Carne Village》Character in your Waiting Room, place it underneath this card facedown as a Marker.",
+            "[S] - [REST this card] Send one marker underneath this card to Stock."
+        ],
+        "jpAbility": [
+            "【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+            "【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の《カルネ村》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。",
+            "【起】［このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚ストック置場に置く。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_092.png"
+    },
+    {
+        "name": "ゴブリン重装甲歩兵団",
+        "code": "OVL/S99-093",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - You can run as many copies of this card as you like in a Deck.",
+            "[C] - If you have two or more other《Carne Village》Characters, this card gains +4000 Power."
+        ],
+        "jpAbility": [
+            "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+            "【永】 他のあなたの《カルネ村》のキャラが2枚以上なら、このカードのパワーを＋4000。"
+        ],
+        "attributes": [
+            "Demi-Human",
+            "Carne Village"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_093.png"
+    },
+    {
+        "name": "戦士長の決意 ガゼフ",
+        "code": "OVL/S99-094",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your Blue or《Raven Black》Characters x500.",
+            "[A] - When this card attacks, choose one of your Blue or《Raven Black》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、青か《漆黒》のキャラの枚数×500に等しい。",
+            "【自】 このカードがアタックした時、あなたは自分の、青か《漆黒》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Humanoid"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_094.png"
+    },
+    {
+        "name": "騒がしい休息 コキュートス",
+        "code": "OVL/S99-095",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - For each of your other《Heteromorphic》or《Nazarick》Characters, this card gains +1000 Power.",
+            "[A] - CX COMBO [Send one [男性守護者の休息] in your Climax Zone to Waiting Room] When this card's battle opponent is REVERSE, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to four《Heteromorphic》or《Nazarick》Characters among them, reveal them to your opponent, add them to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「男性守護者の休息」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《異形種》か《ナザリック》のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_095.png"
+    },
+    {
+        "name": "月下の約束 ブレイン",
+        "code": "OVL/S99-096",
+        "rarity": "C",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card attacks, if the Character across from this card is Level 3 or higher, during this turn, this card gains +6000 Power.",
+            "[A] - [(1)] At the beginning of Encore Step, if you have no other REST Characters in Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+        ],
+        "attributes": [
+            "Humanoid"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_096.png"
+    },
+    {
+        "name": "小鬼将軍の角笛",
+        "code": "OVL/S99-097",
+        "rarity": "U",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you do not have a Character with \"Enri\" in their card name, you cannot play this card from Hand.",
+            "Send this card to Memory.",
+            "[Send one card from Hand to Waiting Room] If you have one [小鬼将軍の角笛] in your Memory, you may pay the cost. If you did, chose up to three [ゴブリン軍楽隊] or [ゴブリン重装甲歩兵団] in your Waiting Room, place them on Stage in separate slots.",
+            "[(2) Send two cards from Hand to Waiting Room] If your Level is 3, if you have two [小鬼将軍の角笛] in Memory, you may pay the cost. If you did, choose up to three [ゴブリン近衛隊] in your Waiting Room, place them on Stage in separate slots."
+        ],
+        "jpAbility": [
+            "このカードは、あなたのカード名に「エンリ」を含むキャラがいないなら、手札からプレイできない。このカードを思い出にする。",
+            "［手札を1枚控え室に置く］ あなたの思い出置場の「小鬼将軍の角笛」が1枚なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「ゴブリン軍楽隊」か「ゴブリン重装甲歩兵団」を3枚まで選び、舞台の別々の枠に置く。",
+            "［(2) 手札を2枚控え室に置く］ あなたのレベルが3で、あなたの思い出置場の「小鬼将軍の角笛」が2枚なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ゴブリン近衛隊」を3枚まで選び、舞台の別々の枠に置く。"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_097.png"
+    },
+    {
+        "name": "忘れていた感情",
+        "code": "OVL/S99-098",
+        "rarity": "CR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_098.png"
+    },
+    {
+        "name": "最後の手段",
+        "code": "OVL/S99-099",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_099.png"
+    },
+    {
+        "name": "男性守護者の休息",
+        "code": "OVL/S99-100",
+        "rarity": "CC",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "OVL",
+        "release": "99",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_100.png"
+    },
+    {
+        "name": "肯定するデミウルゴス",
+        "code": "OVL/S99-101",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - The Character across from this card cannot move to other slots."
+        ],
+        "jpAbility": [
+            "【永】 このカードの正面のキャラは他の枠に動かせない。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_101.png"
+    },
+    {
+        "name": "追跡開始 シャルティア",
+        "code": "OVL/S99-102",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have two or less Climaxes in your Waiting Room, this card gets -1 Level in your Hand.",
+            "[A] - When this card is placed on Stage from Hand, draw up to one card, during this turn, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_102.png"
+    },
+    {
+        "name": "読書の時間 マーレ",
+        "code": "OVL/S99-103",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - This card cannot Side Attack.",
+            "[A] - When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room, during this turn, this card gains +X Power. X is the number of《Heteromorphic》or《Nazarick》Characters x1000."
+        ],
+        "jpAbility": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《異形種》か《ナザリック》のキャラの枚数×1000に等しい。"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_103.png"
+    },
+    {
+        "name": "自信満々 アウラ",
+        "code": "OVL/S99-104",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(4) Send one《Heteromorphic》or《Nazarick》Character from Hand to Waiting Room] When you use this card's BACKUP, you may pay the cost. If you did, choose one of your opponent's Characters, REST it.",
+            "[S] - COUNTER 2500 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】［(4) 手札の、《異形種》か《ナザリック》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "Humanoid",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_104.png"
+    },
+    {
+        "name": "第5階層の守護者 コキュートス",
+        "code": "OVL/S99-105",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - For each of your other《Heteromorphic》or《Nazarick》Characters, this card gains +1000 Power.",
+            "[A] - When this card Direct Attacks, you may choose one《Heteromorphic》or《Nazarick》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_105.png"
+    },
+    {
+        "name": "無窮の献身 アルベド",
+        "code": "OVL/S99-106",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] - [(1) Send one card from Hand to Waiting Room] When this card Direct Attacks, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードがダイレクトアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_106.png"
+    },
+    {
+        "name": "時間停止 アインズ",
+        "code": "OVL/S99-107",
+        "rarity": "PR",
+        "expansion": "Overlord Vol2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on Stage from Hand, choose one of your opponent's Level 3 or lower Characters in Back Row, that Character doesn't STAND during opponent's next Stand Phase.",
+            "[A] - When this card is REVERSE, if this card's battle opponent is Level 2 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の後列のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "Heteromorphic",
+            "Nazarick"
+        ],
+        "set": "OVL",
+        "release": "99",
+        "sid": "107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_107.png"
+    }
+]
