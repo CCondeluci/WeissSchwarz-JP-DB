@@ -3257,5 +3257,65 @@
         "release": "100",
         "sid": "P04S",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_p04s.png"
+    },
+    {
+        "name": "交わる想い ミト",
+        "code": "SAO/S100-P06",
+        "rarity": "PR",
+        "expansion": "SAO 10th Anime",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのカード名に「アスナ」を含むキャラすべてに、そのターン中、《武器》を与える。",
+            "【起】【カウンター】 助太刀3000 レベル1 ［(1) 手札のこのカードを公開し、山札の下に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "Anniversary",
+            "アバター",
+            "プログレッシブ"
+        ],
+        "set": "SAO",
+        "release": "S100",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_p06.png"
+    },
+    {
+        "name": "木陰で休憩 アスナ",
+        "code": "SAO/S100-P07",
+        "rarity": "PR",
+        "expansion": "SAO 10th Anime",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "Anniversary",
+            "アバター",
+            "プログレッシブ"
+        ],
+        "set": "SAO",
+        "release": "S100",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_p07.png"
     }
 ]

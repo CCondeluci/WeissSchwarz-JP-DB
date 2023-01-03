@@ -3204,5 +3204,390 @@
         "release": "95",
         "sid": "105",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_105.png"
+    },
+    {
+        "name": "天才の頭脳？ 千花",
+        "code": "KGL/S95-P01",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《秀知院》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "秀知院",
+            "書記"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p01.png"
+    },
+    {
+        "name": "天才の頭脳？ 千花",
+        "code": "KGL/S95-P01S",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《秀知院》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+            "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "秀知院",
+            "書記"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P01S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p01s.png"
+    },
+    {
+        "name": "天才の頭脳？ かぐや",
+        "code": "KGL/S95-P02",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻す。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "秀知院",
+            "副会長"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p02.png"
+    },
+    {
+        "name": "天才の頭脳？ 御行",
+        "code": "KGL/S95-P03",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
+        ],
+        "attributes": [
+            "秀知院",
+            "会長"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p03.png"
+    },
+    {
+        "name": "聖夜の贈り物 千花",
+        "code": "KGL/S95-P04",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがレベルアップした時、このカードを控え室に置く。",
+            "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のクライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "秀知院",
+            "書記"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p04.png"
+    },
+    {
+        "name": "聖夜の贈り物 千花",
+        "code": "KGL/S95-P04S",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがレベルアップした時、このカードを控え室に置く。",
+            "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のクライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "秀知院",
+            "書記"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P04S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p04s.png"
+    },
+    {
+        "name": "特別な日に ミコ",
+        "code": "KGL/S95-P05",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 舞台にこのカードがいるなら、このカードのカード名は「品行方正な優等生 ミコ」としても扱う。",
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードのカード名に「ミコ」か「千花」か「こばち」を含むキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "秀知院",
+            "会計監査"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p05.png"
+    },
+    {
+        "name": "特別な日に ミコ",
+        "code": "KGL/S95-P05S",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 舞台にこのカードがいるなら、このカードのカード名は「品行方正な優等生 ミコ」としても扱う。",
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードのカード名に「ミコ」か「千花」か「こばち」を含むキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "秀知院",
+            "会計監査"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P05S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p05s.png"
+    },
+    {
+        "name": "生徒会の絆 御行＆優",
+        "code": "KGL/S95-P06",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札のイベントを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。",
+            "【自】 あなたがイベントをプレイした時、あなたはこのカードをストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "秀知院"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p06.png"
+    },
+    {
+        "name": "生徒会の絆 御行＆優",
+        "code": "KGL/S95-P06S",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［(1) 手札のイベントを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。",
+            "【自】 あなたがイベントをプレイした時、あなたはこのカードをストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "秀知院"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P06S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p06s.png"
+    },
+    {
+        "name": "生徒会の絆 かぐや＆千花＆ミコ",
+        "code": "KGL/S95-P07",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［あなたの思い出置場の、「決別の言葉」か「生徒会選挙」か「写真撮影」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「決別の言葉」か「生徒会選挙」か「写真撮影」か「満月の日に」を1枚選び、思い出にする。",
+            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "秀知院"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p07.png"
+    },
+    {
+        "name": "生徒会の絆 かぐや＆千花＆ミコ",
+        "code": "KGL/S95-P07S",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】［あなたの思い出置場の、「決別の言葉」か「生徒会選挙」か「写真撮影」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「決別の言葉」か「生徒会選挙」か「写真撮影」か「満月の日に」を1枚選び、思い出にする。",
+            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "秀知院"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P07S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p07s.png"
+    },
+    {
+        "name": "恭賀新年 かぐや",
+        "code": "KGL/S95-P08",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの《秀知院》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "秀知院",
+            "副会長"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p08.png"
+    },
+    {
+        "name": "恭賀新年 かぐや",
+        "code": "KGL/S95-P08S",
+        "rarity": "PR",
+        "expansion": "Kaguya Vol.2",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 応援 このカードの前のあなたの《秀知院》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "秀知院",
+            "副会長"
+        ],
+        "set": "KGL",
+        "release": "S95",
+        "sid": "P08S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_p08s.png"
     }
 ]
