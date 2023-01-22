@@ -12,8 +12,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのソウルを＋1。",
-            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "AUTO -This ability can only be activated up to once per turn. when you use an ACT effect, this turn, this gets +1 Soul. ",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 character with \"Syaro\" or \"Chiya\" in its name from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
         ],
         "attributes": [
             "フルール",
@@ -68,8 +68,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたのカード名に「シャロ」か「千夜」を含むキャラの枚数×500に等しい。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+            "AUTO - This ability activates up to once per turn. When you use an ACT Ability, this turn, this gets +X power. X equals the number of your other characters with \"Syaro\" or \"Chiya\" in its name times 500.",
+            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power."
         ],
         "attributes": [
             "フルール",
@@ -97,8 +97,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのカード名に「シャロ」か「千夜」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+            "CONT - If you have 4 or more characters with \"Syaro\" or \"Chiya\" in its name, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, perform the following effect twice. \"You may choose 1 of your opponent's Level 1 or higher characters. If you do, your opponent chooses 1 Level X or lower character from their Waiting Room, and swaps the two characters. X equals the Level of the character chosen by you -1.\""
         ],
         "attributes": [
             "フルール",
@@ -478,8 +478,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-            "【自】［(1) このカードを控え室に置く］ 他のあなたのカード名に「シャロ」か「千夜」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT ability, if you have another character with \"Syaro\" or \"Chiya\" in its name, this turn, this gets +2000 power.",
+            "AUTO - [(1) Send this to Waiting Room] When your other character with \"Syaro\" or \"Chiya\" in its name is Front Attacked, you may pay cost. If you do,return that character to hand."
         ],
         "attributes": [
             "甘兎庵",
@@ -528,8 +528,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "AUTO - When this is placed on stage from hand, you may mill 3.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand. "
         ],
         "attributes": [
             "甘兎庵",
@@ -605,8 +605,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見てカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-            "【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, search your deck for up to 1 character with \"Syaro\" or \"Chiya\" in its name, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - [(2) Discard 2 cards] When this attacks, you may pay cost. If you do, deal 2 damage to your opponent."
         ],
         "attributes": [
             "甘兎庵",
@@ -911,8 +911,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ラビットハウス》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
-            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Rabbit House> character, this turn, this gets +2000 power",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
         "attributes": [
             "ラビットハウス",
@@ -963,9 +963,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 あなたのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+            "CONT - If you have 4 or more <Rabbit House> or <Dear My Sister> characters, this gets -1 Level in hand.",
+            "CONT - During your turn, this gets +3500 power and the following ability, \"AUTO - (1) When this card's Level 2 or Higher battle opponent is Reversed, you may pay cost. if you do, choose 1 character in your Waiting Room, add it to hand.\" ",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock."
         ],
         "attributes": [
             "ラビットハウス",
@@ -991,9 +991,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《ラビットハウス》のキャラが2枚以上なら、このカードのパワーを＋3000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】［手札の《ラビットハウス》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時かアタックした時、あなたはコストを払ってよい。そうしたら、相手は自分の山札の上から9枚を、控え室に置く。"
+            "CONT- If you have 2 or more other <Rabbit House> characters, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - [Discard 1 <Rabbit House> character] When this is placed on stage from hand or when this attacks, you may pay cost. If you do, mill the top 9 cards of your opponent's deck."
         ],
         "attributes": [
             "ラビットハウス",
@@ -1044,8 +1044,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) 手札の《ラビットハウス》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ラビットハウス》のキャラを1枚選び、手札に戻す。"
+            "AUTO - [(1) Discard 1 <Rabbit House> character] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your opponent's characters.",
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Rabbit House> character from your Waiting Room, and add it to hand."
         ],
         "attributes": [
             "ラビットハウス",
@@ -1143,8 +1143,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ラビットハウス》のキャラを1枚選び、手札に戻し、他の自分の《ラビットハウス》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Rabbit House> character from your Waiting Room, add it to hand, then choose 1 of your other <Rabbit House> characters, this turn, it gets +1000 power.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character. "
         ],
         "attributes": [
             "ラビットハウス",
@@ -1831,8 +1831,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 記憶 思い出置場にこのカードがあるなら、あなたの「Sing For You チノ」すべてに、パワーを＋500。",
-            "【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「Sing For You チノ」を1枚選び、手札に戻す。"
+            "CONT - MEMORY - While this is in Memory, all of your {3/2 Chino 072} gets +500 power.",
+            "ACT - [(1) Send this Standing character to Memory] Choose 1 {3/2 Chino 072} in your Waiting Room, add it to hand. "
         ],
         "attributes": [
             "ラビットハウス",
@@ -1858,8 +1858,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】【CXコンボ】 記憶 ［(1) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「Sing For You」があり、あなたの思い出置場の「Sing For You サキ」が2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードをＸ枚まで選び、山札に戻し、相手はその山札をシャッフルし、相手に2ダメージを与える。Ｘはあなたの、青か《ラビットハウス》のキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+            "AUTO - When this is placed on stage from hand, you may Heal 1.", 
+            "AUTO - {CX Combo} MEMORY [(1) Discard 2 cards] When this attacks, if you have the Pants CX in the Climax Area, and you have 2 or more {0/0 Saki 070} in Memory, you may pay cost. If you do, choose up to X cards in your Opponent’s Waiting Room, your opponent shuffles them into their deck, then deal 2 damage to your opponent. X equals the number of your Blue or <Rabbit House> characters. "
         ],
         "attributes": [
             "ラビットハウス",
@@ -1883,8 +1883,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、青か《ラビットハウス》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+            "CONT - If you have 5 or more hand, this gets +2000 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 Blue or <Rabbit House> character in your Waiting Room, add it to hand, then discard 1 card. "
         ],
         "attributes": [
             "ラビットハウス",
@@ -1959,9 +1959,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたの、青か《ラビットハウス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「Sing For You サキ」を1枚選び、思い出にしてよい。",
-            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+            "CONT - ASSIST Level x 500 to Blue or <Rabbit House> characters.",
+            "AUTO - When this is placed on stage from hand, if you 2 or less cards inMemory, you may choose 1 {0/0 Saki Below} from your Waiting Room, andsend it to Memory.",
+            "AUTO - [Discard 1 card] When your character's Trigger Check reveals a Pants CX, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room."
         ],
         "attributes": [
             "ラビットハウス",
@@ -1987,9 +1987,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 あなたのターン中、他のあなたの青のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。"
+            "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
+            "CONT - During your turn, if you have 4 or more other Blue characters, this gets +5000 power, and gains the following ability: \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, and put them back on top of your deck in any order, then choose up to 1 of your opponent's characters, and return it to hand."
         ],
         "attributes": [
             "八重歯"
@@ -2014,9 +2014,9 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの青のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。",
-            "【自】 このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、青のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "CONT - If you have 4 or more Blue characters, this gets -1 Level in hand.",
+            "CONT - EXPERIENCE 6 - If the sum of Levels of cards in your Level Zone is 6 or more, this gets +1500 power. ",
+            "AUTO - During the turn this is placed on stage from hand, when this card's battle opponent is Reversed, look at up to 4 cards from the top of your deck, choose up to 2 Blue characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room. "
         ],
         "attributes": [
             "バレエ"
