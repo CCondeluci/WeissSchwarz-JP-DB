@@ -175,18 +175,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Anniversary》か《Morfonica》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[A] – When this card is placed on Stage from Hand, choose one of your opponent’s Characters and one of that Character’s traits, during this turn, that Character loses that trait.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Anniversary》or《Morfonica》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Morfonica"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "006",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_006.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_006.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Anniversary》か《Morfonica》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "\"千年に一度の夜\"奥沢美咲",
@@ -205,18 +208,21 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのレベルが2以上かこのカードの下にマーカーがあるなら、あなたのターン中、他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。",
-            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[CHOICE]のクライマックスがでた時、あなたは相手の控え室のカードを1枚まで選び、山札の下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "[C] – If you are Level 2 or higher or this card has a Marker underneath it, during your turn, all of your other《Anniversary》or《Hello, Happy World!》Characters gain +X Power. X is your Level x1000.",
+            "[A] – When your Character Trigger Checks a Climax with Choice as its Trigger Icon, you may choose one card in your opponent’s Waiting Room, place it on bottom of Deck, choose one of your Characters, during this turn, it gains +1000 Power."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "ハロー、ハッピーワールド！"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "007",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_007.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_007.png",
+        "jpAbility": [
+            "【永】 あなたのレベルが2以上かこのカードの下にマーカーがあるなら、あなたのターン中、他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたは相手の控え室のカードを1枚まで選び、山札の下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ]
     },
     {
         "name": "\"心のままに\"瀬田薫",
@@ -266,19 +272,23 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの後列の、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「最高のおもてなし」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、【スタンド】してよい。",
-            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+            "[C] – For each of your other《Anniversary》or《Pastel*Palettes》Characters in your Back Row, this card gains +1500 Power.",
+            "[A] – When [最高のおもてなし] is placed in your Climax Zone, if this card is in Front Row, choose one of your other《Anniversary》or《Pastel*Palettes》Characters, STAND them.",
+            "[A] – [(1)] At the beginning of Encore Step, if you have no other REST Characters, you may pay the cost. If you did, REST this card."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Pastel＊Palettes"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "009",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_009.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_009.png",
+        "jpAbility": [
+            "【永】 他のあなたの後列の、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋1500。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「最高のおもてなし」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、【スタンド】してよい。",
+            "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+        ]
     },
     {
         "name": "\"新しいお友達\"北沢はぐみ",
@@ -358,18 +368,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「SNS映え？」を1枚選び、手札に戻す。"
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Level 0 or lower Character among those cards, during this turn, this card can Side Attack without Soul Penalty.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [SNS映え？] in your Waiting Room, add it to Hand."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Pastel＊Palettes"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "012",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_012.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_012.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル0以下のキャラがあるなら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「SNS映え？」を1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "\"堅実プレーヤー\"奥沢美咲",
@@ -513,19 +526,23 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋500。",
-            "【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の「\"千年に一度の夜\"奥沢美咲」を1枚選び、このカードの下にマーカーとして表向きに置く。",
-            "【起】［このカードを【レスト】する］ あなたはこのカードのマーカーの「\"千年に一度の夜\"奥沢美咲」を1枚とこのカードを選び、入れ替える。そうしたら、ターンの終わりに、それらのキャラを入れ替える。"
+            "[C] – All of your other《Anniversary》or《Hello, Happy World!》Characters gain +500 Power.",
+            "[S] – [REST this card] If this card has no Marker underneath it, choose one [“千年に一度の夜”奥沢美咲] in your Waiting Room, place it underneath this card as a Marker face up.",
+            "[S] – [REST this card] Choose one of this card’s [“千年に一度の夜”奥沢美咲] marker and this card, exchange them. If you did, at the end of your turn, exchange that Character and this card."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "ハロー、ハッピーワールド！"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "017",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_017.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_017.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋500。",
+            "【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の「“千年に一度の夜”奥沢美咲」を1枚選び、このカードの下にマーカーとして表向きに置く。",
+            "【起】［このカードを【レスト】する］ あなたはこのカードのマーカーの「“千年に一度の夜”奥沢美咲」を1枚とこのカードを選び、入れ替える。そうしたら、ターンの終わりに、それらのキャラを入れ替える。"
+        ]
     },
     {
         "name": "\"悔しさの先に\"桐ヶ谷透子",
@@ -575,18 +592,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［あなたのストックの上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
-            "【自】 他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+            "[A] – [Send the top card of your Stock to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one cost 0《Anniversary》or《Hello, Happy World!》Character whose Level is less than of equal to your Level, place it on any slot on Stage, shuffle your Deck afterwards.",
+            "[A] – When your other《Anniversary》or《Hello, Happy World!》Character attacks, during this turn, this card gains +1000 Power."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "ハロー、ハッピーワールド！"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "019",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_019.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_019.png",
+        "jpAbility": [
+            "【自】［あなたのストックの上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+            "【自】 他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+        ]
     },
     {
         "name": "\"ひまりコーデ\"北沢はぐみ",
@@ -794,14 +814,20 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの、《Anniversary》か《Pastel＊Palettes》のキャラの枚数に等しい。このカードを思い出にする。",
-            "【永】 記憶 思い出置場にこのカードがあるなら、あなたの手札の、《Anniversary》か《Pastel＊Palettes》のキャラすべてに、次の能力を与える。『【永】 このカードは、色条件を満たさずに手札からプレイできる。』"
+            "BRAINSTORM Flip the top three cards of your Deck, send them to Waiting Room. Choose up to one Level X or lower《Anniversary》or《Pastel*Palettes》Character in your Waiting Room, add it to Hand. X is the number of《Anniversary》or《Pastel*Palettes》Characters sent to Waiting Room by this effect.",
+            "Send this card to Memory.",
+            "[C] – RECOLLECTION If this card is in your Memory, all of your《Anniversary》or《Pastel*Palettes》Characters in Hand gain the following effect:",
+            "– [C] – This card can be played from Hand without color requirement."
         ],
         "attributes": [],
         "set": "BD",
         "release": "W95",
         "sid": "026",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_026.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_026.png",
+        "jpAbility": [
+            "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの、《Anniversary》か《Pastel＊Palettes》のキャラの枚数に等しい。このカードを思い出にする。",
+            "【永】 記憶 思い出置場にこのカードがあるなら、あなたの手札の、《Anniversary》か《Pastel＊Palettes》のキャラすべてに、次の能力を与える。『【永】 このカードは、色条件を満たさずに手札からプレイできる。』"
+        ]
     },
     {
         "name": "笑顔が集まる場所へ！",
@@ -820,14 +846,18 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "W95",
         "sid": "027",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_027.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_027.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ]
     },
     {
         "name": "変身の術？",
@@ -935,18 +965,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋1000。",
-            "【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「おいしい時間」があり、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を上から4枚まで見て、《Anniversary》か《RAISE A SUILEN》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+            "[C] – During your turn, this card gains +1000 Power.",
+            "[A] – CX COMBO At the end of this card’s attack, if you have [おいしい時間] in your Climax Zone, if you have two or more other《Anniversary》or《RAISE A SUILEN》Characters, if the slot in front of this Character has no Character or is in REVERSE, look at up to four cards from the top of your Deck, choose up to one《Anniversary》or《RAISE A SUILEN》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room, choose one of your Characters, during this turn, it gains +2000 Power."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "RAISE A SUILEN"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "031",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_031.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_031.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「おいしい時間」があり、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を上から4枚まで見て、《Anniversary》か《RAISE A SUILEN》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ]
     },
     {
         "name": "\"反骨精神\"美竹蘭",
@@ -1027,18 +1060,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《Anniversary》か《RAISE A SUILEN》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[A] – When this card is placed on Stage from Hand, if you have two or more other《Anniversary》or《RAISE A SUILEN》Characters, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among them, search your Deck for up to one《Anniversary》or《RAISE A SUILEN》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "RAISE A SUILEN"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "034",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_034.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_034.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《Anniversary》か《RAISE A SUILEN》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "\"仲間はアタシが守る\"宇田川巴",
@@ -1055,18 +1091,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《Anniversary》か《Afterglow》のキャラか「みんなで探そう」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-            "【自】【CXコンボ】［あなたのクライマックス置場の「言葉にできないもの」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラか「みんなで探そう」を1枚選び、手札に戻す。"
+            "[A] – [(1)] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one《Anniversary》or《Afterglow》Character or [みんなで探そう] among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room.",
+            "[A] – CX COMBO [Send one [言葉にできないもの] in your Climax Zone to Waiting Room] At the beginning of your Encore Step, you may pay the cost. If you did, choose one《Anniversary》or《Afterglow》Character or [みんなで探そう] in your Waiting Room, add it to Hand."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Afterglow"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "035",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_035.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_035.png",
+        "jpAbility": [
+            "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《Anniversary》か《Afterglow》のキャラか「みんなで探そう」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「言葉にできないもの」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラか「みんなで探そう」を1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "\"いつもの「アレ」\"上原ひまり",
@@ -1216,18 +1255,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の山札を上から3枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
-            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《Anniversary》か《Afterglow》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "[A] – ALARM If this card is the top card of your Clock, at the beginning of your Main Phase, look at up to three cards from the top of your Deck, choose up to one Event among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. If you added a card to Hand, send one card in your Hand to Waiting Room.",
+            "[S] – [(1) Send this card to Waiting Room] Look at up to four cards from the top of your Deck, choose up to one《Anniversary》or《Afterglow》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Afterglow"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "040",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_040.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_040.png",
+        "jpAbility": [
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の山札を上から3枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《Anniversary》か《Afterglow》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "\"お嬢のまかない\"マスキング",
@@ -1244,18 +1286,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻してよい。",
-            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+            "[A] – When this card is placed on Stage from Hand, you may choose one of your opponent’s Level 0 or lower Characters in Front Row, return it to Hand.",
+            "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "RAISE A SUILEN"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "041",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_041.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_041.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻してよい。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "\"やっぱり、ブラック\"レイヤ",
@@ -1307,18 +1352,22 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-            "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《Anniversary》か《Afterglow》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+            "[A] – When this card attacks, if the Character across this card is Level 3 or higher, during this turn, this card gains +6000 Power.",
+            "[A] – ALARM If this card is the top card of your Clock, at the beginning of your Climax Phase, if you have four or more《Anniversary》or《Afterglow》Characters, choose one of your Characters, during this turn, it gains the following effect:",
+            "-When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send the top card of your opponent’s Clock to Waiting Room. If you did, send that Character to Clock."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Afterglow"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "043",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_043.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_043.png",
+        "jpAbility": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《Anniversary》か《Afterglow》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+        ]
     },
     {
         "name": "\"和太鼓の魅力\"宇田川巴",
@@ -1401,17 +1450,19 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《Anniversary》か《Afterglow》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand or sent from Stage to Waiting Room, you may pay the cost. If you did, choose one《Anniversary》or《Afterglow》Character in your Clock, add it to Hand, send the top card of your Deck to Clock."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Afterglow"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "046",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_046.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_046.png",
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《Anniversary》か《Afterglow》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ]
     },
     {
         "name": "\"ブースに吹き荒れる嵐\"レイヤ",
@@ -1522,18 +1573,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分の控え室にあるクライマックスと同じカード名のクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "[C] – If you have two or more other《Anniversary》or《Pastel*Palettes》Characters, this card gains +2000 Power.",
+            "[A] – [(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one Climax with the same name as a Climax in your Waiting Room, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Pastel＊Palettes"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "050",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_050.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_050.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分の控え室にあるクライマックスと同じカード名のクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ]
     },
     {
         "name": "\"トキメキ展開！？\"羽沢つぐみ",
@@ -1887,19 +1941,23 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。",
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《Anniversary》か《Poppin&#39;Party》のキャラを1枚まで選び、手札に戻す。"
+            "[C] – You can play Events from Hand without color requirement.",
+            "[A] – When a Climax is placed in your Climax Zone, choose one of your Characters, during this turn, it gains +1000 Power.",
+            "[A] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one《Anniversary》or《Poppin’ Party》Character in your Waiting Room, add it to Hand."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Poppin'Party"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "062",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_062.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_062.png",
+        "jpAbility": [
+            "【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。",
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《Anniversary》か《Poppin&#8217;Party》のキャラを1枚まで選び、手札に戻す。"
+        ]
     },
     {
         "name": "\"こらえきれない感情\"白鷺千聖",
@@ -1953,19 +2011,23 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin&#39;Party》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-            "【自】 このカードが、手札か山札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
-            "【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、クライマックス置場に「ついに来ちゃったね！」があり、他のあなたの、《Anniversary》か《Poppin&#39;Party》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。（ダメージキャンセルは発生する）"
+            "[C] – During your turn, if you have two or more other《Anniversary》or《Poppin’ Party》Characters, this card gains +2000 Power.",
+            "[A] – When this card is placed on Stage from Hand, draw up to two cards, choose two cards in your Hand, send them to Waiting Room, send up to one card from the top of your Deck to Stock.",
+            "[A] – CX COMBO [(2)] At the end of this card’s attack, if you have [ついに来ちゃったね！], if you have another《Anniversary》or《Poppin’ Party》Character, you may pay the cost. If you did, deal two damage to your opponent, until end of opponent’s next turn, during this card’s battle, you do not take damage from the [A] effects of opponent’s Characters. (Damage can be cancelled)"
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Poppin'Party"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "064",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_064.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_064.png",
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin&#8217;Party》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 このカードが、手札か山札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+            "【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、クライマックス置場に「ついに来ちゃったね！」があり、他のあなたの、《Anniversary》か《Poppin&#8217;Party》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "\"朝焼けに包まれて\"丸山彩",
@@ -2046,17 +2108,19 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(1) あなたの控え室の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《Anniversary》か《Pastel＊Palettes》のキャラか「SNS映え？」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "[A] – [(1) Send one《Anniversary》or《Pastel*Palettes》Character in your Waiting Room to bottom of your Clock] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to two cards from the top of your Deck, choose up to two《Anniversary》or《Pastel*Palettes》Characters or [SNS映え？] among them, reveal them to your opponent, add them to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Pastel＊Palettes"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "067",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_067.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_067.png",
+        "jpAbility": [
+            "【自】［(1) あなたの控え室の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《Anniversary》か《Pastel＊Palettes》のキャラか「SNS映え？」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "\"TRY！\"牛込りみ",
@@ -2577,18 +2641,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】【CXコンボ】 記憶 ［表向きのこのカードを裏向きにする］ 思い出置場にこのカードがあるなら、あなたの、「\"青薔薇の道\"湊友希那」か「\"反骨精神\"美竹蘭」のアタックの終わりに、あなたはコストを払ってよい。そうしたら、あなたは山札か控え室を宣言する。あなたは自分の宣言した領域を見て、「いつか至る場所」か「ありのままでいること」を1枚まで選び、自分のクライマックス置場の、「いつか至る場所」か「ありのままでいること」を1枚選び、それぞれのカード名が異なるなら、入れ替える。山札を宣言したなら、その山札をシャッフルする。 ",
-            "【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《Anniversary》か《Roselia》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+            "[A] – CX COMBO RECOLLECTION [Flip this faceup card facedown] If this card is in your Memory, at the end of your [“青薔薇の道”湊友希那]’s or [“反骨精神”美竹蘭]’s attack, you may pay the cost. If you did, choose up to one [いつか至る場所] or [ありのままでいること] in your Deck or Waiting Room, choose one [いつか至る場所] or [ありのままでいること] in your Climax Zone, if they have different names, exchange them. If you searched from Deck, shuffle your Deck afterwards.",
+            "[S] – [(1) Send this card to Memory] Look at up to three cards from the top of your Deck, choose up to one《Anniversary》or《Roselia》Character, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Roselia"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "084",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_084.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_084.png",
+        "jpAbility": [
+            "【自】【CXコンボ】 記憶 ［表向きのこのカードを裏向きにする］ 思い出置場にこのカードがあるなら、あなたの、「“青薔薇の道”湊友希那」か「“反骨精神”美竹蘭」のアタックの終わりに、あなたはコストを払ってよい。そうしたら、あなたは山札か控え室を宣言する。あなたは自分の宣言した領域を見て、「いつか至る場所」か「ありのままでいること」を1枚まで選び、自分のクライマックス置場の、「いつか至る場所」か「ありのままでいること」を1枚選び、それぞれのカード名が異なるなら、入れ替える。山札を宣言したなら、その山札をシャッフルする。",
+            "【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《Anniversary》か《Roselia》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ]
     },
     {
         "name": "\"理想の場所へ\"氷川紗夜",
@@ -2727,17 +2794,19 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。Ｘはあなたの舞台のキャラの持つ色の合計に等しい。（クライマックスのレベルは0として扱う）"
+            "[A] – When this card is placed on Stage from Hand, look at up to X cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. If you added a card to Hand, choose one card in your Hand, send it to Waiting Room. X is the number of colors of your Characters on Stage. (Climax is considered Level 0)"
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Pastel＊Palettes"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "089",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_089.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_089.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。Ｘはあなたの舞台のキャラの持つ色の合計に等しい。（クライマックスのレベルは0として扱う）"
+        ]
     },
     {
         "name": "\"ピピッとよろしく！\"氷川日菜",
@@ -2756,19 +2825,23 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×500に等しい。",
-            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
-            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+            "[C] – All of your other《Anniversary》and《Pastel*Palettes》Characters gain + X Power. X is the number of your colors of your Characters on Stage x500.",
+            "[A] – [(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand.",
+            "[S] – [REST this card] Look at the top card of your Deck, place it on top or bottom of Deck."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Pastel＊Palettes"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "090",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_090.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_090.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×500に等しい。",
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+            "【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+        ]
     },
     {
         "name": "\"新しい世界に\"白金燐子",
@@ -2823,18 +2896,21 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの、《Anniversary》か《Morfonica》のキャラがいるなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-            "【自】【CXコンボ】 あなたのクライマックス置場に「できた！実力の証明」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《Morfonica》のキャラがいるなら、あなたは自分の控え室の、《Anniversary》か《Morfonica》のキャラを1枚まで選び、手札に戻すか舞台の好きな枠に置く。手札に戻したなら、相手に1ダメージを与える。舞台に置いたなら、次の相手のターンの終わりまで、そのキャラのパワーを＋1000。（ダメージキャンセルは発生する）"
+            "[C] – If you have another《Anniversary》or《Morfonica》Character, this card gains +1500 Power and [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[A] – CX COMBO When [できた！実力の証明] is placed in your Climax Zone, if this card is in your Front Row, choose up to one《Anniversary》or《Morfonica》Character in your Waiting Room, add it to Hand or place it on any slot on Stage. If you added it to Hand, deal one Damage to your opponent. If you placed it on Stage, until end of opponent’s next turn, that Character gains +1000 Power. (Damage can be cancelled)"
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Morfonica"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "092",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_092.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_092.png",
+        "jpAbility": [
+            "【永】 他のあなたの、《Anniversary》か《Morfonica》のキャラがいるなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「できた！実力の証明」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《Morfonica》のキャラがいるなら、あなたは自分の控え室の、《Anniversary》か《Morfonica》のキャラを1枚まで選び、手札に戻すか舞台の好きな枠に置く。手札に戻したなら、相手に1ダメージを与える。舞台に置いたなら、次の相手のターンの終わりまで、そのキャラのパワーを＋1000。（ダメージキャンセルは発生する）"
+        ]
     },
     {
         "name": "\"知識の海へ\"八潮瑠唯",
@@ -2853,19 +2929,23 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-            "【永】 他のあなたの後列の、《Anniversary》か《Morfonica》のキャラ1枚につき、このカードのパワーを＋500。",
-            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か「\"お姉ちゃんだから\"二葉つくし」の【自】の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《Anniversary》か《Morfonica》のキャラを1枚選び、手札に戻す。"
+            "[C] – If you have two or less Climaxes in your Waiting Room, this card gets -1 Level in your Hand.",
+            "[C] – For each of your other《Anniversary》or《Morfonica》Characters in your Back Row, this card gains +500 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand or by the [A] effect of [“お姉ちゃんだから”二葉 つくし], you may pay the cost. If you did, choose one《Anniversary》or《Morfonica》Character in your Clock, add it to Hand."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Morfonica"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "093",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_093.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_093.png",
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたの後列の、《Anniversary》か《Morfonica》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か「“お姉ちゃんだから”二葉つくし」の【自】の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《Anniversary》か《Morfonica》のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "\"あなたがいたから\"パレオ",
@@ -3073,18 +3153,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、このカードのパワーを＋1000し、あなたはトリガーステップにトリガーチェックを2回行う。"
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, this card gains +1000 Power, perform Trigger Check twice during Trigger Step."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Morfonica"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "100",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_100.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_100.png",
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、このカードのパワーを＋1000し、あなたはトリガーステップにトリガーチェックを2回行う。"
+        ]
     },
     {
         "name": "\"勧誘、ギタリスト！\"パレオ",
@@ -3233,18 +3316,21 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】［手札のイベントを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+            "[A] – [Send one Event from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards in your Waiting Room to your Deck, shuffle your Deck afterwards.",
+            "[A] – When this card attacks, if the Character in front of this card is Level 3 or higher, during this turn, this card gains +6000 Power."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Poppin'Party"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "105",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_105.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_105.png",
+        "jpAbility": [
+            "【自】［手札のイベントを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ]
     },
     {
         "name": "\"大切なメモワール\"花園たえ",
@@ -3359,18 +3445,21 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
-            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Anniversary》か《Roselia》のキャラを1枚選び、手札に戻し、他の自分の、《Anniversary》か《Roselia》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+            "[A] – [(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your opponent’s Characters, return it to Hand.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Anniversary》or《Roselia》Character in your Waiting Room, add it to Hand, choose one of your other《Anniversary》or《Roselia》Characters, during this turn, it gains +1000 Power."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Roselia"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "109",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_109.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_109.png",
+        "jpAbility": [
+            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Anniversary》か《Roselia》のキャラを1枚選び、手札に戻し、他の自分の、《Anniversary》か《Roselia》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ]
     },
     {
         "name": "\"立派な生徒会長に\"白金燐子",
@@ -3509,18 +3598,21 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
-            "【起】［(1) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+            "[A] – When a Climax is placed in your Climax Zone, choose one of your Characters, until end of opponent’s next turn, it gains +2000 Power.",
+            "[S] – [(1) REST this card] Choose one of your opponent’s Characters, return it to Hand."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Roselia"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "114",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_114.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_114.png",
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+            "【起】［(1) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+        ]
     },
     {
         "name": "\"宣戦布告\"今井リサ",
@@ -3605,18 +3697,21 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《Morfonica》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。",
-            "【自】［このカードを控え室に置く］ 他のあなたの、《Anniversary》か《Morfonica》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+            "[A] – When this card attacks, if you have four or more other《Anniversary》or《Morfonica》Characters, choose one of your Characters, during this turn, it gains +2 Soul.",
+            "[A] – [Send this card to Waiting Room] When your other《Anniversary》or《Morfonica》Character is Front Attacked, you may pay the cost. If you did, choose one of your battling Characters, during this turn, it gains +3000 Power."
         ],
         "attributes": [
             "Anniversary",
-            "音楽",
-            "Morfonica"
+            "音楽"
         ],
         "set": "BD",
         "release": "W95",
         "sid": "117",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_117.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_117.png",
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《Morfonica》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。",
+            "【自】［このカードを控え室に置く］ 他のあなたの、《Anniversary》か《Morfonica》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+        ]
     },
     {
         "name": "\"気づかいの空回り\"宇田川あこ",
@@ -3666,14 +3761,18 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【カウンター】 このカードは、あなたの、《Anniversary》か《Roselia》のキャラがいないなら、手札からプレイできない。",
-            "あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《Anniversary》か《Roselia》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+            "COUNTER If you do not have a《Anniversary》or《Roselia》Character, you cannot play this card from Hand.",
+            "Send the top two cards of your Deck to Waiting Room, choose up to one Level X or lower《Anniversary》or《Roselia》Character in your Waiting Room, add it to Hand. X is the total Level of cards sent to Waiting Room by this effect. (Climax is considered Level 0)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "W95",
         "sid": "119",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_119.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_119.png",
+        "jpAbility": [
+            "【カウンター】 このカードは、あなたの、《Anniversary》か《Roselia》のキャラがいないなら、手札からプレイできない。",
+            "あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《Anniversary》か《Roselia》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+        ]
     },
     {
         "name": "外国語の訳し方",
@@ -3721,14 +3820,18 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "W95",
         "sid": "121",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_121.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_121.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "パン食い競走！",
@@ -3870,14 +3973,18 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
         ],
         "attributes": [],
         "set": "BD",
         "release": "W95",
         "sid": "126",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_126.png"
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_126.png",
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ]
     },
     {
         "name": "笑顔が集まる場所へ！",
