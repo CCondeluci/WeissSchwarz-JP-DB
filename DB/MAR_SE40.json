@@ -1,0 +1,805 @@
+[
+    {
+        "name": "ダーク・ワールド マイティ・ソー",
+        "code": "MAR/SE40-001",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them repeat the following effect: \"Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_001.png"
+    },
+    {
+        "name": "ガーディアンズ・オブ・ギャラクシー：リミックス",
+        "code": "MAR/SE40-002",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <MARVEL> character, this gets +3000 power.",
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_002.png"
+    },
+    {
+        "name": "敵か味方か ロキ",
+        "code": "MAR/SE40-003",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +1000 to Level 0 or lower characters.",
+            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <MARVEL> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_003.png"
+    },
+    {
+        "name": "宇宙一の裏切り王子 ロキ",
+        "code": "MAR/SE40-004",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your <MARVEL> characters, this turn it gets +1500 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <MARVEL> character from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_004.png"
+    },
+    {
+        "name": "宇宙最凶チーム ガーディアンズ・オブ・ギャラクシー",
+        "code": "MAR/SE40-005",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, add it to hand, then choose 1 of your other <MARVEL> characters, this turn, it gets +1000 power.",
+            "AUTO - When this attacks, if you have another <MARVEL> character, this turn, this gets +1500 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_005.png"
+    },
+    {
+        "name": "マイティ・ソー",
+        "code": "MAR/SE40-006",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this card's battle opponent is Reversed, if you have a Climax in your Climax Area, you may put the top card of your deck into Stock."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_006.png"
+    },
+    {
+        "name": "ソー＆ロキ",
+        "code": "MAR/SE40-007",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand.",
+            "AUTO - When this attacks, choose 1 of your <MARVEL> characters, this turn, it gets +X power. X equals the number of your <MARVEL> characters times 500."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_007.png"
+    },
+    {
+        "name": "RAGNAROK",
+        "code": "MAR/SE40-008",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you do not have a character with \"Thor\" or “Hulk” in its name, you cannot play this from hand.",
+            "If all players are Level 3 or higher, all players Heal up to 4, then choose 1 of your characters, this turn, it gets +4000 power.",
+            "Send this to Memory."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_008.png"
+    },
+    {
+        "name": "覚醒 ドクター・ストレンジ",
+        "code": "MAR/SE40-009",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "ACT - [Discard 1 card, send this to Waiting Room] Choose 1 <MARVEL> character in your Waiting Room, add it hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_009.png"
+    },
+    {
+        "name": "ワカンダよ 永遠に ブラックパンサー",
+        "code": "MAR/SE40-010",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is Level 1 or higher, add it to hand, then discard 1 card.",
+            "AUTO - When this attacks, if you have 1 or less other characters, you may mill 1. If that card is a Level 0 or lower characters, place it on stage in any Back Row slot."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_010.png"
+    },
+    {
+        "name": "次なる試練 アイアンマン＆ウォーマシン",
+        "code": "MAR/SE40-011",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 card from your hand, you may send it to Stock.",
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_011.png"
+    },
+    {
+        "name": "インフィニティ・ウォー アベンジャーズ",
+        "code": "MAR/SE40-012",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2. If there is a Climax (es) among them, choose 1 of your opponent's Front Row characters, this turn, it gets -1000 power.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_012.png"
+    },
+    {
+        "name": "\"秘密\"を守る使命 ブラックパンサー",
+        "code": "MAR/SE40-013",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <MARVEL> character, this turn, this gets +2000 Power.",
+            "AUTO - [(1) Rest 1 of your other Standing <MARVEL> characters] During the turn this is placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_013.png"
+    },
+    {
+        "name": "規格外のパワー キャプテン・マーベル",
+        "code": "MAR/SE40-014",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <MARVEL> characters, this gets +2000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_014.png"
+    },
+    {
+        "name": "見えざる敵の脅威 アイアンマン",
+        "code": "MAR/SE40-015",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 9500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If this does not have a Marker underneath it, this gets -7500 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 \"Iron Man Armor\"- MAR/S89-066\" in your Waiting Room, you may put it underneath this card Face-down as a Marker."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_015.png"
+    },
+    {
+        "name": "\"闇の魔術\"との戦い ドクター・ストレンジ",
+        "code": "MAR/SE40-016",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_016.png"
+    },
+    {
+        "name": "\"最強\"の力 アベンジャーズ",
+        "code": "MAR/SE40-017",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your opponent's Back Row characters, this get +2500 power.",
+            "AUTO - ENCORE [Discard 1 <MARVEL> character]"
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_017.png"
+    },
+    {
+        "name": "\"I am Iron Man.\" アイアンマン",
+        "code": "MAR/SE40-018",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} At the end of this card's attack. If you have the Door CX (20) in your Climax Area, and you have another <MARVEL> character, choose 1 of the following 2 effects and resolve it:",
+            "a) \"Deal 1 damage to your opponent.\"",
+            "b) \"You may discard 2 cards. If you discarded 2, deal 3 damage to your opponent.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_018.png"
+    },
+    {
+        "name": "無限大の力 サノス",
+        "code": "MAR/SE40-019",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have 4 or more other <MARVEL> characters, this gets +5000 power, and gains the following ability: \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+            "AUTO - When this is placed on stage from hand, mill 2, deal X damage to your opponent. X is equal to the number of Soul Triggers from those cards."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_019.png"
+    },
+    {
+        "name": "\"最後\"にして\"最大\"の戦い",
+        "code": "MAR/SE40-020",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [
+            "特徴なし"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_020.png"
+    },
+    {
+        "name": "最愛の娘のために アントマン",
+        "code": "MAR/SE40-021",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <MARVEL> characters, you may draw 1 card. If you do, discard 1 card.",
+            "ACT - BRAINSTORM (1) Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, resolve the following effect: \"Search your deck for up to 1 <MARVEL> character, show it to your opponent, add it to hand, discard 1 card, and shuffle your deck afterwards.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_021.png"
+    },
+    {
+        "name": "シビル・ウォー キャプテン・アメリカ＆アイアンマン",
+        "code": "MAR/SE40-022",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your other <MARVEL> characters, this turn, it gets +1000 power.",
+            "ACT - [Rest 2 of your <MARVEL> characters] Choose 1 of your characters, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_022.png"
+    },
+    {
+        "name": "アントマン＆ワスプ",
+        "code": "MAR/SE40-023",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +1000 power.",
+            "AUTO - When this card's battle opponent is Reversed, you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_023.png"
+    },
+    {
+        "name": "\"禁断の戦い\" キャプテン・アメリカ＆アイアンマン",
+        "code": "MAR/SE40-024",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your other <MARVEL> characters, this turn, it gets +2000 power.",
+            "AUTO - When this attacks, all of your characters gain the following ability, until the end of the turn: \"AUTO - [Discard 1 Climax] When this card's Trigger Check reveals a Climax, you may pay cost. If you do, choose 1 <MARVEL> character from your Waiting Room, and add it to hand.\""
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_024.png"
+    },
+    {
+        "name": "究極の戦い キャプテン・アメリカ",
+        "code": "MAR/SE40-025",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <MARVEL> characters times 500.",
+            "AUTO - {CX COMBO} When this attacks, if you have the Pants CX (30) in the Climax Area, and you have another <MARVEL> character, mill 2, then choose up to 1 Level X or lower <MARVEL> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_025.png"
+    },
+    {
+        "name": "仲間を救うため キャプテン・アメリカ",
+        "code": "MAR/SE40-026",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <MARVEL> characters, choose 1 <MARVEL> character in your Waiting Room, you may send it to Stock.",
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <MARVEL> characters times 1000."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_026.png"
+    },
+    {
+        "name": "ザ・ファースト・アベンジャー キャプテン・アメリカ",
+        "code": "MAR/SE40-027",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose up to 1 character from your hand whose Level is equal or lower than your Level, place it on stage in any slot, and this turn, it gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, choose up to 1 of your opponent's characters, send it to Memory, then your opponent places that character on stage in any slot."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_027.png"
+    },
+    {
+        "name": "エイジ・オブ・ウルトロン アベンジャーズ",
+        "code": "MAR/SE40-028",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, draw up to 2 cards, discard 2 cards, then put up to 1 card from the top of your deck into Stock.",
+            "AUTO - When this attacks, if you have 2 or more other <MARVEL> characters, this turn, this gets +2000 power."
+        ],
+        "attributes": [
+            "MARVEL"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_028.png"
+    },
+    {
+        "name": "Avengers assemble.",
+        "code": "MAR/SE40-029",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 3,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you do not have a character with \"Captain America\" in its name, you cannot play this from hand.",
+            "Search your deck for up to 2 <MARVEL> character, show them to your opponent, add them to hand, choose up to 2 <MARVEL> characters from your hand whose Level is equal or lower than your Level, place it on stage in separate slots, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Event"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_029.png"
+    },
+    {
+        "name": "時を超えた対峙",
+        "code": "MAR/SE40-030",
+        "rarity": "N",
+        "expansion": "Marvel Premium Booster",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [
+            "特徴なし"
+        ],
+        "set": "MAR",
+        "release": "SE40",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_030.png"
+    }
+]
