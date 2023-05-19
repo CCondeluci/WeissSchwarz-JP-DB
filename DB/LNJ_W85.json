@@ -469,7 +469,7 @@
         "flavor_text": "私は生徒会長として学園のみなさんのために働くことが、あなたの言葉を借りて言うのであれば『一番大好きなこと』だと考えています……",
         "ability": [
             "【A】［(2) Place 1 of your Character from Stage into Waiting Room］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 opponent's Character with Level higher than opponent's Level, place it into Waiting Room.",
-            "【S】【COUNTER】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
+            "【S】【BACKUP】 ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋2500 Power)"
         ],
         "attributes": [
             "Music 《音楽》"
@@ -1274,7 +1274,7 @@
         "soul": 2,
         "flavor_text": "もっと自分のことを考えてほしいんだけど……\nでも、あの子の優しさに触れちゃうと、つい甘えちゃうんだよね",
         "ability": [
-            "【C】EXPERIENCE If the total Level in your Level Slot is 4 or higher, and this card is at Front Row, all your other 《音楽》 Character gets +1500 Power.",
+            "【C】EXPERIENCE If the total Level in your Level Slot is 4 or higher, and this card is at Front Row, all your 《音楽》 Characters get +1500 Power.",
             "【A】【CXCOMBO】[(1) Place 2 cards from Hand into Waiting Room] When this card is placed on Stage by 「信頼する、あなたへ」 's effect, you may pay the cost. If you did, STAND this card. (When Trigger Checks 「信頼する、あなたへ」's SWITCH effect to place this card on Stage can be activated also)"
         ],
         "attributes": [
@@ -1619,7 +1619,7 @@
         "flavor_text": "この歌、君に一番最初に聞いて欲しい。ってことで！夜中だから小声だけど、歌うね。\nねえ、もっとそばに行っていいかな？",
         "ability": [
             "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
-            "【S】【COUNTER】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+            "【S】【BACKUP】ASSIST 2500 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
         ],
         "attributes": [
             "Music 《音楽》"
@@ -1993,7 +1993,7 @@
         "flavor_text": "なにかすごいことがあった日のことは覚えてられるけど、なんでもない日のことって忘れちゃうものでしょ？",
         "ability": [
             "【A】When you use this card's 『ASSIST』, if you have 《音楽》 Character, choose 1 of your Character in battle, during this turn, it gets +1000 Power.",
-            "【S】【COUNTER】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
+            "【S】【BACKUP】 ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets ＋1000 Power)"
         ],
         "attributes": [
             "Music 《音楽》"
@@ -2072,7 +2072,7 @@
         "flavor_text": "まだまだ終わらせないんだから！ 勝ち逃げは無しよ！",
         "ability": [
             "【A】When you use this card's 『ASSIST』, place X cards from opponent's bottom Deck into Waiting Room. X is equal to the number of your 《音楽》 Character.",
-            "【S】【COUNTER】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+            "【S】【BACKUP】ASSIST 3000 Level 2 ［(1) Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
         ],
         "attributes": [
             "Music 《音楽》"
@@ -2933,8 +2933,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+            "【C】 This card gains +2000 power if there is a marker under it.",
+            "【A】 When this card is placed onto stage, reveal the top card of your deck. If it is a 《音楽》character, then place it underneath this card as a marker. (Otherwise return it to its original place)"
         ],
         "attributes": [
             "音楽"
@@ -2959,8 +2959,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
-            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+            "【A】 When you use this card's \"Backup\", place the top 3 cards of your deck into the waiting room.",
+            "【S】【BACKUP】 ASSIST 2000 Level 1 ［(1) Place this card from hand into waiting room］ （Choose one of your characters being frontal-attacked and give it +2000 for the turn.）"
         ],
         "attributes": [
             "音楽"
@@ -2983,7 +2983,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "自動能力＠ このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。\n自動能力＠ 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）\n"
+            "【A】 When this card is placed onto stage, if your opponent has 1 or less characters in their front row, you can choose 1 cost 0 character in your front row and place it on the bottom of their deck.",
+            "【A】 At the beginning of the opponent's draw phase, reveal the top card of your deck. If the card revealed is level 1 or higher, you may return this card to your hand. (Climaxes are regarded as level 0. The revealed card stays on top of the deck.)"
         ],
         "attributes": [
             "音楽"
@@ -3006,8 +3007,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
+            "【C】 Your character in the middle position of your stage gets +500 power",
+            "【C】 SUPPORT All characters in front of this card get +500 power"
         ],
         "attributes": [
             "音楽"
@@ -3030,8 +3031,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、このカードのパワーを＋3000。",
-            "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+            "【C】 During your turn, this card gains +3000 power.",
+            "【A】［(2)］ When this card is placed into the waiting room from stage, you may pay the cost. If you do, choose a 《音楽》character in your waiting room and return it to hand."
         ],
         "attributes": [
             "音楽"
@@ -3054,8 +3055,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-            "【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+            "【C】 SUPPORT All characters in front of this card get +500 power",
+            "【S】［Place this card into your waiting room］ When one of your 《音楽》characters is placed into waiting room from stage and this card is in your back stage, you may pay the cost. If you do, return that character onto stage [RESTED]"
         ],
         "attributes": [
             "音楽"
@@ -3078,8 +3079,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの「自慢のお弁当！ 宮下 愛」すべてに、パワーを＋1000。",
-            "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「自慢のお弁当！ 宮下 愛」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+            "【C】 All of your「自慢のお弁当！ 宮下 愛」get +1000 power.",
+            "【A】［Place a《音楽》character from your hand into waiting room.］ When this card is placed onto stage, you may pay the cost. If you do, search your deck for 1「自慢のお弁当！ 宮下 愛」, reveal it to your opponent, and shuffle your deck."
         ],
         "attributes": [
             "音楽"
@@ -3102,7 +3103,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
+            "【C】 This card gets +1500, as long as your stock has 2 or less cards."
         ],
         "attributes": [
             "音楽"
@@ -3127,7 +3128,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。"
+            "【C】 This card gets +1000 for each of your other《音楽》characters."
         ],
         "attributes": [
             "音楽"
@@ -3152,8 +3153,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
-            "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+            "【A】 When this card is placed onto stage, choose up to 1 of your opponent's characters, return it to their hand, and this card gets +2000 until the end of your turn.",
+            "【A】 When this card attacks, choose one of your《音楽》characters and give them +1500 until end of turn."
         ],
         "attributes": [
             "音楽"
@@ -3176,7 +3177,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+            "【A】 When this card attacks, choose one of your characters and give them +2500 until end of turn."
         ],
         "attributes": [
             "音楽"
@@ -3222,8 +3223,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【A】 When your other《音楽》character attacks, this card gets +1500 power until end of turn.",
+            "【A】 ENCORE ［Place a《音楽》character from your hand into waiting room］(When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
             "音楽"
@@ -3246,8 +3247,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「TOKIMEKI Runners」があるなら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
+            "【A】 When this card is placed onto stage from hand, this card gets +1500 power until end of turn.",
+            "【A】【CXCOMBO】 When this card's battle opponent becomes REVERSED and「TOKIMEKI Runners」is in your climax area, look at up to the top 4 cards of your deck, choose a《音楽》character, reveal it to your opponent, put the rest into your waiting room. Then choose one of your characters and it gets +1500 power and +1 level until the end of turn."
         ],
         "attributes": [
             "音楽"
@@ -3270,7 +3271,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。"
+            "【C】 This card gets +500 for each of your other《音楽》characters."
         ],
         "attributes": [
             "音楽"
@@ -3295,8 +3296,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのターン中、他のあなたの《音楽》のキャラが4枚以上なら、このカードのパワーを＋5000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』",
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+            "【C】 During your turn, if you have 4 or more other《音楽》characters, this card gets +5000 power and the following ability. \"【C】 During this card's battle, your opponent cannot play BACKUP or COUNTER cards from their hand.\"",
+            "【A】 When this card is placed onto stage from hand, reveal the top card of your deck. If it is a《音楽》character, then you may deal 1 damage to your opponent. （Damage can still cancel. The revealed card stays on top of deck.）"
         ],
         "attributes": [
             "音楽"
@@ -3319,7 +3320,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+            "Choose one of your characters and give it the following ability. \"【A】 When this card's battle opponent becomes REVERSED, you may deal 3 damage to your opponent.\" (Damage can still be cancelled.)"
         ],
         "attributes": [],
         "set": "LNJ",
@@ -3342,8 +3343,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters get +1000 Power, +1 Soul.",
+            "(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "LNJ",
@@ -3367,7 +3368,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+            "【A】 When this climax is placed onto your climax area, choose up to 1 character in your waiting room with a level that is equal or lower than your level and return it to your hand. Choose 2 of your characters and they get +1 soul until the end of turn."
         ],
         "attributes": [],
         "set": "LNJ",
@@ -3388,8 +3389,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
-            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+            "【C】 If you have 5 or more cards in hand, then this card gets +1000 power.",
+            "【A】［Place a climax card from hand into your waiting room.］ When this card is placed onto stage from hand, you may pay the cost. If you do, choose a《音楽》character from your waiting room and return it to hand."
         ],
         "attributes": [
             "音楽"
@@ -3412,8 +3413,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+            "【A】 When a climax is placed onto your climax area, choose a character and it gets +1000 power until the end of turn.",
+            "【S】 BRAINSTORM ［(1)【REST】this card］ Flip over the top 4 cards of your deck and then place them into your waiting room. For each climax, you may draw 1 card from your deck."
         ],
         "attributes": [
             "音楽"
@@ -3436,7 +3437,7 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+            "【A】 When this card is placed onto stage from hand, if you have another《音楽》character, then this card gets +2000 power until end of turn."
         ],
         "attributes": [
             "音楽"
@@ -3461,8 +3462,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。「【起】［② あなたの「大自然の息吹き エマ・ヴェルデ」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「たまにはこんな休日もね♪ 朝香 果林」を1枚まで選び、舞台の好きな枠に置く。」",
-            "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+            "【C】 If your level is 2 or higher, then this card gets the following ability. \"【S】［(2)【REST】this card and a card named [大自然の息吹き エマ・ヴェルデ]］ Choose a [「たまにはこんな休日もね♪ 朝香 果林」] from your hand and place it onto stage.\"",
+            "【C】SUPPORT All characters in front of this card get +X power. X is equal to the character's level X 500."
         ],
         "attributes": [
             "音楽"
@@ -3487,7 +3488,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+            "【S】【BACKUP】 ASSIST 3000 Level 2 ［(1) Place this card from hand into your waiting room］ （Choose a character being frontal attacked and give it +3000 power until end of turn.）"
         ],
         "attributes": [
             "音楽"
@@ -3512,8 +3513,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+            "【A】 When this card is placed onto stage from hand, you may place the top card of your clock into the waiting room.",
+            "【A】 ENCORE ［Place a character from hand into your waiting room.］(When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
         ],
         "attributes": [
             "音楽"
