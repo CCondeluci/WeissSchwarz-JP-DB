@@ -1,0 +1,3878 @@
+[
+    {
+        "name": "アマテラス＆ツクヨミ",
+        "code": "PAD/S105-001",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck, for up to one Level 1 or lower Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_001.png"
+    },
+    {
+        "name": "繋想の彩龍喚士・イデアル",
+        "code": "PAD/S105-002",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other Characters, this card gains +1500 Power and its color is also treated as Red.",
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO When this card attacks, if you have [望外の灰幻魔・イルミナ] in your Climax Zone, if the number of colors of your Characters on your Stage is four or more, choose one [彩龍喚士の子・アルトゥラ] in your Waiting Room, add it to Hand, until end of opponent’s next turn, this card gains +1500 Power and the following effect:",
+            "-[A] – [(2) Send one card from Hand to Waiting Room] You may pay the cost. If you did, deal two damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたのキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは赤を得る。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「望外の灰幻魔・イルミナ」があり、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分の控え室の「彩龍喚士の子・アルトゥラ」を1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋1500し、次の行動を行う。『［(2) 手札を1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_002.png"
+    },
+    {
+        "name": "甘美の零龍喚士・ネイ",
+        "code": "PAD/S105-003",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may choose one Character in your Clock, send it to bottom of Deck.",
+            "[A] – CX COMBO [(1) Sennd one card from Hand to Waiting Room] When this card attacks, if you have [超転生ラー＝ドラゴン] in your Climax Zone, you may pay the cost. If you did, send the top seven cards of your Deck to Waiting Room. If there are three or more cards with Soul Trigger Icon, deal four damage to your opponent, if there are four or more, choose up to three cards in your Waiting Room, shuffle them into Deck, if there are six or more, deal four damage to your opponent."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のキャラを1枚選び、山札の下に置いてよい。",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「超転生ラー＝ドラゴン」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から7枚を、控え室に置く。それらのカードのトリガーアイコンにがあるカードが3枚以上なら、相手に4ダメージを与える。4枚以上なら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。6枚以上なら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_003.png"
+    },
+    {
+        "name": "交響の花嫁・吹龍楽士フェノン",
+        "code": "PAD/S105-004",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other《Yellow》or《Dragon》Characters gains +500 Power.",
+            "[S] – [REST this card] Choose one of your Yellow or《Dragon》Characters, until end of opponent’s next turn, it gains +500 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの、黄か《ドラゴン》のキャラすべてに、パワーを＋500。",
+            "【起】［このカードを【レスト】する］ あなたは自分の、黄か《ドラゴン》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_004.png"
+    },
+    {
+        "name": "サッカー部のストライカー・キオ",
+        "code": "PAD/S105-005",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top or bottom of Deck.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Yellow or《Dragon》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、黄か《ドラゴン》のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_005.png"
+    },
+    {
+        "name": "天極の黄龍帝・ファガン -RAI-",
+        "code": "PAD/S105-006",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 3000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your [超転生ラー＝ドラゴン] in all zones gains Soul Trigger.",
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[S] – [REST this card] Reveal the top card of your Deck. If that card has a Soul Trigger, choose up two of your Characters, during this turn, they gain +2000 Power."
+        ],
+        "jpAbility": [
+            "【永】【CXコンボ】 他のあなたのすべての領域の「超転生ラー＝ドラゴン」のトリガーアイコンにを与える。",
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードのトリガーアイコンにがあるなら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Dragon",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_006.png"
+    },
+    {
+        "name": "初雪の大魔女・リーチェ",
+        "code": "PAD/S105-007",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If the number of colors of your Characters on your Stage is four or more, this card gets -1 Level in your Hand.",
+            "[C] – If you have three or more other Characters, this card gains +3500 Power and [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋3500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "Devil",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_007.png"
+    },
+    {
+        "name": "麒麟の化身・サクヤ",
+        "code": "PAD/S105-008",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have one or less other Characters, this card gains +1 Level and +2500 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋2500。"
+        ],
+        "attributes": [
+            "God",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_008.png"
+    },
+    {
+        "name": "聖夜の兄妹・ポルックス＆カストル",
+        "code": "PAD/S105-009",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If this card is in your Front Row Center Slot, this card gains +1 Soul.",
+            "[A] – When this card is sent from Stage to Waiting Room, you may reveal up to three cards from the top of your Deck. If you revealed one or more cards, choose up to one Yellow Character among them, add it to Hand, send the remaining cards to Waiting Room, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
+            "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの黄のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "Machine",
+            "God"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_009.png"
+    },
+    {
+        "name": "柔和なキーボーディスト・ミル",
+        "code": "PAD/S105-010",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send two cards from Hand to Waiting Room] When you use this card’s BACKUP, you may pay the cost. If you did, choose one of your opponent’s Characters whose Level is less than or equal to your opponent’s Level, send it to Stock. If you did, your opponent sends the bottom card of Stock to Waiting Room.",
+            "[S] – COUNTER 1000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、ストック置場に置く。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Machine"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_010.png"
+    },
+    {
+        "name": "正月の傾奇神・前田慶次",
+        "code": "PAD/S105-011",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, for each of your other Characters, this card gains +1000 Power.",
+            "[A] – [Return two Characters in your Waiting Room to your Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gains +1000 Power and the following effect:",
+            "-[A] – [(1)] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+        ],
+        "attributes": [
+            "God",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_011.png"
+    },
+    {
+        "name": "歓楽の玩龍喚士・コットン",
+        "code": "PAD/S105-012",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Yellow Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – When this card is placed on Stage from Hand, if you have four or more other Yellow Characters, you may choose one Yellow Character in your Waiting Room, send it to Stock.",
+            "[A] – When your Character Trigger Checks a Climax with Choice Trigger Icon, choose one of your Characters, until end of opponent’s next turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの黄のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたは自分の控え室の黄のキャラを1枚選び、ストック置場に置いてよい。",
+            "【自】 あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_012.png"
+    },
+    {
+        "name": "賀正の天陽神・アテン",
+        "code": "PAD/S105-013",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if the number of colors of your Characters on your Stage is four or more, this card gains +6000 Power.",
+            "[A] – When this card’s level 2 or higher battle opponent is REVERSE, if the number of colors of your Characters on your Stage is four or more, draw up to one card."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードのパワーを＋6000。",
+            "【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは1枚まで引く。"
+        ],
+        "attributes": [
+            "God",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_013.png"
+    },
+    {
+        "name": "聖焔の花嫁・ブリギッド",
+        "code": "PAD/S105-014",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other [聖焔の花嫁・ブリギッド], this card gains +1000 Power.",
+            "[A] – CX COMBO When this card attacks, if you have [銀翼の白迅駆・デイトナ] in your Climax Zone, if you have four or more other Yellow Characters, perform one of the following two effects of your choice:",
+            "-Choose up to one Yellow Character in your Waiting Room, add it to Hand, choose up to one Yellow Character in your Waiting Room, send it to Stock.",
+            "-[(2)] You may pay the cost. If you did, deal one damage to your opponent, during this turn, this card gains +5000 Power. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「聖焔の花嫁・ブリギッド」1枚につき、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「銀翼の白迅帝・デイトナ」があり、他のあなたの黄のキャラが4枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の黄のキャラを1枚まで選び、手札に戻し、自分の控え室の黄のキャラを1枚まで選び、ストック置場に置く。』『［(2)］ あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋5000。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "God",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_014.png"
+    },
+    {
+        "name": "ヒカりん",
+        "code": "PAD/S105-015",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+        ],
+        "attributes": [
+            "Balance",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_015.png"
+    },
+    {
+        "name": "ゴールドドラゴン",
+        "code": "PAD/S105-016",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [(1) REST this card] Choose one of your Yellow Characters in Hand whose Level is less than or equal to your Level, place it in this card’s previous slot.",
+            "[S] – [Send this card to Waiting Room] Choose one of your Yellow Characters, during this turn, it gains +1 Soul."
+        ],
+        "jpAbility": [
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの黄のキャラを1枚まで選び、このカードがいた枠に置く。",
+            "【起】［このカードを控え室に置く］ あなたは自分の黄のキャラを1枚選び、そのターン中、ソウルを＋1。"
+        ],
+        "attributes": [
+            "Enhancement Material",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_016.png"
+    },
+    {
+        "name": "超転生ハトホル",
+        "code": "PAD/S105-017",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your opponent’s Characters gain [A] – ENCORE [(2)].",
+            "[A] – When this card is placed on Stage from Hand, you may choose one card in your Hand, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "God",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_017.png"
+    },
+    {
+        "name": "エンジェリオン",
+        "code": "PAD/S105-018",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +3000 Power.",
+            "[A] – During this card’s battle, if damage dealt to you is canceled, you may return this card to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+        ],
+        "attributes": [
+            "Dragon",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_018.png"
+    },
+    {
+        "name": "仮装祭の天使・イーリア",
+        "code": "PAD/S105-019",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have two or more other Yellow or《God》Characters, this card gains +2000 Power.",
+            "[A] – [(1) REST one of your other STAND Yellow or《God》Characters] During the turn this card is placed on Stage from Hand, during this turn, when this card’s battle opponent is REVERSE, you may pay the cost. If you did, search your Deck for up to one Yellow or《God》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの、黄か《神》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】［(1) 他のあなたの【スタンド】している、黄か《神》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て黄か《神》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_019.png"
+    },
+    {
+        "name": "超転生孫悟空",
+        "code": "PAD/S105-020",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send three Yellow cards from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to three of your Characters, until end of opponent’s turn, they gain +2000 Power and the following effect:",
+            "-[C] – This card cannot be chosen by your opponent’s effects.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to Stock. If you did, your opponent sends the bottom card of their Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［手札の黄のカードを3枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを3枚まで選び、次の相手のターンの終わりまで、パワーを＋2000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "God",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_020.png"
+    },
+    {
+        "name": "転生貂蝉",
+        "code": "PAD/S105-021",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – Choose up to two of your Characters, during this turn, they gain +1500 Power.",
+            "[S] – [Send this card to bottom of Deck] Choose one of your opponents Characters, return it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。",
+            "【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_021.png"
+    },
+    {
+        "name": "彩龍喚士の子・アルトゥラ",
+        "code": "PAD/S105-022",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 0,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER Choose one of your [博愛の彩龍喚士・イデアル], during this turn, it gains the following effect:",
+            "-[C] – The Character across from this card gets -3 Soul."
+        ],
+        "jpAbility": [
+            "【カウンター】 あなたは自分の「繋想の彩龍喚士・イデアル」を1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_022.png"
+    },
+    {
+        "name": "望外の灰幻魔・イルミナ",
+        "code": "PAD/S105-023",
+        "rarity": "CR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_023.png"
+    },
+    {
+        "name": "超転生ラー＝ドラゴン",
+        "code": "PAD/S105-024",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_024.png"
+    },
+    {
+        "name": "銀翼の白迅帝・デイトナ",
+        "code": "PAD/S105-025",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_025.png"
+    },
+    {
+        "name": "ダイヤ＆ゴールド＆グリーンガチャドラ",
+        "code": "PAD/S105-026",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have no other Characters in Back Row, you may send the top card of your Deck to Waiting Room. If that card is a Level 0 or lower Character, you may place that Character in any slot in Back Row.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Machine"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_026.png"
+    },
+    {
+        "name": "遠征のアレキサンダー",
+        "code": "PAD/S105-027",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO This effect activates up to once per turn. At the end of this card’s attack, if you have [極醒の威女神・カーリー] in your Climax Zone, perform one of the following two effects of your choice:",
+            "-Choose up to two Characters in your Waiting Room, add them to Hand, choose up to one Level 1 or lower Character in your Waiting Room, add it to Hand, until end of opponent’s next turn, this card gains +1000 Power.",
+            "-[(1) Send one card from Hand to Waiting Room] If you have two or more other Characters, you may pay the cost. If you did, STAND this card."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「極醒の威女神・カーリー」があるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1000。』『［(1) 手札を1枚控え室に置く］ 他のあなたのキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。』"
+        ],
+        "attributes": [
+            "God",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_027.png"
+    },
+    {
+        "name": "森衣の大魔女・アルジェ",
+        "code": "PAD/S105-028",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other Characters, this card’s color is also treated as Yellow.",
+            "[A] – At the beginning of your Climax Phase, if the number of colors of your Characters on your Stage is four or more, choose one of your Characters, during this turn, it gains +1500 Power.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたのキャラが2枚以上なら、このカードは黄を得る。",
+            "【自】 あなたのクライマックスフェイズの始めに、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Devil",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_028.png"
+    },
+    {
+        "name": "孤峰の花嫁・ゼラ",
+        "code": "PAD/S105-029",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +2000 Power.",
+            "[A] – CX COMBO When [穿槍の翠戦帝・ノーチラス] is placed in your Climax Zone, if you have two or more other Characters, until end of opponent’s next turn, this card gains the following two effects:",
+            "-[A] – When this card attacks, look at up to two cards from the top of your Deck, choose one card among them, place it on top of Deck, send the remaining cards to Waiting Room.",
+            "-[A] – When this card is Front Attacked, you may return this card to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「穿槍の翠戦帝・ノーチラス」が置かれた時、他のあなたのキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+        ],
+        "attributes": [
+            "Devil",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_029.png"
+    },
+    {
+        "name": "迎春の狩猟姫・アルテミス",
+        "code": "PAD/S105-030",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] – When this card attacks, if you have a Climax with Gold Bar Trigger Icon in your Climax Zone, reveal the top card of your Deck. If that card is Level 1 or higher, during this attack, perform Trigger Check twice during Trigger Step. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】 このカードがアタックした時、あなたのクライマックス置場にトリガーアイコンがのクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "God",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_030.png"
+    },
+    {
+        "name": "彩妖精の水彩幻画師・アトリ",
+        "code": "PAD/S105-031",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other Characters, this card’s color is also treated as Blue.",
+            "[C] – If the number of colors of your Characters on your Stage is four or more, all of your other Characters gain +X Power. X is that Character’s Level x500.",
+            "[S] – [(1) REST this card] If the number of colors of your Characters on your Stage is four or more, choose one card in your Clock, add it to Hand, send the top card of your Deck to Clock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたのキャラが2枚以上なら、このカードは青を得る。",
+            "【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】［(1) このカードを【レスト】する］ あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "attributes": [
+            "Balance",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_031.png"
+    },
+    {
+        "name": "樹望龍の癒し手・アリナ",
+        "code": "PAD/S105-032",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] [(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, perform one of the following two effects of your choice:",
+            "-Send up to one card from the top of your Clock to Waiting Room, during this turn, this card gains +3000 Power.",
+            "-Send all of your opponent’s Stock to Waiting Room, your opponent sends the same number of cards from top of Deck to Stock."
+        ],
+        "jpAbility": [
+            "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。』『相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。』"
+        ],
+        "attributes": [
+            "Recovery",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_032.png"
+    },
+    {
+        "name": "伝承・エンシェントドラゴンナイト -REX-",
+        "code": "PAD/S105-033",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – RECOLLECTION If you have two or more [熱狂のベーシスト・ロシェ] in your Memory, this card gets -1 Level in your Hand.",
+            "[A] – When this card is placed on Stage from Hand, send the top card of your Deck to Waiting Room. If that card is a card with a Soul Trigger or [熱狂のベーシスト・ロシェ], deal one damage to your opponent.",
+            "[A] – When this card’s Level 2 or higher battle opponent is REVERSE, you may choose one《Dragon》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【永】 記憶 あなたの思い出置場の「熱狂のベーシスト・ロシェ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがトリガーアイコンにがあるカードか「熱狂のベーシスト・ロシェ」なら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+            "【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の控え室の《ドラゴン》のキャラを1枚選び、ストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Machine"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_033.png"
+    },
+    {
+        "name": "聖夜の灼冥魔・スカーレット",
+        "code": "PAD/S105-034",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If this card is in your Front Row Center Slot, this card gains +3000 Power.",
+            "[A] – [(1) Send one Green Character in your Waiting Room to bottom of Clock] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to two cards from the top of your Deck, choose up to two Green Characters among them, reveal them to your opponent, add them to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000。",
+            "【自】［(1) あなたの控え室の緑のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、緑のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Devil",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_034.png"
+    },
+    {
+        "name": "帰り道の学級委員長・アテナ",
+        "code": "PAD/S105-035",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand or sent from Stage to Waiting Room, you may pay the cost. If you did, choose one Level 1 or higher Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以上のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_035.png"
+    },
+    {
+        "name": "北方の親愛神・メイメイ",
+        "code": "PAD/S105-036",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If your Level is 2 or higher, this card gains the following effect:",
+            "-[S] – [(1) Send one card from Hand to Waiting Room, send this card to Waiting Room] Choose up to one [遠征のアレキサンダー] in your Hand, place it in this card’s previous slot.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room, for each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「遠征のアレキサンダー」を1枚まで選び、このカードがいた枠に置く。』",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_036.png"
+    },
+    {
+        "name": "聖宴のメイド妖精・パティ",
+        "code": "PAD/S105-037",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, look at the top card of your Deck, place it on top or bottom of Deck.",
+            "[S] – COUNTER 2500 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "Recovery",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_037.png"
+    },
+    {
+        "name": "遍照の花嫁・ルシャナ",
+        "code": "PAD/S105-038",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send the top card of opponent’s Clock to Waiting Room. If you did, send that Character to Clock.",
+            "[S] – [Send this card to bottom of Deck] Choose one of your Characters, during this turn, it gains the following effect:",
+            "-[C] – When this card attacks, you may choose one of your opponent’s Characters in Back Row, this card may Front Attack that Character."
+        ],
+        "jpAbility": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+            "【起】［このカードを山札の下に置く］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』"
+        ],
+        "attributes": [
+            "God",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_038.png"
+    },
+    {
+        "name": "聖祝の獄幻姫・ロミア",
+        "code": "PAD/S105-039",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, for each of your opponent’s Characters in Back Row, this card gains +3000 Power.",
+            "[A] – [Send three Green cards in Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gains +2500 Power, +1 Soul and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send that Character to Clock."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、相手の後列のキャラ1枚につき、このカードのパワーを＋3000。",
+            "【自】［手札の緑のカードを3枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500し、ソウルを＋1し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』"
+        ],
+        "attributes": [
+            "Devil",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_039.png"
+    },
+    {
+        "name": "エメラルドドラゴン",
+        "code": "PAD/S105-040",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [(1) Send this card to Waiting Room] Choose up to one Green Character in your Hand whose Level is less than or equal to your Level, place it on this card’s previous slot.",
+            "[S] – [Send this card to Waiting Room] Choose one of your Green Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの緑のキャラを1枚まで選び、このカードがいた枠に置く。",
+            "【起】［このカードを控え室に置く］ あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Enhancement Material",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_040.png"
+    },
+    {
+        "name": "大樹の精霊・アルラウネ",
+        "code": "PAD/S105-041",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Green Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – When a Climax with Gold Bar Trigger Icon is placed in your Climax Zone, choose up to two of your Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの緑のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Recovery",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_041.png"
+    },
+    {
+        "name": "モリりん",
+        "code": "PAD/S105-042",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one card in your Clock, add it to Hand, send the top card of your Deck to Clock.",
+            "[A] – SHIFT Level 0"
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
+            "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+        ],
+        "attributes": [
+            "Balance",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_042.png"
+    },
+    {
+        "name": "甘党の幻龍王・ゼローグ∞",
+        "code": "PAD/S105-043",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Return two《Dragon》Characters in your Waiting Room to Deck, shuffle your Deck afterwards] When this is placed on Stage from Hand, you may pay the cost. If you did, choose one of your opponent’s Characters in Front Row, during this turn, it gets -1000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this is card is placed on Stage from Hand, you may pay the cost. If you did, choose one [熱狂のベーシスト・ロシェ] in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［あなたの控え室の《ドラゴン》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「熱狂のベーシスト・ロシェ」を1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_043.png"
+    },
+    {
+        "name": "古城の守り猫・バステト",
+        "code": "PAD/S105-044",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is REVERSE, if this card’s battle opponent is cost 0 or lower, you may send the top card of opponent’s Clock to Waiting Room. If you did, send that Character to Clock.",
+            "[S] – [(1) Send this card to Waiting Room] Send the top two cards of your Deck to Waiting Room, choose one Level X or lower Character in your Waiting Room, add it to Hand. X is the total Level of cards sent to Waiting Room by this effect. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "God",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_044.png"
+    },
+    {
+        "name": "転生お市",
+        "code": "PAD/S105-045",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have two or more other Green or《God》Characters, this card gains +2000 Power.",
+            "[A] – [(1)] During the turn this card is placed on Stage from Hand, when this card’s battle opponent is REVERSE, you may pay the cost. If you did, choose one Green or《God》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの、緑か《神》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、緑か《神》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Attack",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_045.png"
+    },
+    {
+        "name": "超転生オシリス",
+        "code": "PAD/S105-046",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have two or more other《God》Characters, this card gains +2000 Power and the following effect:",
+            "-[A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power.",
+            "[A] – [Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《God》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《神》のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《神》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "God",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_046.png"
+    },
+    {
+        "name": "熱狂のベーシスト・ロシェ",
+        "code": "PAD/S105-047",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Send the top four cards of your Deck to Waiting Room, choose one Level X or lower《Dragon》Character in your Waiting Room, add it to Hand. X is the number of Soul Trigger Icons among those cards. Send this card to Memory.",
+            "[A] – RECOLLECTION [(1) Flip this faceup card and one of your faceup [熱狂のベーシスト・ロシェ] in your Memory facedown] If this card is in your Memory, at the beginning of your Attack Phase, you may pay the cost. If you did, look at up to six cards from the top of your Deck, choose three cards among them, send them to Waiting Room, put the remaining cards on top of your Deck in any order."
+        ],
+        "jpAbility": [
+            "あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の《ドラゴン》のキャラを1枚まで選び、手札に戻す。Ｘはそれらのカードのトリガーアイコンのの合計に等しい。このカードを思い出にする。",
+            "【自】 記憶 ［(1) 他のあなたの思い出置場の表向きの「熱狂のベーシスト・ロシェ」を1枚と表向きのこのカードを裏向きにする］ 思い出置場にこのカードがあるなら、あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_047.png"
+    },
+    {
+        "name": "極醒の威女神・カーリー",
+        "code": "PAD/S105-048",
+        "rarity": "CR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_048.png"
+    },
+    {
+        "name": "穿槍の翠戦帝・ノーチラス",
+        "code": "PAD/S105-049",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_049.png"
+    },
+    {
+        "name": "陰陽省の宗主・ミカゲ",
+        "code": "PAD/S105-050",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_050.png"
+    },
+    {
+        "name": "城下の大魔女・マドゥ",
+        "code": "PAD/S105-051",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have five or more cards in Hand, this card gains +1500 Power.",
+            "[A] – At the beginning of opponent’s Attack Phase, you may move this card to an empty Front Row Center Slot or during this turn, this card gains the following effect:",
+            "-[A] – [(1)] At the beginning of Encore Step, if you have no other REST Characters in Front Row, you may pay the cost. If you did, REST this card."
+        ],
+        "jpAbility": [
+            "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1500。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かすか、そのターン中、このカードは次の能力を得る。『【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。』"
+        ],
+        "attributes": [
+            "Devil",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_051.png"
+    },
+    {
+        "name": "ラー＆ホルス",
+        "code": "PAD/S105-052",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have three or more other Characters, during this turn, this card gains +2000 Power.",
+            "[A] – CX COMBO At the beginning of your Encore Step, if you have [烈腕の紅戦帝・シーウルフ] in your Climax Zone, if this card is in your Front Row, perform one the following two effects of your choice:",
+            "-If the number of colors of your Characters on Stage have four or more , if the Character across from this card is REVERSE, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, choose up to one card among them, send it to Stock, send the remaining cards to Waiting Room.",
+            "-Choose one Level 2 or higher Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたのキャラが3枚以上なら、そのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「烈腕の紅戦帝・シーウルフ」があり、前列にこのカードがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたの舞台のキャラの持つ色の合計が4色以上で、このカードの正面のキャラが【リバース】しているなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、カードを1枚まで選び、ストック置場に置き、残りのカードを控え室に置く。』『あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。』"
+        ],
+        "attributes": [
+            "God",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_052.png"
+    },
+    {
+        "name": "恩讐の退魔師・セイナ",
+        "code": "PAD/S105-053",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO When [陰陽省の宗主・ミカゲ] is placed in your Climax Zone, if you have two or more other《God》Characters, look at up to four cards from the top of your Deck, choose up to one《God》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room.",
+            "[A] – [Send one card from Hand to Waiting Room] When your Character Trigger Checks a Climax with Gold Bar Trigger Icon, you may pay the cost. If you did, choose one card in your Clock, add it to Hand, send the top card of your Deck to Clock."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】 あなたのクライマックス置場に「陰陽省の宗主・ミカゲ」が置かれた時、他のあなたの《神》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《神》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+            "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "attributes": [
+            "Attack",
+            "God"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_053.png"
+    },
+    {
+        "name": "競合の龍契士・リクウ＆ディステル",
+        "code": "PAD/S105-054",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +3000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, if you have four or more Characters with different colors on Stage, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋3000。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_054.png"
+    },
+    {
+        "name": "夢獣の大魔女・レムゥ",
+        "code": "PAD/S105-055",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If the total Level of cards in your Level Zone is 2 or higher, this card gains +1000 Power.",
+            "[A] – CX COMBO [Send one [超転生シヴァ＝ドラゴン] in your Climax Zone to Waiting Room] At the beginning of your Attack Phase, if this card is in Front Row, if you have five or less Hand, you may pay the cost. If you did, choose one of your other Characters, STAND it."
+        ],
+        "jpAbility": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「超転生シヴァ＝ドラゴン」を1枚控え室に置く］ あなたのアタックフェイズの始めに、前列にこのカードがいて、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+        ],
+        "attributes": [
+            "Balance",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_055.png"
+    },
+    {
+        "name": "極醒の霊央神・カミムスビ",
+        "code": "PAD/S105-056",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 8000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – During the turn this card is placed on Stage from Hand, at the beginning of your Encore Step, if you have three or more other《God》Characters, if you have six or less cards in your Deck, you may return all cards in your Waiting Room to Deck. If you did, shuffle your Deck afterwards, choose one of your Characters, until end of opponent’s next turn, it gains +2500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれたターン中、あなたのアンコールステップの始めに、他のあなたの《神》のキャラが3枚以上で、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_056.png"
+    },
+    {
+        "name": "聖夜の歓迎者・グレモリー",
+        "code": "PAD/S105-057",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Clock to Stock.",
+            "[A] – [(3)] When this card attacks,, you may pay the cost. If you did, choose one of your other Characters, during this turn, it gains the following effect:",
+            "-[A] – This effect activates up to once per turn. When this card’s dealt damage is canceled, you may deal two damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+            "【自】［(3)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に2ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Devil",
+            "God"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_057.png"
+    },
+    {
+        "name": "海祠の獣姫・ルカ＆ミツキ",
+        "code": "PAD/S105-058",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – EXPERIENCE If the total Level of cards in your Level Zone is 4 or higher, this card gains +1000 Power.",
+            "[A] – CX COMBO EXPERIENCE [Send one [灼那華の女帝・エキドナ-SARA-] in your Climax Zone to Waiting Room] At the beginning of your Attack Phase, if you have a [海祠の獣姫・ルカ＆ミツキ] in your Level Zone, you may pay the cost. If you did, STAND this card, send the top ten cards of opponent’s Deck to Waiting Room.",
+            "[A] – [(1)] During your turn, when this card’s battle opponent is REVERSE, you may pay the cost. If you did, send the top card of your Clock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000。",
+            "【自】【CXコンボ】 経験 ［あなたのクライマックス置場の「灼那華の女帝・エキドナ -SARA-」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたのレベル置場に「海祠の獣姫・ルカ＆ミツキ」があるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、相手は自分の山札の上から10枚を、控え室に置く。",
+            "【自】［(1)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "Recovery",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_058.png"
+    },
+    {
+        "name": "初日の朱雀姫・レイラン",
+        "code": "PAD/S105-059",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 2 or higher, send it to Stock. (Climax is considered Level 0. If not return card to its original position.)",
+            "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "God",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_059.png"
+    },
+    {
+        "name": "聖夜の翠龍刀士・セリカ",
+        "code": "PAD/S105-060",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, choose one of your opponent’s Level 2 or lower Characters in Front Row, send it to Waiting Room.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_060.png"
+    },
+    {
+        "name": "仮装祭の吸血姫・稲姫",
+        "code": "PAD/S105-061",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Level 0 or lower Character in your Waiting Room, place it on Stage in any slot.",
+            "[A] – When this card attacks, choose one of your opponent’s Characters in Front Row, during this turn, it gets -2000 Power."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。",
+            "【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
+        ],
+        "attributes": [
+            "God",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_061.png"
+    },
+    {
+        "name": "親愛の紅龍刀士・アキネ",
+        "code": "PAD/S105-062",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have four or more Characters on Stage with different colors, this card gains +2000 Power and the following effect:",
+            "-[A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power.",
+            "[A] – When a Climax is placed in your Climax Zone, reveal the top card of your Deck. If that card is Level 1 or higher, send it to Stock. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
+            "【自】 このカードがアタックした時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_062.png"
+    },
+    {
+        "name": "甘味処の狛犬姫・センリ",
+        "code": "PAD/S105-063",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] –ASSIST All of your Characters in front of this card gains +1500 Power.",
+            "[S] – [Send this card to bottom of Deck] Choose one of your opponent’s Characters, move it to an empty slot on Stage."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの赤のキャラすべてに、パワーを＋1500。",
+            "【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
+        ],
+        "attributes": [
+            "Balance",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_063.png"
+    },
+    {
+        "name": "親愛の赤龍喚士・ソニア",
+        "code": "PAD/S105-064",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If your opponent has a Level 3 or higher, Character, this card gets -1 Level in your Hand.",
+            "[A] – At the beginning of your Attack Phase, if this card is in Front Row, you may choose one of your opponent’s Level 1 or higher Characters. If you did, your opponent chooses one Level X or lower Character in their Waiting Room, exchange them. X is the chosen Character’s Level -1.",
+            "[A] – [Send three Red cards from Hand to Waiting Room] When this card’s battle opponent is REVERSE, you may pay the cost. If you did, deal one damage to your opponent two times. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 あなたのアタックフェイズの始めに、前列にこのカードがいるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
+            "【自】［手札の赤のカードを3枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_064.png"
+    },
+    {
+        "name": "ルビードラゴン",
+        "code": "PAD/S105-065",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [(1) Send this card to Waiting Room] Choose up to one Red Character in Hand whose Level is less than or equal to your Level, place it on Stage in this card’s previous slot.",
+            "[S] – [Send this card to Waiting Room] Choose one of your Red Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may choose one of your opponent’s Level 1 or lower Characters in Back Row, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの赤のキャラを1枚まで選び、このカードがいた枠に置く。",
+            "【起】［このカードを控え室に置く］ あなたは自分の赤のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置いてよい。』"
+        ],
+        "attributes": [
+            "Enhancement Material",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_065.png"
+    },
+    {
+        "name": "森の元気娘・赤ずきん",
+        "code": "PAD/S105-066",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one Red card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, draw one card.",
+            "[A] – EXPERIENCE When this card is placed on Stage from Hand, if the total Level of cards in your Level Zone is 2 or higher, look at up to two cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［手札の赤のカードを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+            "【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+        ],
+        "attributes": [
+            "Recovery",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_066.png"
+    },
+    {
+        "name": "覚醒ヘラ・ウルズ↑↑",
+        "code": "PAD/S105-067",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may choose one card in your Level Zone and one card in your Waiting Room, exchange them.",
+            "[A] – [(1) Return this card to your Hand] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, choose one of your Characters, during this turn, it gains +1500 Power and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may choose one Red Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。",
+            "【自】［(1) このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の赤のキャラを1枚選び、手札に戻してよい。』"
+        ],
+        "attributes": [
+            "Devil",
+            "God"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_067.png"
+    },
+    {
+        "name": "激動の監視者・レイワ",
+        "code": "PAD/S105-068",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [(1) Send this card to Waiting Room] Look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Attack",
+            "Machine"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_068.png"
+    },
+    {
+        "name": "ホノりん",
+        "code": "PAD/S105-069",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one [春紅蘭の君子・シャンメイ] in your Waiting Room, add it to Hand.",
+            "[A] – SHIFT Level 0"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「春紅蘭の君子・シャンメイ」を1枚選び、手札に戻す。",
+            "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+        ],
+        "attributes": [
+            "Balance",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_069.png"
+    },
+    {
+        "name": "超転生ヒノカグツチ",
+        "code": "PAD/S105-070",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, send that Character to Memory.",
+            "[S] – COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "God",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_070.png"
+    },
+    {
+        "name": "爆進の魔神卿・ベリアル",
+        "code": "PAD/S105-071",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – EXPERIENCE If the total Level of cards in your Level Zone is 3 or higher, this card gains +3500 Power and the following two effects:",
+            "-[A] – During your turn, when this card’s battle opponent is REVERSE, look at the top card of your Deck place it on top of Deck or Waiting Room.",
+            "-[A] – ENCORE [Send one Character from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋3500し、このカードは次の2つの能力を得る。『【自】 あなたのターン中、このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』"
+        ],
+        "attributes": [
+            "Devil",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_071.png"
+    },
+    {
+        "name": "春紅蘭の君子・シャンメイ",
+        "code": "PAD/S105-072",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER If you do not have a Red Character, you cannot play this card from Hand.",
+            "You may send the top card of your Clock to Waiting Room.",
+            "Choose one of your Characters, during this turn, it gains +2000 Power. Send this card to Memory.",
+            "[A] – RECOLLECTION [Send one Climax from Hand to Waiting Room] If this card is in Memory, at the beginning of your Main Phase, you may pay the cost. If you did, return this card to Hand."
+        ],
+        "jpAbility": [
+            "【カウンター】 このカードは、あなたの赤のキャラがいないなら、手札からプレイできない。あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+            "【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ 思い出置場にこのカードがあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_072.png"
+    },
+    {
+        "name": "超転生シヴァ＝ドラゴン",
+        "code": "PAD/S105-073",
+        "rarity": "CR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_073.png"
+    },
+    {
+        "name": "烈腕の紅戦帝・シーウルフ",
+        "code": "PAD/S105-074",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_074.png"
+    },
+    {
+        "name": "灼那華の女帝・エキドナ -SARA-",
+        "code": "PAD/S105-075",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_075.png"
+    },
+    {
+        "name": "カラット＆シルク＆カメオ",
+        "code": "PAD/S105-076",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When a Climax is placed in your Climax Zone, you may choose one of your Characters without a Marker, place this card underneath that Character faceup as a Marker, if you did, during this turn, that Character gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send the top card of your Deck to Stock.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のマーカーを持たないキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置いてよい。そうしたら、そのターン中、そのキャラに次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Attack",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_076.png"
+    },
+    {
+        "name": "納涼の箏龍楽士・ミナカ",
+        "code": "PAD/S105-077",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have two or more other Characters, this card gains +3000 Power.",
+            "[A] – CX COMBO When this card attacks if you have [波際の管龍楽士・マリエル] in your Climax Zone, if you have three or more other Characters, reveal the top card of your Deck, choose one Level X or lower Character in your Waiting Room, add it to Hand. If X is 2 or higher, send up to one card from the bottom of your Deck to Stock. X is the Level of the revealed card. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたのキャラが2枚以上なら、このカードのパワーを＋3000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「波際の管龍楽士・マリエル」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘが2以上なら、あなたは自分の山札の下から1枚までを、ストック置場に置く。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Recovery",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_077.png"
+    },
+    {
+        "name": "堕天使ルシファー＆熾天使ルシファー",
+        "code": "PAD/S105-078",
+        "rarity": "RR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or less Climaxes in your Waiting Room, this card gets -1 Level in your Hand.",
+            "[S] – For each of your opponent’s Characters in Back Row, this card gains +1500 Power.",
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "God",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_078.png"
+    },
+    {
+        "name": "悠然のギタリスト・ソニア＝クレア",
+        "code": "PAD/S105-079",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, reveal the top card of your Deck, choose one Level X or lower Character in your Waiting Room, add it to Hand. If the revealed card has a Soul Trigger Icon, during this turn, this card gains +2000 Power. X is the Level of the revealed card. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。公開されたカードのトリガーアイコンにがあるなら、そのターン中、このカードのパワーを＋2000。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_079.png"
+    },
+    {
+        "name": "冥星の喜女神・ウルカ",
+        "code": "PAD/S105-080",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have three or less Stock, this card gains +2000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, choose one of your other Characters, REST it, move it to an empty slot in Back Row."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、あなたのストックが3枚以下なら、このカードのパワーを＋2000。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "God",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_080.png"
+    },
+    {
+        "name": "部活のマネージャー・チィリン",
+        "code": "PAD/S105-081",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other Characters x1000.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Blue Character among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの青のキャラの枚数×1000に等しい。",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、青のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Physical",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_081.png"
+    },
+    {
+        "name": "溟夜の奏姫・セイレーン＆リリス",
+        "code": "PAD/S105-082",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have three or more other Characters, this card gains +4000 Power and +1 Soul.",
+            "[A] – CX COMBO This effect activates up to once per turn. When this card’s dealt damage is canceled, if you have [剛剣の蒼潜帝・ロイヤルオーク] in your Climax Zone, if you have three or more other Characters, send up to one card in your Clock to Waiting Room, choose up to one Character in your Waiting Room, add it to Hand, during this turn, this card gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000し、ソウルを＋1。",
+            "【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「剛剣の蒼戦帝・ロイヤルオーク」があり、他のあなたのキャラが3枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "Recovery",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_082.png"
+    },
+    {
+        "name": "浜辺の大魔女・ヴェロア",
+        "code": "PAD/S105-083",
+        "rarity": "R",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, draw up to two cards, choose one card in your Hand, send if to Waiting Room.",
+            "[A] – CX COMBO [Send three blue cards from Hand to Waiting Room] When [千手龍・センキョウ] is placed in your Climax Zone, if this card is in your Front Row, if you did, choose one of your other Characters and this card, during this turn, it gains the following effect:",
+            "-[A] – This effect activates up to once per turn. When this card’s dealt damage is canceled, you may deal three damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+            "【自】【CXコンボ】［手札の青のカードを3枚控え室に置く］ あなたのクライマックス置場に「千手龍・センキョウ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚とこのカードを選び、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Devil",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_083.png"
+    },
+    {
+        "name": "演舞の青龍姫・カリン",
+        "code": "PAD/S105-084",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may choose one card in your Clock, add it to Hand. If you did, choose one card in your Hand, send it to Clock.",
+            "[S] – BRAINSTORM [(1) REST this card] If the number of colors of your Characters on your Stage is four or more, flip the top five cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand, choose one of your Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "God",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_084.png"
+    },
+    {
+        "name": "冷刀の花嫁・ユウリ",
+        "code": "PAD/S105-085",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – At the beginning of your Climax Phase, choose one of your Blue or《God》Characters, during this turn, it gains +1000 Power.",
+            "[A] – When a Climax is placed in your Climax Zone, choose one of your Characters, during this turn, it gains +1000 Power and +1 Soul."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、青か《神》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+        ],
+        "attributes": [
+            "Recovery",
+            "God"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_085.png"
+    },
+    {
+        "name": "夏休みの約束・バーバラ＆ジュリ",
+        "code": "PAD/S105-086",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Choose one card in your Hand, send it to Waiting Room, send this card to Memory] When this card is REVERSE, in battle you may pay the cost. If you did, search your Deck for up to one《Dragon》Character, reveal it to your opponent, add it to Hand, shuffle your Deck Afterwards."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Machine"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_086.png"
+    },
+    {
+        "name": "楽園の観察者・メタトロン",
+        "code": "PAD/S105-087",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand.",
+            "[A] – When a Climax is placed in your opponent’s Climax Zone, you may send this card to Stock."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+            "【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_087.png"
+    },
+    {
+        "name": "争奪の海賊龍・黒髭ティーチ",
+        "code": "PAD/S105-088",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your other Blue or《Dragon》Characters, during this turn, it gains +X Power. X is the number of your other Blue or《Dragon》Characters x500.",
+            "[A] – When this card attacks, during this turn all of your Characters gain the following effect:",
+            "-[A] – When your Character Trigger Checks a Climax with Pants Trigger Icon, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは他の自分の、青か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、青か《ドラゴン》のキャラの枚数×500に等しい。",
+            "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでトリガーアイコンがのクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_088.png"
+    },
+    {
+        "name": "相克の陰陽龍・リュウウンサイ",
+        "code": "PAD/S105-089",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. IF that card is Level 1 or higher, send it to Stock. (Climax is considered Level 0. If not return card to its original position)",
+            "[A] – When this card is placed on Stage from Hand, choose up to one of your opponent’s Characters, send it to Stock, your opponent places that Character from Memory onto any slot on Stage.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to bottom of Deck."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "Dragon",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_089.png"
+    },
+    {
+        "name": "蒼の海賊龍・アルビダ",
+        "code": "PAD/S105-090",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, send the bottom X cards of your opponent’s Deck to Waiting Room. X is the number of your Characters.",
+            "[S] – COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "Dragon",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_090.png"
+    },
+    {
+        "name": "サファイアドラゴン",
+        "code": "PAD/S105-091",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [(1) Send this card to Waiting Room] Choose up to one Character in your Hand whose Level is less than or equal to your Level, place it in this card’s previous slot.",
+            "[S] – [Send this card to Waiting Room] Choose one of your Blue Characters, during this turn, it gains the following effect:",
+            "-[C] – This card can Side Attack without soul penalty."
+        ],
+        "jpAbility": [
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの青のキャラを1枚まで選び、このカードがいた枠に置く。",
+            "【起】［このカードを控え室に置く］ あなたは自分の青のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』"
+        ],
+        "attributes": [
+            "Enhancement Material",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_091.png"
+    },
+    {
+        "name": "ワルりん",
+        "code": "PAD/S105-092",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from hand, you may pay the cost. If you did, choose one [魔輝の神王妃・ヘラ] in your Waiting Room, add it to Hand.",
+            "[A] – SHIFT Level 0"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔輝の神王妃ヘラ」を1枚選び、手札に戻す。",
+            "【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+        ],
+        "attributes": [
+            "Balance",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_092.png"
+    },
+    {
+        "name": "ドラウンジョーカー",
+        "code": "PAD/S105-093",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your opponent’s Characters in Back Row, this card gains +2000 Power.",
+            "[S] – [Send one card from Hand to Waiting Room, send this card to bottom of Deck] Choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2000。",
+            "【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_093.png"
+    },
+    {
+        "name": "ダークレディ",
+        "code": "PAD/S105-094",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 3000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have a Climax with Pants Trigger Icon in your Climax Zone, this card in all Zones gains Pants Trigger Icon.",
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – When your Character Trigger Checks a Climax with Pants Trigger icon, choose one of your opponent’s Characters in Front Row, during this turn, this card gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたのクライマックス置場にトリガーアイコンがのクライマックスがあるなら、すべての領域にあるこのカードはトリガーアイコンにを得る。",
+            "【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+        ],
+        "attributes": [
+            "Devil",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_094.png"
+    },
+    {
+        "name": "超転生ヌト",
+        "code": "PAD/S105-095",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Level 3 or higher Characters in front of this card gains +2000 Power.",
+            "[A] – When your Character Trigger Checks a Climax, look at up to two cards from the top of your Deck, place them on top of Deck in any order, choose one of your Characters, during this turn, it gains +1 Soul."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+        ],
+        "attributes": [
+            "God",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_095.png"
+    },
+    {
+        "name": "海王神・ネプチューン",
+        "code": "PAD/S105-096",
+        "rarity": "C",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have four or more Blue or《God》Characters, this card gets -1 Level in your Hand.",
+            "[A] – During your turn, when your opponent plays an Event or BACKUP, if this card is in Front Row, send the top card of opponent’s Stock to Waiting Room.",
+            "[A] – When this card is placed on Stage from Hand, until end of opponent’s next turn, this card gains +4500 Power and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, during that turn your opponent cannot use ENCORE."
+        ],
+        "jpAbility": [
+            "【永】 あなたの、青か《神》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 あなたのターン中、相手がイベントか『助太刀』を使った時、前列にこのカードがいるなら、相手は自分のストックの上から1枚を、控え室に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。』（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+        ],
+        "attributes": [
+            "God",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_096.png"
+    },
+    {
+        "name": "魔輝の神王妃ヘラ",
+        "code": "PAD/S105-097",
+        "rarity": "U",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Send this card to Memory.",
+            "Reveal the top card of your Deck. If that card is a Blue Character or Event, add it to Hand. (If not return card to its original position)",
+            "[A] – RECOLLECTION [(2) Send two of your other [魔輝の神王妃・ヘラ] in your Memory and this card to Waiting Room] If this card is in Memory, at the beginning of your Encore Step, you may pay the cost. If you did, deal two damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "このカードを思い出にする。",
+            "あなたは自分の山札の上から1枚を公開する。そのカードが青のキャラかイベントなら手札に加える。（そうでないなら元に戻す）",
+            "【自】 記憶 ［(2) 他のあなたの思い出置場の「魔輝の神王妃ヘラ」を2枚とこのカードを控え室に置く］ 思い出置場にこのカードがあるなら、あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_097.png"
+    },
+    {
+        "name": "波際の管龍楽士・マリエル",
+        "code": "PAD/S105-098",
+        "rarity": "CR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_098.png"
+    },
+    {
+        "name": "剛剣の蒼戦帝・ロイヤルオーク",
+        "code": "PAD/S105-099",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_099.png"
+    },
+    {
+        "name": "千手龍・センキョウ",
+        "code": "PAD/S105-100",
+        "rarity": "CC",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_100.png"
+    },
+    {
+        "name": "御慶の鍵勇者・フェルル",
+        "code": "PAD/S105-101",
+        "rarity": "PR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – This card cannot Side Attack.",
+            "[A] – During this card’s battle, if damage dealt to you is not canceled, during this turn, this card gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
+        ],
+        "attributes": [
+            "Physical",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_101.png"
+    },
+    {
+        "name": "バレンタインの夜女神・ノクタリア",
+        "code": "PAD/S105-102",
+        "rarity": "PR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to Memory."
+        ],
+        "jpAbility": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
+        ],
+        "attributes": [
+            "God",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_102.png"
+    },
+    {
+        "name": "連理の緋龍喚士・ツバキ",
+        "code": "PAD/S105-103",
+        "rarity": "PR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one Character from Hand to Waiting Room] When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_103.png"
+    },
+    {
+        "name": "輝虹の花嫁・エスカマリ",
+        "code": "PAD/S105-104",
+        "rarity": "PR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or less Climaxes in Waiting Room, this card gets -1 Level in your Hand.",
+            "[A] – When this card is placed on Stage from Hand, look at up to Xcards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room. X is the number of opponent’s Characters.",
+            "[A] – When this card is placed on Stage from Hand, until end of opponent’s next turn, this card gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
+        ],
+        "attributes": [
+            "Machine",
+            "God"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_104.png"
+    },
+    {
+        "name": "洋館の大魔女・ネレ",
+        "code": "PAD/S105-105",
+        "rarity": "PR",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +5000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。"
+        ],
+        "attributes": [
+            "Balance",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_105.png"
+    },
+    {
+        "name": "聖夜の贈り物・たまドラ",
+        "code": "PAD/S105-T01",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +2500 Power."
+        ],
+        "jpAbility": [
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "Dragon",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t01.png"
+    },
+    {
+        "name": "遊刻の時龍契士・ミル",
+        "code": "PAD/S105-T02",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this attack, perform Trigger Check twice during Trigger Step. If you triggered twice, send the top card of your Stock to Waiting Room.",
+            "[A] – At the beginning of opponent’s Attack Phase, you may move this card to an empty slot in your Front Row."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。2回行ったら、あなたは自分のストックの上から1枚を、控え室に置く。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Machine"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t02.png"
+    },
+    {
+        "name": "灼雲の月龍喚士サツキ",
+        "code": "PAD/S105-T03",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top three cards of your Deck to Waiting Room.",
+            "[A] – When this card attacks, choose one of your other Characters, during this turn, that Character gains +X Power. X is that Character’s Soul x1000."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+            "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t03.png"
+    },
+    {
+        "name": "戦乙女・プリンセスヴァルキリー",
+        "code": "PAD/S105-T04",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +4000 Power.",
+            "[A] – This effect activates up to once per turn. When this card is REVERSE in battle, reveal the top card of your Deck. If that card is Level 2 or higher, you may REST this card. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋4000。",
+            "【自】 この能力は1ターンにつき1回まで発動する。バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを【レスト】してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Recovery",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t04.png"
+    },
+    {
+        "name": "星翔の大魔女・ファスカ",
+        "code": "PAD/S105-T05",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – This card cannot Side Attack.",
+            "[A] – CX COMBO When this card’s battle opponent is REVERSE, if you have [零次元の創造主・ビッグバン] in your Climax Zone, look at up to four cards from the top of your Deck, choose up to two Level 1 or higher cards among them, reveal them to your opponent, choose one, add it to Hand, choose one, send it to Stock, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【永】 このカードはサイドアタックできない。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「零次元の創造主・ビッグバン」があるなら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを2枚まで選んで相手に見せ、1枚選び、手札に加え、1枚選び、ストック置場に置き、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Devil",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t05.png"
+    },
+    {
+        "name": "古城の幻想・龍喚士ソニア＝グラン",
+        "code": "PAD/S105-T06",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, if you have three or more Characters, you may send the top card of your Deck to Stock.",
+            "[S] – COUNTER 2000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t06.png"
+    },
+    {
+        "name": "聖典の管理者・メタトロン",
+        "code": "PAD/S105-T07",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your opponent’s Characters in Back Row, this card gains +2500 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, choose one of your Characters during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "God",
+            "Recovery"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t07.png"
+    },
+    {
+        "name": "万天の全能神・ゼウス＝ヴァース",
+        "code": "PAD/S105-T08",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – [(1) Send two cards from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, send the bottom three cards of opponent Deck to Waiting Room, deal X damage to your opponent. X is the number of Level 0 or lower cards among them. (Climax is considered Level 0. Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】［(1) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から3枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのレベル0以下のカードの枚数に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "God",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t08.png"
+    },
+    {
+        "name": "響想のボーカリスト・イデアル",
+        "code": "PAD/S105-T09",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you have one or less Characters, you cannot play this card from Hand.",
+            "If you have two or more Climaxes in your Waiting Room, choose one Level X or lower Character in your Waiting Room, add it to Hand. X is the number of [星翔の大魔女・ファスカ] in your Waiting Room."
+        ],
+        "jpAbility": [
+            "このカードは、あなたのキャラが1枚以下なら、手札からプレイできない。",
+            "あなたの控え室のクライマックスが2枚以上なら、あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「星翔の大魔女・ファスカ」の枚数に等しい。"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t09.png"
+    },
+    {
+        "name": "零次元の創造主・ビッグバン",
+        "code": "PAD/S105-T10",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t10.png"
+    },
+    {
+        "name": "烈空の紅龍喚士・ソニア",
+        "code": "PAD/S105-T11",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other [メテオボルケーノドラゴン] gains +2000 Power and the following effect:",
+            "-[A] – During opponent’s turn, if this card is REVERSE, if this card’s battle opponent is Level 1 or lower, you may REVERSE that Character.",
+            "[A] – BOND / [メテオボルケーノドラゴン]"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの「メテオボルケーノドラゴン」すべてに、パワーを＋2000し、次の能力を与える。『【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』",
+            "【自】 絆／「メテオボルケーノドラゴン」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「メテオボルケーノドラゴン」を1枚選び、手札に戻す）"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t11.png"
+    },
+    {
+        "name": "淡雪の白虎・ハク",
+        "code": "PAD/S105-T12",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When your Character Trigger Checks a Climax, choose one of your Characters, during this turn, it gains +1000 Power.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top five cards of your Deck, send them to Waiting Room. For each Climax among those cards, draw up to one card."
+        ],
+        "jpAbility": [
+            "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+        ],
+        "attributes": [
+            "God",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t12.png"
+    },
+    {
+        "name": "親愛の癒し手・アリナ",
+        "code": "PAD/S105-T13",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – The Character across from this card gains [A] – ENCORE [(2)].",
+            "[A] – [(1) Send the top card of your Deck to Clock] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。",
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Recovery",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t13.png"
+    },
+    {
+        "name": "親愛の武闘家・ディーナ",
+        "code": "PAD/S105-T14",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +4500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500。"
+        ],
+        "attributes": [
+            "Attack",
+            "Dragon"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t14.png"
+    },
+    {
+        "name": "メテオボルケーノドラゴン",
+        "code": "PAD/S105-T15",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [],
+        "jpAbility": [
+            "－"
+        ],
+        "attributes": [
+            "Dragon",
+            ""
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t15.png"
+    },
+    {
+        "name": "灼魔鍵の勇者・グレオン",
+        "code": "PAD/S105-T16",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +6000 Power.",
+            "[A] – ENCORE [Send one Character from Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋6000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Attack",
+            "Physical"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t16.png"
+    },
+    {
+        "name": "友愛の灰幻魔・イルミナ",
+        "code": "PAD/S105-T17",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[S] – [(2) REST this card] Choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Devil",
+            "Attack"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t17.png"
+    },
+    {
+        "name": "嬉戯の鬼龍契士・スオウ",
+        "code": "PAD/S105-T18",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your opponent’s Characters x1500.",
+            "[A] – [(1)] When this card’s Level 2 or higher battle opponent is REVERSE, you may pay the cost. If you did, choose one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1500に等しい。",
+            "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Dragon",
+            "Devil"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t18.png"
+    },
+    {
+        "name": "聖門の大魔女・サレーネ",
+        "code": "PAD/S105-T19",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose up to one Character whose Level is less than or equal to your Level, place it on Stage in any slot, during this turn, that Character gains +2000 Power.",
+            "[A] – CX COMBO [(2)] When this card’s battle opponent is REVERSE, if you have [東雲の霊央神・カミムスビ] In your Climax Zone, you may pay the cost. If you did, deal two damage to your opponent, place that Character on top of Deck. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】［(2)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「東雲の霊央神・カミムスビ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたはそのキャラを山札の上に置く。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Devil",
+            "Balance"
+        ],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t19.png"
+    },
+    {
+        "name": "東雲の霊央神・カミムスビ",
+        "code": "PAD/S105-T20",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t20.png"
+    },
+    {
+        "name": "溌溂なドラマー・ヴァレリア",
+        "code": "PAD/S105-T21",
+        "rarity": "TD",
+        "expansion": "Puzzle And Dragon",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +2 Soul."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
+        "attributes": [],
+        "set": "PAD",
+        "release": "105",
+        "sid": "T21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t21.png"
+    }
+]
