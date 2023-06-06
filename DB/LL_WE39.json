@@ -176,5 +176,1628 @@
         "release": "E39",
         "sid": "049",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_049.png"
-    }
+    },
+    {
+        "name": "結ばれているかもね 東條 希",
+        "code": "LL/WE39-013",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, look up to the top 6 cards of your Deck, choose 3 cards, place them into Waiting Room. Place the remaining cards on top of the Deck in any order.",
+          "【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《音楽》 Character, all your other Characters, during that turn, get +1 Soul."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。",
+		      "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、他のあなたのキャラすべてに、そのターン中、ソウルを＋1。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_013.png"
+    },
+    {
+        "name": "“会場案内の極意”絢瀬 絵里",
+        "code": "LL/WE39-016",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, you may place the top card of your opponent's Stock into Waiting Room. If you did, choose 1 card from your opponent's Waiting Room, place it into Stock.",
+          "【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action. 『Choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.』"
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。",
+		      "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_016.png"
+    },
+    {
+        "name": "“花の女神”東條 希",
+        "code": "LL/WE39-017",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+          "【A】 ［Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look up to the top 4 cards of your Deck, choose up to 1 Green Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "jpAbility": [
+          "【永】 このカードと同じカード名のカードと、「“Angelic Angel”東條 希」は、デッキに合計4枚まで入れることができる。",
+		      "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、緑のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_017.png"
+    },
+    {
+        "name": "ホワイト・スワン 絢瀬 絵里",
+        "code": "LL/WE39-018",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 If you have 3 or more other 《音楽》 Characters, this card gets +1000 Power.",
+          "【A】 ［①］ When this card is placed on Stage from Hand or through 『CHANGE』, you may pay the cost. If you did, place all of your opponent's Stock into Waiting Room, your opponent places the same amount of cards into Stock from his/her top Deck."
+        ],
+        "jpAbility": [
+		      "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		      "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_018.png"
+    },
+    {
+        "name": "みんなを虜にしちゃうにこ♪ 矢澤 にこ",
+        "code": "LL/WE39-019",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.",
+          "【A】［①］ When this card attacks, if 「僕たちはひとつの光」 is in the Climax Slot, you may pay the cost. If you did, during that turn, this card gets +2000 Power, gain the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place that Character into Clock.』"
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  		    "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「僕たちはひとつの光」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_019.png"
+    },
+    {
+        "name": "“花よりたおやかに♪”矢澤 にこ",
+        "code": "LL/WE39-020",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【C】The Character facing this card gets -1 Soul.",
+            "【A】［② Place 1 card from Hand into Waiting Room］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, place that Character into Clock."
+        ],
+        "jpAbility": [
+		      "【永】 このカードの正面のキャラのソウルを－1。",
+		      "【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_020.png"
+    },
+    {
+        "name": "月夜の祈り 園田 海未",
+        "code": "LL/WE39-022",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】When this card is placed on Stage from Hand, choose 1 of your 《音楽》 Character, during this turn, it gets +1500 Power.",
+          "【A】[(1) Place the top card of your Deck into Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room to Deck, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		      "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_022.png"
+    },
+    {
+        "name": "“司会進行の妙技”高坂 穂乃果",
+        "code": "LL/WE39-024",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】［Return 2 Characters from your Waiting Room into Deck, shuffle your Deck afterwards］ When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power.",
+          "【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+          "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+		      "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_024.png"
+    },
+    {
+        "name": "みんなには内緒だよ 南 ことり",
+        "code": "LL/WE39-025",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【CONT】 Your other 《Music》 character in the middle position of the center stage gets +500 power.",
+          "【ACT】 Brainstorm [(1) 【Rest】 this card] Flip over four cards from the top of your deck, and put them into your waiting room. For each climax revealed among those cards, choose up to one character in your waiting room, and return it to your hand."
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの前列の中央の枠の《音楽》のキャラに、パワーを＋500。",
+		      "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_025.png"
+    },
+    {
+        "name": "行先はヒミツだよ！ 高坂 穂乃果",
+        "code": "LL/WE39-031",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【CONT】 If the number of other 《Music》 characters you have is two or more, this card gets +2000 power.",
+          "【AUTO】 When this card is placed on the stage from your hand, look at the top card of your deck, and put it on the top of your deck or into your waiting room."
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		      "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_031.png"
+    },
+    {
+        "name": "“道案内もお手のもの”園田 海未",
+        "code": "LL/WE39-037",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 ［Place the top card of your Deck into Clock］ When you use this card's 『ASSIST』, if you have 《音楽》 Character, you may pay the cost. If you did, return all card from your Waiting Room into the Deck shuffle your Deck afterwards.",
+          "【S】● ASSIST 2500 Level 2［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +2500 Power)"
+        ],
+        "jpAbility": [
+          "【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+  		    "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_037.png"
+    },
+    {
+        "name": "“かわいさ満開♪”南 ことり",
+        "code": "LL/WE39-038",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during that turn, this card gets +6000 Power.",
+          "【A】［①］ When this card attacks, if 「僕たちはひとつの光」 is in the Climax Slot, you may pay the cost. If you did, deal 1 damage to your opponent. (Damage can be cancelled)"
+        ],
+        "jpAbility": [
+          "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		      "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「僕たちはひとつの光」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_038.png"
+    },
+    {
+        "name": "“花照らす陽光”星空 凛",
+        "code": "LL/WE39-045",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 This ability can only be activated once each turn. When you use 【S】, choose 1 of your character, during that turn, it gets +500 Power.",
+          "【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《音楽》 Character and show it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+          "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+		      "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_045.png"
+    },
+    {
+        "name": "紅の魅力 西木野 真姫",
+        "code": "LL/WE39-048",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 ［Place 1 card into Waiting Room from Hand］ When this card is placed on Stage from Hand, you may pay the cost. If you did, look up to the top 4 cards of your Deck, choose up to 1 Blue Character and show it to your opponent, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "jpAbility": [
+          "【永】 このカードと同じカード名のカードと、「“夏祭りデート”西木野 真姫」は、デッキに合計4枚まで入れることができる。",
+		      "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、青のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_048.png"
+    },
+    {
+        "name": "“心に春咲き”小泉 花陽",
+        "code": "LL/WE39-050",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 SUPPORT All your 《音楽》 Characters in front of this card get +1 Level and +500 Power.",
+          "【A】 When this card is placed on Stage from Hand, choose 1 of your Character with 「花陽」 in its name, during that turn, it gets +1500 Power."
+        ],
+        "jpAbility": [
+          "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+		      "【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「花陽」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_050.png"
+    },
+    {
+        "name": "“つぼみ開き、大輪の花”西木野 真姫",
+        "code": "LL/WE39-055",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card's battle opponent becomes REVERSE, if 「僕たちはひとつの光」 is in your Climax Slot, look up to 4 card from the top of your Deck, choose up to 1 《音楽》 Character and show it to your opponent, place the remaining cards into Waiting Room, choose 1 of your Character, until the end of your opponent's next turn, it gets +1000 Power.",
+          "【S】[REST 1 of your 《音楽》 Character] This card gets +1000 power until end of turn."
+        ],
+        "jpAbility": [
+          "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「僕たちはひとつの光」があるなら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+          "【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_055.png"
+    },
+    {
+        "name": "ここは私の夢の世界 小泉 花陽",
+        "code": "LL/WE39-059",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 If your opponent have a Level 3 or higher Character, this card gets -1 Level in your Hand.",
+          "【C】 If you have 3 or more 《音楽》 Characters, this card gets +1000 Power.",
+          "【A】 At the beginning of your opponent's Draw Phase, if this card is in the Front Row, choose 1 of your Character, during that turn, it gets +4000 Power."
+        ],
+        "jpAbility": [
+          "【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		      "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		      "【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_059.png"
+    },
+    {
+        "name": "にくきゅうタッチ♪ 星空 凛",
+        "code": "LL/WE39-060",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 ［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to 2 cards from your opponent's Waiting Room, return all cards from your opponent's Waiting Room to the Deck aside from those cards, he/she shuffles the Deck afterwards.",
+          "【A】 ［①］ When this card attacks, if 「元気いっぱいガッツポーズ」 is in the Climax Slot, you may pay the cost. If you did, search your Deck for up to 2 《音楽》 Characters and show them to your opponent, add them to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+          "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、相手はそれらのカード以外の自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		      "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「元気いっぱいガッツポーズ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LL",
+        "release": "E39",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_060.png"
+    },
+    {
+        "name": "独り占めしちゃいます？ 中須 かすみ",
+        "code": "LNJ/WE39-001",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Music》Character add it to Hand, choose one card in your Hand, send it to Waiting Room. (If not return revealed card to its original position)",
+          "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may send that Character to Stock. If you did, send the bottom card of your opponent’s Stock to Waiting Room."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+          "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_001.png"
+    },
+    {
+        "name": "“かすみんが主役です”中須 かすみ",
+        "code": "LNJ/WE39-002",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[C] – If you have three or more Characters with “Kasumi” in their card name, this card in your Hand gets the same name of all of your Characters with “Kasumi” in their card name on Stage.",
+          "[S] – [(1) Send this card to Waiting Room] Look at up to four cards from the top of your Deck, choose up to one Character with “Kasumi” in their card name, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+          "【永】 あなたのカード名に「かすみ」を含むキャラが3枚以上なら、あなたの手札のこのカードのカード名はあなたの舞台にいるカード名に「かすみ」を含むキャラすべてと同じカード名としても扱う。",
+		      "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、カード名に「かすみ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_002.png"
+    },
+    {
+        "name": "遠くまで届きますように 桜坂 しずく",
+        "code": "LNJ/WE39-003",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed onto stage, if your opponent has 1 or less characters in their front row, you can choose 1 cost 0 character in your front row and place it on the bottom of their deck.",
+          "【A】 At the beginning of the opponent's draw phase, reveal the top card of your deck. If the card revealed is level 1 or higher, you may return this card to your hand. (Climaxes are regarded as level 0. The revealed card stays on top of the deck.)"
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。",
+		      "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_003.png"
+    },
+    {
+        "name": "“誕生日のヒロイン”桜坂 しずく",
+        "code": "LNJ/WE39-006",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[C] – All of your opponent’s Characters gain [A] – ENCORE [(2)].",
+          "[A] – At the beginning of your opponent’s Attack Phase, you may choose one of your opponent’s Characters in Front Row, move it to an empty slot in Front Row."
+        ],
+        "jpAbility": [
+          "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+		      "【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_006.png"
+    },
+    {
+        "name": "笑顔っていいね 天王寺 璃奈",
+        "code": "LNJ/WE39-008",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – [(1)] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one Level 0 or lower《Music》Character, place it on Stage in any slot, shuffle your Deck afterwards, at the end of turn, send that Character to Memory."
+        ],
+        "jpAbility": [
+          "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル0以下の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルし、ターンの終わりに、そのキャラを思い出にする。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_008.png"
+    },
+    {
+        "name": "“ハッピーな誕生日”天王寺 璃奈",
+        "code": "LNJ/WE39-010",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "Yellow",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – When you use this card’s BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
+          "-[A] – When this card’s battle opponent is REVERSE, send that Character to Memory.",
+          "[S] – COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+          "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+		      "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_010.png"
+    },
+    {
+        "name": "“ハンパない誕生日”宮下 愛",
+        "code": "LNJ/WE39-021",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[C] – All of your other [伝えたい想い 天王寺 璃奈] gains +1500 Power and the following effect:",
+          "-[C] – This card cannot be chosen by your opponent’s effects.",
+          "[A] – [Send one《Music》Character from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one [繋がるメロディー 天王寺 璃奈], reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの「伝えたい想い 天王寺 璃奈」すべてに、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+		      "【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「繋がるメロディー 天王寺 璃奈」か「伝えたい想い 天王寺 璃奈」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_021.png"
+    },
+    {
+        "name": "愛さんと遊ぶ準備、できてる？ 宮下 愛",
+        "code": "LNJ/WE39-028",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+          "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_028.png"
+    },
+    {
+        "name": "ずっと、一緒だよ 上原 歩夢",
+        "code": "LNJ/WE39-030",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – [(1) Send one《Music》Character from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one Yellow Character, up to one Red Character, and up to one Blue Character among them, reveal them to your opponent, add them to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+          "【自】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、黄のキャラを1枚までと赤のキャラを1枚までと青のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_030.png"
+    },
+    {
+        "name": "一緒にお祝いを”上原 歩夢",
+        "code": "LNJ/WE39-032",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】EXPERIENCE During your turn, If the total Level in your Level Slot is 1 or higher, this card gets +2500 Power, gains the following Ability. 『【A】When this card attacks, if the Character facing this card is 2 or higher, during this turn, this card gets +6000 Power.』"
+        ],
+        "jpAbility": [
+          "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_032.png"
+    },
+    {
+        "name": "森の加護を与えましょう 優木 せつ菜",
+        "code": "LNJ/WE39-033",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – ACCELERATE [Send one《Music》Character in your Waiting Room to bottom of Clock] At the beginning of your Climax Phase, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one《Music》Character among them, reveal it to your opponent, add it to Hand."
+        ],
+        "jpAbility": [
+          "【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_033.png"
+    },
+    {
+        "name": "“大好きを集めて”優木 せつ菜",
+        "code": "LNJ/WE39-034",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to Memory."
+        ],
+        "jpAbility": [
+          "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_034.png"
+    },
+    {
+        "name": "君に届きますように 朝香 果林",
+        "code": "LNJ/WE39-041",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – When this card is placed on Stage from Hand, you may choose one card in your Clock, add it to Hand. If you did, choose one card in your Hand, send it to Clock.",
+          "[A] – [(1) Send one《Music》Character from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to five cards from the top of your Deck, choose up to one《Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+  		    "【自】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+  	    ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_041.png"
+    },
+    {
+        "name": "シャッキーン！ 近江 彼方",
+        "code": "LNJ/WE39-042",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – [(2) Send two《Music》Characters from Hand to Waiting Room, send one [お気に入りの枕] as a Marker underneath this card to Waiting Room] At the beginning of your Attack Phase, you may pay the cost. If you did, choose one of your other《Music》Characters, STAND it.",
+          "[S] – [REST this card] If this card does not have a Marker underneath it, choose one《Music》Character or [お気に入りの枕] in your Waiting Room, place it underneath this card as a face down as a Marker.",
+          "[S] – [(1) REST this card] Add one Marker underneath this card to Hand."
+        ],
+        "jpAbility": [
+          "【自】［(2) 手札の《音楽》のキャラを2枚控え室に置き、このカードのマーカーの「お気に入りの枕」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《音楽》のキャラを1枚選び、【スタンド】する。",
+		      "【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の、《音楽》のキャラか「お気に入りの枕」を1枚選び、このカードの下にマーカーとして表向きに置く。",
+		      "【起】［(1) このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚手札に戻す。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_042.png"
+    },
+    {
+        "name": "“モルト・グラッツェ”エマ・ヴェルデ",
+        "code": "LNJ/WE39-047",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[C] – All of your other《Music》Characters, gain +500 Power.",
+          "[A] – [Send one card from Hand to Waiting Room] When your Character Trigger Checks a Climax with Pants as its Trigger Icon, you may pay the cost. If you did, choose one card in your Clock, add it to Hand, send the top card of your Deck to Clock."
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+		      "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_047.png"
+    },
+    {
+        "name": "“誕生日も情熱的に”朝香 果林",
+        "code": "LNJ/WE39-052",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[A] – [(4) Send one Event from Hand to Waiting Room] When you use this card’s BACKUP, you may pay the cost. If you did, choose one of your opponent’s Characters, REST it.",
+          "[S] – COUNTER 1000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+          "【自】［(4) 手札のイベントを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。",
+		      "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_052.png"
+    },
+    {
+        "name": "エマと癒しの時間 エマ・ヴェルデ",
+        "code": "LNJ/WE39-054",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[C] – For each of your other《Music》Characters, this card gains +500 Power.",
+          "[A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power."
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		      "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_054.png"
+    },
+    {
+        "name": "“夢のお誕生日”近江 彼方",
+        "code": "LNJ/WE39-057",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "[C] – If you have no other《Music》Characters, this card cannot STAND during Stand Phase.",
+          "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your《Music》Characters x500."
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの《音楽》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  		    "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+  	    ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LNJ",
+        "release": "E39",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_057.png"
+    },
+    {
+        "name": "“知識は卵を助く”国木田 花丸",
+        "code": "LSS/WE39-004",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When a Climax appears during your Character's Trigger Check, choose 1 of your Characters, during this turn, it gets +2000 Power.",
+            "【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Yellow Character from your Waiting Room, return it to Hand."
+        ],
+        "jpAbility": [
+          "【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		      "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の黄のキャラを1枚まで選び、手札に戻す。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_004.png"
+    },
+    {
+        "name": "堕天使の雨 津島 善子",
+        "code": "LSS/WE39-005",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +500 Power.",
+          "【A】 At the beginning of your opponent's Attack Phase, you may place the top card of your Deck into Waiting Room. If that card is a 《音楽》 Character, you may move this card into another empty slot in the Front Row."
+        ],
+        "jpAbility": [
+          "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  		    "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《音楽》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+  	    ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_005.png"
+    },
+    {
+        "name": "願いが届くといいな♪ 国木田 花丸",
+        "code": "LSS/WE39-007",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 During this turn, all your other 《音楽》 Characters get +1000 Power.",
+          "【S】［② REST this card］ Look at up to 2 cards from the top of your Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room."
+        ],
+        "jpAbility": [
+          "【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+		      "【起】［(2) このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_007.png"
+    },
+    {
+        "name": "“ルビィのお墨付き”黒澤 ルビィ",
+        "code": "LSS/WE39-009",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When you used this card's 『ASSIST』, place X cards from the top of your opponent's Deck into Waiting Room. If X is equals to the number of your 《音楽》 Characters.",
+          "【S】● ASSIST 3000 Level 2 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +3000 Power)"
+        ],
+        "jpAbility": [
+          "【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の上からＸ枚を、控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+		      "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_009.png"
+    },
+    {
+        "name": "あなたのひざまくらがいいなぁ 黒澤 ルビィ",
+        "code": "LSS/WE39-012",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】For each of your other 《音楽》 Character, this card gets +1000 Power.",
+          "【A】ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this Cost. If you do, place this card in its previous slot in REST)"
+        ],
+        "jpAbility": [
+          "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		      "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_012.png"
+    },
+    {
+        "name": "“眷属を創造せし力”津島 善子",
+        "code": "LSS/WE39-014",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】【CXCOMBO】 When 「MIRAI TICKET」 is placed into your Climax slot, during this turn, this card gets +2000 Power, gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place the top card of your Clock into Waiting Room.』",
+          "【A】 This ability can only be activated up to 1 time each turn. During the turn in which this card is placed on Stage from Hand, when the Damage dealt by this card is cancelled, place the top card of your Deck into Waiting Room, deal X Damage to your opponent. X is equals to that card's Level+1. (Climax is considered Level 0. Damage can be cancelled)"
+        ],
+        "jpAbility": [
+          "【自】【CXコンボ】 あなたのクライマックス置場に「MIRAI TICKET」が置かれた時、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』",
+		      "【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_014.png"
+    },
+    {
+        "name": "全速前進っ!! 渡辺 曜",
+        "code": "LSS/WE39-026",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】[(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards from your Waiting Room to Deck, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+          "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_026.png"
+    },
+    {
+        "name": "“ぴよぴよメロディ♪”桜内 梨子",
+        "code": "LSS/WE39-029",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, choose 1 of your 《音楽》 or 《動物》 Character, during this turn, it gets ＋1500 Power.",
+          "【A】 When this card becomes REVERSE, if this card's battle opponent's Level is 1 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《音楽》か《動物》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+          "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_029.png"
+    },
+    {
+        "name": "あなたのハートを狙い撃ち♪ 高海 千歌",
+        "code": "LSS/WE39-035",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 If the Character facing this card is Cost 0 or lower, this card gets +1 Level, +3500 Power."
+        ],
+        "jpAbility": [
+          "【永】 このカードの正面のキャラのコストが0以下なら、このカードのレベルを＋1し、パワーを＋3500。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_035.png"
+    },
+    {
+        "name": "“エネルギーをわけよう”渡辺 曜",
+        "code": "LSS/WE39-036",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 If the Character facing this card is Cost 0 or lower, this card cannot be REVERSED."
+        ],
+        "jpAbility": [
+          "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_036.png"
+    },
+    {
+        "name": "“生きてるんだ！”高海 千歌",
+        "code": "LSS/WE39-039",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Character with Level 0 or lower, place it into Stock.(If not, return revealed card to its original position)",
+          "【A】 When this card attacks, if the Character facing this card is Level 3 or higher, during this turn, this card gets +6000 Power."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）",
+		      "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_039.png"
+    },
+    {
+        "name": "Waiting for You 桜内 梨子",
+        "code": "LSS/WE39-040",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equals to the number of your 《音楽》 Characters x500.",
+          "【A】［REST 1 of your Characters in STAND］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, choose 1 Climax from your opponent's Waiting Room, return all cards from that Waiting Room other than that card into the Deck, shuffle the Deck afterwards.",
+          "【S】［Place 1 card from Hand into Waiting Room］ Choose 1 of your 《音楽》 Characters, during this turn, it gets +2500 Power."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+		      "【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		      "【起】［手札を1枚控え室に置く］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_040.png"
+    },
+    {
+        "name": "“思いを新たに”黒澤 ダイヤ",
+        "code": "LSS/WE39-044",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. (If not, return revealed card to its original position)",
+          "【A】［① Place the top card of your Deck into Clock］ When this card is placed into Waiting Room from Stage, you may pay the Cost. If you did, draw 1 card."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		      "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_044.png"
+    },
+    {
+        "name": "Shall We Dance? 小原 鞠莉",
+        "code": "LSS/WE39-046",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, if you have 2 or more other 《音楽》 Characters, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.",
+          "【A】［① Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the Cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to your opponent, add it to hand, shuffle the Deck afterwards."
+          ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+		      "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_046.png"
+    },
+    {
+        "name": "二人だけの秘密ね 松浦 果南",
+        "code": "LSS/WE39-051",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When you used this card's 『ASSIST』, if you have 《音楽》 Characters, choose 1 of your Characters in battle, during this turn, it gets +1000 Power.",
+          "【S】● ASSIST 1000 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during that turn, it gets +1500 Power)"
+        ],
+        "jpAbility": [
+          "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		      "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_051.png"
+    },
+    {
+        "name": "“おしゃべりしましょう”小原 鞠莉",
+        "code": "LSS/WE39-053",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck.",
+          "【A】 When this card attacks, during this turn, this card gets +X Power. X is equals to the number of your other 《音楽》 Characters x1000.",
+          "【A】 When this card becomes REVERSE in battle, reveal the top card of your Deck. If that card is Level 2 or higher, you may return this card to Hand. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+		      "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
+		      "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_053.png"
+    },
+    {
+        "name": "ルージュにくちづけ 黒澤 ダイヤ",
+        "code": "LSS/WE39-056",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【A】 When this card is placed on Stage from Hand, if you have other 《音楽》 Character, during this turn, this card gets ＋2000 Power.",
+          "【A】［① Put 1 of your STANDING Character to REST］ During the turn when this card is placed on Stage from Hand, when this card's battle opponent becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character and show it to opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+          "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		      "【自】［(1) 他のあなたの【スタンド】している《音楽》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_056.png"
+    },
+    {
+        "name": "“春の潮風”松浦 果南",
+        "code": "LSS/WE39-058",
+        "rarity": "N",
+        "expansion": "Love Live! Sukufesu 10th Anniversary",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+          "【C】 SUPPORT All your Characters in front of this card with Level 3 or higher gets +2000 Power.",
+          "【S】［REST 2 of your 《音楽》 Characters］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room."
+        ],
+        "jpAbility": [
+          "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		      "【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	      ],
+        "attributes": [
+            "Music"
+        ],
+        "set": "LSS",
+        "release": "E39",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_058.png"
+    },
 ]
