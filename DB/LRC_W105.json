@@ -7,10 +7,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's front row characters, this turn, it gets -1000 power.",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -19,10 +25,6 @@
         "release": "W105",
         "sid": "001",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_001.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's front row characters, this turn, it gets -1000 power.",
-            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
             "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
@@ -36,10 +38,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area,  look at up to 2 cards from the top of your opponent's deck, and put them back on top in any order.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -48,10 +56,6 @@
         "release": "W105",
         "sid": "002",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_002.png",
-        "ability": [
-            "AUTO - When a Climax is placed in your Climax Area,  look at up to 2 cards from the top of your opponent's deck, and put them back on top in any order.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
             "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚まで選び、手札に戻す。"
@@ -65,12 +69,19 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <LycoReco> or <Weapon> characters, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} (2) At the end of this card's attack, if you have the Choice CX (029) in your Climax Area, and you have 2 or more other <LycoReco> or <Weapon> characters, you may pay cost. If you do, until the end of your opponent's next turn, this gets +2000 power and the following ability, \"CONT - The character across from this gets -3 Soul.\""
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -79,11 +90,6 @@
         "release": "W105",
         "sid": "003",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_003.png",
-        "ability": [
-            "CONT - If you have 2 or more other <LycoReco> or <Weapon> characters, this gets +3000 power.",
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - {CX Combo} (2) At the end of this card's attack, if you have the Choice CX (029) in your Climax Area, and you have 2 or more other <LycoReco> or <Weapon> characters, you may pay cost. If you do, until the end of your opponent's next turn, this gets +2000 power and the following ability, \"CONT - The character across from this gets -3 Soul.\""
-        ],
         "jpAbility": [
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、このカードのパワーを＋3000。",
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
@@ -98,10 +104,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this card becomes reversed, if this card's battle opponent is level 0 or lower, you may put that character to stock, if you do, put the bottom card of your opponent's stock into the waiting room.",
+            "AUTO - [Send this card to Clock] When this card is reversed in battle, you may pay the cost. If you do, reveal the top card of your Deck. If that card is a {LycoReco} or {Weapon} Character or [1/0 Yellow Event - 028], add it to your Hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -110,10 +122,6 @@
         "release": "W105",
         "sid": "004",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_004.png",
-        "ability": [
-            "AUTO - When this card becomes reversed, if this card's battle opponent is level 0 or lower, you may put that character to stock, if you do, put the bottom card of your opponent's stock into the waiting room.",
-            "AUTO - [Send this card to Clock] When this card is reversed in battle, you may pay the cost. If you do, reveal the top card of your Deck. If that card is a {LycoReco} or {Weapon} Character or [1/0 Yellow Event - 028], add it to your Hand."
-        ],
         "jpAbility": [
             "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
             "【自】［このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《リコリコ》か《武器》のキャラか「話題沸騰の新メニュー」なら手札に加える。（そうでないなら元に戻す）"
@@ -127,10 +135,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 <LycoReco> or <Weapon> character] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card.",
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -139,10 +153,6 @@
         "release": "W105",
         "sid": "005",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_005.png",
-        "ability": [
-            "AUTO - [Discard 1 <LycoReco> or <Weapon> character] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card.",
-            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【自】［手札の、《リコリコ》か《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
             "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻す。"
@@ -156,10 +166,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +3000 power.",
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -168,10 +184,6 @@
         "release": "W105",
         "sid": "006",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_006.png",
-        "ability": [
-            "CONT - During your turn, this gets +3000 power.",
-            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
-        ],
         "jpAbility": [
             "【永】 あなたのターン中、このカードのパワーを＋3000。",
             "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
@@ -185,12 +197,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, for each of your other <LycoReco> or <Weapon> characters, this gets +1000 power.",
+            "CONT - {CX Combo} EXPERIENCE - While you have the Choice CX (030) in your Climax Area, and this is in front row, and you have {Yellow RR 3/2 Chisato & Takina - 003} in your Level Zone, and you have another <LycoReco> or <Weapon> character, all of your other {RR 0/0 Mizuki - 001} and {RR 0/0 Kurumi - 002} and {1/0 Chisato - 006} and {0/0 U Mika - 015} in any area gains Choice Trigger. \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -199,10 +217,6 @@
         "release": "W105",
         "sid": "007",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_007.png",
-        "ability": [
-            "CONT - During your turn, for each of your other <LycoReco> or <Weapon> characters, this gets +1000 power.",
-            "CONT - {CX Combo} EXPERIENCE - While you have the Choice CX (030) in your Climax Area, and this is in front row, and you have {Yellow RR 3/2 Chisato & Takina - 003} in your Level Zone, and you have another <LycoReco> or <Weapon> character, all of your other {RR 0/0 Mizuki - 001} and {RR 0/0 Kurumi - 002} and {1/0 Chisato - 006} and {0/0 U Mika - 015} in any area gains Choice Trigger. \n"
-        ],
         "jpAbility": [
             "【永】 あなたのターン中、他のあなたの、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋1000。",
             "【永】【CXコンボ】 経験 あなたのクライマックス置場に「喫茶リコリコ経営の危機」があり、前列にこのカードがいて、あなたのレベル置場に「営業開始♪ 千束＆たきな」があり、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、他のあなたのすべての領域の、「酔いどれ？店員 ミズキ」と「ウォールナットの正体 クルミ」と「喫茶リコリコ 千束」と「喫茶リコリコ ミカ」のトリガーアイコンに[CHOICE]を与える。"
@@ -216,10 +230,17 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +500",
+            "AUTO - [Send this to Waiting Room] When your other <LycoReco> or <Weapon> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested",
+            "AUTO - [(1) Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 {2/1 Mizuki - 021} in your Waiting Room, place it on stage in any slot."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -228,11 +249,6 @@
         "release": "W105",
         "sid": "008",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_008.png",
-        "ability": [
-            "CONT - ASSIST +500",
-            "AUTO - [Send this to Waiting Room] When your other <LycoReco> or <Weapon> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested",
-            "AUTO - [(1) Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 {2/1 Mizuki - 021} in your Waiting Room, place it on stage in any slot."
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
             "【自】［このカードを控え室に置く］ 他のあなたの、《リコリコ》か《武器》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
@@ -247,12 +263,19 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {3/2 Chisato & Takina - 003} gets +500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
+            "CONT - ASSIST +1500 to <LycoReco> or <Weapon> characters.",
+            "ACT - [(3) Rest this] Choose up to 1 {3/2 Chisato & Takina - 003} in your hand, place it on stage in any slot."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -261,11 +284,6 @@
         "release": "W105",
         "sid": "009",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_009.png",
-        "ability": [
-            "CONT - All of your other {3/2 Chisato & Takina - 003} gets +500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
-            "CONT - ASSIST +1500 to <LycoReco> or <Weapon> characters.",
-            "ACT - [(3) Rest this] Choose up to 1 {3/2 Chisato & Takina - 003} in your hand, place it on stage in any slot."
-        ],
         "jpAbility": [
             "【永】 他のあなたの「営業開始♪ 千束＆たきな」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
             "【永】 応援 このカードの前のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋1500。",
@@ -280,12 +298,19 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 of less Climaxes in your waiting room, this gains -1 Level in hand.",
+            "CONT - If you have two or more other {LycoReco} or {Weapon} Characters, this gains +2000 power",
+            "CONT - During this cards attack, perform the trigger check twice during your trigger step."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -294,11 +319,6 @@
         "release": "W105",
         "sid": "010",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_010.png",
-        "ability": [
-            "CONT - If you have 2 of less Climaxes in your waiting room, this gains -1 Level in hand.",
-            "CONT - If you have two or more other {LycoReco} or {Weapon} Characters, this gains +2000 power",
-            "CONT - During this cards attack, perform the trigger check twice during your trigger step."
-        ],
         "jpAbility": [
             "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、このカードのパワーを＋2000。",
@@ -313,12 +333,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may send it to Stock.",
+            "AUTO - This ability activates up to once per turn. During the turn this is placed on stage from hand, when this card's damage is cancelled, mill 1, then deal X damage to your opponent. X equals the Level of the milled card +1."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -327,10 +353,6 @@
         "release": "W105",
         "sid": "011",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_011.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may send it to Stock.",
-            "AUTO - This ability activates up to once per turn. During the turn this is placed on stage from hand, when this card's damage is cancelled, mill 1, then deal X damage to your opponent. X equals the Level of the milled card +1."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、ストック置場に置いてよい。",
             "【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
@@ -344,12 +366,19 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 11000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Your opponent sends all of their Stock to their deck and shuffles their deck, then puts an equal number of cards from the top of their deck into Stock.\"",
+            "b) \"Choose 1 of your opponent's characters, return it to hand.\""
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -358,11 +387,6 @@
         "release": "W105",
         "sid": "012",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_012.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of the following 2 effects and resolve it,",
-            "a) \"Your opponent sends all of their Stock to their deck and shuffles their deck, then puts an equal number of cards from the top of their deck into Stock.\"",
-            "b) \"Choose 1 of your opponent's characters, return it to hand.\""
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。』『あなたは相手のキャラを1枚選び、手札に戻してよい。』"
         ]
@@ -375,10 +399,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} When the Choice CX (031) is placed in your Climax Area, if you have 4 or more other <LycoReco> or <Weapon> characters, draw up to 1 card, then choose 1 card in your hand, send it to Stock.",
+            "ACT - [(1) Rest this] Reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character or an Event, add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -387,10 +417,6 @@
         "release": "W105",
         "sid": "013",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_013.png",
-        "ability": [
-            "AUTO - {CX Combo} When the Choice CX (031) is placed in your Climax Area, if you have 4 or more other <LycoReco> or <Weapon> characters, draw up to 1 card, then choose 1 card in your hand, send it to Stock.",
-            "ACT - [(1) Rest this] Reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character or an Event, add it to hand."
-        ],
         "jpAbility": [
             "【自】【CXコンボ】 あなたのクライマックス置場に「堂々の詐称」が置かれた時、他のあなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたは1枚まで引き、自分の手札を1枚選び、ストック置場に置く。",
             "【起】［(1) このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《リコリコ》か《武器》のキャラかイベントなら手札に加える。（そうでないなら元に戻す）"
@@ -404,10 +430,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other characters, this turn, it gets +X power. X equals that character's Soul times 1000.",
+            "AUTO - [Send 1 of your other characters on stage to Waiting Room] At the start of your opponent's Attack Phase, you may pay cost. If you do, move this to an open position in your back row."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -416,10 +448,6 @@
         "release": "W105",
         "sid": "014",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_014.png",
-        "ability": [
-            "AUTO - When this attacks, choose 1 of your other characters, this turn, it gets +X power. X equals that character's Soul times 1000.",
-            "AUTO - [Send 1 of your other characters on stage to Waiting Room] At the start of your opponent's Attack Phase, you may pay cost. If you do, move this to an open position in your back row."
-        ],
         "jpAbility": [
             "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
             "【自】［他のあなたの舞台のキャラを1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
@@ -433,10 +461,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, your opponent declares 0, 1, 2, or 3. Reveal the top card of your deck, and if that card is a character with the same level as the number declared by your opponent, place it on stage in any slot.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may send this to Stock.\n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -445,10 +479,6 @@
         "release": "W105",
         "sid": "015",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_015.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, your opponent declares 0, 1, 2, or 3. Reveal the top card of your deck, and if that card is a character with the same level as the number declared by your opponent, place it on stage in any slot.",
-            "AUTO - During this card's battle, when the damage you take is cancelled, you may send this to Stock.\n"
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台の好きな枠に置く。（そうでないなら元に戻す）",
             "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
@@ -462,10 +492,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - All your other {LycoReco} or {Weapon} Characters gain 500 power.",
+            "AUTO - When your Climax with the Choice Trigger Icon is placed in your climax area, choose one of your opponent's Characters in Front Row, and that character gets -2000 Power till the end of the turn."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -474,10 +510,6 @@
         "release": "W105",
         "sid": "016",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_016.png",
-        "ability": [
-            "CONT - All your other {LycoReco} or {Weapon} Characters gain 500 power.",
-            "AUTO - When your Climax with the Choice Trigger Icon is placed in your climax area, choose one of your opponent's Characters in Front Row, and that character gets -2000 Power till the end of the turn."
-        ],
         "jpAbility": [
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋500。",
             "【自】 あなたのトリガーアイコンが[CHOICE]のクライマックスがクライマックス置場に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
@@ -491,10 +523,15 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 1 or less other characters, this gets +1 Level and +2500 power."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -503,9 +540,6 @@
         "release": "W105",
         "sid": "017",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_017.png",
-        "ability": [
-            "CONT - If you have 1 or less other characters, this gets +1 Level and +2500 power."
-        ],
         "jpAbility": [
             "【永】 他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋2500。"
         ]
@@ -518,10 +552,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if you have a <LycoReco> or <Weapon> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "ACT - BACKUP +1000"
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -530,10 +570,6 @@
         "release": "W105",
         "sid": "018",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_018.png",
-        "ability": [
-            "AUTO - When you use this card's BACKUP, if you have a <LycoReco> or <Weapon> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
-            "ACT - BACKUP +1000"
-        ],
         "jpAbility": [
             "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《リコリコ》か《武器》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
             "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -547,12 +583,19 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
+            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.",
+            "Note: Has a Soul trigger."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -561,11 +604,6 @@
         "release": "W105",
         "sid": "019",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_019.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
-            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.",
-            "Note: Has a Soul trigger."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
             "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
@@ -579,12 +617,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Send 1 of your <LycoReco> or <Weapon> characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -1 Soul.",
+            "ACT - BACKUP +2500"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -593,10 +637,6 @@
         "release": "W105",
         "sid": "020",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_020.png",
-        "ability": [
-            "AUTO - [(1) Send 1 of your <LycoReco> or <Weapon> characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -1 Soul.",
-            "ACT - BACKUP +2500"
-        ],
         "jpAbility": [
             "【自】［(1) あなたの舞台の、《リコリコ》か《武器》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－1。",
             "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
@@ -610,12 +650,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +500 and +1 Soul to <LycoReco> or <Weapon> characters.",
+            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, choose 1 of your  characters, this turn, it gets +1000 power."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -624,10 +670,6 @@
         "release": "W105",
         "sid": "021",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_021.png",
-        "ability": [
-            "CONT - ASSIST +500 and +1 Soul to <LycoReco> or <Weapon> characters.",
-            "AUTO - This ability can only be activated up to once per turn. When you use an ACT effect, choose 1 of your  characters, this turn, it gets +1000 power."
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋500し、ソウルを＋1。",
             "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -641,10 +683,15 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's front row characters, this turn, it gets +3000 power."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -653,9 +700,6 @@
         "release": "W105",
         "sid": "022",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_022.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's front row characters, this turn, it gets +3000 power."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを＋3000。"
         ]
@@ -668,10 +712,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 6000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character, this turn, this gets +1 Soul.",
+            "AUTO - At the start of your Climax Phase, your opponent may send the top 2 cards of their Stock to Waiting Room. If they do, this turn, this cannot Front Attack."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -680,10 +730,6 @@
         "release": "W105",
         "sid": "023",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_023.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character, this turn, this gets +1 Soul.",
-            "AUTO - At the start of your Climax Phase, your opponent may send the top 2 cards of their Stock to Waiting Room. If they do, this turn, this cannot Front Attack."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リコリコ》か《武器》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
             "【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
@@ -697,12 +743,17 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -711,9 +762,6 @@
         "release": "W105",
         "sid": "024",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_024.png",
-        "ability": [
-            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
         ]
@@ -726,12 +774,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other back row <LycoReco> or <Weapon> characters, this gets +2500 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Choice CX (032) in your Climax Area, choose up to 1 <LycoReco> or <Weapon> character in your Waiting Room, send it to Stock, and until the end of your opponent's next turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 500."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -740,10 +794,6 @@
         "release": "W105",
         "sid": "025",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_025.png",
-        "ability": [
-            "CONT - For each of your other back row <LycoReco> or <Weapon> characters, this gets +2500 power.",
-            "AUTO - {CX Combo} When this attacks, if you have the Choice CX (032) in your Climax Area, choose up to 1 <LycoReco> or <Weapon> character in your Waiting Room, send it to Stock, and until the end of your opponent's next turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 500."
-        ],
         "jpAbility": [
             "【永】 他のあなたの後列の、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋2500。",
             "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大手柄」があるなら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。"
@@ -757,12 +807,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, you may put the top card of your deck to Stock.",
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 1000."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -771,10 +827,6 @@
         "release": "W105",
         "sid": "026",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_026.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, you may put the top card of your deck to Stock.",
-            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 1000."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×1000に等しい。"
@@ -788,12 +840,18 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 1000.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -802,10 +860,6 @@
         "release": "W105",
         "sid": "027",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_027.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 1000.",
-            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×1000に等しい。",
             "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
@@ -819,18 +873,20 @@
         "side": "W",
         "type": "Event",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "Choose one of your {LycoReco} or {Weapon} Characters, during this turn, it gains +2000 Power and the following effect: \"AUTO - This effect activates up to once per turn. When this card attacks, perform Trigger Check twice during Trigger Step.\""
+        ],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "028",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_028.png",
-        "ability": [
-            "Choose one of your {LycoReco} or {Weapon} Characters, during this turn, it gains +2000 Power and the following effect: \"AUTO - This effect activates up to once per turn. When this card attacks, perform Trigger Check twice during Trigger Step.\""
-        ],
         "jpAbility": [
             "あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
         ]
@@ -843,18 +899,20 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "029",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_029.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
@@ -868,18 +926,20 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "030",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_030.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
@@ -893,18 +953,20 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "031",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_031.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
@@ -918,18 +980,20 @@
         "side": "W",
         "type": "Climax",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "CHOICE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "032",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_032.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
@@ -943,10 +1007,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <LycoReco> or <Weapon> character, this turn, this gets +2000 power.",
+            "AUTO - [Discard 1 card] When this is Reversed, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "テロリスト",
             "武器"
@@ -955,10 +1025,6 @@
         "release": "W105",
         "sid": "033",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_033.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, if you have another <LycoReco> or <Weapon> character, this turn, this gets +2000 power.",
-            "AUTO - [Discard 1 card] When this is Reversed, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
             "【自】［手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
@@ -972,10 +1038,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <LycoReco> or <Weapon>, this gets +1000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Door CX (062) in your Climax Area, and you have 2 or more other <LycoReco> or <Weapon>, look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character or {2/2 Event - 096} from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, then choose 1 of your opponent’s characters, until the end of your opponent’s next turn, it gains the following ability, “CONT - This cannot move to other slots.” \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -984,10 +1056,6 @@
         "release": "W105",
         "sid": "034",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_034.png",
-        "ability": [
-            "CONT - If all of your characters are <LycoReco> or <Weapon>, this gets +1000 power.",
-            "AUTO - {CX Combo} When this attacks, if you have the Door CX (062) in your Climax Area, and you have 2 or more other <LycoReco> or <Weapon>, look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character or {2/2 Event - 096} from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, then choose 1 of your opponent’s characters, until the end of your opponent’s next turn, it gains the following ability, “CONT - This cannot move to other slots.” \n"
-        ],
         "jpAbility": [
             "【永】 あなたのキャラすべてが《リコリコ》か《武器》なら、このカードのパワーを＋1000。",
             "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「リコリコへようこそ」があり、他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラか「ふたりの時間、選びとる未来」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
@@ -1001,12 +1069,19 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <LycoReco> or <Weapon> characters, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - When this is placed on stage from hand, if you have a {0/0 Takina - 066} in your Waiting Room, until the end of your opponent's next turn, this gets +3000 power."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1015,11 +1090,6 @@
         "release": "W105",
         "sid": "035",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_035.png",
-        "ability": [
-            "CONT - If you have 4 or more <LycoReco> or <Weapon> characters, this gets -1 Level in hand.",
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - When this is placed on stage from hand, if you have a {0/0 Takina - 066} in your Waiting Room, until the end of your opponent's next turn, this gets +3000 power."
-        ],
         "jpAbility": [
             "【永】 あなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
@@ -1034,12 +1104,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 <LycoReco> or <Weapon> character from your Waiting Room, you may add it to hand.",
+            "AUTO - {CX Combo} [(3) Discard 1 card] This ability can only be activated up to once per turn. At the end of this card's attack, if the Door CX (063) is in your Climax Area, and you have 2 or more other <LycoReco> or <Weapon> characters, you may pay cost. If you do, Stand this."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1048,10 +1124,6 @@
         "release": "W105",
         "sid": "036",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_036.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 <LycoReco> or <Weapon> character from your Waiting Room, you may add it to hand.",
-            "AUTO - {CX Combo} [(3) Discard 1 card] This ability can only be activated up to once per turn. At the end of this card's attack, if the Door CX (063) is in your Climax Area, and you have 2 or more other <LycoReco> or <Weapon> characters, you may pay cost. If you do, Stand this."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻してよい。",
             "【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「2人で過ごす日々」があり、他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
@@ -1065,10 +1137,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row.",
+            "AUTO - [Discard 1 card] At the start of your opponent's Attack Phase, you may pay cost. If you do, choose 1 of your other characters, put it underneath this card Face-Up as a Marker, and at the start of your next Draw Phase, choose 1 character underneath this card as a Marker, place it on stage in any slot."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -1077,10 +1155,6 @@
         "release": "W105",
         "sid": "037",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_037.png",
-        "ability": [
-            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row.",
-            "AUTO - [Discard 1 card] At the start of your opponent's Attack Phase, you may pay cost. If you do, choose 1 of your other characters, put it underneath this card Face-Up as a Marker, and at the start of your next Draw Phase, choose 1 character underneath this card as a Marker, place it on stage in any slot."
-        ],
         "jpAbility": [
             "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。",
             "【自】［手札を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、このカードの下にマーカーとして表向きに置き、次のあなたのドローフェイズの始めに、あなたはこのカードの下のマーカーのキャラを1枚選び、舞台の好きな枠に置く。"
@@ -1094,10 +1168,17 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if this card has a Marker underneath it, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is an <LycoReco> or <Weapon> character or, you may put it underneath this card Face-down as a Marker.",
+            "AUTO - At the start of your opponent's Draw Phase, mill 2. If there is a Level 2 or higher card among those cards, you may return this card to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1106,11 +1187,6 @@
         "release": "W105",
         "sid": "038",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_038.png",
-        "ability": [
-            "CONT - During your turn, if this card has a Marker underneath it, this gets +2000 power.",
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is an <LycoReco> or <Weapon> character or, you may put it underneath this card Face-down as a Marker.",
-            "AUTO - At the start of your opponent's Draw Phase, mill 2. If there is a Level 2 or higher card among those cards, you may return this card to hand."
-        ],
         "jpAbility": [
             "【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リコリコ》か《武器》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）",
@@ -1125,10 +1201,17 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - This cannot move to other slots.",
+            "CONT - If you have have 2 or more other <LycoReco> or <Weapon> characters, this gets +3000 power.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1137,11 +1220,6 @@
         "release": "W105",
         "sid": "039",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_039.png",
-        "ability": [
-            "CONT - This cannot move to other slots.",
-            "CONT - If you have have 2 or more other <LycoReco> or <Weapon> characters, this gets +3000 power.",
-            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
-        ],
         "jpAbility": [
             "【永】 このカードは他の枠に動かせない。",
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、このカードのパワーを＋3000。",
@@ -1156,10 +1234,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - The character across from this gets \"AUTO - ENCORE (2)\".",
+            "AUTO - When this attacks, if you have a Climax in your Climax Area, reveal the top card of your deck. If that card is Level 1 or higher, send it to Stock."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1168,10 +1252,6 @@
         "release": "W105",
         "sid": "040",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_040.png",
-        "ability": [
-            "CONT - The character across from this gets \"AUTO - ENCORE (2)\".",
-            "AUTO - When this attacks, if you have a Climax in your Climax Area, reveal the top card of your deck. If that card is Level 1 or higher, send it to Stock."
-        ],
         "jpAbility": [
             "【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。",
             "【自】 このカードがアタックした時、クライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
@@ -1185,12 +1265,19 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <LycoReco> or <Weapon> in your Waiting Room, add it to hand.",
+            "AUTO - {CX Combo} [Send this to Waiting Room] During your Climax Phase, when the Door CX (064) is placed in your Climax Area, you may pay cost. If you do, choose up to 1 {3/2 Chisato - 042} in your hand, place it on stage in this card's former slot.",
+            "Note: has 2 Soul.\n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1199,11 +1286,6 @@
         "release": "W105",
         "sid": "041",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_041.png",
-        "ability": [
-            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <LycoReco> or <Weapon> in your Waiting Room, add it to hand.",
-            "AUTO - {CX Combo} [Send this to Waiting Room] During your Climax Phase, when the Door CX (064) is placed in your Climax Area, you may pay cost. If you do, choose up to 1 {3/2 Chisato - 042} in your hand, place it on stage in this card's former slot.",
-            "Note: has 2 Soul.\n"
-        ],
         "jpAbility": [
             "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻す。",
             "【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックスフェイズ中、クライマックス置場に「貫く想い」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「選んだ道 千束」を1枚まで選び、このカードがいた枠に置く。"
@@ -1217,12 +1299,19 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <LycoReco> or <Weapon> characters, this gets +500 power.",
+            "AUTO - When this attacks, choose up to 1 card in your opponent's Waiting Room, place it on the top or on the bottom of their deck.",
+            "AUTO - ENCORE [Discard 1 <LycoReco> or <Weapon> character] \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1231,11 +1320,6 @@
         "release": "W105",
         "sid": "042",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_042.png",
-        "ability": [
-            "CONT - For each of your other <LycoReco> or <Weapon> characters, this gets +500 power.",
-            "AUTO - When this attacks, choose up to 1 card in your opponent's Waiting Room, place it on the top or on the bottom of their deck.",
-            "AUTO - ENCORE [Discard 1 <LycoReco> or <Weapon> character] \n"
-        ],
         "jpAbility": [
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
             "【自】 このカードがアタックした時、あなたは相手の控え室のカードを1枚まで選び、山札の上か下に置く。",
@@ -1250,10 +1334,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +500",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 Cost 0 or lower character in your Waiting Room, and place them on stage in separate slots.\n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1262,10 +1352,6 @@
         "release": "W105",
         "sid": "043",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_043.png",
-        "ability": [
-            "CONT - ASSIST +500",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 Cost 0 or lower character in your Waiting Room, and place them on stage in separate slots.\n"
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
             "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。"
@@ -1279,10 +1365,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When your character's Trigger Check reveals a Climax with a Door Trigger Icon, your opponent mills 4.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them repeat the following effect: \"Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.\""
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1291,10 +1383,6 @@
         "release": "W105",
         "sid": "044",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_044.png",
-        "ability": [
-            "AUTO - When your character's Trigger Check reveals a Climax with a Door Trigger Icon, your opponent mills 4.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them repeat the following effect: \"Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.\""
-        ],
         "jpAbility": [
             "【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[COMEBACK]のクライマックスがでた時、相手は自分の山札の上から4枚を、控え室に置く。",
             "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
@@ -1308,10 +1396,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character.",
+            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character or {2/2 Event - } from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1320,10 +1414,6 @@
         "release": "W105",
         "sid": "045",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_045.png",
-        "ability": [
-            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character.",
-            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character or {2/2 Event - } from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
             "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラか「互角の戦い」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
@@ -1337,10 +1427,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character.",
+            "ACT - [Discard 1 card, send this to the bottom of your deck] Choose 1 character in your Waiting Room, add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -1349,10 +1445,6 @@
         "release": "W105",
         "sid": "046",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_046.png",
-        "ability": [
-            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character.",
-            "ACT - [Discard 1 card, send this to the bottom of your deck] Choose 1 character in your Waiting Room, add it to hand."
-        ],
         "jpAbility": [
             "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
             "【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
@@ -1366,12 +1458,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST All of your characters in front of this gains the following ability, \"AUTO - When this is Reversed, if you have less Stock than your opponent, you may send this to Stock.\"",
+            "ACT - [(2) Rest this] Choose 1 character in your Waiting Room, add it to hand. \n"
+        ],
         "attributes": [
             "テロリスト",
             "武器"
@@ -1380,10 +1478,6 @@
         "release": "W105",
         "sid": "047",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_047.png",
-        "ability": [
-            "CONT - ASSIST All of your characters in front of this gains the following ability, \"AUTO - When this is Reversed, if you have less Stock than your opponent, you may send this to Stock.\"",
-            "ACT - [(2) Rest this] Choose 1 character in your Waiting Room, add it to hand. \n"
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』",
             "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
@@ -1397,10 +1491,17 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - {CX Combo} If the Standby CX (065) is in your Climax Area, this card in any area gains Standby Trigger.",
+            "CONT - If you have 3 or more other characters, this gets +3000 power.",
+            "AUTO - ENCORE [Discard 1 character] \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1409,11 +1510,6 @@
         "release": "W105",
         "sid": "048",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_048.png",
-        "ability": [
-            "CONT - {CX Combo} If the Standby CX (065) is in your Climax Area, this card in any area gains Standby Trigger.",
-            "CONT - If you have 3 or more other characters, this gets +3000 power.",
-            "AUTO - ENCORE [Discard 1 character] \n"
-        ],
         "jpAbility": [
             "【永】【CXコンボ】 あなたのクライマックス置場に「必死の抵抗」があるなら、すべての領域にあるこのカードはトリガーアイコンに[STANDBY]を得る。",
             "【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋3000。",
@@ -1428,12 +1524,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1442,10 +1544,6 @@
         "release": "W105",
         "sid": "049",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_049.png",
-        "ability": [
-            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
-            "ACT - BACKUP +3000"
-        ],
         "jpAbility": [
             "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
             "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
@@ -1459,12 +1557,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay the cost. If you do, your opponent chooses 1 Climaxes from their Waiting Room, and shuffles all other cards from their Waiting Room into their deck.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -1473,10 +1577,6 @@
         "release": "W105",
         "sid": "050",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_050.png",
-        "ability": [
-            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay the cost. If you do, your opponent chooses 1 Climaxes from their Waiting Room, and shuffles all other cards from their Waiting Room into their deck.",
-            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
-        ],
         "jpAbility": [
             "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
             "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -1490,10 +1590,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {1/0 Takina - 073} gets +1000 power.",
+            "AUTO - [(1) Rest this Standing card] When you other character is sent from Stage to Clock, you may pay cost. If you do, Heal 1."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1502,10 +1608,6 @@
         "release": "W105",
         "sid": "051",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_051.png",
-        "ability": [
-            "CONT - All of your other {1/0 Takina - 073} gets +1000 power.",
-            "AUTO - [(1) Rest this Standing card] When you other character is sent from Stage to Clock, you may pay cost. If you do, Heal 1."
-        ],
         "jpAbility": [
             "【永】 他のあなたの「私の決意 たきな」すべてに、パワーを＋1000。",
             "【自】［(1) 【スタンド】しているこのカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
@@ -1519,10 +1621,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have another {0/0 Mika - 055}, all of your other characters with \"Chisato\" in its name gains the following ability, \"AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this.\"",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +2000 power. "
+        ],
         "attributes": [
             "アラン機関",
             "武器"
@@ -1531,10 +1639,6 @@
         "release": "W105",
         "sid": "052",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_052.png",
-        "ability": [
-            "CONT - If you have another {0/0 Mika - 055}, all of your other characters with \"Chisato\" in its name gains the following ability, \"AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this.\"",
-            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +2000 power. "
-        ],
         "jpAbility": [
             "【永】 他のあなたの「父親代わり ミカ」がいるなら、他のあなたのカード名に「千束」を含むキャラすべてに、次の能力を与える。『【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。』",
             "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
@@ -1548,10 +1652,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have another {0/0 Shinji - 052} and {0/0 Mika - 055}, this gets +2000 power.",
+            "AUTO - [Discard 1 <LycoReco> or <Weapon> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {0/0 Shinji - 052} or {0/0 Mika - 053}, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1560,10 +1670,6 @@
         "release": "W105",
         "sid": "053",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_053.png",
-        "ability": [
-            "CONT - If you have another {0/0 Shinji - 052} and {0/0 Mika - 055}, this gets +2000 power.",
-            "AUTO - [Discard 1 <LycoReco> or <Weapon> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {0/0 Shinji - 052} or {0/0 Mika - 053}, show it to your opponent, add it to hand, and shuffle your deck afterwards."
-        ],
         "jpAbility": [
             "【永】 他のあなたの、「父親代わり シンジ」と「父親代わり ミカ」がいるなら、このカードのパワーを＋2000。",
             "【自】［手札の、《リコリコ》か《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「父親代わり シンジ」か「父親代わり ミカ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -1577,10 +1683,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character or an Event, add it to hand and discard 1 card.",
+            "AUTO - [Shuffle 2 characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, this turn, this gets +1 Soul."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1589,10 +1701,6 @@
         "release": "W105",
         "sid": "054",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_054.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character or an Event, add it to hand and discard 1 card.",
-            "AUTO - [Shuffle 2 characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, this turn, this gets +1 Soul."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リコリコ》か《武器》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
             "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。"
@@ -1606,10 +1714,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have another {0/0 Shinji - 052}, all of your other character with \"Chisato\" in its name gets +500 power.",
+            "AUTO - (1) When your Climax is placed on the Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1618,10 +1732,6 @@
         "release": "W105",
         "sid": "055",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_055.png",
-        "ability": [
-            "CONT - If you have another {0/0 Shinji - 052}, all of your other character with \"Chisato\" in its name gets +500 power.",
-            "AUTO - (1) When your Climax is placed on the Climax Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【永】 他のあなたの「父親代わり シンジ」がいるなら、他のあなたのカード名に「千束」を含むキャラすべてに、パワーを＋500。",
             "【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
@@ -1635,10 +1745,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 1 or less other characters in your Front Row, this gets +4000 power.",
+            "AUTO - At the start of your Attack Phase, if this is Standing, and you have 1 or less other characters in your front row, put up to 1 card from the top of your deck to Stock, then look at 1 card from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1647,10 +1763,6 @@
         "release": "W105",
         "sid": "056",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_056.png",
-        "ability": [
-            "CONT - If you have 1 or less other characters in your Front Row, this gets +4000 power.",
-            "AUTO - At the start of your Attack Phase, if this is Standing, and you have 1 or less other characters in your front row, put up to 1 card from the top of your deck to Stock, then look at 1 card from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋4000。",
             "【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラが1枚以下なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札を上から1枚見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
@@ -1664,12 +1776,17 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "Note: has a Soul Trigger."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1678,9 +1795,6 @@
         "release": "W105",
         "sid": "057",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_057.png",
-        "ability": [
-            "Note: has a Soul Trigger."
-        ],
         "jpAbility": [
             "-"
         ]
@@ -1693,10 +1807,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - At the start of your Encore Step, send this to Waiting Room, then reveal the top card of your deck. If that card is Level 2 or higher, add it to hand.",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 {2/1 Chisato - 021} in your Waiting Room, add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1705,10 +1825,6 @@
         "release": "W105",
         "sid": "058",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_058.png",
-        "ability": [
-            "AUTO - At the start of your Encore Step, send this to Waiting Room, then reveal the top card of your deck. If that card is Level 2 or higher, add it to hand.",
-            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 {2/1 Chisato - 021} in your Waiting Room, add it to hand."
-        ],
         "jpAbility": [
             "【自】 あなたのアンコールステップの始めに、このカードを控え室に置き、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
             "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「最期の前に 千束」を1枚選び、手札に戻す。"
@@ -1722,12 +1838,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - If this card has a Marker underneath it, this gets +10500 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 {1/0 Takina - 086} in your Waiting Room, you may put it underneath this card Face-up as a Marker."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1736,10 +1858,6 @@
         "release": "W105",
         "sid": "059",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_059.png",
-        "ability": [
-            "CONT - If this card has a Marker underneath it, this gets +10500 power.",
-            "AUTO - When this is placed on stage from hand, choose 1 {1/0 Takina - 086} in your Waiting Room, you may put it underneath this card Face-up as a Marker."
-        ],
         "jpAbility": [
             "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋10500。",
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「パンツチェック たきな」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
@@ -1753,12 +1871,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +2000 to Level 3 or higher characters.",
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may send it to Stock."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1767,10 +1891,6 @@
         "release": "W105",
         "sid": "060",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_060.png",
-        "ability": [
-            "CONT - ASSIST +2000 to Level 3 or higher characters.",
-            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may send it to Stock."
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、ストック置場に置いてよい。"
@@ -1784,19 +1904,21 @@
         "side": "W",
         "type": "Event",
         "color": "RED",
-        "level": "2",
-        "cost": "2",
+        "level": 2,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "COUNTER - If you don't have a character with \"Chisato\" in its name, this cannot be played from hand. Perform the following effect 4 times, \"Look at the top card of your deck, and put it on top of your deck or into your Waiting Room.\"",
+            "Send this to Memory."
+        ],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "061",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_061.png",
-        "ability": [
-            "COUNTER - If you don't have a character with \"Chisato\" in its name, this cannot be played from hand. Perform the following effect 4 times, \"Look at the top card of your deck, and put it on top of your deck or into your Waiting Room.\"",
-            "Send this to Memory."
-        ],
         "jpAbility": [
             "【カウンター】 このカードは、あなたのカード名に「千束」を含むキャラがいないなら、手札からプレイできない。次の行動を4回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』",
             "このカードを思い出にする。"
@@ -1810,18 +1932,20 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "062",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_062.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
@@ -1835,22 +1959,50 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "063a",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_063a.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
         ]
+    },
+    {
+        "name": "2人で過ごす日々",
+        "code": "LRC/W105-063b",
+        "rarity": "CR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "063b",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_063b.png"
     },
     {
         "name": "貫く想い",
@@ -1860,18 +2012,20 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "064",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_064.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
@@ -1885,19 +2039,21 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "STANDBY"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "065",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_065.png",
-        "ability": [],
         "jpAbility": [
             "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
             "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
@@ -1911,10 +2067,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <LycoReco> or <Weapon>, this gets +2000 power.",
+            "AUTO - [(1) Send this to Waiting Room] When your other <LycoReco> or <Weapon> character is Front Attacked, you may pay cost. If you do, return that character to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1923,10 +2085,6 @@
         "release": "W105",
         "sid": "066",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_066.png",
-        "ability": [
-            "CONT - During your turn, if all of your characters are <LycoReco> or <Weapon>, this gets +2000 power.",
-            "AUTO - [(1) Send this to Waiting Room] When your other <LycoReco> or <Weapon> character is Front Attacked, you may pay cost. If you do, return that character to hand."
-        ],
         "jpAbility": [
             "【永】 あなたのターン中、あなたのキャラすべてが《リコリコ》か《武器》なら、このカードのパワーを＋2000。",
             "【自】［(1) このカードを控え室に置く］ 他のあなたの、《リコリコ》か《武器》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
@@ -1940,10 +2098,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <LycoReco> or <Weapon> character, this turn, this gets +2000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (097) in your Climax area, and you have 2 or more other <LycoReco> or <Weapon> characters, mill 2, then choose up to 1 Level X or lower <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand, then look at up to 2 cards from the top of your deck, and put them back on top in any order. X equals the sum of Levels of cards milled by this effect."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1952,10 +2116,6 @@
         "release": "W105",
         "sid": "067",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_067.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, if you have another <LycoReco> or <Weapon> character, this turn, this gets +2000 power.",
-            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (097) in your Climax area, and you have 2 or more other <LycoReco> or <Weapon> characters, mill 2, then choose up to 1 Level X or lower <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand, then look at up to 2 cards from the top of your deck, and put them back on top in any order. X equals the sum of Levels of cards milled by this effect."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
             "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「凸凹な名コンビ」があり、他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《リコリコ》か《武器》のキャラを1枚まで選び、手札に戻し、自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
@@ -1969,12 +2129,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [Put 1 {3/2 Chisato - 036} in your hand underneath this card face-up as a Marker] When the Door CX (063) is placed in your Climax Area, if this is in the front row, you may pay cost. If you do, this turn, all of your other characters get +3000 power and the following ability, \"AUTO - When this attacks, your opponent mills 1. If that card is Level 0 or lower, deal 1 damage to your opponent.\""
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -1983,10 +2149,6 @@
         "release": "W105",
         "sid": "068",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_068.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, you may Heal 1.",
-            "AUTO - {CX Combo} [Put 1 {3/2 Chisato - 036} in your hand underneath this card face-up as a Marker] When the Door CX (063) is placed in your Climax Area, if this is in the front row, you may pay cost. If you do, this turn, all of your other characters get +3000 power and the following ability, \"AUTO - When this attacks, your opponent mills 1. If that card is Level 0 or lower, deal 1 damage to your opponent.\""
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
             "【自】【CXコンボ】［手札の「これからも続く日々 千束」を1枚このカードの下にマーカーとして表向きに置く］ あなたのクライマックス置場に「2人で過ごす日々」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、パワーを＋3000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは相手の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、相手に1ダメージを与える。』（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
@@ -2000,10 +2162,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this direct attacks, this turn, this gets +1 Soul.",
+            "AUTO - [Send this to Clock] When this is Reversed, you may pay cost. If you do, search your deck for up to 1 {1/0 Takina CXC - 073}, place it on stage in this card's former slot Rested, then shuffle your deck afterwards."
+        ],
         "attributes": [
             "DA",
             "武器"
@@ -2012,10 +2180,6 @@
         "release": "W105",
         "sid": "069",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_069.png",
-        "ability": [
-            "AUTO - When this direct attacks, this turn, this gets +1 Soul.",
-            "AUTO - [Send this to Clock] When this is Reversed, you may pay cost. If you do, search your deck for up to 1 {1/0 Takina CXC - 073}, place it on stage in this card's former slot Rested, then shuffle your deck afterwards."
-        ],
         "jpAbility": [
             "【自】 このカードがダイレクトアタックした時、そのターン中、このカードのソウルを＋1。",
             "【自】［このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「私の決意 たきな」を1枚まで選び、このカードがいた枠に【レスト】して置き、その山札をシャッフルする。"
@@ -2029,10 +2193,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it to the bottom of your opponent's deck.",
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2041,10 +2211,6 @@
         "release": "W105",
         "sid": "070",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_070.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it to the bottom of your opponent's deck.",
-            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置いてよい。",
             "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
@@ -2058,10 +2224,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <LycoReco> or <Weapon> characters, this gets +1 Level and +500 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <LycoReco> or <Weapon> characters, Rest it, and move it to an empty Back Row slot."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2070,10 +2242,6 @@
         "release": "W105",
         "sid": "071",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_071.png",
-        "ability": [
-            "CONT - If you have 2 or more other <LycoReco> or <Weapon> characters, this gets +1 Level and +500 power.",
-            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <LycoReco> or <Weapon> characters, Rest it, and move it to an empty Back Row slot."
-        ],
         "jpAbility": [
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋500。",
             "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《リコリコ》か《武器》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
@@ -2087,10 +2255,15 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is Reversed, you may pay cost. If you do, mill 4, choose up to 1 Level X or lower <LycoReco> or <Weapon> character from your Waiting Room, add it to hand. X equals the sum of Soul Triggers milled. \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2099,9 +2272,6 @@
         "release": "W105",
         "sid": "072",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_072.png",
-        "ability": [
-            "AUTO - [Discard 1 card] When this is Reversed, you may pay cost. If you do, mill 4, choose up to 1 Level X or lower <LycoReco> or <Weapon> character from your Waiting Room, add it to hand. X equals the sum of Soul Triggers milled. \n"
-        ],
         "jpAbility": [
             "【自】［手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の、《リコリコ》か《武器》のキャラを1枚まで選び、手札に戻す。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。"
         ]
@@ -2114,10 +2284,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - The character across from this gets \"AUTO - ENCORE (2)\".",
+            "AUTO - {CX Combo} [Discard 1 Level 0 or lower card] When this attacks, if the Pants CX (098) is in your Climax Area, and you have 5 or less Stock, you may pay cost. If you do, look at up top 5 cards from the top of your deck, choose up to 2 <LycoReco> or <Weapon> character from among them, show them to your opponent, add them to hand, send the rest to Waiting Room"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2126,10 +2302,6 @@
         "release": "W105",
         "sid": "073",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_073.png",
-        "ability": [
-            "CONT - The character across from this gets \"AUTO - ENCORE (2)\".",
-            "AUTO - {CX Combo} [Discard 1 Level 0 or lower card] When this attacks, if the Pants CX (098) is in your Climax Area, and you have 5 or less Stock, you may pay cost. If you do, look at up top 5 cards from the top of your deck, choose up to 2 <LycoReco> or <Weapon> character from among them, show them to your opponent, add them to hand, send the rest to Waiting Room"
-        ],
         "jpAbility": [
             "【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。",
             "【自】【CXコンボ】［手札のレベル0以下のカードを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「それぞれの道」があり、あなたのストックが5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《リコリコ》か《武器》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
@@ -2143,12 +2315,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, until the end of your opponent's next turn, it gets +4000 power.",
+            "ACT - [(1) Discard 1 card, Rest this] Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2157,10 +2335,6 @@
         "release": "W105",
         "sid": "074",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_074.png",
-        "ability": [
-            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, until the end of your opponent's next turn, it gets +4000 power.",
-            "ACT - [(1) Discard 1 card, Rest this] Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。",
             "【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
@@ -2174,12 +2348,19 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or Memory, this turn, all of your characters gets +3000 power.",
+            "AUTO - When this is Reversed, send this to Memory.",
+            "AUTO - MEMORY EXPERIENCE [Discard 2 cards] While this is in your Memory, at the start of your Climax Phase, if you have 2 or more {TD 0/0 Chisato Riki - T01} or {U 0/0 Takina - 078} in your Level Zone, you may pay cost. If you do, place this on an empty slot on your stage."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2188,11 +2369,6 @@
         "release": "W105",
         "sid": "075",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_075.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand or Memory, this turn, all of your characters gets +3000 power.",
-            "AUTO - When this is Reversed, send this to Memory.",
-            "AUTO - MEMORY EXPERIENCE [Discard 2 cards] While this is in your Memory, at the start of your Climax Phase, if you have 2 or more {TD 0/0 Chisato Riki - T01} or {U 0/0 Takina - 078} in your Level Zone, you may pay cost. If you do, place this on an empty slot on your stage."
-        ],
         "jpAbility": [
             "【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋3000。",
             "【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
@@ -2207,10 +2383,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - Your other character in the front row center slot gets +500 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {R 1/0 Takina CXC}, show it to your opponent, add it to hand, and shuffle your deck afterwards. \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2219,10 +2401,6 @@
         "release": "W105",
         "sid": "076",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_076.png",
-        "ability": [
-            "CONT - Your other character in the front row center slot gets +500 power.",
-            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {R 1/0 Takina CXC}, show it to your opponent, add it to hand, and shuffle your deck afterwards. \n"
-        ],
         "jpAbility": [
             "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
             "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「私の決意 たきな」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -2236,10 +2414,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - At the start of your Climax Phase, choose 1 of your <LycoReco> or <Weapon> characters, this turn, it gets +1000 power.",
+            "AUTO - [Discard 1 card] When your character's Trigger Check reveals a Climax with a Pants Trigger Icon, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2248,10 +2432,6 @@
         "release": "W105",
         "sid": "077",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_077.png",
-        "ability": [
-            "AUTO - At the start of your Climax Phase, choose 1 of your <LycoReco> or <Weapon> characters, this turn, it gets +1000 power.",
-            "AUTO - [Discard 1 card] When your character's Trigger Check reveals a Climax with a Pants Trigger Icon, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room"
-        ],
         "jpAbility": [
             "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。",
             "【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
@@ -2265,10 +2445,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 Event from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+            "AUTO - When this is placed on stage from hand, if you 2 or less cards in Memory, choose 1 {3/2 Takina - 075} in your Waiting Room, you may send it to Memory.\n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2277,10 +2463,6 @@
         "release": "W105",
         "sid": "078",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_078.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 Event from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
-            "AUTO - When this is placed on stage from hand, if you 2 or less cards in Memory, choose 1 {3/2 Takina - 075} in your Waiting Room, you may send it to Memory.\n"
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
             "【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「どこにいようと たきな」を1枚選び、思い出にしてよい。"
@@ -2294,10 +2476,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - You can play Climaxes without meeting color requirement.",
+            "AUTO - {CX Combo} When the Pants CX (099) is placed in your Climax Area, if you have 2 or more other <LycoReco> or <Weapon> characters, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, search your deck for up to 1 <LycoReco> or <Weapon> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.\""
+        ],
         "attributes": [
             "テロリスト",
             "武器"
@@ -2306,10 +2494,6 @@
         "release": "W105",
         "sid": "079",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_079.png",
-        "ability": [
-            "CONT - You can play Climaxes without meeting color requirement.",
-            "AUTO - {CX Combo} When the Pants CX (099) is placed in your Climax Area, if you have 2 or more other <LycoReco> or <Weapon> characters, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, search your deck for up to 1 <LycoReco> or <Weapon> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.\""
-        ],
         "jpAbility": [
             "【永】 あなたのクライマックスは、色条件を満たさずに手札からプレイできる。",
             "【自】【CXコンボ】 あなたのクライマックス置場に「因縁の決着」が置かれた時、他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
@@ -2323,10 +2507,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 2 cards] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +1000"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2335,10 +2525,6 @@
         "release": "W105",
         "sid": "080",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_080.png",
-        "ability": [
-            "AUTO - [Discard 2 cards] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
-            "ACT - BACKUP +1000"
-        ],
         "jpAbility": [
             "【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
             "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -2352,10 +2538,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - During your opponent's turn, all of your other characters get +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax with a Pants Trigger among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2364,10 +2556,6 @@
         "release": "W105",
         "sid": "081",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_081.png",
-        "ability": [
-            "CONT - During your opponent's turn, all of your other characters get +500 power.",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax with a Pants Trigger among them, choose up to 1 character from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
             "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[GATE]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
@@ -2381,12 +2569,17 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} [(3) DIscard 2 <LycoReco> or <Weapon> characters] When this attacks, if you have the Level 1 or Lower Stock Soul CX (100) in your Climax Area, you may pay cost. If you do, deal 3 damage to your opponent twice."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2395,9 +2588,6 @@
         "release": "W105",
         "sid": "082",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_082.png",
-        "ability": [
-            "AUTO - {CX Combo} [(3) DIscard 2 <LycoReco> or <Weapon> characters] When this attacks, if you have the Level 1 or Lower Stock Soul CX (100) in your Climax Area, you may pay cost. If you do, deal 3 damage to your opponent twice."
-        ],
         "jpAbility": [
             "【自】【CXコンボ】［(3) 手札の、《リコリコ》か《武器》のキャラを2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「彼女を救うために」があるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを2回与える。（ダメージキャンセルは発生する）"
         ]
@@ -2410,10 +2600,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {1/0 Vanilla Chisato - 057} gets +3000 power.",
+            "AUTO - BOND [Discard 1 card] to {1/0 Vanilla Chisato - 057}"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2422,10 +2618,6 @@
         "release": "W105",
         "sid": "083",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_083.png",
-        "ability": [
-            "CONT - All of your other {1/0 Vanilla Chisato - 057} gets +3000 power.",
-            "AUTO - BOND [Discard 1 card] to {1/0 Vanilla Chisato - 057}"
-        ],
         "jpAbility": [
             "【永】 他のあなたの「休暇プログラム 千束」すべてに、パワーを＋3000。",
             "【自】 絆／「休暇プログラム 千束」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「休暇プログラム 千束」を1枚選び、手札に戻す）"
@@ -2439,10 +2631,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - [(1) Discard 1 <LycoReco> or <Weapon> character] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -2451,10 +2649,6 @@
         "release": "W105",
         "sid": "084",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_084.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
-            "AUTO - [(1) Discard 1 <LycoReco> or <Weapon> character] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
             "【自】［(1) 手札の、《リコリコ》か《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
@@ -2468,10 +2662,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When your characters Direct Attacks, choose 1 of your opponent's front row characters, this turn, it gets -1000 power.",
+            "ACT- [Send this to Clock] Look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
         "attributes": [
             "DA",
             "武器"
@@ -2480,10 +2680,6 @@
         "release": "W105",
         "sid": "085",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_085.png",
-        "ability": [
-            "AUTO - When your characters Direct Attacks, choose 1 of your opponent's front row characters, this turn, it gets -1000 power.",
-            "ACT- [Send this to Clock] Look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【自】 あなたのキャラがダイレクトアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
             "【起】［このカードをクロック置場に置く］ あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
@@ -2497,10 +2693,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If this card has a Marker underneath it, this gets +6000 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 {2/1 Chisato - 059} in your Waiting Room, you may put it underneath this card Face-up as a Marker. \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2509,10 +2711,6 @@
         "release": "W105",
         "sid": "086",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_086.png",
-        "ability": [
-            "CONT - If this card has a Marker underneath it, this gets +6000 power.",
-            "AUTO - When this is placed on stage from hand, choose 1 {2/1 Chisato - 059} in your Waiting Room, you may put it underneath this card Face-up as a Marker. \n"
-        ],
         "jpAbility": [
             "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。",
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「パンツチェック 千束」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
@@ -2526,10 +2724,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have less cards in hand than your opponent, this gets +4000 power.",
+            "AUTO - [(1) Discard 2 cards] When this is placed on stage from hand, you may pay cost. If you do, choose up to 3 Level 0 or lower <Weapon> characters in your Waiting Room, place them on stage in separate slots."
+        ],
         "attributes": [
             "テロリスト",
             "武器"
@@ -2538,10 +2742,6 @@
         "release": "W105",
         "sid": "087",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_087.png",
-        "ability": [
-            "CONT - If you have less cards in hand than your opponent, this gets +4000 power.",
-            "AUTO - [(1) Discard 2 cards] When this is placed on stage from hand, you may pay cost. If you do, choose up to 3 Level 0 or lower <Weapon> characters in your Waiting Room, place them on stage in separate slots."
-        ],
         "jpAbility": [
             "【永】 あなたの手札が相手の手札より少ないなら、このカードのパワーを＋4000。",
             "【自】［(1) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下の《武器》のキャラを3枚まで選び、舞台の別々の枠に置く。"
@@ -2555,10 +2755,15 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, play Rock-Paper-Scissor with your opponent once, and if you win, this turn, this gets +9000 power. \n"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2567,9 +2772,6 @@
         "release": "W105",
         "sid": "088",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_088.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, play Rock-Paper-Scissor with your opponent once, and if you win, this turn, this gets +9000 power. \n"
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは相手と1回じゃんけんし、あなたが勝ったなら、そのターン中、このカードのパワーを＋9000。（あいこなら何もしない）"
         ]
@@ -2582,10 +2784,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less Stock, this cannot attack.",
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may send it to Stock."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -2594,10 +2802,6 @@
         "release": "W105",
         "sid": "089",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_089.png",
-        "ability": [
-            "CONT - If you have 2 or less Stock, this cannot attack.",
-            "AUTO - When this is placed on stage from hand, if you have 4 or more other <LycoReco> or <Weapon> characters, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may send it to Stock."
-        ],
         "jpAbility": [
             "【永】 あなたのストックが2枚以下なら、このカードはアタックできない。",
             "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、ストック置場に置いてよい。"
@@ -2611,10 +2815,13 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "0",
+        "level": 2,
+        "cost": 0,
+        "power": 8000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2623,7 +2830,6 @@
         "release": "W105",
         "sid": "090",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_090.png",
-        "ability": [],
         "jpAbility": [
             "-"
         ]
@@ -2636,12 +2842,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <LycoReco> or <Weapon> characters, this gets -1 Level in hand.",
+            "CONT - All of your other <LycoReco> or <Weapon> characters get +1000 power."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2650,10 +2862,6 @@
         "release": "W105",
         "sid": "091",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_091.png",
-        "ability": [
-            "CONT - If you have 4 or more <LycoReco> or <Weapon> characters, this gets -1 Level in hand.",
-            "CONT - All of your other <LycoReco> or <Weapon> characters get +1000 power."
-        ],
         "jpAbility": [
             "【永】 あなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋1000。"
@@ -2667,12 +2875,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 1 or less other characters in your Front Row, this gets +4000 power.",
+            "AUTO - At the start of your Attack Phase, if this is Standing, and you have 1 or less other characters in your front row, put up to 3 cards from the top of your deck to Stock."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2681,10 +2895,6 @@
         "release": "W105",
         "sid": "092",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_092.png",
-        "ability": [
-            "CONT - If you have 1 or less other characters in your Front Row, this gets +4000 power.",
-            "AUTO - At the start of your Attack Phase, if this is Standing, and you have 1 or less other characters in your front row, put up to 3 cards from the top of your deck to Stock."
-        ],
         "jpAbility": [
             "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋4000。",
             "【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラが1枚以下なら、あなたは自分の山札の上から3枚までを、ストック置場に置く。"
@@ -2698,12 +2908,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {copies of this} gets +3000 power.",
+            "*Note: Has 2 Souls."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2712,10 +2928,6 @@
         "release": "W105",
         "sid": "093",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_093.png",
-        "ability": [
-            "CONT - All of your other {copies of this} gets +3000 power.",
-            "*Note: Has 2 Souls."
-        ],
         "jpAbility": [
             "【永】 他のあなたの「着替え中のたきな」すべてに、パワーを＋3000。"
         ]
@@ -2728,12 +2940,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
+            "AUTO - When this attacks, choose 1 of your other <LycoReco> or <Weapon> characters, this turn, it gets +X power. X equals the number of your other <LycoReco> or <Weapon> characters times 500."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -2742,10 +2960,6 @@
         "release": "W105",
         "sid": "094",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_094.png",
-        "ability": [
-            "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
-            "AUTO - When this attacks, choose 1 of your other <LycoReco> or <Weapon> characters, this turn, it gets +X power. X equals the number of your other <LycoReco> or <Weapon> characters times 500."
-        ],
         "jpAbility": [
             "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
             "【自】 このカードがアタックした時、あなたは他の自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。"
@@ -2759,20 +2973,22 @@
         "side": "W",
         "type": "Event",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
-        "attributes": [],
-        "set": "LRC",
-        "release": "W105",
-        "sid": "095",
-        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_095.png",
         "ability": [
             "If you don't have a <LycoReco> or <Weapon> character, this cannot be played from hand.",
             "Look at up to 4 cards from the top of your deck, choose up to 1 <LycoReco> or <Weapon> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.",
             "Choose 1 card from your Level Zone and 1 card from your Waiting Room, you may swap them."
         ],
+        "attributes": [],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_095.png",
         "jpAbility": [
             "このカードは、あなたの、《リコリコ》か《武器》のキャラがいないなら、手札からプレイできない。",
             "あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
@@ -2787,19 +3003,21 @@
         "side": "W",
         "type": "Event",
         "color": "BLUE",
-        "level": "2",
-        "cost": "2",
+        "level": 2,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "Choose up to 1 character with \"Chisato\" in its name and up to 1 character with \"Takina\" in its name in your Waiting Room, add them to hand, then choose 1 of your <LycoReco> or <Weapon> characters, this turn, it gets +3000 power.",
+            "Reveal the top card of your deck. If that card is a Level 0 or lower character, send it to Stock."
+        ],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "096",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_096.png",
-        "ability": [
-            "Choose up to 1 character with \"Chisato\" in its name and up to 1 character with \"Takina\" in its name in your Waiting Room, add them to hand, then choose 1 of your <LycoReco> or <Weapon> characters, this turn, it gets +3000 power.",
-            "Reveal the top card of your deck. If that card is a Level 0 or lower character, send it to Stock."
-        ],
         "jpAbility": [
             "あなたは自分の控え室の、カード名に「千束」を含むキャラを1枚までとカード名に「たきな」を含むキャラを1枚まで選び、手札に戻し、自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋3000。",
             "あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
@@ -2813,19 +3031,21 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "097",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_097.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
@@ -2839,19 +3059,21 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "098",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_098.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
@@ -2865,19 +3087,21 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "099",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_099.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
@@ -2891,19 +3115,21 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "100",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_100.png",
-        "ability": [],
         "jpAbility": [
             "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
         ]
@@ -2916,10 +3142,15 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -2928,9 +3159,6 @@
         "release": "W105",
         "sid": "101",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_101.png",
-        "ability": [
-            "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck."
-        ],
         "jpAbility": [
             "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
         ]
@@ -2943,10 +3171,16 @@
         "side": "W",
         "type": "Character",
         "color": "YELLOW",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <LycoReco> or <Weapon> characters, this gets +500 power.",
+            "AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -2955,10 +3189,6 @@
         "release": "W105",
         "sid": "102",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_102.png",
-        "ability": [
-            "CONT - For each of your other <LycoReco> or <Weapon> characters, this gets +500 power.",
-            "AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this."
-        ],
         "jpAbility": [
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
             "【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
@@ -2972,10 +3202,15 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 2 or higher character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -2984,9 +3219,6 @@
         "release": "W105",
         "sid": "103",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_103.png",
-        "ability": [
-            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 2 or higher character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
-        ],
         "jpAbility": [
             "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以上のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
         ]
@@ -2999,13 +3231,16 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "STANDBY"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [
             "特徴なし"
         ],
@@ -3013,7 +3248,6 @@
         "release": "W105",
         "sid": "104",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_104.png",
-        "ability": [],
         "jpAbility": [
             "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
             "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
@@ -3027,10 +3261,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, choose 1 of your other <LycoReco> or <Weapon> characters, and return it to hand.",
+            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3039,10 +3279,6 @@
         "release": "W105",
         "sid": "105",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_105.png",
-        "ability": [
-            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, choose 1 of your other <LycoReco> or <Weapon> characters, and return it to hand.",
-            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to the bottom of your opponent's deck."
-        ],
         "jpAbility": [
             "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻す。",
             "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
@@ -3056,12 +3292,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500",
+            "ACT - [(2) Rest this] Look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3070,10 +3312,6 @@
         "release": "W105",
         "sid": "106",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_106.png",
-        "ability": [
-            "CONT - ASSIST Level x 500",
-            "ACT - [(2) Rest this] Look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
             "【起】［(2) このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
@@ -3087,10 +3325,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - This cannot move to other slots.\"",
+            "AUTO - When this attacks, choose 1 of your other <LycoReco> or <Weapon> characters, this turn, it gets +X power. X equals the number of your other <LycoReco> or <Weapon> characters times 500."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3099,14 +3343,263 @@
         "release": "W105",
         "sid": "P01",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p01.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - This cannot move to other slots.\"",
-            "AUTO - When this attacks, choose 1 of your other <LycoReco> or <Weapon> characters, this turn, it gets +X power. X equals the number of your other <LycoReco> or <Weapon> characters times 500."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
             "【自】 このカードがアタックした時、あなたは他の自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。"
         ]
+    },
+    {
+        "name": "最期の役目 千束",
+        "code": "LRC/W105-P02",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - You do not take 4 or more damage from the AUTO effects of your opponent's characters.",
+            "CONT - All of your other <LycoReco> or <Weapon> characters get +500 power.",
+            "ACT - [Rest this] Choose 1 card in your Level Zone and 1 <LycoReco> or <Weapon> character in your Waiting Room, and swap them."
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p02.png"
+    },
+    {
+        "name": "最期の役目 千束",
+        "code": "LRC/W105-P02S",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - You do not take 4 or more damage from the AUTO effects of your opponent's characters.",
+            "CONT - All of your other <LycoReco> or <Weapon> characters get +500 power.",
+            "ACT - [Rest this] Choose 1 card in your Level Zone and 1 <LycoReco> or <Weapon> character in your Waiting Room, and swap them."
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P02S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p02s.png"
+    },
+    {
+        "name": "応えるワケ 千束",
+        "code": "LRC/W105-P03",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your characters, this turn, it gets +1 Soul.",
+            "ACT - [Send this to Waiting Room] Choose 1 of your opponent's characters, return it to hand."
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p03.png"
+    },
+    {
+        "name": "応えるワケ 千束",
+        "code": "LRC/W105-P03S",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your characters, this turn, it gets +1 Soul.",
+            "ACT - [Send this to Waiting Room] Choose 1 of your opponent's characters, return it to hand."
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P03S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p03s.png"
+    },
+    {
+        "name": "私の役目 たきな",
+        "code": "LRC/W105-P04",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character, choose 1 of your characters, this turn, it gets +3000 power.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 of the Traits of your opponent's characters, this turn, all of your opponent's characters loses that Trait."
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p04.png"
+    },
+    {
+        "name": "私の役目 たきな",
+        "code": "LRC/W105-P04S",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character, choose 1 of your characters, this turn, it gets +3000 power.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 of the Traits of your opponent's characters, this turn, all of your opponent's characters loses that Trait."
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P04S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p04s.png"
+    },
+    {
+        "name": "戦うワケ たきな",
+        "code": "LRC/W105-P05",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (2) When you use this card's BACKUP, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p05.png"
+    },
+    {
+        "name": "戦うワケ たきな",
+        "code": "LRC/W105-P05S",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (2) When you use this card's BACKUP, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P05S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p05s.png"
+    },
+    {
+        "name": "いのち大事に 千束",
+        "code": "LRC/W105-P06",
+        "rarity": "PR",
+        "expansion": "Lycoris Recoil",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。",
+            "【自】 このカードがアタックした時、クライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "リコリコ",
+            "武器"
+        ],
+        "set": "LRC",
+        "release": "W105",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_p06.png"
     },
     {
         "name": "遊びに行こう 千束",
@@ -3116,10 +3609,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot.",
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3128,10 +3627,6 @@
         "release": "W105",
         "sid": "T01",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t01.png",
-        "ability": [
-            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot.",
-            "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 <LycoReco> or <Weapon> character from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
             "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻す。"
@@ -3145,10 +3640,15 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 <LycoReco> or <Weapon> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -3157,9 +3657,6 @@
         "release": "W105",
         "sid": "T02",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t02.png",
-        "ability": [
-            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 <LycoReco> or <Weapon> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
-        ],
         "jpAbility": [
             "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
         ]
@@ -3172,10 +3669,15 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 Climax, Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "メガネ"
@@ -3184,9 +3686,6 @@
         "release": "W105",
         "sid": "T03",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t03.png",
-        "ability": [
-            "AUTO - [Discard 1 Climax, Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
-        ],
         "jpAbility": [
             "【自】［手札のクライマックスを1枚控え室に置き、他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
         ]
@@ -3199,10 +3698,16 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your <LycoReco> or <Weapon> characters, this turn, it gets +1500 power.",
+            "AUTO - {CX Combo} When the Door CX (T10) is placed in your Climax Area, if this is in your front row, and you have 4 or less Stock, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may add it to hand."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3211,10 +3716,6 @@
         "release": "W105",
         "sid": "T04",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t04.png",
-        "ability": [
-            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your <LycoReco> or <Weapon> characters, this turn, it gets +1500 power.",
-            "AUTO - {CX Combo} When the Door CX (T10) is placed in your Climax Area, if this is in your front row, and you have 4 or less Stock, choose 1 <LycoReco> or <Weapon> character in your Waiting Room, you may add it to hand."
-        ],
         "jpAbility": [
             "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。",
             "【自】【CXコンボ】 あなたのクライマックス置場に「響かない鼓動」が置かれた時、前列にこのカードがいて、あなたのストックが4枚以下なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻してよい。"
@@ -3228,10 +3729,15 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "ACT - BACKUP +2500 [(1) Send this from your hand to Memory]"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3240,9 +3746,6 @@
         "release": "W105",
         "sid": "T05",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t05.png",
-        "ability": [
-            "ACT - BACKUP +2500 [(1) Send this from your hand to Memory]"
-        ],
         "jpAbility": [
             "【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを思い出にする］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
         ]
@@ -3255,10 +3758,15 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 2,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "*Note: has 2 Soul."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3267,9 +3775,6 @@
         "release": "W105",
         "sid": "T06",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t06.png",
-        "ability": [
-            "*Note: has 2 Soul."
-        ],
         "jpAbility": [
             "-"
         ]
@@ -3282,12 +3787,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "2",
-        "cost": "2",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <LycoReco> or <Weapon> characters, this gets +1000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3296,10 +3807,6 @@
         "release": "W105",
         "sid": "T07",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t07.png",
-        "ability": [
-            "CONT - For each of your other <LycoReco> or <Weapon> characters, this gets +1000 power.",
-            "AUTO - ENCORE [Discard 1 character]"
-        ],
         "jpAbility": [
             "【永】 他のあなたの、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋1000。",
             "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -3313,12 +3820,18 @@
         "side": "W",
         "type": "Character",
         "color": "RED",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character or an Event, you may deal 1 damage to your opponent.",
+            "AUTO - [Send 1 {1/1 Event - T09} from your Memory to Waiting Room] When this attacks, you may pay cost. If you do, choose 1 card in your opponent's Waiting Room, place it on top of their deck."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3327,10 +3840,6 @@
         "release": "W105",
         "sid": "T08",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t08.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <LycoReco> or <Weapon> character or an Event, you may deal 1 damage to your opponent.",
-            "AUTO - [Send 1 {1/1 Event - T09} from your Memory to Waiting Room] When this attacks, you may pay cost. If you do, choose 1 card in your opponent's Waiting Room, place it on top of their deck."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リコリコ》か《武器》のキャラかイベントなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
             "【自】［あなたの思い出置場の「アランチルドレンの証」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。"
@@ -3344,19 +3853,21 @@
         "side": "W",
         "type": "Event",
         "color": "RED",
-        "level": "1",
-        "cost": "1",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "If you don't have a <LycoReco> or <Weapon> character, this cannot be played from hand. Search your deck for up to 1 Climax, show it to your opponent, add it to hand, and shuffle your deck afterwards. ",
+            "Send this to Memory. \n"
+        ],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "T09",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t09.png",
-        "ability": [
-            "If you don't have a <LycoReco> or <Weapon> character, this cannot be played from hand. Search your deck for up to 1 Climax, show it to your opponent, add it to hand, and shuffle your deck afterwards. ",
-            "Send this to Memory. \n"
-        ],
         "jpAbility": [
             "このカードは、あなたの、《リコリコ》か《武器》のキャラがいないなら、手札からプレイできない。あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
             "このカードを思い出にする。"
@@ -3370,18 +3881,20 @@
         "side": "W",
         "type": "Climax",
         "color": "RED",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "COMEBACK"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "T10",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t10.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
@@ -3395,10 +3908,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Send this to Waiting Room] When your other <LycoReco> or <Weapon> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3407,10 +3926,6 @@
         "release": "W105",
         "sid": "T11",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t11.png",
-        "ability": [
-            "AUTO - [Send this to Waiting Room] When your other <LycoReco> or <Weapon> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested",
-            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
-        ],
         "jpAbility": [
             "【自】［このカードを控え室に置く］ 他のあなたの、《リコリコ》か《武器》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
             "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
@@ -3424,10 +3939,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {1/1 Chisato - T06} gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\".",
+            "AUTO - BOND [Discard 1 card] to {1/1 Chisato - T06}."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3436,10 +3957,6 @@
         "release": "W105",
         "sid": "T12",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t12.png",
-        "ability": [
-            "CONT - All of your other {1/1 Chisato - T06} gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\".",
-            "AUTO - BOND [Discard 1 card] to {1/1 Chisato - T06}."
-        ],
         "jpAbility": [
             "【永】 他のあなたの「一緒に生活 千束」すべてに、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
             "【自】 絆／「一緒に生活 千束」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「一緒に生活 千束」を1枚選び、手札に戻す）"
@@ -3453,10 +3970,15 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less Stock, this gets +1500 power."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -3465,9 +3987,6 @@
         "release": "W105",
         "sid": "T13",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t13.png",
-        "ability": [
-            "CONT - If you have 2 or less Stock, this gets +1500 power."
-        ],
         "jpAbility": [
             "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
         ]
@@ -3480,10 +3999,16 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "1",
-        "cost": "0",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 500.",
+            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3492,10 +4017,6 @@
         "release": "W105",
         "sid": "T14",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t14.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <LycoReco> or <Weapon> characters times 500.",
-            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。",
             "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
@@ -3509,12 +4030,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "ACT - [Rest this] Look at the top card of your deck, and put it on top or bottom of your deck."
+        ],
         "attributes": [
             "リコリコ",
             "ネット"
@@ -3523,10 +4050,6 @@
         "release": "W105",
         "sid": "T15",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t15.png",
-        "ability": [
-            "CONT - ASSIST Level x 500.",
-            "ACT - [Rest this] Look at the top card of your deck, and put it on top or bottom of your deck."
-        ],
         "jpAbility": [
             "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
             "【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
@@ -3540,12 +4063,17 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "2",
-        "cost": "1",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 2000."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3554,9 +4082,6 @@
         "release": "W105",
         "sid": "T16",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t16.png",
-        "ability": [
-            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 2000."
-        ],
         "jpAbility": [
             "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
         ]
@@ -3569,12 +4094,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock.",
+            "AUTO - {CX Combo} (2) When this attacks, if you have the Pants CX (T19) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3583,10 +4114,6 @@
         "release": "W105",
         "sid": "T17",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t17.png",
-        "ability": [
-            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock.",
-            "AUTO - {CX Combo} (2) When this attacks, if you have the Pants CX (T19) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent."
-        ],
         "jpAbility": [
             "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
             "【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「力を合わせて」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
@@ -3600,12 +4127,18 @@
         "side": "W",
         "type": "Character",
         "color": "BLUE",
-        "level": "3",
-        "cost": "2",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
         "trigger": [
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <LycoReco> or <Weapon> characters.",
+            "AUTO - [Discard 2 cards] When this attacks, you may pay cost. If you do, deal 1 damage to your opponent."
+        ],
         "attributes": [
             "リコリコ",
             "武器"
@@ -3614,10 +4147,6 @@
         "release": "W105",
         "sid": "T18",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t18.png",
-        "ability": [
-            "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <LycoReco> or <Weapon> characters.",
-            "AUTO - [Discard 2 cards] When this attacks, you may pay cost. If you do, deal 1 damage to your opponent."
-        ],
         "jpAbility": [
             "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数に等しい。",
             "【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
@@ -3631,19 +4160,21 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "GATE"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "T19",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t19.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
             "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
@@ -3657,19 +4188,21 @@
         "side": "W",
         "type": "Climax",
         "color": "BLUE",
-        "level": "0",
-        "cost": "0",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
         "trigger": [
             "SOUL",
             "SOUL"
         ],
         "flavor_text": "",
+        "ability": [],
         "attributes": [],
         "set": "LRC",
         "release": "W105",
         "sid": "T20",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t20.png",
-        "ability": [],
         "jpAbility": [
             "【永】 あなたのキャラすべてに、ソウルを＋2。"
         ]
