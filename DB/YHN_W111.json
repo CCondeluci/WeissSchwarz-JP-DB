@@ -1,0 +1,4049 @@
+[
+    {
+        "name": "ドドーンとお届け ヨウ",
+        "code": "YHN/W111-001",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send the top card of your Deck to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Sound of Heart》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_001.png"
+    },
+    {
+        "name": "最高の一日 カナン",
+        "code": "YHN/W111-002",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] This effect activates up to once per turn. When you use [S], you may pay the cost. If you did, if it is your turn, if this card has one or less Markers underneath it, send the top card underneath this card as a Marker face up, if it is your opponent’s turn, send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO [(1)] When this card attacks, if you have [必要としてくれる人のために] in your Climax Zone, you may pay the cost. If you did, deal two damage to your opponent X times. X is the number of Markers underneath this card. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ この能力は1ターンにつき2回まで発動する。あなたが【起】を使った時、あなたはコストを払ってよい。そうしたら、あなたのターンで、このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置き、相手のターンなら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+            "【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「必要としてくれる人のために」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージをＸ回与える。Ｘはこのカードの下のマーカーの枚数に等しい。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_002.png"
+    },
+    {
+        "name": "工作大好き カナン",
+        "code": "YHN/W111-003",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – This effect activates up to once per turn. When you use [S], if you have another《Sound of Heart》Character, choose one of your《Sound of Heart》Characters, during this turn, it gains +1 Soul.",
+            "[S] – [REST this card] Choose one of your《Sound of Heart》Characters, until end of opponent’s next turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、他のあなたの《心の音》のキャラがいるなら、あなたは自分の《心の音》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+            "【起】［このカードを【レスト】する］ あなたは自分の《心の音》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_003.png"
+    },
+    {
+        "name": "重なる心の音 カナン",
+        "code": "YHN/W111-004",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [REST this card] If you have four or more other《Sound of Heart》Characters, draw one card, choose one card in your Hand, send it to Waiting Room.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, search your Deck for up to one《Sound of Heart》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【起】［このカードを【レスト】する］ 他のあなたの《心の音》のキャラが4枚以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_004.png"
+    },
+    {
+        "name": "元気はつらつ！ ヨウ",
+        "code": "YHN/W111-005",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have another《Sound of Heart》Character, this card gains +30000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have [Letter for you!] in your Climax Zone, if you have two or more other《Sound of Heart》Characters, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《心の音》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Letter for you!」があり、他のあなたの《心の音》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_005.png"
+    },
+    {
+        "name": "重なる心の音 ヨウ",
+        "code": "YHN/W111-006",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more REST Characters in Back Row with [S] effect, this card gains the following effect:",
+            "-[C] – ASSIST All of your Characters in front of this card gains +1500 Power.",
+            "[A] – ALARM If this card is the top card your Clock, if your Level is 2 or higher, at the beginning of your Climax Phase, you may choose one of your Characters and this card, exchange them. If you did, REST this card.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたの後列の【レスト】している【起】を持つキャラが2枚以上なら、このカードは次の能力を得る。『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。』",
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚とこのカードを選び、入れ替えてよい。そうしたら、このカードを【レスト】してよい。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_006.png"
+    },
+    {
+        "name": "頼れる存在 カナン",
+        "code": "YHN/W111-007",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your other《Sound of Heart》Characters, during this turn, it gains +X Power. X is the number of your other《Sound of Heart》Characters.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは他の自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《心の音》のキャラの枚数×500に等しい。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_007.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 ルビィ＆ヨウ",
+        "code": "YHN/W111-008",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose up to one Character and up to one Climax or Event in your Hand, send them to Stock in any order.",
+            "[A] – When this card is placed on Stage from Hand, if you have another《Sound of Heart》Character, during this turn, this card gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の、キャラを1枚までとイベントかクライマックスを1枚まで選んで相手に見せ、ストック置場に好きな順番で置く。",
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《心の音》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_008.png"
+    },
+    {
+        "name": "元気をお届け！ ヨウ",
+        "code": "YHN/W111-009",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +1000 Power.",
+            "[A] – At the beginning of opponent’s Attack Phase, if there is a Character across from this card, you may move this card to an empty slot in Front Row."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_009.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 カナン",
+        "code": "YHN/W111-010",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one Climax from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_010.png"
+    },
+    {
+        "name": "ウチーラのリサイクルクイーン カナン",
+        "code": "YHN/W111-011",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Sound of Heart》Character, you may place it underneath this card face up as a Marker. (If not return card to its original position)",
+            "[A] – This effect activates up to once per turn. When you use [S], during this turn, this card gains +X Power. X is the number of your other《Sound of Heart》Characters x500.",
+            "[S] – [Send one card from Hand to Waiting Room] Choose one Marker underneath this card, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラならこのカードの下にマーカーとして表向きに置いてよい。（そうしないなら元に戻す）",
+            "【自】 この能力は1ターンにつき2回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《心の音》のキャラの枚数×500に等しい。",
+            "【起】［手札を1枚控え室に置く］ あなたはこのカードの下のマーカーを1枚手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_011.png"
+    },
+    {
+        "name": "メッセンジャー ヨウ",
+        "code": "YHN/W111-012",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – This effect activates up to twice per turn. When you use [S], if you have another《Sound of Heart》Character, until end of opponent’s next turn, this card gains +1000 Power.",
+            "[S] – [REST one of your《Sound of Heart》Character] During this turn, this card gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 この能力は1ターンにつき2回まで発動する。あなたが【起】を使った時、他のあなたの《心の音》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋1000。",
+            "【起】［あなたの《心の音》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_012.png"
+    },
+    {
+        "name": "運動神経抜群 ヨウ",
+        "code": "YHN/W111-013",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room When you use this card’s BACKUP, you may pay the cost. If you did, choose one [運動神経抜群 ヨウ] in your Waiting Room, add it to Hand.",
+            "[S] – COUNTER 1000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「運動神経抜群 ヨウ」を1枚選び、手札に戻す。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_013.png"
+    },
+    {
+        "name": "確かな信念 カナン",
+        "code": "YHN/W111-014",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If this card is in your Front Row, all of your《Sound of Heart》Characters in your Hand gain the following effect:",
+            "-[S] – COUNTER 2000 Power BACKUP Level 0",
+            "[S] – [REST two of your《Sound of Heart》Characters] During this turn, this card can Side Attack without Soul Penalty."
+        ],
+        "jpAbility": [
+            "【永】 前列にこのカードがいるなら、あなたの手札の《心の音》のキャラすべてに、『【起】【カウンター】 助太刀2000 レベル0 ［手札のこのカードを控え室に置く］』を与える。",
+            "【起】［あなたの《心の音》のキャラを2枚【レスト】する］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_014.png"
+    },
+    {
+        "name": "いつも明るい元気印 ヨウ",
+        "code": "YHN/W111-015",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When your other《Sound of Heart》Character attacks, during this turn, this card gains +X Power. X is the number of your other《Sound of Heart》Characters x1000.",
+            "[A] – ENCORE [Send one Character in your Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【自】 他のあなたの《心の音》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《心の音》のキャラの枚数×500に等しい。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_015.png"
+    },
+    {
+        "name": "メカニック カナン",
+        "code": "YHN/W111-016",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character or Event among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level you may send that Character to Stock. If you did, send the bottom card of opponent’s Stock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《心の音》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_016.png"
+    },
+    {
+        "name": "あなたへお届け！",
+        "code": "YHN/W111-017",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Perform one of the following two effects of your choice:",
+            "-Choose one [元気はつらつ! ヨウ] in your Waiting Room, place it on Stage in any slot.",
+            "-Search your Deck for up to one [元気はつらつ! ヨウ], place it on Stage in any slot, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "次の2つの効果のうちあなたが選んだ1つを行う。",
+            "『あなたは自分の控え室の「元気はつらつ！ ヨウ」を1枚選び、舞台の好きな枠に置く。』",
+            "『あなたは自分の山札を見て「元気はつらつ！ ヨウ」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。』"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_017.png"
+    },
+    {
+        "name": "必要としてくれる人のために",
+        "code": "YHN/W111-018",
+        "rarity": "CR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_018.png"
+    },
+    {
+        "name": "Letter for you!",
+        "code": "YHN/W111-019",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Choice: When this card is triggered, you may choose one Character with a Soul Trigger Icon, add it to Hand or place it into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンにがあるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_019.png"
+    },
+    {
+        "name": "交わした約束 ライラプス",
+        "code": "YHN/W111-020",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)",
+            "[S] – [Send this STAND Character to Waiting Room] Choose one Character with “Yohane” or “Lailaps” in their card name, place this card underneath this underneath that card face up as a Marker."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）",
+            "【起】［【スタンド】しているこのカードを控え室に置く］ あなたは自分のカード名に「ヨハネ」か「ライラプス」を含むキャラを1枚選び、このカードをそのカードの下にマーカーとして表向きに置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_020.png"
+    },
+    {
+        "name": "あの子を待って マリ",
+        "code": "YHN/W111-021",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have four or more《Sound of Heart》Characters, this card gets -1 Level in your Hand.",
+            "[C] – During your turn, for each of your opponent’s Characters in Back Row, this card gains +2000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Clock to Stock."
+        ],
+        "jpAbility": [
+            "【永】 あなたの《心の音》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、相手の後列のキャラ1枚につき、このカードのパワーを＋2000。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_021.png"
+    },
+    {
+        "name": "絆が紡ぐ奇跡の歌 ヨハネ",
+        "code": "YHN/W111-022",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO When this card attacks, if you have [君と紡ぐ心の音] in your Climax Zone, if you have five or less cards in Hand, if you have two or more other《Sound of Heart》Characters, deal one damage to your opponent, during this turn, this card gains the following effect:",
+            "-[A] [(2) Send one card from Hand to Waiting Room] At the beginning of your Encore Step, if this card has a Marker underneath it, you may pay the cost. If you did, deal two damage to your opponent. (Damage can be canceled)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「君と紡ぐ心の音」があり、あなたの手札が5枚以下で、他のあなたの《心の音》のキャラが2枚以上なら、相手に1ダメージを与え、そのターン中、このカードは次の能力を得る。『【自】［(2) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、このカードの下にマーカーがあるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_022.png"
+    },
+    {
+        "name": "お出迎え ライラプス",
+        "code": "YHN/W111-023",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – CX COMBO If [君と歩んだ日々] is in your Climax Zone, this card in all zones gains three Gold Bag Trigger Icons.",
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +2500 Power and the following effect:",
+            "-[A] – At the end of this card’s attack, return this card to Deck, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【永】【CXコンボ】 あなたのクライマックス置場に「君と歩んだ日々」があるなら、すべての領域にあるこのカードはトリガーアイコンにを得る。",
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードのアタックの終わりに、このカードを山札に戻し、その山札をシャッフルする。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_023.png"
+    },
+    {
+        "name": "重なる心の音 マリ",
+        "code": "YHN/W111-024",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one《Sound of Heart》Character in your Hand to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room.",
+            "[A] – At the beginning of opponent’s Attack Phase, you may move this card to an empty slot in Front Row."
+        ],
+        "jpAbility": [
+            "【自】［手札の《心の音》のキャラを1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_024.png"
+    },
+    {
+        "name": "重なる心の音 ヨハネ",
+        "code": "YHN/W111-025",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO When this card attacks, during this turn, this card gains +4000 Power, if [世界は歌で満たされる] is in your Climax Zone, until end of opponent’s next turn, this card gains the following effect:",
+            "-[A] – When this card is Front Attacked, you may return this card to Hand.",
+            "[S] – [Send one Climax with Book or Gold Bar Trigger Icon to Waiting Room, send this card to Waiting Room] If you have two or more Climaxes with Book Trigger Icon and two or more Climaxes with Gold Bar Trigger Icon in your Waiting Room, look at up to three cards from the top of your Deck, choose up to three《Sound of Heart》Characters among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】 このカードがアタックした時、そのターン中、このカードのパワーを＋4000し、クライマックス置場に「世界は歌で満たされる」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』",
+            "【起】［手札のトリガーアイコンが、かのクライマックスを1枚控え室に置き、このカードを控え室に置く］ あなたの控え室のトリガーアイコンが、のクライマックスとのクライマックスがそれぞれ2枚以上なら、あなたは自分の山札を上から3枚まで見て、《心の音》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_025.png"
+    },
+    {
+        "name": "似た者同士 マリ",
+        "code": "YHN/W111-026",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your other > Characters, until end of opponent’s next turn, it gains +1500 Power and [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[A] – [(2)] At the beginning of your Encore Step, you may pay the cost. If you did, choose one of your other Characters and this card, send them to Memory, at the beginning of your next Draw Phase, place them on Stage from Memory in separate slots."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは他の自分の《心の音》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+            "【自】［(2)］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_026.png"
+    },
+    {
+        "name": "出戻り少女 ヨハネ",
+        "code": "YHN/W111-027",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have another《Sound of Heart》Character, this card gains +3000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《心の音》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_027.png"
+    },
+    {
+        "name": "君に贈る魔法 ライラプス",
+        "code": "YHN/W111-028",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your《Sound of Heart》Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – At the beginning of your Attack Phase, if this card has a Marker underneath it, choose one of your《Sound of Heart》Characters, during this turn, it gains +1000 Power and +1 Soul.",
+            "[S] – [REST this card] Choose one of your [絆が紡ぐ奇跡の歌　ヨハネ], if that card does not have a Marker underneath it, choose up to one [交わした約束 ライラプス] underneath this card, place it underneath that [絆が紡ぐ奇跡の歌　ヨハネ] faceup as a Marker."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの《心の音》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】 あなたのアタックフェイズの始めに、このカードの下にマーカーがあるなら、あなたは自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
+            "【起】［このカードを【レスト】する］ あなたは自分の「絆が紡ぐ奇跡の歌 ヨハネ」を1枚選び、そのキャラの下にマーカーがないなら、このカードのマーカーか自分の控え室の「交わした約束 ライラプス」を1枚まで選び、その「絆が紡ぐ奇跡の歌 ヨハネ」の下にマーカーとして表向きに置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_028.png"
+    },
+    {
+        "name": "良き相棒 ライラプス",
+        "code": "YHN/W111-029",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Sound of Heart》Characters, this card gains +8000 Power.",
+            "[A] – When this card is placed on Stage from Hand, until end of opponent’s next turn, this card gains the following two effects:",
+            "-[C] – During opponent’s turn, this card gains +2000 Power.",
+            "-[C] – BODYGUARD"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラが2枚以上なら、このカードのパワーを＋8000。",
+            "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_029.png"
+    },
+    {
+        "name": "水面に手を伸ばす ヨハネ",
+        "code": "YHN/W111-030",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, if you have four or more other《Sound of Heart》Characters, you may pay the cost. If you did, your opponent chooses one Climax in their Waiting Room, shuffle all other cards in their Waiting Room into their Deck."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《心の音》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_030.png"
+    },
+    {
+        "name": "私にしかできないこと ヨハネ",
+        "code": "YHN/W111-031",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send the top card of your Deck to Clock] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Deck to Stock.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 0 or lower, you may send the top card of your Clock to Waiting Room. If you did, send that Character to Clock."
+        ],
+        "jpAbility": [
+            "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_031.png"
+    },
+    {
+        "name": "過去の心の傷 マリ",
+        "code": "YHN/W111-032",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at the top card of your Deck, place it on top of Deck or Waiting Room.",
+            "[S] – BRAINSTORM [(1) REST this card] If you have two or more other《Sound of Heart》Characters, flip over the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, perform the following effect:",
+            "-Draw up to three cards, choose two cards in your Hand, send them to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ 他のあなたの《心の音》のキャラが2枚以上なら、あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは3枚まで引き、自分の手札を2枚選び、控え室に置く。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_032.png"
+    },
+    {
+        "name": "受け取った魔法 ライラプス",
+        "code": "YHN/W111-033",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose one of your Characters with “Yohane” or “Lailaps” in their card name, if that card does not have a Marker underneath it, choose one [交わした約束 ライラプス], place it underneath this card as a Marker faceup.",
+            "[S] – [Send one card from Hand to Waiting Room, send this card to Waiting Room] Choose one Character with “Yohane” or “Lailaps” in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「ヨハネ」か「ライラプス」を含むキャラを1枚選び、そのキャラの下にマーカーがないなら、自分の控え室の「交わした約束 ライラプス」を1枚まで選び、そのキャラの下にマーカーとして表向きに置く。",
+            "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室のカード名に「ヨハネ」か「ライラプス」を含むキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_033.png"
+    },
+    {
+        "name": "新たに始まる物語 ヨハネ",
+        "code": "YHN/W111-034",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Sound of Heart》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[A] – When this card attacks, look at up to two cards from the top of your Deck, place them on top of Deck in any order."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_034.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 マリ",
+        "code": "YHN/W111-035",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [Send this card to Waiting Room] Choose one of your [似た者同士 ヨハネ], during this turn, it gains +1000 Power and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, choose up to one《Sound of Heart》Character in your Waiting Room, send it to Stock, reveal the top card of your Deck. If that card is Level 1 or higher, send it to Stock. (Climax is considered Level 0. If not return card to its original position)",
+            "[S] – RESONATE [(1) Reveal one [似た者同士 ヨハネ] in your Hand, REST this card] Look at up to three cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【起】［このカードを控え室に置く］ あなたは自分の「似た者同士 ヨハネ」を1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《心の音》のキャラを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。』（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+            "【起】 共鳴 ［(1) 手札の「似た者同士 ヨハネ」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_035.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 ヨハネ",
+        "code": "YHN/W111-036",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1) Send one card from Hand to Waiting Room] During this card’s attack, if you drew a card, you may pay the cost. If you did, deal one damage to your opponent. (Damage can be canceled)",
+            "[A] – CX COMBO When [ひとみしりのハーモニー] is placed in your Climax Zone, if this card is in Front Row, during this turn, this card gains +1000 Power, until end of opponent’s next turn, this card gains the following two effects:",
+            "-[C] – During opponent’s turn, this card cannot be REVERSE.",
+            "-[A] – When this card attacks, draw up to two cards, choose the same number of cards in your Hand, send them to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［(1) 手札を1枚控え室に置く］ このカードのアタック中、あなたがカードを引いた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「ひとみしりのハーモニー」が置かれた時、前列にこのカードがいるなら、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードは【リバース】しない。』『【自】 このカードがアタックした時、あなたは2枚まで引き、自分の手札を同じ枚数選び、控え室に置く。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_036.png"
+    },
+    {
+        "name": "“宿題”探し ヨハネの母",
+        "code": "YHN/W111-037",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose one of your opponent’s Characters, until end of opponent’s next turn, it gains the following effect:",
+            "-[C] – This card cannot move to other slots on Stage.",
+            "[S] – [REST this card] Choose one of your《Sound of Heart》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+            "【起】［このカードを【レスト】する］ あなたは自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_037.png"
+    },
+    {
+        "name": "冥界を束ねる者 マリ",
+        "code": "YHN/W111-038",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card Direct Attacks, during this turn, this card gains +1 Soul.",
+            "[A] – [(1) Send this card to Waiting Room] When your other《Sound of Heart》Character is Front Attacked, you may pay the cost. If you did, return that Character to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードがダイレクトアタックした時、そのターン中、このカードのソウルを＋1。",
+            "【自】［(1) このカードを控え室に置く］ 他のあなたの《心の音》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_038.png"
+    },
+    {
+        "name": "素直になれないお年頃 ヨハネ",
+        "code": "YHN/W111-039",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – At the beginning of your Climax Phase, your opponent may send the top two cards of their Deck to Stock. If they did, during this turn, this card cannot Side Attack."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_039.png"
+    },
+    {
+        "name": "君のそばで見守る ライラプス",
+        "code": "YHN/W111-040",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] – When a Climax with Bar Trigger Icon is placed in your Climax Zone, choose one of your Characters, during this turn, it gains +1000 Power and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send the top card of your Clock to Waiting Room. If you did, send that Character to Clock."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】 あなたのトリガーアイコンがのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_040.png"
+    },
+    {
+        "name": "困り顔 ライラプス",
+        "code": "YHN/W111-041",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, you may pay the cost. If you did, reveal the top card of your Deck. if that card is a《Sound of Heart》Character, add it to Hand, choose one card in your Hand, send it to Waiting Room. (If not return card to its original position)",
+            "[S] – COUNTER 2000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+            "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_041.png"
+    },
+    {
+        "name": "魔王族の末裔 マリ",
+        "code": "YHN/W111-042",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, send the top three cars of your Deck to Waiting Room. If there is a Climax among those cards, you may draw one card.",
+            "[A] – When this card is REVERSE, if this card’s battle opponents’ Level is higher than your opponent’s Level, you may send the top card of opponent’s Clock to Waiting Room. If you did, send that Character to Clock."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは1枚引いてよい。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_042.png"
+    },
+    {
+        "name": "大人っぽい笑み マリ",
+        "code": "YHN/W111-043",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have four or more《Sound of Heart》Characters, this card gets -1 Level in your Hand.",
+            "[C] – During your turn, if you have two or more other《Sound of Heart》Characters, this card gains +6000 Power.",
+            "[A] – CX COMBO [Send one [貰った勇気, 広がる世界] in your Climax Zone to Waiting Room] When this card’s battle opponent is REVERSE, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to four《Sound of Heart》Characters among them, reveal them to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたの《心の音》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのターン中、他のあなたの《心の音》のキャラが2枚以上なら、このカードのパワーを＋6000。",
+            "【自】【CXコンボ】［あなたのクライマックス置場の「貰った勇気、広がる世界」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_043.png"
+    },
+    {
+        "name": "似た者同士 ヨハネ",
+        "code": "YHN/W111-044",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 8500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [],
+        "jpAbility": [
+            "-"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_044.png"
+    },
+    {
+        "name": "心の音は響き合う",
+        "code": "YHN/W111-045",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "BRAINSTORM – Flip the top three cards of your Deck, send them to Waiting Room. Choose up to one Level X or lower《Sound of Heart》Character in your Waiting Room, add it to Hand. X is the number of《Sound of Heart》Characters sent to Waiting Room by this effect."
+        ],
+        "jpAbility": [
+            "集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《心の音》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《心の音》のキャラの枚数に等しい。"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_045.png"
+    },
+    {
+        "name": "君と紡ぐ心の音",
+        "code": "YHN/W111-046",
+        "rarity": "CR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_046.png"
+    },
+    {
+        "name": "君と歩んだ日々",
+        "code": "YHN/W111-047",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bag: When this card is triggered, you may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_047.png"
+    },
+    {
+        "name": "世界は歌で満たされる",
+        "code": "YHN/W111-048",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bar: When this card is triggered, return this card to Hand. You may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_048.png"
+    },
+    {
+        "name": "貰った勇気、広がる世界",
+        "code": "YHN/W111-049",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "POOL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gold Bag: When this card is triggered, you may place the top card of your Deck into Stock.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_049.png"
+    },
+    {
+        "name": "お菓子作り ハナマル",
+        "code": "YHN/W111-050",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if you have another《Sound of Heart》Character, during this turn, this card gains +3500 Power, if this card is in your Front Row Center Slot, until end of opponent’s next turn, this card gains [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[A] – CX COMBO [Send one card from Hand to Waiting Room] At the end of this card’s attack, if you have [おかえり] in your Climax Zone, if the slot across from this card has no Character or is REVERSE, you may pay the cost. If you did, choose up to one《Sound of Heart》Character and up to one《Sound of Heart》Character or [お菓子をどうぞ] in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、他のあなたの《心の音》のキャラがいるなら、そのターン中、このカードのパワーを＋3500し、前列の中央の枠にこのカードがいるなら、次の相手のターンの終わりまで、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+            "【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「おかえり」があり、このカードの正面のキャラがいないか【リバース】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《心の音》のキャラを1枚までと《心の音》のキャラか「お菓子をどうぞ」を1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_050.png"
+    },
+    {
+        "name": "スイーツ大好き ダイヤ",
+        "code": "YHN/W111-051",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +3000 Power.",
+            "[A] – [Send one card from Hand to Waiting Room or send the top card of your Stock to Waiting Room] During the turn this card was placed on Stage from Hand, when this card’s battle opponent is REVERSE, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋3000。",
+            "【自】［手札を1枚控え室に置くか、あなたのストックの上から1枚を控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_051.png"
+    },
+    {
+        "name": "フルーツをどうぞ！ ルビィ",
+        "code": "YHN/W111-052",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, reveal the top card of your Deck. If that card is a《Sound of Heart》Character, you may deal one damage to your opponent. (Damage can be canceled)",
+            "[A] – When this card’s battle opponent is REVERSE, you may return this card to Hand.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 3 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを手札に戻してよい。",
+            "【自】 このカードが【リバース】した時、他のあなたの《心の音》のキャラが2枚以上で、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_052.png"
+    },
+    {
+        "name": "重なる心の音 ハナマル",
+        "code": "YHN/W111-053",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Level X or lower Character in your Waiting Room, add it to Hand. X is the Level of the revealed card. (Climax is considered Level 0. Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_053.png"
+    },
+    {
+        "name": "重なる心の音 ルビィ",
+        "code": "YHN/W111-054",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one《Sound of Heart》Character in your Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, reveal up to two cards from the top of your Deck, your opponent chooses one Character or Event among those cards, add it to Hand, send the remaining cards to Waiting Room.",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, choose up to one Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札の《心の音》のキャラを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_054.png"
+    },
+    {
+        "name": "“コランダムストライダー” ルビィ",
+        "code": "YHN/W111-055",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your《Sound of Heart》Characters in front of this card gains +X Power. X is that Character’s Level x500.",
+            "[A] – [(1)] This effect activates up to once per turn. When you use ACCELERATE, you may pay the cost. If you did, send the top card of your Clock to Waiting Room.",
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたの《心の音》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+            "【自】［(1)］ この能力は1ターンにつき1回まで発動する。あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_055.png"
+    },
+    {
+        "name": "重なる心の音 ダイヤ",
+        "code": "YHN/W111-056",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Sound of Heart》Characters, this card gains +2000 Power.",
+            "[A] – ENCORE [Send one《Sound of Heart》Character in your Waiting Room to bottom of Clock]"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［あなたの控え室の《心の音》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_056.png"
+    },
+    {
+        "name": "美味しいものが大好き ハナマル",
+        "code": "YHN/W111-057",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other《Sound of Heart》Characters gain +1500 Power.",
+            "[A] – When this card is placed on Stage from Hand, look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room.",
+            "[S] – [(2) REST this card] Send the top card of your Clock to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラすべてに、パワーを＋1500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+            "【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_057.png"
+    },
+    {
+        "name": "紅の装甲纏いしライダー ダイヤ",
+        "code": "YHN/W111-058",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If all of your Characters are《Sound of Heart》, this card gains +2000 Power.",
+            "[A] – CX COMBO [(1) Send one card from Hand to Waiting Room]] When this card attacks, if you have [月光に照らされ刃] in your Climax Zone, you may pay the cost. If you did, deal two damage to your opponent, send up to one card from the top of your Clock to Waiting Room. (Damage can be canceled)",
+            "[A] – ACCELERATE [(1) Send one《Sound of Heart》Character in your Waiting Room to bottom of your Clock] At the beginning of opponent’s Attack Phase, you may pay the cost. If you did, choose one of your opponents Characters, during this turn, it gets -2 Soul."
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《心の音》なら、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「月光に照らされし刃」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）",
+            "【自】 加速 ［(1) あなたの控え室の《心の音》のキャラを1枚クロック置場の下に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－2。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_058.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 ダイヤ",
+        "code": "YHN/W111-059",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other《Sound of Heart》Characters gain +500 Power.",
+            "[A] – When this card is placed on Stage from Hand, choose one of your opponent’s Characters in Front Row, during this turn, it gets -500 Power.",
+            "[A] – At the beginning of your Main Phase, look at the top card of your Deck and all of your Stock."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラすべてに、パワーを＋500。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－500。",
+            "【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、自分のストックすべてを見る。（見たカードは元の順番で戻す）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_059.png"
+    },
+    {
+        "name": "素直 ハナマル",
+        "code": "YHN/W111-060",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a《Sound of Heart》Character, during this turn, this card gains +4000 Power.",
+            "[A] – When this card is placed on Stage from Hand, choose one of your《Sound of Heart》Characters, during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラなら、そのターン中、このカードのパワーを＋4000。（公開したカードは元に戻す）",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_060.png"
+    },
+    {
+        "name": "落ち着いた笑み ダイヤ",
+        "code": "YHN/W111-061",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one Climax with Pants or Standby Trigger Icon in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to one《Sound of Heart》Character in your Waiting Room, add it to Hand, if you have two or more Climaxes with a Pants Trigger Icon and two or more Climaxes with a Standby Trigger Icon in your Waiting Room, choose up to one《Sound of Heart》Character in your Waiting Room, send it to Stock."
+        ],
+        "jpAbility": [
+            "【自】［手札のトリガーアイコンが、かのクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《心の音》のキャラを1枚まで選び、手札に戻し、あなたの控え室のトリガーアイコンが、のクライマックスとのクライマックスがそれぞれ2枚以上なら、自分の控え室の《心の音》のキャラを1枚まで選び、ストック置場に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_061.png"
+    },
+    {
+        "name": "明るい表情 ルビィ",
+        "code": "YHN/W111-062",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – CX COMBO [Return this card to your Hand, send one [バイクと一体化] in your Climax Zone to Waiting Room] When [バイクと一体化] is placed in your Climax Zone, you may pay the cost. If you did, look at up to three cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room, choose one of your Characters, during this turn, it gains +2500 Power."
+        ],
+        "jpAbility": [
+            "【自】【CXコンボ】［このカードを手札に戻し、あなたのクライマックス置場の「バイクと一体化」を1枚控え室に置く］ あなたのクライマックス置場に「バイクと一体化」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_062.png"
+    },
+    {
+        "name": "のんびりとした女の子 ハナマル",
+        "code": "YHN/W111-063",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if you have two or more other《Sound of Heart》Characters, you may draw one card. If you did, choose one card in your Hand, send it to Waiting Room.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is Level 1 or lower, you may REVERSE that Character."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《心の音》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_063.png"
+    },
+    {
+        "name": "妖精族の末裔 ルビィ",
+        "code": "YHN/W111-064",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +3000 Power.",
+            "[A] – When this card is placed on Stage from Hand, at the end of your turn, you may choose one of your《Sound of Heart》Characters in your Front Row and one of your《Sound of Heart》Characters in your Back Row, REST and exchange them."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】 このカードが手札から舞台に置かれたターン中、あなたのターンの終わりに、あなたは自分の前列の《心の音》のキャラを1枚と自分の後列の《心の音》のキャラを1枚選び、それぞれを【レスト】して入れ替えてよい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_064.png"
+    },
+    {
+        "name": "頼れる妹 ルビィ",
+        "code": "YHN/W111-065",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, choose one of your battling Characters, during this turn, it gains the following effect:",
+            "-[A]- When this card’s battle opponent is REVERSE, send that Character to Memory.",
+            "[S] – COUNTER 3000 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+            "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_065.png"
+    },
+    {
+        "name": "才色兼備 ダイヤ",
+        "code": "YHN/W111-066",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Sound of Heart》Characters, this card gains +1000 Power.",
+            "[A] – ENCORE [Send one Character in your Hand to Waiting Room]"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラ1枚につき、このカードのパワーを＋1000。",
+            "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_066.png"
+    },
+    {
+        "name": "真剣な表情 ルビィ",
+        "code": "YHN/W111-067",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, send the top two cards of your Deck to Waiting Room. If there is a Climax among those cards, choose one of your opponent’s Characters, during this turn, it gets -1000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－1000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_067.png"
+    },
+    {
+        "name": "意気込み十分 ルビィ",
+        "code": "YHN/W111-068",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If this card is in your Front Row Center Slot, this card gains +3000 Power.",
+            "[S] – [(1) Send this card to Waiting Room] Look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_068.png"
+    },
+    {
+        "name": "頼れる右腕 コハク",
+        "code": "YHN/W111-069",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +3000 Power.",
+            "[A] – [Send one《Sound of Heart》Character in your Hand to Waiting Room] When this card is placed on Stage from Hand or sent from Stage to Waiting Room, you may pay the cost. If you did, draw one card."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+            "【自】［手札の《心の音》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_069.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 ハナマル",
+        "code": "YHN/W111-070",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your other《Sound of Heart》Characters, until end of opponent’s next turn, it gains the following effect:",
+            "-[C] – During opponent’s turn, this card gains +3000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは他の自分の《心の音》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 相手のターン中、このカードのパワーを＋3000。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_070.png"
+    },
+    {
+        "name": "冷静沈着 ダイヤ",
+        "code": "YHN/W111-071",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your opponent’s Characters gain [A] – ENCORE [(2)]."
+        ],
+        "jpAbility": [
+            "【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_071.png"
+    },
+    {
+        "name": "パティシエ ハナマル",
+        "code": "YHN/W111-072",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +1000 Power.",
+            "[A] – When this card attacks, choose one of your other《Sound of Heart》Characters, during this turn, it gains +X Power. X is the number of your other《Sound of Heart》Characters."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】 このカードがアタックした時、あなたは他の自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《心の音》のキャラの枚数×500に等しい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_072.png"
+    },
+    {
+        "name": "ヌマヅ執務長官 ダイヤ",
+        "code": "YHN/W111-073",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have another《Sound of Heart》Character, this card gains +3000 Power.",
+            "[A] – If the Character across from this card is cost 0 or lower, this card cannot be REVERSE."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《心の音》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_073.png"
+    },
+    {
+        "name": "優しい笑顔 ハナマル",
+        "code": "YHN/W111-074",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, if the Character across from this card is Level 3 or higher, during this turn, this card gains +6000 Power and +2 Soul."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000し、ソウルを＋2。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_074.png"
+    },
+    {
+        "name": "お菓子をどうぞ",
+        "code": "YHN/W111-075",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Event",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER Perform one of the following two effects of your choice:",
+            "-If you have three or more《Sound of Heart》Characters, look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room.",
+            "-Choose one of your [お菓子創り ハナマル], during this turn, it gains the following effect:",
+            "-[C] – During opponent’s turn, this card and this card’s battle opponent cannot be REVERSE."
+        ],
+        "jpAbility": [
+            "【カウンター】 次の2つの効果のうちあなたが選んだ1つを行う。",
+            "『あなたの《心の音》のキャラが3枚以上なら、あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』",
+            "『あなたは自分の「お菓子作り ハナマル」を1枚選び、そのターン中、次の能力を与える。『【永】 相手のターン中、このカードのバトル相手とこのカードは【リバース】しない。』』"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_075.png"
+    },
+    {
+        "name": "おかえり",
+        "code": "YHN/W111-076",
+        "rarity": "CR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_076.png"
+    },
+    {
+        "name": "月光に照らされし刃",
+        "code": "YHN/W111-077",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_077.png"
+    },
+    {
+        "name": "バイクと一体化",
+        "code": "YHN/W111-078",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed from Hand to Climax Zone from Hand, perform the Standby effect.",
+            "（Standby: When this card is Triggered, you may choose 1 Character with Level equal or less than your Level +1, place it into any slot on Stage in REST)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、の効果を行う。",
+            "（：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_078.png"
+    },
+    {
+        "name": "ありのままでいられる瞬間 リコ",
+        "code": "YHN/W111-079",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card from Hand to Waiting Room] When a Climax is placed in your Climax Zone, you may pay the cost. If you did, reveal the top card of your Deck, choose up Level X or lower Character in your Waiting Room, add it to Hand. X is the Level of the revealed card. (Climax is considered Level 0. Return revealed card to its original position)",
+            "[S] – BRAINSTORM [(1) REST this card] Flip the top four cards of your Deck, send them to Waiting Room. For each Climax among those cards, perform the following effect:",
+            "-Look at up to three cards from the top of your Deck, choose up to one card among them, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_079.png"
+    },
+    {
+        "name": "ヌマヅを守る怪傑 チカ",
+        "code": "YHN/W111-080",
+        "rarity": "RR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +2000 Power.",
+            "[A] – CX COMBO When this card attacks, if you have [パップガン] in your Climax Zone, if you have two or more other《Sound of Heart》Characters, perform one of the following two effects of your choice:",
+            "-Look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room.",
+            "-Choose one Level 2 or higher《Sound of Heart》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「パップガン」があり、他のあなたの《心の音》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『あなたは自分の控え室のレベル2以上の《心の音》のキャラを1枚選び、手札に戻す。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_080.png"
+    },
+    {
+        "name": "秘密兵器 チカ",
+        "code": "YHN/W111-081",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if you have another《Sound of Heart》Character, until end of opponent’s next turn, this card gains +2000 Power.",
+            "[A] – [(1) Send one card from hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one of your opponent’s Characters, return it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《心の音》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_081.png"
+    },
+    {
+        "name": "お茶目な一面 リコ",
+        "code": "YHN/W111-082",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +1000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, choose one of your《Sound of Heart》Characters, REST it, move it to an empty slot in Back Row."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋1000。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《心の音》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_082.png"
+    },
+    {
+        "name": "重なる心の音 チカ",
+        "code": "YHN/W111-083",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or less Climaxes in your Waiting Room, this card gets -1 Level in your Hand.",
+            "[A] – If all of your Characters are《Sound of Heart》, this card gains +1500 and [A] – ENCORE [Send one Character from Hand to Waiting Room].",
+            "[C] – If this card is in Front Row, all of your《Sound of Heart》Characters gain +1500 Power."
+        ],
+        "jpAbility": [
+            "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【永】 あなたのキャラすべてが《心の音》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+            "【永】 前列にこのカードがいるなら、あなたの《心の音》のキャラすべてに、パワーを＋1500。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_083.png"
+    },
+    {
+        "name": "重なる心の音 リコ",
+        "code": "YHN/W111-084",
+        "rarity": "R",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO [(1)] This effect activates up to once per turn. At the end of this card’s attack, if you have [ひとりぼっちだから分かり会えた心] in your Climax Zone, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a《Sound of Heart》Character, STAND this card. (Return revealed card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】［(1)］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「ひとりぼっちだから分かり合えた心」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラなら、このカードを【スタンド】する。（公開したカードは元に戻す）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_084.png"
+    },
+    {
+        "name": "探究心旺盛 リコ",
+        "code": "YHN/W111-085",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +500 Power.",
+            "[A] – [Send this card to Waiting Room] When your other《Sound of Heart》Character is sent from Stage to Waiting Room, if this card is in Back Row, you may pay the cost. If you did, place that Character in its previous slot."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+            "【自】［このカードを控え室に置く］ 他のあなたの《心の音》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_085.png"
+    },
+    {
+        "name": "似た者同士 リコ",
+        "code": "YHN/W111-086",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – When you play [似た者同士 ヨハネ] from Hand, you may send one Marker underneath this card to Waiting Room in place of one Stock.",
+            "[A] – RESONATE [Reveal one [似た者同士 ヨハネ] When this card is placed on Stage from Hand, you may pay the cost. If you did, send the top card of your Deck underneath this card face up as a Marker.",
+            "[S] – [Send this card to Waiting Room] Choose one of your [似た者同士 ヨハネ], during this turn, it gains +1500 Power and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may choose one《Sound of Heart》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 あなたが自分の手札の「似た者同士 ヨハネ」のコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
+            "【自】 共鳴 ［手札の「似た者同士 ヨハネ」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置く。",
+            "【起】［このカードを控え室に置く］ あなたは自分の「似た者同士 ヨハネ」を1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《心の音》のキャラを1枚選び、手札に戻してよい。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_086.png"
+    },
+    {
+        "name": "誰も知らない秘密 チカ",
+        "code": "YHN/W111-087",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may choose one《Sound of Heart》Character during this turn, it gains +1500 Power.",
+            "[A] – When this attacks, you may choose one《Sound of Heart》Character during this turn, it gains +1500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+            "【自】 このカードがアタックした時、あなたは自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_087.png"
+    },
+    {
+        "name": "明るい表情 チカ",
+        "code": "YHN/W111-088",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(2) Send one Character on your Stage to Waiting Room] When you use this card’s BACKUP, you may pay the cost. If you did choose one of your opponent’s Characters whose Level is higher than your opponent’s Level, send it to Waiting Room.",
+            "[S] – COUNTER 2500 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】［(2) あなたの舞台のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_088.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 リコ",
+        "code": "YHN/W111-089",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your other《Sound of Heart》Characters gain +1000 Power.",
+            "[A] – CX COMBO When [ひとみしりのハーモニー] is placed in your Climax Zone, if this card is in Back Row, choose one of your [繋がる心,始まる友情 ヨハネ], during this turn, it gains +1000 Power and the following effect:",
+            "-[A] – [REST one of your STAND Characters] When this card attacks, you may pay the cost. If you did, perform Trigger Check three times.",
+            "[S] – [Send two cards from Hand to Waiting Room, REST this card] Look at up to six cards from the top of your Deck, choose three cards among them, send the remaining cards to Waiting Room, place the remaining cards on top of Deck in any order."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラすべてに、パワーを＋1000。",
+            "【自】【CXコンボ】 あなたのクライマックス置場に「ひとみしりのハーモニー」が置かれた時、後列にこのカードがいるなら、あなたは自分の「繋がる心、始まる友情 ヨハネ」を1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを3回行う。』",
+            "【起】［手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_089.png"
+    },
+    {
+        "name": "フレンドリーな女の子 チカ",
+        "code": "YHN/W111-090",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose up to one of your opponent’s Characters, send it to Memory, your opponent places that Character from Memory onto any slot on Stage.",
+            "[A] – When this card is placed on Stage from Hand, choose one of your other < Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_090.png"
+    },
+    {
+        "name": "旅館の看板娘 チカ",
+        "code": "YHN/W111-091",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – Send up to two cards from the top of your Deck to Waiting Room.",
+            "[A] – [Send one Climax from Hand to Waiting Room] When this card is placed on stage from Hand, you may pay the cost. If you did, choose one《Sound of Heart》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 あなたは自分の山札の上から2枚までを、控え室に置く。",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《心の音》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_091.png"
+    },
+    {
+        "name": "素直になれない リコ",
+        "code": "YHN/W111-092",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Sound of Heart》Characters, this card gains +500 Power.",
+            "[A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《心の音》のキャラの枚数に等しい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_092.png"
+    },
+    {
+        "name": "旅館の看板娘 ミト",
+        "code": "YHN/W111-093",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 1000,
+        "soul": 2,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your other Characters with “Chika” in their card name, until end of opponent’s next turn it gains +1500 Power, +1 Soul and [A] – ENCORE [Send one Character in your Hand to Waiting Room].",
+            "[A] – [(1)] When this card’s dealt damage is canceled, you may pay the cost. If you did, draw one card, choose one card in your Hand, send it to Waiting Room, choose up to one of your opponent’s Level 1 or lower Characters in Front Row, send it to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは他の自分のカード名に「チカ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、ソウルを＋1し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+            "【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置く。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_093.png"
+    },
+    {
+        "name": "旅館の看板娘 シマ",
+        "code": "YHN/W111-094",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at up to three cards from the top of your Deck, choose up to one Character with “Chika” in their card name, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. If you added a card to Hand, choose one card in your Hand, send it to Waiting Room.",
+            "[A] – When this card is REVERSE, if this card’s battle opponent is cost 0 or lower, you may send that Character to bottom of Deck."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カード名に「チカ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_094.png"
+    },
+    {
+        "name": "繋がる心、始まる友情 チカ",
+        "code": "YHN/W111-095",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Sound of Heart》Characters, this card gains +500 Power.",
+            "[A] – When this card attacks, if the Character across from this card is Level 2, during this turn, this card gains +6000 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラ1枚につき、このカードのパワーを＋500。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_095.png"
+    },
+    {
+        "name": "動物学者 リコ",
+        "code": "YHN/W111-096",
+        "rarity": "C",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When a Climax is placed in your Climax Zone, during this turn, this card gains +2500 Power and the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send this card to Memory. If you did, at the beginning of your next Draw Phase, choose one [動物学者 リコ] in your Memory, place it on Stage in any slot."
+        ],
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「動物学者 リコ」を1枚選び、舞台の好きな枠に置く。』"
+        ],
+        "attributes": [
+            "心の音"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_096.png"
+    },
+    {
+        "name": "月夜の元、華麗な助太刀",
+        "code": "YHN/W111-097",
+        "rarity": "U",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER If you have five or more《Sound of Heart》Characters, send up to two cards from top of your Clock to Waiting Room, choose one of your《Sound of Heart》Characters, during this turn, it gains +1500 Power.",
+            "Send this card to Memory."
+        ],
+        "jpAbility": [
+            "【カウンター】 あなたの《心の音》のキャラが5枚以上なら、あなたは自分のクロックの上から2枚までを、控え室に置き、自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1500。このカードを思い出にする。"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_097.png"
+    },
+    {
+        "name": "パップガン",
+        "code": "YHN/W111-098",
+        "rarity": "CR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_098.png"
+    },
+    {
+        "name": "ひとりぼっちだから分かり合えた心",
+        "code": "YHN/W111-099",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Gate: When this card is triggered, you may choose one Climax in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_099.png"
+    },
+    {
+        "name": "ひとみしりのハーモニー",
+        "code": "YHN/W111-100",
+        "rarity": "CC",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Book: When this card is triggered, you may draw one card.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは1枚引いてよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_100.png"
+    },
+    {
+        "name": "ちびカナン",
+        "code": "YHN/W111-101",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[S] – [REST this card] Choose one of your Characters, during this turn, it gains +2500 Power."
+        ],
+        "jpAbility": [
+            "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_101.png"
+    },
+    {
+        "name": "ちびヨウ",
+        "code": "YHN/W111-102",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +5000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_102.png"
+    },
+    {
+        "name": "ちびライラプス",
+        "code": "YHN/W111-103",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +5000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_103.png"
+    },
+    {
+        "name": "ちびマリ",
+        "code": "YHN/W111-104",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(2)] When you use this card’s BACKUP, you may pay the cost. If you did, search your Deck for up to one <> Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards.",
+            "[S] – COUNTER 1000 Power BACKUP Level 1"
+        ],
+        "jpAbility": [
+            "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+            "【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_104.png"
+    },
+    {
+        "name": "ちびヨハネ",
+        "code": "YHN/W111-105",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 2,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[S] – COUNTER 5500 Power Level 2 [(2) Reveal this card in Hand, send it to bottom of Deck]"
+        ],
+        "jpAbility": [
+            "【起】【カウンター】 助太刀5500 レベル2 ［(2) 手札のこのカードを公開し、山札の下に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋5500）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_105.png"
+    },
+    {
+        "name": "ちびハナマル",
+        "code": "YHN/W111-106",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(1)] When this card attacks, if you have two or more other《Sound of Heart》Characters, you may pay the cost. If you did, during this turn, this card gains +1000 Power and +2 Soul."
+        ],
+        "jpAbility": [
+            "【自】［(1)］ このカードがアタックした時、他のあなたの《心の音》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、ソウルを＋2。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_106.png"
+    },
+    {
+        "name": "ちびダイヤ",
+        "code": "YHN/W111-107",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, choose one of your opponent’s Characters in Front Row, during this turn, until end of opponent’s next turn, it gains +1000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "107",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_107.png"
+    },
+    {
+        "name": "ちびルビィ",
+        "code": "YHN/W111-108",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, during this turn, this card gains +X Power. X is the number of your other《Sound of Heart》Characters x1000.",
+            "[A] – When this card’s battle opponent is REVERSE, choose one of your《Sound of Heart》Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《心の音》のキャラの枚数×1000に等しい。",
+            "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "108",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_108.png"
+    },
+    {
+        "name": "ちびリコ",
+        "code": "YHN/W111-109",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [(2)] When this card is placed on Stage from Hand, you may pay the cost. If you did, return all cards in your Waiting Room to your Deck, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "109",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_109.png"
+    },
+    {
+        "name": "ちびチカ",
+        "code": "YHN/W111-110",
+        "rarity": "PR",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is REVERSE, if this card’s battle opponent’s Level is higher than your opponent’s Level, you may send that Character to Memory."
+        ],
+        "jpAbility": [
+            "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "110",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_110.png"
+    },
+    {
+        "name": "お仕事中 ハナマル",
+        "code": "YHN/W111-T01",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may choose one card in your Clock, add it to Hand. If you did, choose one card in your Hand, send it to Clock.",
+            "[S] – [(1) Send this card to Waiting Room] Look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+            "【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t01.png"
+    },
+    {
+        "name": "気になる事件 ダイヤ",
+        "code": "YHN/W111-T02",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, this card gains +2000 Power.",
+            "[A] – ALARM If this card is the top card of your Clock, at the beginning of your Climax Phase, choose one of your Characters, during this turn, it gains the following effect:",
+            "-[A] – When this card’s battle opponent is REVERSE, you may send the top card of opponent’s Clock to Waiting Room. If you did, send that Character to Clock."
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、このカードのパワーを＋2000。",
+            "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t02.png"
+    },
+    {
+        "name": "盗み聞き ルビィ",
+        "code": "YHN/W111-T03",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card in your Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, during this attack, perform Trigger Check twice during Trigger Step.",
+            "[A] – When this card’s dealt damage is canceled, you may return this card to your Hand."
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+            "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t03.png"
+    },
+    {
+        "name": "特別な魔法 ヨハネ",
+        "code": "YHN/W111-T04",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Return two Characters in your Waiting Room to your Deck, shuffle your Deck afterwards] When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card can Side Attack without Soul Penalty.",
+            "[A] – [(1) Send one Climax in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one Climax in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+            "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t04.png"
+    },
+    {
+        "name": "ヌマヅの歴史を知る者 マリ",
+        "code": "YHN/W111-T05",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, if you have another《Sound of Heart》Character, this card gains +2000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have another《Sound of Heart》> Character, reveal the top card of your Deck. If that card is a Level 2 or higher Character, add it to Hand. (If not return card to its original position)"
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、他のあなたの《心の音》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+            "【自】 このカードのバトル相手が【リバース】した時、他のあなたの《心の音》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t05.png"
+    },
+    {
+        "name": "ミリオンダラーの一員 チカ",
+        "code": "YHN/W111-T06",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card attacks, choose one of your Characters, during this turn, it gains +2500 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t06.png"
+    },
+    {
+        "name": "うれしい発言 ライラプス",
+        "code": "YHN/W111-T07",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If your Level is 2 or higher, this card gains the following effect:",
+            "-[S] – [(1) Send one card from Hand to Waiting Room, send this card to Waiting Room] Choose up to one [凸凹姉妹 ヨハネ&らライラプス] in your Hand, place it in this card’s previous slot.",
+            "[A] – [Send one card in your Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one《Sound of Heart》Character among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room."
+        ],
+        "jpAbility": [
+            "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「凸凹姉妹 ヨハネ＆ライラプス」を1枚まで選び、このカードがいた枠に置く。』",
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t07.png"
+    },
+    {
+        "name": "夏に咲く満開の笑顔 ヨウ",
+        "code": "YHN/W111-T08",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – During your turn, if you have another《Sound of Heart》Character, this card gains +3000 Power.",
+            "[A] – When this card’s battle opponent is REVERSE, if you have another《Sound of Heart》Character, reveal the top card of your Deck. If that card is a Level 2 or higher Character, add it to Hand. (If not return card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのターン中、他のあなたの《心の音》のキャラがいるなら、このカードのパワーを＋3000。",
+            "【自】 このカードのバトル相手が【リバース】した時、他のあなたの《心の音》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t08.png"
+    },
+    {
+        "name": "お宝集め カナン",
+        "code": "YHN/W111-T09",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If all of your Characters are《Sound of Heart》, this card gains +1000 Power.",
+            "[A] – [Send one of your other《Sound of Heart》Characters on Stage to Waiting Room] When this card attacks, you may pay the cost. If you did, reveal the top card of your Deck. If that card is a《Sound of Heart》Character, add it to your Hand. (If not return card to its original position)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてが《心の音》なら、このカードのパワーを＋1000。",
+            "【自】［他のあなたの舞台の《心の音》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラなら手札に加える。（そうでないなら元に戻す）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t09.png"
+    },
+    {
+        "name": "突然のときめき リコ",
+        "code": "YHN/W111-T10",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When you use this card’s BACKUP, if your opponent has a Climax in their Climax Zone, choose one of your battling《Sound of Heart》Characters, during this turn, it gains +2000 Power.",
+            "[S] – COUNTER 2500 Power BACKUP Level 2"
+        ],
+        "jpAbility": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、相手のクライマックス置場にクライマックスがあるなら、あなたは自分のバトル中の《心の音》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t10.png"
+    },
+    {
+        "name": "魔法の杖",
+        "code": "YHN/W111-T11",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER If you do not have a《Sound of Heart》Character, you cannot play this card from Hand. You may choose one Climax in your Hand, send it to Waiting Room. If you did, choose one battling Character, during this turn, it gains the following effect:",
+            "-[C] – This card cannot deal damage to players."
+        ],
+        "jpAbility": [
+            "【カウンター】 このカードは、あなたの《心の音》のキャラがいないなら、手札からプレイできない。あなたは自分の手札のクライマックスを1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t11.png"
+    },
+    {
+        "name": "記憶の海にただ沈む",
+        "code": "YHN/W111-T12",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed in Climax Zone from Hand, choose up to one Level 1 or lower Character in your Waiting Room, send it to Stock, during this turn, all of your Characters gain +1 Soul."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t12.png"
+    },
+    {
+        "name": "夏に咲く満開の笑顔 カナン",
+        "code": "YHN/W111-T13",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [],
+        "jpAbility": [
+            "【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+            "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t13.png"
+    },
+    {
+        "name": "楽しいお仕事 チカ",
+        "code": "YHN/W111-T14",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is the number of your opponent’s Characters x1000.",
+            "[A] – [Send one Climax in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one《Sound of Heart》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+            "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《心の音》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t14.png"
+    },
+    {
+        "name": "お悩み相談 ヨウ",
+        "code": "YHN/W111-T15",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – [Send one card in your Hand to Waiting Room] When this card is sent from Stage to Waiting Room, you may pay the cost. If you did, look at up to four cards from the top of your Deck, choose up to one Level 1 or higher card among them, reveal it to your opponent, add it to Hand, send the remaining cards to Waiting Room. (Climax is considered Level 0)"
+        ],
+        "jpAbility": [
+            "【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t15.png"
+    },
+    {
+        "name": "開いた心 リコ",
+        "code": "YHN/W111-T16",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, during this turn, this card gains +1500 Power.",
+            "[A] – [(1) Send one card in your Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to one《Sound of Heart》Character, reveal it to your opponent, add it to Hand, shuffle your Deck afterwards."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+            "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《心の音》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t16.png"
+    },
+    {
+        "name": "秘密の妖精 ルビィ",
+        "code": "YHN/W111-T17",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] – If you have two or more other《Sound of Heart》Characters, this card gains +2000 Power.",
+            "[A] – ENCORE [Send one《Sound of Heart》Character in your Waiting Room to bottom of your Clock]"
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの《心の音》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 アンコール ［あなたの控え室の《心の音》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t17.png"
+    },
+    {
+        "name": "いざ出動！ ダイヤ",
+        "code": "YHN/W111-T18",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – ASSIST All of your Characters in front of this card gains +1000 Power.",
+            "[A] – ALARM [Send one card in your Hand to Waiting Room] If this card is the top card of your Clock, at the beginning of your Climax Phase, you may pay the cost. If you did, choose one《Sound of Heart》Character in your Waiting Room, add it to Hand."
+        ],
+        "jpAbility": [
+            "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+            "【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《心の音》のキャラを1枚選び、手札に戻す。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t18.png"
+    },
+    {
+        "name": "さみし気な表情 マリ",
+        "code": "YHN/W111-T19",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – For each of your other《Sound of Heart》Characters in your Back Row, this card gains +2500 Power."
+        ],
+        "jpAbility": [
+            "【永】 他のあなたの後列の《心の音》のキャラ1枚につき、このカードのパワーを＋2500。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t19.png"
+    },
+    {
+        "name": "凸凹姉妹 ヨハネ＆ライラプス",
+        "code": "YHN/W111-T20",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, draw up to two cards, choose two cards in your Hand, send them to Waiting Room, send up to one card from the top of your Deck to Stock, until end of opponent’s next turn, this card gains +2000 Power.",
+            "[A] – CX COMBO [(2) Send one《Sound of Heart》Character in your Hand to Waiting Room] When your other [仲間と出会えた喜び ヨハネ] attacks, if you have [これからもずっと一緒] in your Climax Zone, if this card is in your Front Row, if you have six or less cards in your Hand, you may pay the cost. If you did, deal three damage to your opponent."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+            "【自】【CXコンボ】［(2) 手札の《心の音》のキャラを1枚控え室に置く］ 他のあなたの「仲間と出会えた喜び ヨハネ」がアタックした時、クライマックス置場に「これからもずっと一緒」があり、前列にこのカードがいて、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t20.png"
+    },
+    {
+        "name": "歌から貰った勇気 ハナマル",
+        "code": "YHN/W111-T21",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, look at up to three cards from the top of your Deck, place them on top of Deck in any order, choose up to one of your opponent’s Characters, return it to Hand.",
+            "[A] – When this card attacks, if you have two or more other《Sound of Heart》Characters, choose one of your Characters, during this turn, it gains +2000 Power."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+            "【自】 このカードがアタックした時、他のあなたの《心の音》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t21.png"
+    },
+    {
+        "name": "仲間と出会えた喜び ヨハネ",
+        "code": "YHN/W111-T22",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand or by the CX COMBO effect of [仲間と出会えた喜び ヨハネ]l, you may send the top card of your Clock to Waiting Room.",
+            "[A] – CX COMBO [(1) Send one《Sound of Heart》Character in your Hand to Waiting Room] If this card is in your Waiting Room, if [これからもずっと一緒] is in your Climax Zone, if your Level is 2 or higher, if you have a [凸凹姉妹 ヨハネ&らライラプス], you may pay the cost. If you did, place this card on Stage in any slot."
+        ],
+        "jpAbility": [
+            "【自】 このカードが手札から舞台に置かれた時か「仲間と出会えた喜び ヨハネ」の【CXコンボ】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+            "【自】【CXコンボ】［(1) 手札の《心の音》のキャラを1枚控え室に置く］ 控え室にこのカードがあり、あなたのクライマックス置場に「これからもずっと一緒」が置かれた時、あなたのレベルが2以上で、あなたの「凸凹姉妹 ヨハネ＆ライラプス」がいるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に置く。"
+        ],
+        "attributes": [
+            "Sound of Heart"
+        ],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T22",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t22.png"
+    },
+    {
+        "name": "これからもずっと一緒",
+        "code": "YHN/W111-T23",
+        "rarity": "TD",
+        "expansion": "Genjitsu no Yohane",
+        "side": "W",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] – All of your Characters gain +1000 Power and +1 Soul.",
+            "（Door: When this card is triggered, you may choose one Character in your Waiting Room, add it to Hand.)"
+        ],
+        "jpAbility": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "YHN",
+        "release": "111",
+        "sid": "T23",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t23.png"
+    }
+]
