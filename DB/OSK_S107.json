@@ -1,0 +1,3631 @@
+[
+    {
+        "name": "\"B小町\"ルビー",
+        "code": "OSK/S107-001",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, reveal the top card of your deck. If that card is Level 1 or higher, choose 1 of your <Showbiz> characters, this turn, it gets +1000 power and +1 Soul.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_001.png"
+    },
+    {
+        "name": "恋に落ちた瞬間 有馬かな",
+        "code": "OSK/S107-002",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Showbiz> character, this gets +3000 power.",
+            "AUTO - {CX COMBO} EXPERIENCE 2 - When this attacks, if you have the Choice CX (031) in your Climax Area, and the sum of Levels of cards in your Level Zone is 2 or more, mill 2, then choose up to 1 Level X or lower <Showbiz> character from your Waiting Room, and add it to hand. If X is 2 or higher, you may discard 1 card. If you discarded 1, choose 1 character in your Waiting Room, ad it to hand. X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_002.png"
+    },
+    {
+        "name": "\"B小町\"MEMちょ",
+        "code": "OSK/S107-003",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "CONT - If all of your characters are <Showbiz>, this gets +1000 power.",
+            "AUTO - EXPERIENCE 3 - When this is placed on stage from hand, if the sum of Levels of cards in your Level Zone is 3 or more, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Look at up to 3 cards from the top of your deck, choose 1 card among them, add it to hand, and send the rest back on top of your deck in any order.\"",
+            "b) \"[Discard 1 card] You may pay cost. If you do, choose 1 <Showbiz> character in your Clock, add it to hand.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_003.png"
+    },
+    {
+        "name": "\"B小町\"有馬かな",
+        "code": "OSK/S107-004",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} EXPERIENCE 6 - (1) When this attacks, if you have the Choice CX (030) in your Climax, and the sum of Levels of cards in your Level Zone is 6 or more, you may pay cost. If you do, this turn, this gains the following ability, \"AUTO - This ability can only be activated up to once per turn. When this card's damage is cancelled, send the bottom 3 cards of your opponent's deck to Waiting Room, then deal 2 damage to your opponent X times. X equals the number of Level 0 or lower cards sent to Waiting Room by this effect.\" "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_004.png"
+    },
+    {
+        "name": "出演交渉 有馬かな",
+        "code": "OSK/S107-005",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - This cannot move to other slots.\" ",
+            "AUTO - When this is Reversed, if the battle opponent's level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_005.png"
+    },
+    {
+        "name": "憧れのアイドルを目指して ルビー",
+        "code": "OSK/S107-006",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 Climax with a Choice Trigger] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax with a Choice Trigger from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_006.png"
+    },
+    {
+        "name": "新人アイドル 有馬かな",
+        "code": "OSK/S107-007",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have 3 or less Stock, this gets +2000 power.",
+            "AUTO - At the start of your opponent's Draw Phase, mill 2. If there is a Level 2 or higher card among those cards, you may return this card to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_007.png"
+    },
+    {
+        "name": "夢をもう一度 MEMちょ",
+        "code": "OSK/S107-008",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's front row Level 0 or lower characters, you may return it to hand.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_008.png"
+    },
+    {
+        "name": "年齢詐称 MEMちょ",
+        "code": "OSK/S107-009",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - EXPERIENCE - If this is in your Level Zone, this gets +3 Level.",
+            "ACT - [(1) Send 1 <Showbiz> character in your Level Zone to Waiting Room, Send this to your Level Zone] Look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_009.png"
+    },
+    {
+        "name": "JIFへの道 MEMちょ",
+        "code": "OSK/S107-010",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - You may choose {3/0 Event - 029} in your Waiting Room for the effects of Choice Trigger.",
+            "CONT - During your turn, all of your other <Showbiz> characters get +1000 power.",
+            "AUTO - When a Climax with a Choice Trigger is placed in your Climax Area, this turn, all of your characters get +500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_010.png"
+    },
+    {
+        "name": "白く眩しい光 有馬かな",
+        "code": "OSK/S107-011",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if you have a Climax with a Choice Trigger in your Climax Area, look at up to 2 cards from the top of your deck, and put them back on top in any order, and this turn, this gets +1000 power.",
+            "AUTO - EXPERIENCE 2 - When this attacks, if the sum of Levels of cards in your Level Zone is 2 or more, choose 1 of your characters, this turn, it gets +X power. X equals the number of your other <Showbiz> characters times 500."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_011.png"
+    },
+    {
+        "name": "かわいくポーズ♪ MEMちょ",
+        "code": "OSK/S107-012",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Streamer"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_012.png"
+    },
+    {
+        "name": "PV撮影 有馬かな",
+        "code": "OSK/S107-013",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room.",
+            "AUTO - EXPERIENCE 2 - When this is placed on stage from hand, if the sum of Levels of cards in your Level Zone is 2 or more, choose 1 of your characters, this turn, it gets +1500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_013.png"
+    },
+    {
+        "name": "本番前 ルビー",
+        "code": "OSK/S107-014",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_014.png"
+    },
+    {
+        "name": "夢見る少女 MEMちょ",
+        "code": "OSK/S107-015",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Showbiz> characters get +1000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {2/1 Memcho CXC - 017}, place it on stage in any slot, and shuffle your deck afterwards.",
+            "ACT - [Rest this] Look at up to 2 cards from the top of your deck, and put them back on top in any order."
+        ],
+        "attributes": [
+            "Showbiz"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_015.png"
+    },
+    {
+        "name": "覆面筋トレ系ユーチューバー ぴえヨン",
+        "code": "OSK/S107-016a",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {copies of this} gets +3000 power.",
+            "CONT - All of your other <Showbiz> characters get +500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Muscle"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "016a",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_016a.png"
+    },
+    {
+        "name": "覆面筋トレ系ユーチューバー ぴえヨン",
+        "code": "OSK/S107-016b",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {copies of this} gets +3000 power.",
+            "CONT - All of your other <Showbiz> characters get +500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Muscle"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "016b",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_016b.png"
+    },
+    {
+        "name": "覆面筋トレ系ユーチューバー ぴえヨン",
+        "code": "OSK/S107-016c",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {copies of this} gets +3000 power.",
+            "CONT - All of your other <Showbiz> characters get +500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Muscle"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "016c",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_016c.png"
+    },
+    {
+        "name": "覆面筋トレ系ユーチューバー ぴえヨン",
+        "code": "OSK/S107-016d",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {copies of this} gets +3000 power.",
+            "CONT - All of your other <Showbiz> characters get +500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Muscle"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "016d",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_016d.png"
+    },
+    {
+        "name": "覆面筋トレ系ユーチューバー ぴえヨン",
+        "code": "OSK/S107-016e",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {copies of this} gets +3000 power.",
+            "CONT - All of your other <Showbiz> characters get +500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Muscle"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "016e",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_016e.png"
+    },
+    {
+        "name": "夢のような話 MEMちょ",
+        "code": "OSK/S107-017",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <Showbiz> characters, this gets +1000 power.",
+            "AUTO - {CX Combo} EXPERIENCE 3 - When the Choice CX (032) is placed in your Climax Area, if this is in your front row, and the sum of Levels of cards in your Level Zone is 3 or more, choose up to 1 <Showbiz> character in your Waiting Room, add it to hand, and this turn, this gains the following ability, \"AUTO - This ability activates up to once per turn. When this card's damage is cancelled, choose up to 2 <Showbiz> characters in your Waiting Room, place them in your Stock in any order.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_017.png"
+    },
+    {
+        "name": "センター争奪戦 ルビー",
+        "code": "OSK/S107-018",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {RR 3/2 MEMcho - 003} gets +1500 power and \"AUTO - ENCORE [Discard 1 <Showbiz> character]\"",
+            "CONT - EXPERIENCE 4 - If the sum of Levels of cards in your Level Zone is 4 or more. this gains the following 2 abilities,",
+            "- \"AUTO - When this attacks, if the Level of the character across from this is 2 or higher, this turn, this gets +6000 power.\"",
+            "- \"AUTO - ENCORE [Discard 1 <Showbiz> character]\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_018.png"
+    },
+    {
+        "name": "揺れ動く乙女心 有馬かな",
+        "code": "OSK/S107-019",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose up to 1 of your opponent's characters, return it to hand, then you may discard 1 card. If you do, choose 1 of your opponent's characters, and return it to hand.",
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Showbiz> characters, choose 1 <Showbiz> character in your Waiting Room, you may send it to Stock."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_019.png"
+    },
+    {
+        "name": "バズらせのプロ MEMちょ",
+        "code": "OSK/S107-020",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - At the start of your Climax Phase, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "AUTO - {CX Combo} [Rest this] When the Choice CX (033) is placed in your Climax Area, you may pay cost. If you do, choose 1 <Showbiz> character in your Waiting Room, send it to Stock."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Streamer"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_020.png"
+    },
+    {
+        "name": "カラオケ ルビー",
+        "code": "OSK/S107-021",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, all players mill 1. If the level of the card you milled is higher than the card your opponent milled by this effect, this turn, this gets +3000 power.",
+            "AUTO - When this card's damage is cancelled, you may return this to your hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_021.png"
+    },
+    {
+        "name": "初めて、一番最初 有馬かな",
+        "code": "OSK/S107-022",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Showbiz> character or the {3/0 Yellow - 029}, this turn, this gets +1 Soul.",
+            "AUTO - When this attacks, if you have no other characters in your Back Row, you may mill 1. If that card is a Level 0 or lower character, place it on stage in any Back Row slot."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_022.png"
+    },
+    {
+        "name": "メンバー探し ルビー",
+        "code": "OSK/S107-023",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is sent from Stage to Waiting Room, look at up to 3 cards from the top of your deck, choose up to 1 character with EXPERIENCE from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_023.png"
+    },
+    {
+        "name": "私を見てくれる人 有馬かな",
+        "code": "OSK/S107-024",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another back row {R 0/0 Aqua - 037} or {R 2/1 Aqua - 040}, this gets +4000 power.",
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_024.png"
+    },
+    {
+        "name": "推し語り ルビー",
+        "code": "OSK/S107-025",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Showbiz> character, this gets +3000 power.",
+            "AUTO - When this is Reversed, reveal the top card of your deck. If that card is Level 2 or higher, you may return this to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_025.png"
+    },
+    {
+        "name": "カラオケ MEMちょ",
+        "code": "OSK/S107-026",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, all players mill 1. If the level of the card you milled is higher than the card your opponent milled by this effect, you may send the top card of your deck to Stock.",
+            "AUTO - When this card's damage is cancelled, you may return this to your hand. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_026.png"
+    },
+    {
+        "name": "好みのタイプは？ MEMちょ",
+        "code": "OSK/S107-027",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, reveal the top card of your deck. If that card is a <Showbiz> character, add it to hand and discard 1 card.",
+            "ACT - BACKUP +2000"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Streamer"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_027.png"
+    },
+    {
+        "name": "露骨な態度 有馬かな",
+        "code": "OSK/S107-028",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <Showbiz> characters in your front row, this gets +2500 power.",
+            "AUTO - When a climax with the CHOICE trigger is placed in the climax area, if this card is in the front row, give all of your other characters the following ability until end of turn. \"AUTO - [(1)] When this card attacks, you may pay the cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_028.png"
+    },
+    {
+        "name": "ファーストステージ",
+        "code": "OSK/S107-029",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Choose 1 of the following 3 effects and resolve it,",
+            "a) \"Search your deck for up to 1 Climax, show it to your opponent, add it to hand, and shuffle your deck afterwards.\"",
+            "b)\"Choose 1 of your characters, this turn, it gets +4000 power, then send this to Stock.\"",
+            "c) \"(4) You may pay cost. If you do, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - This ability activates up to once per turn. When this attacks, you may deal 3 damage to your opponent.\""
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_029.png"
+    },
+    {
+        "name": "その視線の先に",
+        "code": "OSK/S107-030",
+        "rarity": "CR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_030.png"
+    },
+    {
+        "name": "今日は甘口で",
+        "code": "OSK/S107-031",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_031.png"
+    },
+    {
+        "name": "偽りの翼",
+        "code": "OSK/S107-032",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_032.png"
+    },
+    {
+        "name": "バズ",
+        "code": "OSK/S107-033",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_033.png"
+    },
+    {
+        "name": "\"B小町\"アイ",
+        "code": "OSK/S107-034",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Put 1 <Showbiz> character from your Waiting Room on the bottom of your Clock, Send this to Memory] When this is Reversed, you may pay cost. If you do, search your deck for up to 1 <Showbiz> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_034.png"
+    },
+    {
+        "name": "暗闇の、その先へ アクア",
+        "code": "OSK/S107-035",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, during the Trigger Step of this attack, perform Trigger Check twice. If you triggered twice, put the top card of your Stock to Waiting Room.",
+            "AUTO - [(1) Send this to Memory] When your other <Showbiz> character is Front Attacked, you may pay cost. If you do, return that character to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_035.png"
+    },
+    {
+        "name": "輝くステージへ ルビー",
+        "code": "OSK/S107-036",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - MEMORY - When this is placed on stage from hand. If you have {RR 0/0 Ai - 034} in your Memory, you may Heal 1.",
+            "AUTO - {CX Combo} MEMORY [Discard 1 card] When this attacks, if you have the Door CX (062) in your Climax Area, you may pay cost. If you do, look at up to 2 cards from the top of your opponent’s deck, choose up to 2 characters whose power sum up is equal to or lower than X, and put them into your opponent’s Clock in any order, then send the rest to Waiting Room. X equals the number of cards with different names in your Memory times 4000."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_036.png"
+    },
+    {
+        "name": "ぴえヨンの正体 アクア",
+        "code": "OSK/S107-037",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Send this to Memory] At the start of your Climax Phase, if you are Level 2 or higher, you may pay cost. If you do, choose 1 {2/1 Aqua - 040} in your Waiting Room, place it on stage in this card's former slot.",
+            "ACT - [(1) Rest this] Choose 1 of your <Showbiz> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 character in your Waiting Room, you may add it to hand.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_037.png"
+    },
+    {
+        "name": "水着ショット アイ",
+        "code": "OSK/S107-038",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When your other character's battle opponent is Reversed, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power. ",
+            "ACT - [Rest 1 of your other characters and this] Reveal the top card of your deck. If that card is a <Showbiz> character or an event, add it to hand and discard 1 card."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_038.png"
+    },
+    {
+        "name": "地下アイドルデビュー？ ルビー",
+        "code": "OSK/S107-039",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Showbiz> character, this turn, this gets +1500 power.",
+            "AUTO - MEMORY - When this attacks, if you have {RR 0/0 Ai - 034} in your Memory, this turn, this gets +500 power, then reveal the top card of your deck. If that card is Level 2 or higher, or it's {RR 1/0 Aqua - 067}, send it to Stock."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_039.png"
+    },
+    {
+        "name": "箱推し アクア",
+        "code": "OSK/S107-040",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - Your other {RR 3/2 Kana - 004} in your front row center slot gains the following ability, \"AUTO - When this attacks, look at the top card of your opponent's deck, and put it on top or bottom of their deck.\"",
+            "CONT - ASSIST Level x 500",
+            "AUTO - When your other character with \"Ruby\" or \"Kana\" or \"MEMcho\" in its name attacks, choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_040.png"
+    },
+    {
+        "name": "初めて、一番最初 アクア",
+        "code": "OSK/S107-041",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card, Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Memory.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_041.png"
+    },
+    {
+        "name": "恩返しのために 黒川あかね",
+        "code": "OSK/S107-042",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (2) When this is placed on stage from hand, if you have 4 or more other <Showbiz> characters, you may pay cost. If you do, your opponent sends all of their Stock to their deck and shuffles their deck, then puts an equal number of cards from the top of their deck into Stock."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_042.png"
+    },
+    {
+        "name": "担当カラー決め ルビー",
+        "code": "OSK/S107-043",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - MEMORY - If you have 3 or more cards in your Memory with different names, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, choose up to 1 <Showbiz> character from your Clock, put it on the bottom of your deck, and this turn, this gets +1500 power.",
+            "AUTO - When this is Reversed, reveal the top card of your deck. If that card is Level 1 or higher, you may return this to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_043.png"
+    },
+    {
+        "name": "吸い寄せられる天性の瞳 アイ",
+        "code": "OSK/S107-044",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Showbiz> characters get +1500 power.",
+            "AUTO - [(1) Discard 1 card] At the start of your Encore Step, if this is in your front row, and all of your opponent's Front Row slots are empty, or if all of your opponent's Front Row characters are Reversed, you may pay cost. If you do, mill 1, then deal X damage to your opponent. X equals the Level of the milled card +1."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_044.png"
+    },
+    {
+        "name": "伝説のアイドル アイ",
+        "code": "OSK/S107-045",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If this is in the Front Row Center Slot, this gets +4000 power.",
+            "AUTO - {CX Combo} [Send the Door CX (063) from your Climax Area to Waiting Room] At the start of your Encore Step, if this is in your Front Row Center Slot, you may pay cost. If you do, choose up to 1 <Showbiz> character in your Waiting Room, add it to hand, then mill 1. If that card is Level 1 or higher, choose up to 1 <Showbiz> character in your Waiting Room, add it to hand. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_045.png"
+    },
+    {
+        "name": "すれ違う気持ち アクア",
+        "code": "OSK/S107-046",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may choose 1 card in your clock, add it to your hand. If you do, choose a card in your hand and put it into Clock.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_046.png"
+    },
+    {
+        "name": "自称アイドル ルビー",
+        "code": "OSK/S107-047",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "ACT - [(1) Send this Standing character to Memory] Choose 1 {3/2 Ruby - 043} or {Red 1/0 Ruby - 039} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_047.png"
+    },
+    {
+        "name": "花火イベント 黒川あかね",
+        "code": "OSK/S107-048",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your other <Showbiz> characters."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_048.png"
+    },
+    {
+        "name": "今後の関係 黒川あかね",
+        "code": "OSK/S107-049",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 3. If there is a Climax(es) among them, choose 1 of your opponent's Level 1 or lower Front Row characters, you may send it to Waiting Room.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_049.png"
+    },
+    {
+        "name": "悪役 アクア",
+        "code": "OSK/S107-050",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your other <Showbiz> characters, this turn, it gets +2000 power.",
+            "AUTO - {CX Combo} [Return this to hand] When the Standby CX (064 or 065) is placed in your Climax Area, you may pay cost. If you do, reveal the top card of your deck. If that card is Level 1 or higher, add it to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_050.png"
+    },
+    {
+        "name": "モデルのお仕事 アイ",
+        "code": "OSK/S107-051",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Showbiz> character, this gets +3000 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, if you have another <Showbiz> character, you may pay cost. If you do, search your deck for up to 1 {TD 0/0 Aqua Brainstorm - T13} or {TD 1/0 Ruby CXC - T05}, place it on stage in any slot, and shuffle your deck afterwards. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_051.png"
+    },
+    {
+        "name": "ドラマ視聴 ルビー",
+        "code": "OSK/S107-052",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} When this attacks, if you have the Standby CX (064 or 065) in your Climax Area, choose up to 1 <Showbiz> character in your Waiting Room, send it to Stock, and this turn, this gets +3000 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_052.png"
+    },
+    {
+        "name": "稽古中 黒川あかね",
+        "code": "OSK/S107-053",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 card from your hand, you may send it to Stock.",
+            "AUTO - When this card's damage is not cancelled, this turn, this gets +6000 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_053.png"
+    },
+    {
+        "name": "広報活動 斉藤ミヤコ",
+        "code": "OSK/S107-054",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you are Level 2 or higher, this gains the following ability, \"ACT - [Send this to Waiting Room] Choose up to 1 {2/2 Ruby - 052} in your hand, place it on stage in this card's former slot.\"",
+            "AUTO - BOND [Discard 1 card] to {1/0 Aqua - 050} or {2/2 Ruby - 052}"
+        ],
+        "attributes": [
+            "Showbiz",
+            "President"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_054.png"
+    },
+    {
+        "name": "引き抜き　ルビー",
+        "code": "OSK/S107-055",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "ACT - [Rest this] Choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "ACT - MEMORY [Rest this] If you have {RR 0/0 Ai - 034} in your Memory, draw 1 card, then discard 1 card."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_055.png"
+    },
+    {
+        "name": "レッスン中 ルビー",
+        "code": "OSK/S107-056",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or attacks, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_056.png"
+    },
+    {
+        "name": "取り戻した光 黒川あかね",
+        "code": "OSK/S107-057",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (2) When this is placed on stage from hand or sent from stage to Waiting Room, you may pay cost. If you do, choose 1 <Showbiz> character from your Waiting Room, add it to hand.",
+            "AUTO - When this attacks, choose 1 of your characters, this turn, it gets +4000 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_057.png"
+    },
+    {
+        "name": "\"45510\"アクア",
+        "code": "OSK/S107-058",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Showbiz>, this gets +2000 power.",
+            "AUTO - When this card's Trigger Check reveals a Climax, you may deal 1 damage to your opponent.",
+            "AUTO - When this is Reversed, put the top card of your deck into Clock, Rest this."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_058.png"
+    },
+    {
+        "name": "ネットリテラシー ルビー",
+        "code": "OSK/S107-059",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When your other <Showbiz> character attacks, this turn, this gets +X power. X equals the number of your other <Showbiz> characters times 500.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_059.png"
+    },
+    {
+        "name": "タチの悪い勧誘 アクア",
+        "code": "OSK/S107-060",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - MEMORY - During your turn, if you have {RR 0/0 Ai - 034} in your Memory, for each of your other <Showbiz> characters, this gets +1500 power.",
+            "AUTO - When this card's battle opponent is Reversed, you may send that character to Memory."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_060.png"
+    },
+    {
+        "name": "遺された言葉",
+        "code": "OSK/S107-061",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you don't have a character with \"Aqua\" or \"Ruby\" in its name, this cannot be played from hand.",
+            "Search your deck for up to 1 <Showbiz> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "If you do not have a {RR 0/0 Ai - 034} in your Memory. choose 1 {RR 0/0 Ai - 034} in your Waiting Room, you may send it to Memory.",
+            "Send this to Memory."
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_061.png"
+    },
+    {
+        "name": "秘めた熱情",
+        "code": "OSK/S107-062",
+        "rarity": "CR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_062.png"
+    },
+    {
+        "name": "誰よりも強く輝く一番星",
+        "code": "OSK/S107-063",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_063.png"
+    },
+    {
+        "name": "2度目の高校デビュー",
+        "code": "OSK/S107-064",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_064.png"
+    },
+    {
+        "name": "漫画原作ドラマ",
+        "code": "OSK/S107-065",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_065.png"
+    },
+    {
+        "name": "演技に込める想い 黒川あかね",
+        "code": "OSK/S107-066",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may send this to Stock. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_066.png"
+    },
+    {
+        "name": "復讐の仮面 アクア",
+        "code": "OSK/S107-067",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 500.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (097) in your Climax Area, and all of your characters are <Showbiz>, look at up to 4 cards from the top of your deck, choose up to 1 <Showbiz> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_067.png"
+    },
+    {
+        "name": "完璧なトレース 黒川あかね",
+        "code": "OSK/S107-068",
+        "rarity": "RR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +3000 power.",
+            "AUTO - {CX Combo} MEMORY - When this attacks, if you have the Pants CX (098) in your Climax Area, and there is a Marker underneath this, and you have {RR 0/0 Ai - 034} in your Memory, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on top of your opponent's deck in any order, and send the rest to Waiting Room, then put up to 1 card from the top of your Clock into Stock."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_068.png"
+    },
+    {
+        "name": "大逆転 MEMちょ",
+        "code": "OSK/S107-069",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card]  When this is placed on stage from hand, you may pay cost. If you do, search your Stock for up to 1 character, show it to your opponent, add it to hand, and shuffle your Stock afterwards.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_069.png"
+    },
+    {
+        "name": "ピーマン体操 有馬かな",
+        "code": "OSK/S107-070",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - MEMORY [(2) Flip this face-up card face-down] While this is in your Memory, when you Level up, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.",
+            "ACT - [(1) Send this to Memory] Look at up to 3 cards from the top of your deck, choose up to 1 <Showbiz> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Green Pepper"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_070.png"
+    },
+    {
+        "name": "お仕事デート 黒川あかね",
+        "code": "OSK/S107-071",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - When you pay the cost for {U 2/1 Aqua - 081}'s ACT effect, you may put 1 Marker underneath this card to Waiting Room instead of 1 Stock.",
+            "AUTO - When you Trigger a Climax, if this has 2 or less Markers, you may look at the top card of your deck. If you do, place it underneath this card face-down as a Marker.",
+            "ACT - RESONATE [(1) Reveal {3/2 Akane CXC - 068} from your hand, Rest this] Look at up to 3 cards from the top of your deck, choose up to 1 <Showbiz> character or {Unknown Event} from among them, show it to your opponent, add it to your hand, and put the rest into the Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_071.png"
+    },
+    {
+        "name": "魅惑の瞳 アクア",
+        "code": "OSK/S107-072",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your opponent's Front Row characters, this turn, it gets -X power. X equals the number of your other <Showbiz> characters times 500.",
+            "AUTO - MEMORY [Discard 1 card] When this is placed on stage from hand, if you have {RR 0/0 Ai - 034} in your Memory, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters, your opponent chooses 1 Level X or lower character from their Waiting Room, and swap them. X equals the Level of the character chosen by you -1."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_072.png"
+    },
+    {
+        "name": "天才を超えるために 黒川あかね",
+        "code": "OSK/S107-073",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "AUTO - When this attacks, all of your characters gain the following ability, until the end of the turn: \"AUTO - [Discard 1 Climax] When this card's Trigger Check reveals a Climax, you may pay cost. If you do, choose 1 <Showbiz> character from your Waiting Room, and add it to hand.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_073.png"
+    },
+    {
+        "name": "プロファイリング 黒川あかね",
+        "code": "OSK/S107-074",
+        "rarity": "R",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 2 <Showbiz> characters, show them to your opponent, add them to hand, and shuffle your deck afterwards.",
+            "AUTO - [Put 1 {3/2 Akane CXC - 068} from your hand underneath this card face-up as a Marker] At the start of your Climax Phase, you may pay cost. If you do, choose 1 {3/2 Akane CXC - 068} underneath this as a Marker and this card, swap them. If you do, at the end of your your turn, swap those characters back, then choose 1 Marker under this, add it to hand. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_074.png"
+    },
+    {
+        "name": "真の目的 アクア",
+        "code": "OSK/S107-075",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send this to Clock] When this is Front Attacked, you may pay cost. If you do, choose up to 1 {1/1 Kana - 080} in your hand, place it on stage in this card's former slot as the defending character.",
+            "ACT - BRAINSTORM (1) Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, resolve the following effect: \"Look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room, and discard 1 card.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_075.png"
+    },
+    {
+        "name": "キラキラ陽キャ アクア",
+        "code": "OSK/S107-076",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose up to 1 of your opponent's characters, send it to Memory, then your opponent places that character on stage in any slot.",
+            "ACT - [(1) Send this Standing character to Memory] Choose 1 {TD 3/2 Aqua - T18} or {TD 0/0 Aqua 4k - T15} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_076.png"
+    },
+    {
+        "name": "再共演 黒川あかね",
+        "code": "OSK/S107-077",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 5 or more hand, this gets +2000 power.",
+            "AUTO - When this card's battle opponent is Reversed, if you have 4 or less Stock, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_077.png"
+    },
+    {
+        "name": "炎上対策 有馬かな",
+        "code": "OSK/S107-078",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gets +3000 power.",
+            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_078.png"
+    },
+    {
+        "name": "目立つ為の努力 黒川あかね",
+        "code": "OSK/S107-079",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other back(?) row <Showbiz> characters, this gets +1000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (099) in your Climax Area, and you have 2 or more other <Showbiz> characters, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Search your deck for up to 1 {R 3/2 Akane - 074} or {RR 3/2 Akane - 068}, show it to your opponent, add it to hand, and shuffle your deck afterwards.\"",
+            "b) \"During the Trigger Step of this attack, perform Trigger Check twice.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_079.png"
+    },
+    {
+        "name": "エゴサーチ 有馬かな",
+        "code": "OSK/S107-080",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If the character across from this is Cost 0 or lower, this gets +1 level and +3500 power.",
+            "AUTO - [Discard 1 card] When this card's battle opponent is Reversed, if all of your characters are <Showbiz>, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_080.png"
+    },
+    {
+        "name": "お仕事デート アクア",
+        "code": "OSK/S107-081",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "ACT - [(4) Rest this] Choose up to 1 {R 3/2 Akane - 074} in your hand, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_081.png"
+    },
+    {
+        "name": "犬猿の仲? 有馬かな",
+        "code": "OSK/S107-082",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another front row {2/1 Akane - 083}, this gets +4000 power.",
+            "AUTO - [Discard 1 <Showbiz> character] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {2/1 Akane Below} in your Waiting Room, place it on stage in any slot. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_082.png"
+    },
+    {
+        "name": "犬猿の仲? 黒川あかね",
+        "code": "OSK/S107-083",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another front row {2/1 Kana - 082}, this gains the following 2 abilities,",
+            "- \"CONT - During your turn, this gets +4000 power.\"",
+            "- \"AUTO - During your opponent's turn, when this is Reversed, if the battle opponent's Level is 2 or lower, you may send that character to the bottom of your opponent's deck.",
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your {2/1 Kana - 082} and this card, you may Stand and swap them."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_083.png"
+    },
+    {
+        "name": "打ち上げ アクア",
+        "code": "OSK/S107-084",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send 1 of your <Showbiz> characters on stage to Waiting Room] When this is placed on stage, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, add it to hand, then choose up to 1 card from among them, send it to Stock, and send the rest to Waiting Room.",
+            "AUTO - {CX Combo} [(9) Discard 2 cards] At the end of this card's attack, if you have the Pants CX (100) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent 3 times. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_084.png"
+    },
+    {
+        "name": "大人の役目 アクア",
+        "code": "OSK/S107-085",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Showbiz> character from your Waiting Room, and add it to hand.",
+            "AUTO - MEMORY When this is placed on stage from hand, if you have {RR 0/0 Ai - 034} in your Memory,  look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, send the rest to Waiting Room, then discard 1 card."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_085.png"
+    },
+    {
+        "name": "重曹を舐める天才子役 有馬かな",
+        "code": "OSK/S107-086",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 <Showbiz> character] When this attacks, you may pay cost. If you do, draw 1 card.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_086.png"
+    },
+    {
+        "name": "売れっ子ユーチューバー MEMちょ",
+        "code": "OSK/S107-087",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Showbiz> characters get +500 power.",
+            "AUTO - When a Climax is placed in your Climax Area, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Streamer"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_087.png"
+    },
+    {
+        "name": "映画監督 五反田泰志",
+        "code": "OSK/S107-088",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 <Showbiz> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {3/2 Aqua - 084}, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - When this attacks, choose 1 of your other <Showbiz> characters, this turn, it gets +X power, and if that character has \"Aqua\" in its name, this turn, it gains <Precocious>.  X equals that character's Soul times 1000. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Director"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_088.png"
+    },
+    {
+        "name": "混乱 MEMちょ",
+        "code": "OSK/S107-089",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "AUTO - When this attacks, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_089.png"
+    },
+    {
+        "name": "恋バナ 鷲見ゆき",
+        "code": "OSK/S107-090",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another front row {1/0 Akane Vanilla - 091}, this gets +3500 power, +1 Soul and the following ability, \"CONT - All of of your other {1/0 Akane Vanilla - 091} gets +2000 power and +1 Soul.\"",
+            "AUTO - At the start of your Attack Phase, if this is Standing, and you have 1 or less other characters in your front row, all of your Front Row characters, this turn, gain the following ability, \"AUTO - When this attacks, look at 1 card from the top of your deck, choose up to 1 <Showbiz> character or {1/0 Event - 096} among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_090.png"
+    },
+    {
+        "name": "すべてを惹きつける魅力 黒川あかね",
+        "code": "OSK/S107-091",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
+        "attributes": [
+            "芸能界",
+            "女優"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_091.png"
+    },
+    {
+        "name": "ドン引き MEMちょ",
+        "code": "OSK/S107-092",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Streamer"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_092.png"
+    },
+    {
+        "name": "メモ魔 黒川あかね",
+        "code": "OSK/S107-093",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, send X cards from the bottom of your opponent's deck to Waiting Room. X equals the number of your <Showbiz> characters.",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_093.png"
+    },
+    {
+        "name": "本日の主役 MEMちょ",
+        "code": "OSK/S107-094",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, for each of your other <Showbiz> characters, this gets +1500 power.",
+            "AUTO - When this attacks, choose 1 of your other <Showbiz> characters, this turn, it gets +X power. X equals the number of Events in your Waiting Room times 1500."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Streamer"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_094.png"
+    },
+    {
+        "name": "大根役者 鳴嶋メルト",
+        "code": "OSK/S107-095",
+        "rarity": "C",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send this to Waiting Room] When your other <Showbiz> character is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +3000 power.",
+            "AUTO - ENCORE [Discard 1 <Showbiz> character]"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Model"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_095.png"
+    },
+    {
+        "name": "私達目線の今ガチ",
+        "code": "OSK/S107-096",
+        "rarity": "U",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER - If you don't have a <Showbiz> character, this cannot be played from hand. ",
+            "If you are Level 2 or lower, look at up to 4 cards from the top of your deck, choose up to 1 <Showbiz> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room.",
+            "[(2) Discard 1 {Copy of this}] If you are Level 3 or higher, you may pay cost. If you do, send this to Memory, then perform the following effect twice, \"Choose 1 of your characters, this turn, it gains the following ability, \"CONT - The character across from this gets -2 Soul.\"\""
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_096.png"
+    },
+    {
+        "name": "真実の行方",
+        "code": "OSK/S107-097",
+        "rarity": "CR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_097.png"
+    },
+    {
+        "name": "徹底した役作り",
+        "code": "OSK/S107-098",
+        "rarity": "CR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_098.png"
+    },
+    {
+        "name": "劇団ララライの天才役者",
+        "code": "OSK/S107-099",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_099.png"
+    },
+    {
+        "name": "打算と策略のキスシーン",
+        "code": "OSK/S107-100",
+        "rarity": "CC",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_100.png"
+    },
+    {
+        "name": "ちびMEMちょ",
+        "code": "OSK/S107-101",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - Your other character in the front row center slot gets +1000 power.",
+            "AUTO - This ability activates up to once per turn. When you use an ACT, choose 1 of your <Showbiz> characters, this turn, it gets +1000 power.",
+            "ACT - [(2) Rest this] Heal 1."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "101",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_101.png"
+    },
+    {
+        "name": "ちび有馬かな",
+        "code": "OSK/S107-102",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (2) When you use this card's BACKUP, you may pay cost. If you do, deal 1 damage to your opponent.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "102",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_102.png"
+    },
+    {
+        "name": "ちびルビー",
+        "code": "OSK/S107-103",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If this is in the Front Row Center Slot, this gets +3000 power and +1 Soul.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "103",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_103.png"
+    },
+    {
+        "name": "ちびアイ",
+        "code": "OSK/S107-104",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <Showbiz> characters, this turn, it gets +X power. X equals the number of your other <Showbiz> characters times 1000.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 2 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "104",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_104.png"
+    },
+    {
+        "name": "ちびアクア",
+        "code": "OSK/S107-105",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your <Showbiz> characters, this turn, it gets +X power. X equals the number of your <Showbiz> characters times 500."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "105",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_105.png"
+    },
+    {
+        "name": "ちび黒川あかね",
+        "code": "OSK/S107-106",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
+            "AUTO - [Rest this] Choose 1 of your <Showbiz> characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "106",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_106.png"
+    },
+    {
+        "name": "Summer Sweet Memory MEMちょ",
+        "code": "OSK/S107-P01",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card]  When this is placed on stage from hand, you may pay cost. If you do, search your Stock for up to 1 character, show it to your opponent, add it to hand, and shuffle your Stock afterwards.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_p01.png"
+    },
+    {
+        "name": "Summer Sweet Memory ルビー",
+        "code": "OSK/S107-P02",
+        "rarity": "PR",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_p02.png"
+    },
+    {
+        "name": "スカウト アイ",
+        "code": "OSK/S107-T01",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <Showbiz> characters, until the end of your opponent's next turn, it gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t01.png"
+    },
+    {
+        "name": "ヲタ芸 ルビー",
+        "code": "OSK/S107-T02",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - BOND [Discard 1 card] to {TD 3/2 Ai CXC - T10} or {TD 1/0 Vanilla Aqua - T16}",
+            "ACT - [(1) Send this to Waiting Room] Choose 1 {TD 2/1 Event - T19} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Otaku"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t02.png"
+    },
+    {
+        "name": "苺プロ社長 斉藤壱護",
+        "code": "OSK/S107-T03",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Showbiz> characters get +500 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {TD 0/0 Ai - T01}, place it on stage in any slot, and shuffle your deck afterwards. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "President"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t03.png"
+    },
+    {
+        "name": "陽東高校芸能科 ルビー",
+        "code": "OSK/S107-T04",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <Showbiz> characters, Rest it, and move it to an empty Back Row slot. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t04.png"
+    },
+    {
+        "name": "アイドルの片鱗 ルビー",
+        "code": "OSK/S107-T05",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your <Showbiz> characters, this turn, it gets +1500 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Door CX in your Climax Area, choose 1 of your <Showbiz> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 <Showbiz> character in your Waiting Room, you may add it to hand.\""
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t05.png"
+    },
+    {
+        "name": "父親との繋がり アイ",
+        "code": "OSK/S107-T06",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other back row <Showbiz> character, this gets +1000 power.",
+            "AUTO - When this attacks, if all of your characters are <Showbiz>, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t06.png"
+    },
+    {
+        "name": "嘘は愛 アイ",
+        "code": "OSK/S107-T07",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t07.png"
+    },
+    {
+        "name": "自然な笑顔 アイ",
+        "code": "OSK/S107-T08",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Showbiz> characters, this gets +2000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t08.png"
+    },
+    {
+        "name": "一緒に練習 ルビー&アイ",
+        "code": "OSK/S107-T09",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "ACT - [Discard 1 card, Rest this] Look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t09.png"
+    },
+    {
+        "name": "絶対的センター アイ",
+        "code": "OSK/S107-T10",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Door CX (T12) in your Climax Area, you may pay cost. If you do, deal 2 damage to your opponent, and until the end of your opponent's next turn, this gains \"CONT - BODYGUARD\"."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Idol"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t10.png"
+    },
+    {
+        "name": "憧れ続けた光",
+        "code": "OSK/S107-T11",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t11.png"
+    },
+    {
+        "name": "アイドル",
+        "code": "OSK/S107-T12",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t12.png"
+    },
+    {
+        "name": "気味の悪い子供 アクア",
+        "code": "OSK/S107-T13",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Showbiz> characters, all of your other {TD 1/0 Ruby CXC - T05} and {TD 3/2 Ai CXC - T10} gets +1000 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t13.png"
+    },
+    {
+        "name": "天才子役 有馬かな",
+        "code": "OSK/S107-T14",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Showbiz> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - During this card's battle, when damage you take is not cancelled, this turn, this gets +1500 power."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actress"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t14.png"
+    },
+    {
+        "name": "復讐の炎 アクア",
+        "code": "OSK/S107-T15",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your opponent’s characters get “AUTO - ENCORE (2)”."
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t15.png"
+    },
+    {
+        "name": "ヲタ芸 アクア",
+        "code": "OSK/S107-T16",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
+        "attributes": [
+            "芸能界",
+            "オタク"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t16.png"
+    },
+    {
+        "name": "ゴロー&さりな",
+        "code": "OSK/S107-T17",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other back row <Showbiz> character, this gets +2500 power."
+        ],
+        "attributes": [
+            "Showbiz"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t17.png"
+    },
+    {
+        "name": "陽東高校一般科 アクア",
+        "code": "OSK/S107-T18",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose up to 1 character from your hand whose Level is equal or lower than your Level, place it on stage in any slot, and this turn, that character gets +2000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, your opponent chooses 1 Climax from their Waiting Room, and shuffles all other cards from their Waiting Room into their deck. "
+        ],
+        "attributes": [
+            "Showbiz",
+            "Actor"
+        ],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t18.png"
+    },
+    {
+        "name": "母から子へ",
+        "code": "OSK/S107-T19",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you have {TD 0/0 Aqua Brainstormer - T13} and {TD 2/1 Ruby & Ai Above - T09}, choose up to 1 {TD 3/2 Ai CXC - T10} in your hand, place it on stage in any slot, and this turn, it gains the following ability, \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+            "Send this to Memory."
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t19.png"
+    },
+    {
+        "name": "夢のような日々",
+        "code": "OSK/S107-T20",
+        "rarity": "TD",
+        "expansion": "Oshi no Ko",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
+        "attributes": [],
+        "set": "OSK",
+        "release": "S107",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t20.png"
+    }
+]
