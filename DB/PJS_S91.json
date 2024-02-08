@@ -2995,8 +2995,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
         "attributes": [],
         "set": "PJS",
@@ -3021,8 +3021,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -3047,8 +3047,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【COMEBACK】：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -3073,8 +3073,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【Book】：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -3099,8 +3099,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【Book】：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -3164,6 +3164,225 @@
         "sid": "P02",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p02.png"
     },
+    {
+        "name": "プロジェクトセカイ COLORFUL LIVE 1st - Link -",
+        "code": "PJS/S91-P03",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【Book】：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p03.png"
+    },
+    {
+        "name": "カナデトモスソラ/再生",
+        "code": "PJS/S91-P04",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, if you 2 or less cards in Memory, and you have 2 or more other <25-ji, Nightcord de.> characters, you may choose 1 Level 0 or lower <25-ji, Nightcord de.> character from your Waiting Room, and send it to Memory."
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p04.png"
+    },
+    {
+        "name": "フロムトーキョー/流星のパルス",
+        "code": "PJS/S91-P05",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, if you have another <Leo/need> character, this gets +1500 power.",
+            "[A] - [Discard 1 <Leo/need> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Saki Tenma, The Ever Shining Social Butterfly, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Leo/need"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p05.png"
+    },
+    {
+        "name": "Beat Eater/Awake Now",
+        "code": "PJS/S91-P06",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 character with BOND from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+            "[A] - At the start of your Climax Phase, if you have 2 or more <Vivid BAD SQUAD> characters, look at the top card of your deck, and put it on top of your deck or into your Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Vivid BAD SQUAD"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p06.png"
+    },
+    {
+        "name": "アイノマテリアル/アイスドロップ",
+        "code": "PJS/S91-P07",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "[A] - When this is placed on stage from hand, if you have 2 or more other <MORE MORE JUMP!> characters, choose 1 character in your clock, you may send it to Memory."
+        ],
+        "attributes": [
+            "Music",
+            "MORE MORE JUMP!"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p07.png"
+    },
+    {
+        "name": "トンデモワンダーズ/Glory Steady Go!",
+        "code": "PJS/S91-P08",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(1) Put the top card of your deck into Clock, send this to Memory] When this is Reversed, if you have 2 or less Memory, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 <Wonderlands x Showtime> characters or Yellow Event from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p08.png"
+    },
+    {
+        "name": "ミライ/Flyer!",
+        "code": "PJS/S91-P09",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed on the stage from your hand, you may put the top 3 cards of your deck into your waiting room.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card is placed on Stage from Hand, you may pay the cost. If you did, choose one <Music> Character in your Waiting Room, add it to Hand, choose one of your other <Music> Characters, during this turn, it gains +1000 Power"
+        ],
+        "attributes": [
+            "Music",
+            "Vivid BAD SQUAD"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p09.png"
+    },
+    {
+        "name": "ロウワー/トリコロージュ",
+        "code": "PJS/S91-P10",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] – When this card is placed on Stage from Hand, you may send the top card of your Clock to Waiting Room.",
+            "[A] – [(1) Send one card from Hand to Waiting Room] When this card attacks, you may pay the cost. If you did, during this turn, this card gains +2000 Power and the following effect:",
+            "-[A] – When this card's battle opponent is REVERSE, you may deal one damage to your opponent. (Damage can be canceled)"
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p10.png"
+    },
+
     {
         "name": "Leo/need 天馬咲希",
         "code": "PJS/S91-T01",
@@ -3290,9 +3509,8 @@
             "-"
         ],
         "attributes": [
-            "音楽",
-            "バーチャル",
-            "シンガー"
+            "Music",
+            "Virtual Singer"
         ],
         "set": "PJS",
         "release": "S91",
@@ -3548,8 +3766,8 @@
         "trigger": [],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【Book】：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -3737,9 +3955,8 @@
             "-"
         ],
         "attributes": [
-            "音楽",
-            "バーチャル",
-            "シンガー"
+            "Music",
+            "Virtual Singer"
         ],
         "set": "PJS",
         "release": "S91",
@@ -3957,8 +4174,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【TREASURE】: When this card triggers, return this card to your hand. You may put the top card of your deck into your stock)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -4147,9 +4364,8 @@
             "-"
         ],
         "attributes": [
-            "音楽",
-            "バーチャル",
-            "シンガー"
+            "Music",
+            "Virtual Singer"
         ],
         "set": "PJS",
         "release": "S91",
@@ -4371,8 +4587,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【COMEBACK】：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)"
         ],
         "attributes": [],
         "set": "PJS",
@@ -4560,9 +4776,8 @@
             "-"
         ],
         "attributes": [
-            "音楽",
-            "バーチャル",
-            "シンガー"
+            "Music",
+            "Virtual Singer"
         ],
         "set": "PJS",
         "release": "S91",
@@ -4780,8 +4995,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(Choice: When this card is Triggered, you may choose 1 Character with Soul Trigger Icon from your Waiting Room, return it to Hand or place it into Stock."
         ],
         "attributes": [],
         "set": "PJS",
@@ -4997,9 +5212,8 @@
             "-"
         ],
         "attributes": [
-            "音楽",
-            "バーチャル",
-            "シンガー"
+            "Music",
+            "Virtual Singer"
         ],
         "set": "PJS",
         "release": "S91",
@@ -5187,8 +5401,8 @@
         ],
         "flavor_text": "",
         "ability": [
-            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-            "（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【Book】：When this card is triggered, you may draw 1 card)"
         ],
         "attributes": [],
         "set": "PJS",
