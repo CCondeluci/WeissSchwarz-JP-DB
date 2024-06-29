@@ -1,0 +1,3306 @@
+[
+    {
+        "name": "\"Explorer Mage\"ベル",
+        "code": "MRd/S111-001",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - At the start of your CX Phase, choose 1 of your <Mirrorverse> or <Disney> characters, this turn, it gets +X power. X is equal to that character's Level times 500.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_001.png"
+    },
+    {
+        "name": "\"Illuminated Warrior\"ラプンツェル",
+        "code": "MRd/S111-002",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 7500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less or 6 or more CXes in your Waiting Room, this gets -1 Level in hand.",
+            "CONT - If you have 2 or more other <Mirrorverse> or <Disney> characters, this gets +3000 power.",
+            "AUTO - When this is placed on stage from hand or deck, choose 1 of the following 2 effects and resolve it, ",
+            "a) \"You may heal 1.\"",
+            "b) \"You may send all cards from your Waiting Room into your deck. If you do, shuffle your deck, and this turn, this gets +2000 power.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_002.png"
+    },
+    {
+        "name": "\"Stellar Sorcerer\"ミッキーマウス",
+        "code": "MRd/S111-003",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have {a copy of this} in your Clock, this gets -1 level in hand.",
+            "AUTO - {CX Combo} When this is placed on stage from your hand or deck, choose up to 1 {Choice CX - 020} in your Waiting Room, add it to hand, and this turn, this gets +1000 power.",
+            "AUTO - {CX Combo} (1) At the start of your Attack Phase, if you have the Choice CX (020) in your CX Area, and this is in your front row, you may pay cost. If you do, search your deck for up to 1 <Mirrorverse> character, place it on stage in any slot, shuffle your deck afterwards, and this turn, that character and this gets -1 Soul."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_003.png"
+    },
+    {
+        "name": "\"Cantankerous Iron-Clad Sailor\"ドナルドダック",
+        "code": "MRd/S111-004",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} [Send the Choice CX (021) from your CX Area to Waiting Room] At the start of your Encore Step, if you have 2 or more other characters, you may pay cost. If you do, perform the following effect twice, \"You may mill 1. If that card is a <Mirrorverse> or <Disney> character, add it to hand.\"",
+            "ACT - [Rest this] If you have 4 or more other <Mirrorverse> or <Disney> characters, draw 1 card, then discard 1 card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_004.png"
+    },
+    {
+        "name": "\"Heart's Fire Fighter\"ミニーマウス",
+        "code": "MRd/S111-005",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Shuffle 2 characters from your Waiting Room into your deck] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +1000 power.",
+            "AUTO - [Return this to hand] When a CX is placed on your CX Area, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +1 Soul.",
+            "*Note: Has a Soul Trigger"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_005.png"
+    },
+    {
+        "name": "\"Shadowy Manipulator\"スカー",
+        "code": "MRd/S111-006",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or Memory, this turn, this gets +1500 power.",
+            "AUTO - When this card's battle opponent is Reversed, you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_006.png"
+    },
+    {
+        "name": "\"Stellar-Powered Walking Disaster\"グーフィー",
+        "code": "MRd/S111-007",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {3/2 Mickey - 003} gains the following ability, \"AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, look at up to 2 cards from the top of your opponent's deck, choose up to 1 card from among them, send it to the bottom of your opponent's deck, put the rest on top in any order.\"",
+            "CONT - All of your other <Mirrorverse> or <Disney> characters get +1500 power.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand or deck, you may pay cost. If you do, put the top card of your Clock into Stock."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_007.png"
+    },
+    {
+        "name": "スクルージ・マクダック",
+        "code": "MRd/S111-009",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may choose 1 card in your clock, add it to your hand. If you do, choose a card in your hand and put it into Clock.",
+            "AUTO - When this attacks, choose 1 of your other <Mirrorverse> or <Disney> characters, this turn, it gets +X power. X equals the number of your other <Mirrorverse> or <Disney> characters times 500."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_009.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ラプンツェル",
+        "code": "MRd/S111-010",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_010.png"
+    },
+    {
+        "name": "\"Peaceful Radiant Protector\"シンバ",
+        "code": "MRd/S111-011",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <Mirroverse> or <Disney> characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - During your opponent's turn, this gets +2000 power.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_011.png"
+    },
+    {
+        "name": "\"Wings of Olympus\"ヘラクレス",
+        "code": "MRd/S111-013",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +10000 power.",
+            "AUTO - During your turn, when this card's battle opponent is Reversed, if you don't have a CX in your CX Area, choose up to 1 <Mirrorverse> or <Disney> character in your Waiting Room, add it to hand. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_013.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"アリス",
+        "code": "MRd/S111-014",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_014.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"スカー",
+        "code": "MRd/S111-016",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 3 or less Stock, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, you may mill 3."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_016.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"シンバ",
+        "code": "MRd/S111-017",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +4000 power.",
+            "AUTO - [Send this to Waiting Room] When your other <Mirrorverse> or <Disney> character is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +1500 power.",
+            "*Note: Has a Soul Trigger"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_017.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ティガー",
+        "code": "MRd/S111-018",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
+            "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_018.png"
+    },
+    {
+        "name": "\"Adventure Venture Investor\"スクルージ・マクダック",
+        "code": "MRd/S111-019",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {RR 3/2 Mickey - 003} get \"AUTO - ENCORE (2)\"",
+            "CONT - ASSIST - During your turn, Level x 1000. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_019.png"
+    },
+    {
+        "name": "Cosmic Command",
+        "code": "MRd/S111-020",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_020.png"
+    },
+    {
+        "name": "Aggressive Passion",
+        "code": "MRd/S111-021",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_021.png"
+    },
+    {
+        "name": "\"Stalwart Friend of the Forest\"白雪姫",
+        "code": "MRd/S111-022",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, look at up to 3 cards from the top of your deck, choose up to 1 Climax from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_022.png"
+    },
+    {
+        "name": "\"Cutting Desert Diamond\"アラジン",
+        "code": "MRd/S111-024",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 11000,
+        "soul": 2,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (051) in your CX area, and you have 2 or more other characters, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Deal 1 damage to your opponent.\"",
+            "b) \"[(1) Discard 1 card] You may pay cost. If you do, look at up to 4 cards from the top of your opponent's deck, choose up to 4 cards from among them, send them to Waiting Room, put the rest on top of your opponent's deck, and your opponent shuffles their deck afterwards.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_024.png"
+    },
+    {
+        "name": "\"Ascended Cosmic Comic\"ジーニー",
+        "code": "MRd/S111-027",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (1) When your CX is placed on the CX Area, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Mirrorverse> or <Disney> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.",
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +1000 power.",
+            "ACT - [Discard 2 cards, Send this to Waiting Room] Choose 1 character in your Waiting Room whose Level is equal to or lower than your Level, and place it on stage in this card's former slot. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_027.png"
+    },
+    {
+        "name": "\"Intermolecular Galactic Force\"スティッチ",
+        "code": "MRd/S111-029",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT -  If the Level of the character across from this is higher than this card's level, this cannot Front Attack.",
+            "AUTO - [Discard 1 <Mirrorverse> or <Disney> character, Send this to Waiting Room] When your other <Mirrorverse> or <Disney> character is Front Attacked, you may pay cost. If you do, choose 1 of your battling characters, this turn, it gets +3500 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_029.png"
+    },
+    {
+        "name": "\"Natural Navigator\"フランク",
+        "code": "MRd/S111-030",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or deck, choose up to 1 character from your hand whose Level is equal or lower than your Level, place it on stage in any slot, and this turn, this gets +2000 power.",
+            "AUTO - [(2) Discard 2 cards] When this card's battle opponent is Reversed, you may pay cost. If you do, deal 4 damage to your opponent."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_030.png"
+    },
+    {
+        "name": "\"The Fastest Fuzz\"ジュディ",
+        "code": "MRd/S111-031",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 <Mirrorverse> or <Disney> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_031.png"
+    },
+    {
+        "name": "\"Bold Pilot Fighter\"バルー",
+        "code": "MRd/S111-033",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 1 or less other characters in your Front Row, this gets +7000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_033.png"
+    },
+    {
+        "name": "\"Fiery Pixie Avatar\"ティンカー・ベル",
+        "code": "MRd/S111-034",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - ALARM [Discard 1 card] If this is on top of your Clock, at the start of your Climax Phase, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters. If you do, your opponent chooses 1 Level X or lower character from their Waiting Room, and swap them. X equals the Level of the character chosen by you -1.",
+            "ACT - BACKUP +2000"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_034.png"
+    },
+    {
+        "name": "\"One Woman Army\"ムーラン",
+        "code": "MRd/S111-036",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other opponent's characters times 1000.",
+            "AUTO - When this card's battle Level 2 or higher battle opponent is Reversed, if you have a CX in your CX Area, choose 1 <Mirrorverse> or <Disney> character from your Clock, you may put it on the bottom of your deck."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_036.png"
+    },
+    {
+        "name": "\"True-Sighted Symbol of the People\"ジャスミン",
+        "code": "MRd/S111-037",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If a Climax with a Bar Trigger is in your Climax Area, this card in any area gains Bar Trigger.",
+            "AUTO - When a CX is placed in your CX area, choose up to 2 of your Level 1 or higher characters, this turn, they get +3000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_037.png"
+    },
+    {
+        "name": "\"Vainglorious Vengeful Swordsman\"フック船長",
+        "code": "MRd/S111-038",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand or deck, until the end of your opponent's next turn, this gets +4500 power, and gains the following ability, \"CONT - During this card's battle, all players cannot play BACKUPs from hand.\"",
+            "AUTO - When this card's Level 2 or higher battle opponent is Reversed, you may put the top card of your deck into Stock. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_038.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"フランク",
+        "code": "MRd/S111-039",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If this is in the Front Row Center Slot, this gets +3000 power.",
+            "AUTO - [Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Level 1 or higher character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_039.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ティンカー・ベル",
+        "code": "MRd/S111-040",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_040.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"バルー",
+        "code": "MRd/S111-041",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - You other <Mirrorverse> or <Disney> character in your front row center slot gets +1500 power.",
+            "ACT - [(1) Send this to Waiting Room] mill 2, then choose up to 1 Level X or lower <Mirrorverse> or <Disney> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_041.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ムーラン",
+        "code": "MRd/S111-042",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - This cannot Side Attack.",
+            "AUTO - [Send this to Clock] When this is Reversed, you may pay cost. If you do, reveal the top card of your deck. If that card is a <Mirrorverse> or <Disney> character, add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_042.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ジュディ",
+        "code": "MRd/S111-043",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - When a CX is placed in your CX Area, this turn, this gets +3000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_043.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"白雪姫",
+        "code": "MRd/S111-045",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, mill 3.",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_045.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"フック船長",
+        "code": "MRd/S111-046",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 1 or less other characters in your Front Row, this gets +8000 power and the character across from this gets -1 Soul."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_046.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"スティッチ",
+        "code": "MRd/S111-047",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <Mirrorverse> or <Disney> characters, this gets -1 Level in hand.",
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 1000.",
+            "AUTO - {CX COMBO} [Send the Bar CX (052) from your Climax Area to Waiting Room] When this card's battle opponent is Reversed, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 <Mirrorverse> or <Disney> characters from among them, show them to your opponent, add them to hand, send the rest back on top of your deck in any order, then until the end of your opponent's next turn, this gets +6000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_047.png"
+    },
+    {
+        "name": "Shrouded Sword",
+        "code": "MRd/S111-051",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_051.png"
+    },
+    {
+        "name": "Superheated Stitch",
+        "code": "MRd/S111-052",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_052.png"
+    },
+    {
+        "name": "\"Curse Collector\"ジャック・スパロウ",
+        "code": "MRd/S111-053",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Mirrorverse> or <Disney>, this gets +3000 power.",
+            "AUTO - [(1) Put 1 <Mirrorverse> or <Disney> character from your Waiting Room on the bottom of your Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room, then draw 1 card, and discard 1 card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_053.png"
+    },
+    {
+        "name": "\"Personal Battle Companion\"ベイマックス",
+        "code": "MRd/S111-057",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another front row {1/0 Hiro - 058}, this gets +4000 power.",
+            "AUTO - BOND [Discard 1 card] to {1/0 Hiro - 058}"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_057.png"
+    },
+    {
+        "name": "\"Genius Matter Programmer\"ヒロ",
+        "code": "MRd/S111-058",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another front row {1/0 Baymax - 057}, this gets +2500 power.",
+            "AUTO - During your opponent's turn, then this is Reversed, if you have another front row {1/0 Baymax - 057}, and the battle opponent's Level is 1 or lower, you may Reverse that character.",
+            "AUTO - BOND [Discard 1 card] to {1/0 Baymax - 057}"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_058.png"
+    },
+    {
+        "name": "\"Inventor of Holiday Spirit\"ジャック・スケリントン",
+        "code": "MRd/S111-059",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If this is in the Front Row, all of your <Mirrorverse> or <Disney> characters get +1000 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
+            "AUTO - (2) When this card's battle opponent is Reversed, you may pay cost. If you do, deal 1 Damage to your opponent."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_059.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ジャック・スケリントン",
+        "code": "MRd/S111-061",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Mirrorverse> or <Disney> character, this turn, this gets +2000 power.",
+            "AUTO - {CX Combo} When this attacks, if the Door CX (069) is in your CX Area, and you have 2 or more other <Mirrorverse> or <Disney> characters, reveal the top card of your deck. If that card is a <Mirrorverse> or <Disney> character, add it to hand, then choose up to 1 card in your Opponent's Waiting Room, put it on the bottom of your opponent's deck. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_061.png"
+    },
+    {
+        "name": "\"World Network Enforcer\"トロン",
+        "code": "MRd/S111-062",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Mirrorverse> or <Disney> characters, this gets +2000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_062.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ジャック・スパロウ",
+        "code": "MRd/S111-063",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Mirrorverse> or <Disney>, this gets +7000 power and the following ability, \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
+            "AUTO - {CX Combo} [Send the Standby CX (070) from your CX Area to Waiting Room] At the start of your Attack Phase, if this is in your front row, and you have 2 or more other characters, you may pay cost. If you do, Stand this, and until the end of your opponent's next turn, this gets \"AUTO - ENCORE [Discard 1 character].\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_063.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ヒロ",
+        "code": "MRd/S111-064",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, look at the top card of your deck, and put it on top or bottom of your deck or into your Waiting Room.",
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_064.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ベイマックス",
+        "code": "MRd/S111-065",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "ACT - [(4) Rest this] Choose up to 2 <Mirrorverse> or <Disney> characters from your Clock and shuffle them into your deck."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_065.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"トロン",
+        "code": "MRd/S111-067",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other front row <Mirrorverse> or <Disney> characters, this gets +2000 power.",
+            "AUTO - (1) At the start of Encore Step, if you do not have any other Rested characters in your Front Row, you may pay cost. If you do, Rest this. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_067.png"
+    },
+    {
+        "name": "Flight Of The Living Thread",
+        "code": "MRd/S111-069",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_069.png"
+    },
+    {
+        "name": "Broadside",
+        "code": "MRd/S111-070",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_070.png"
+    },
+    {
+        "name": "\"Commander of the Underworld\"ハデス",
+        "code": "MRd/S111-071",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, place them on top of your deck in any order, and send the rest to Waiting Room.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 character from your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_071.png"
+    },
+    {
+        "name": "\"Draconic Mage\"マレフィセント",
+        "code": "MRd/S111-072",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} [(1) Send 2 of your character to Waiting Room] While this is in your Waiting Room, when the Pants CX (098) is placed in your CX Area, if you are Level 2 or higher, you may pay cost. If you do, place this on stage in any slot, and this turn, this gets +1000 power.",
+            "AUTO - When this attacks, you may mill 1. If that card is a <Mirrorverse> or <Disney> character, deal X damage to your opponent. X equals the Level of the milled card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_072.png"
+    },
+    {
+        "name": "\"Poison Hearted Monarch\"女王",
+        "code": "MRd/S111-073",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 CX] When you trigger a CX with a Pants Trigger, you may pay cost. If you do, draw 1 card.",
+            "AUTO - {CX Combo} [Send 1 of your other <Mirrorverse> or <Disney> characters on stage to Waiting Room, Send the Pants CX (099) from your CX Area to Waiting Room] At the start of your Encore Step, you may pay cost. If you do, search your deck for up to 2 <Mirrorverse> or <Disney> character, show them to your opponent, add 1 to hand, send the remaining to Stock, and shuffle your deck afterwards. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_073.png"
+    },
+    {
+        "name": "\"Sorcerous Seeker\"ジャファー",
+        "code": "MRd/S111-074",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send 1 of your other <Mirrorverse> or <Disney> characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's characters, move it to an opponent's empty slot."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_074.png"
+    },
+    {
+        "name": "\"Ice Storm Elemental\"エルサ",
+        "code": "MRd/S111-076",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <Mirrorverse> or <Disney> characters, this gets +1000 power.",
+            "AUTO - {CX COMBO} [Send the Pants CX (100) from your Climax Area to Waiting Room] When this card's battle opponent is Reversed, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 4 <Mirrorverse> or <Disney> characters from among them, show them to your opponent, add them to hand, send the rest to Waiting Room. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_076.png"
+    },
+    {
+        "name": "\"Dicey Heavy Hitter\"ウギー・ブギー",
+        "code": "MRd/S111-077",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <Mirrorverse> or <Disney> characters, this gets -1 Level in hand.",
+            "CONT - If you have 2 or more other <Mirrorverse> or <Disney> characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand or deck, you may Heal 1."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_077.png"
+    },
+    {
+        "name": "\"Royal Champion of Atlantica\"アリエル",
+        "code": "MRd/S111-078",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
+            "AUTO - During the turn this was placed on stage from hand or deck, when this attacks, this turn, all of your characters get +1000 power and the following ability, \"AUTO- When this card's battle opponent is Reversed, you may send that character to the bottom of your opponent's deck.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_078.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ハデス",
+        "code": "MRd/S111-079",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 <Mirrorverse> or <Disney> character in your Waiting Room, you may put it underneath this card face-down as a Marker.",
+            "AUTO - During your turn, when this standing card with a Marker underneath it is sent from Stage to Waiting Room, you may place this on stage in this card's former slot Rested.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_079.png"
+    },
+    {
+        "name": "\"Reinforced Resilience\"アナ",
+        "code": "MRd/S111-080",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 3 cards] When this is placed on stage from hand, you may pay cost. If you do, choose up to 2 characters in your Waiting Room, add them to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_080.png"
+    },
+    {
+        "name": "\"Ward of Arendelle\"アナ",
+        "code": "MRd/S111-081",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Mirrorverse> or <Disney>, this gets +2500 power and \"AUTO - ENCORE [Put 1 <Mirrorverse> or <Disney> character from your Waiting Room on the bottom of your Clock]\"",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose up to 1 {2/1 Elsa - 076} in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_081.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ウギー・ブギー",
+        "code": "MRd/S111-082",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 2 cards] When this is placed on stage from hand, if you have 2 or more other <Mirrorverse> or <Disney> characters, you may pay cost. If you do, draw up to 2 cards."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_082.png"
+    },
+    {
+        "name": "\"Luminous Alchemist\"ティアナ",
+        "code": "MRd/S111-083",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When your other <Mirrorverse> or <Disney> character attacks, this turn, this gets +1500 power.",
+            "AUTO - ACCELERATE [Put the top card of your deck into Clock] At the start of your CX Phase, you may pay cost. If you do, this turn, this gets +1000 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_083.png"
+    },
+    {
+        "name": "\"Merciless Beast Hunter\"ガストン",
+        "code": "MRd/S111-084",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT- During your turn, if you have another <Mirrorverse> or <Disney> character, this gets +1500 power.",
+            "AUTO - [(1) Send 1 of your other <Mirrorverse> or <Disney> characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Mirrorverse> or <Disney> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_084.png"
+    },
+    {
+        "name": "\"Living Legend\"マウイ",
+        "code": "MRd/S111-085",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, put the top card of your deck into Clock, Rest this.",
+            "ACT - [Discard 1 card, send this to Waiting Room] Search your deck for up to 1 <Mirrorverse> or <Disney> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_085.png"
+    },
+    {
+        "name": "\"Mistress of the Darkest Depths\"アースラ",
+        "code": "MRd/S111-086",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose up to 2 Level 0 or lower characters in your Waiting Room, place them on stage in separate slots Rested."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_086.png"
+    },
+    {
+        "name": "\"Devilish Queen of Crime\"クルエラ",
+        "code": "MRd/S111-087",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's Level 0 or lower characters, send it to Waiting Room."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_087.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ジャファー",
+        "code": "MRd/S111-088",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card, Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_088.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"クルエラ",
+        "code": "MRd/S111-089",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - When this is placed on stage from hand, choose 1 of your opponent's front row characters, this turn. it gets -1000 power.",
+            "AUTO - When this is sent from Stage to Waiting Room, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 card with a Soul Trigger from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_089.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"アースラ",
+        "code": "MRd/S111-090",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters and 1 of its Traits, this turn, that character loses that Trait.",
+            "ACT - [Rest this] Choose 1 of your opponent's characters, until the end of your opponent's next turn, it gets +500 power and the following ability, \"CONT - During this card's battle, you cannot play Events or BACKUPs from hand.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_090.png"
+    },
+    {
+        "name": "闇の勢力「虚像」",
+        "code": "MRd/S111-093",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +5000 power and the following ability, \"AUTO - At the end of the turn, send this to Waiting Room.\" ",
+            "*Note: Has a Soul Trigger "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_093.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ガストン",
+        "code": "MRd/S111-095",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other opponent's characters, this gets +1000 power.",
+            "AUTO - [Send 1 of your other <Mirrorverse> or <Disney> characters on stage to Waiting Room] At the start of your opponent's Attack Phase, you may pay cost. if you do, move this to an empty Front Row slot, and this turn, this gets +1000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_095.png"
+    },
+    {
+        "name": "\"Wayfinding Warrior\"モアナ",
+        "code": "MRd/S111-096",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Mirrorverse> or <Disney> characters, until the end of your opponent's next turn, this gains the following ability, \"CONT - This cannot be Reversed.\"",
+            "Note: This has 2 Souls."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_096.png"
+    },
+    {
+        "name": "マレフィセントの虚像",
+        "code": "MRd/S111-097",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Choose 1 <Mirrorverse> character in your Waiting Room with the same name as a <Mirrorverse> character on your or your opponent's stage, add it to hand."
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_097.png"
+    },
+    {
+        "name": "Electroclasm",
+        "code": "MRd/S111-098",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_098.png"
+    },
+    {
+        "name": "Heartsbane Harvest",
+        "code": "MRd/S111-099",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_099.png"
+    },
+    {
+        "name": "Frostbite",
+        "code": "MRd/S111-100",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_100.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"スクルージ・マクダック",
+        "code": "MRd/S111-T01",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Mirrorverse> or <Disney> characters get +500 power.",
+            "ACT - [(2) Rest this] Choose 1 <Mirrorverse> or <Disney> character in your Waiting Room, add it to hand.",
+            "*Note: Has a Soul Trigger "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t01.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ベル",
+        "code": "MRd/S111-T02",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When a CX is placed in your Opponent's CX Area, you may send this to Stock.",
+            "ACT - [Rest this] Choose 1 of your <Mirrorverse> or <Disney> characters, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t02.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ミッキーマウス",
+        "code": "MRd/S111-T04",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Mirrorverse> or <Disney> character, this gets +3000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Choice CX (T10) in your CX Area, and you have 2 or more other <Mirrorverse> or <Disney> characters, choose 1 <Mirrorverse> or <Disney> character in your Waiting Room, you may add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t04.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"グーフィー",
+        "code": "MRd/S111-T05",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Mirrorverse> or <Disney> character, this gets +3000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t05.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ドナルドダック",
+        "code": "MRd/S111-T06",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have 2 or more other <Mirrorverse> or <Disney> characters, this gets +4000 power.",
+            "AUTO - When this is placed on stage from hand, if you have 4 or more other <Mirrorverse> or <Disney> characters, you may put the top card of your deck into Stock."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t06.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ミニーマウス",
+        "code": "MRd/S111-T07",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Mirrorverse> or <Disney> characters, this gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - (1) When this is placed on stage from hand or deck, if you are Level 3 or higher, you may pay cost. If you do, choose up to 4 cards in your opponent’s Waiting Room, your opponent Shuffles them into their deck."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t07.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ヘラクレス",
+        "code": "MRd/S111-T08",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have 4 or more other <Mirrorverse> or <Disney> characters, this gets +3000 power and +1 Soul.",
+            "AUTO - This ability activates up to once per turn. During the turn this is placed on stage from hand or deck, when this card's damage is cancelled, mill 1, then deal X damage to your opponent. X equals the Level of the milled card +1."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t08.png"
+    },
+    {
+        "name": "Stellar Mirror",
+        "code": "MRd/S111-T09",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "If you have 2 or less <Mirrorverse> characters, this cannot be played from hand.",
+            "[Rest 1 of your <Mirrorverse> characters] You may pay cost. If you do, look at up to 11 cards from the top of your deck, choose up to 1 <Mirrorverse> character from among them, place it on stage in any slot, and send the rest to Waiting Room."
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t09.png"
+    },
+    {
+        "name": "Mirror Master",
+        "code": "MRd/S111-T10",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t10.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ティアナ",
+        "code": "MRd/S111-T11",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, all of your other <Mirrorverse> or <Disney> characters get +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each CX among them, draw up to 1 card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t11.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"アリエル",
+        "code": "MRd/S111-T13",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another <Mirrorverse> or <Disney> character, this gets +1500 power.",
+            "AUTO - When this card's battle opponent is Reversed, if all of your characters are <Mirrorverse> or <Disney>, look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, send the rest to Waiting Room, then discard 1 card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t13.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"マレフィセント",
+        "code": "MRd/S111-T14",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t14.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"マウイ",
+        "code": "MRd/S111-T15",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Mirrorverse> or <Disney> character, this gets +3000 power.",
+            "AUTO - ENCORE [Put 1 <Mirrorverse> or <Disney> character from your Waiting Room on the bottom of your Clock] "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t15.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"エルサ",
+        "code": "MRd/S111-T17",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "ACT - [Rest this] Draw 1 card, discard 1 card."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t17.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"アナ",
+        "code": "MRd/S111-T18",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Mirrorverse> or <Disney> characters, this gets +1500 power and during this card's battle, you do not receive damage from your opponent character's AUTO effects. ",
+            "AUTO - When this is placed on stage from hand or deck, you may Heal 1."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "Disney"
+        ],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t18.png"
+    },
+    {
+        "name": "ミニーの虚像",
+        "code": "MRd/S111-T19",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t19.png"
+    },
+    {
+        "name": "エルサの虚像",
+        "code": "MRd/S111-T20",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
+        "attributes": [],
+        "set": "MRd",
+        "release": "S111",
+        "sid": "T20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrd_s111/mrd_s111_t20.png"
+    },
+    {
+        "name": "\"Heavy Hitting Cowboy\"ウッディ",
+        "code": "MRp/S111-008",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or deck, draw up to 1 card, then choose 1 of your opponent's characters, this turn, it gains the following ability, \"CONT - During this card's battle, you cannot play Events or BACKUPs from hand.\"",
+            "AUTO - When this is placed on stage from hand or deck, choose 1 your <Mirrorverse> or <PIXAR> characters, this turn, it gets +X power. X equals the number of your <Mirrorverse> or <PIXAR> characters times 500. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_008.png"
+    },
+    {
+        "name": "\"Fiery Arbiter of Justice\"イカリ",
+        "code": "MRp/S111-012",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If a CX with a Choice Trigger is in your CX Area, this card in any area gains Choice Trigger.",
+            "CONT - During your turn, if you have 2 or more other <Mirrorverse> or <PIXAR> characters, this gets +4000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_012.png"
+    },
+    {
+        "name": "\"Bomb-bastic Battle-saurus\"レックス",
+        "code": "MRp/S111-015",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <Mirrorverse> or <PIXAR> characters, you may draw 1 card. If you do, discard 1 card.",
+            "AUTO - When this attacks, choose 1 of your other <Mirrorverse> or <PIXAR> characters, until the end of your opponent's next turn, it gets +1000 power and \"AUTO - ENCORE [Discard 1 character]\"."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_015.png"
+    },
+    {
+        "name": "\"Prototypical Space Ranger\"バズ",
+        "code": "MRp/S111-023",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Mirrorverse> or <PIXAR> characters, this gets +2000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (050) in your CX Area, and you have 2 or more other <Mirrorverse> or <PIXAR> characters, look at up to 4 cards from the top of your deck, choose up to 1 <Mirrorverse> or <PIXAR> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, then choose up to 1 of your opponent's characters not in battle, send it to Memory, then your opponent places that character on stage in any slot. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_023.png"
+    },
+    {
+        "name": "\"Tyrant of the Timelines\"ザーグ",
+        "code": "MRp/S111-025",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When you trigger a CX with a Bar Trigger, you may pay cost. If you do, choose 1 card from your Clock, add it to hand, and put the top card of your deck into Clock.",
+            "ACT - {CX Combo} BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each \"Disruptor Cannon\" (1/0 Buzz CX - 050) or \"Shrouded Sword\" (3/2 Aladin CX - 051) among them, choose up to 1 character from your Waiting Room, and add it to hand, then choose 1 of your characters, this turn, it gets +1000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_025.png"
+    },
+    {
+        "name": "\"Terraformer of Planets\"WALL・E",
+        "code": "MRp/S111-026",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_026.png"
+    },
+    {
+        "name": "\"Planetary Security Sentry\"EVE",
+        "code": "MRp/S111-028",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Mirrorverse> or <PIXAR> character, this gets +1500 power.",
+            "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_028.png"
+    },
+    {
+        "name": "\"Monstrous Mechanized Pal\"マイク",
+        "code": "MRp/S111-032",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Put the top card of your Stock into Clock] When this is sent from stage to Waiting Room, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 <Mirrorverse> or <PIXAR> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_032.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ザーグ",
+        "code": "MRp/S111-035",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - ALARM - If this is on top of your Clock, and you have 2 or more <Mirrorverse> or <PIXAR> characters, at the start of your CX Phase, choose 1 of your characters, this turn, it gets +1500 power.",
+            "ACT - [Send this to Waiting Room] Choose up to 1 {Buzz Lightyear - 023} in your Waiting Room, place it on stage in this card's former slot, and this turn, it gets +3000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_035.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"マイク",
+        "code": "MRp/S111-044",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When your other <Mirrorverse> or <PIXAR> character attacks, this turn, this gets +1500 power.",
+            "AUTO - [Discard 1 CX] When this card's battle opponent is Reversed, you may pay cost. If you do, choose 1  character from your Waiting Room, and add it to hand. "
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_044.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"WALL・E",
+        "code": "MRp/S111-048",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - EXPERIENCE - If you have a {2/1 EVE - 049} in your Level Zone, this gets -1 level in hand.",
+            "AUTO - [Discard 1 <Mirrorverse> or <PIXAR> character] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {2/1 EVE - 049} in your Waiting Room, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_048.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"EVE",
+        "code": "MRp/S111-049",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Mirrorverse> or <PIXAR>, this gets +3000 power.",
+            "AUTO - [Discard 1 card] At the start of your opponent's Attack Phase, you may pay cost. If you do, choose 1 of your <Mirrorverse> or <PIXAR> characters and this card, Stand and swap them, and this turn, this gets +1000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_049.png"
+    },
+    {
+        "name": "Disruptor Cannon",
+        "code": "MRp/S111-050",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_050.png"
+    },
+    {
+        "name": "\"Rebellious Wisp Archer\"メリダ",
+        "code": "MRp/S111-054",
+        "rarity": "RR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Mirroverse> or <PIXAR>, this gets +2000 power and the following ability, \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
+            "AUTO - {CX Combo} [(1) Discard 1 character] At the start of your Encore Step, if you have the Standby CX (068) in your CX Area, you may pay cost. If you do, deal 1 damage to your opponent, then heal up to 1."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_054.png"
+    },
+    {
+        "name": "\"A Forcefield for Justice\"ヴァイオレット",
+        "code": "MRp/S111-055",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Put the top card of your Stock to Waiting Room, or Put the top card of your deck into Clock] When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_055.png"
+    },
+    {
+        "name": "\"Justice Reforged\"Mr.インクレディブル",
+        "code": "MRp/S111-056",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 your other <Mirrorverse> or <PIXAR> characters, this turn, it gets +1000 power.",
+            "AUTO - [Return this to hand] When a CX is placed on your CX Area, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +2000 power."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_056.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ヴァイオレット",
+        "code": "MRp/S111-060",
+        "rarity": "U",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if you have an <Mirrorverse> or <PIXAR> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "ACT - BACKUP +1500 [Reveal this card in your hand, send this to the bottom of your deck]"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_060.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"Mr.インクレディブル",
+        "code": "MRp/S111-066",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 4000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +1500",
+            "ACT - [Rest this] Look at the top card of your deck, and put it on top of your deck or into your Waiting Room."
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_066.png"
+    },
+    {
+        "name": "Bear Spirit",
+        "code": "MRp/S111-068",
+        "rarity": "CR",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_068.png"
+    },
+    {
+        "name": "\"Master Mage of New Mushroomton High\"イアン",
+        "code": "MRp/S111-075",
+        "rarity": "R",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (1) When you use this card's BACKUP, if you have 5 or more CXes with a Choice Trigger in your Waiting Room, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_075.png"
+    },
+    {
+        "name": "\"Low Tech Fish in a High Tech Sub\"ドリー",
+        "code": "MRp/S111-091",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - At the start of your opponent's Attack Phase, choose 1 of your characters, this turn, it gets +500 power.",
+            "ACT - BRAINSTORM (1) Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, resolve the following effect: \"Choose 1 <Mirrorverse> or <PIXAR> character from your Waiting Room, add it to hand, and discard 1 card.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_091.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"イアン",
+        "code": "MRp/S111-092",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 1 or less other characters, this gets +1000 power and the following ability, \"AUTO - When this attacks, during the Trigger Step of this attack, perform Trigger Check twice. If you triggered twice, put the top card of your Stock to Waiting Room.\""
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_092.png"
+    },
+    {
+        "name": "\"Fearsome Protector\"サリー",
+        "code": "MRp/S111-094",
+        "rarity": "C",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <Mirrorverse> or <PIXAR> characters.",
+            "AUTO - When a CX is placed in your CX Area, choose 1 of your characters, this turn, it gets +2000 power.",
+            "AUTO - [Discard 1 Climax] When you trigger a CX, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_094.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ウッディ",
+        "code": "MRp/S111-T03",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋2000。"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "T03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_t03.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"ドリー",
+        "code": "MRp/S111-T12",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+            "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《Mirrorverse》か《PIXAR》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "T12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_t12.png"
+    },
+    {
+        "name": "\"ミラー・ウォリアーズ\"サリー",
+        "code": "MRp/S111-T16",
+        "rarity": "TD",
+        "expansion": "Disney Mirrorverse",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【起】【カウンター】 助太刀3500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3500）"
+        ],
+        "attributes": [
+            "Mirrorverse",
+            "PIXAR"
+        ],
+        "set": "MRp",
+        "release": "S111",
+        "sid": "T16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/m/mrp_s111/mrp_s111_t16.png"
+    }
+]
