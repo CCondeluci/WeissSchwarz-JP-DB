@@ -3359,7 +3359,7 @@
         "expansion": "Project Sekai",
         "side": "S",
         "type": "Character",
-        "color": "RED",
+        "color": "BLUE",
         "level": 3,
         "cost": 2,
         "power": 10000,
@@ -3382,7 +3382,699 @@
         "sid": "P10",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p10.png"
     },
-
+    {
+        "name": "ショウタイム・ルーラー/にっこり^^調査隊のテーマ",
+        "code": "PJS/S91-P11",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] – At the beginning of your climax phase, choose one of your <Music> characters, and that character gets +1000 until end of turn.",
+            "[A] – [Rest 1 of your Standing characters] When this card is placed on the stage from your hand, you may pay the cost. If you did, choose one of your characters and it gains the following ability until end of turn.",
+            "-[A] – When this card's battle opponent is REVERSE, you may put the top card of your deck into your stock."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p11.png"
+    },
+    {
+        "name": "ワールドワイドワンダー/メタモリボン",
+        "code": "PJS/S91-P12",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "MORE MORE JUMP!"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p12.png"
+    },
+    {
+        "name": "STAGE OF SEKAI/Peaky Peaky",
+        "code": "PJS/S91-P13",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, choose up to 1 character from your hand whose Level is equals or lower than your Level, place it on stage in any slot, and this turn, this gets +2000 power.",
+            "[A] - [(3) Discard 1 card] When this card's battle opponent is Reversed, you may pay cost. If you do, deal 2 damage to your opponent, then look at the top card of your deck, and put it on top or bottom of your deck."
+        ],
+        "attributes": [
+            "Music",
+            "Leo/need"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p13.png"
+    },
+    {
+        "name": "ノマド/バグ",
+        "code": "PJS/S91-P14",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When you use this card's BACKUP, if you have an <Music> character, choose 1 of your battling characters, this turn, it gets +1000 power.",
+            "[S] - 【BACKUP】 ASSIST 1000 Level 1 ［(1) Place this card from Hand into Waiting Room］"
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, Nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p14.png"
+    },
+    {
+        "name": "月光/街",
+        "code": "PJS/S91-P15",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, all players resolve the following effect: \"If you have 5 or more Memory, choose 4 cards from your Memory, and send all other cards to Waiting Room.\"",
+            "[A] - When this attacks, choose 1 of your other <Music> characters, this turn, it gets +X power. X equals the number of your other <Music> characters times 500.\r\n"
+        ],
+        "attributes": [
+            "Music",
+            "Vivid BAD SQUAD"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p15.png"
+    },
+    {
+        "name": "オーダーメイド/てらてら ",
+        "code": "PJS/S91-P16",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, all of your other <Music> characters get +1000 power.",
+            "[C] - This card gains the color of all the Face-Up markers under this.",
+            "[A] - When this is placed on stage from hand, choose 1 card in your Waiting Room, you may put underneath this card Face-Up as a Marker."
+        ],
+        "attributes": [
+            "Music",
+            "Leo/need"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p16.png"
+    },
+    {
+        "name": "イフ/パラソルサイダー",
+        "code": "PJS/S91-P17",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, choose 1 of your <Music> characters, this turn, it gets +1500 power.",
+            "[A] - When this attacks, choose 1 of your <Music> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Music",
+            "MORE MORE JUMP!"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p17.png"
+    },
+    {
+        "name": "88☆彡/星空のメロディー",
+        "code": "PJS/S91-P18",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this attacks, choose 1 of your other <Music> characters, until the end of your opponent's next turn, it gets +1500 power and \"[A] - ENCORE [Discard 1 character]\""
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p18.png"
+    },
+    {
+        "name": "プロジェクトセカイ クリエイターズフェスタ2023",
+        "code": "PJS/S91-P19",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "DRAW"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【C】 All your Characters gets +1000 Power, +1 Soul.",
+            "(【Book】：When this card is triggered, you may draw 1 card)"
+        ],
+        "attributes": [],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p19.png"
+    },
+    {
+        "name": "虚ろを扇ぐ/仮死化",
+        "code": "PJS/S91-P20",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - If you have 2 or more other <Music> characters, this gets +1500 power and the following ability: \"[A] - When this card's battle opponent is Reversed, look at up to 2 cards from the top of your deck, and put them back on top in any order.\"",
+            "[A] - When this is placed on stage from hand, you may Heal 1."
+        ],
+        "attributes": [
+            "Music",
+            "Vivid BAD SQUAD"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p20.png"
+    },
+    {
+        "name": "Voices/the WALL",
+        "code": "PJS/S91-P21",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - This cannot Side Attack.",
+            "[A] - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Music",
+            "Leo/need"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p21.png"
+    },
+    {
+        "name": "DREAM PLACE/フロート・プランナー",
+        "code": "PJS/S91-P22",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, you may Heal 1, then this turn, this gets +1500 power.",
+            "[A] - [(1) Discard 1 card] When this attacks, if you have another <Music> character, you may pay cost. If you do, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards among them, put them back on top of your opponent's deck in any order, then send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "MORE MORE JUMP!"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P22",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p22.png"
+    },
+    {
+        "name": "君の夜をくれ/Iなんです",
+        "code": "PJS/S91-P23",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When your character's Trigger Check reveals a Climax, choose 1 of your characters, this turn, it gets +2000 power.",
+            "[A] - [(1) Send this to Waiting Room] When your other <Music> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested, and until the end of the next turn, it gets +3000 power."
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, Nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P23",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p23.png"
+    },
+    {
+        "name": "どんな結末がお望みだい？/星空オーケストラ",
+        "code": "PJS/S91-P24",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, draw up to 1 card, choose 1 of your opponent's characters, this turn, it gains the following ability: \"[C] - During this card's battle, you cannot play Events or BACKUP from hand.\"",
+            "[A] - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P24",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p24.png"
+    },
+    {
+        "name": "ひつじがいっぴき/下剋上",
+        "code": "PJS/S91-P25",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "[A] - When this card attacks, look at the top card of your deck and place it on top of your deck or in your waiting room."
+        ],
+        "attributes": [
+            "Music",
+            "Vivid BAD SQUAD"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P25",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p25.png"
+    },
+    {
+        "name": "ザムザ/キティ",
+        "code": "PJS/S91-P26",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, Nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P26",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p26.png"
+    },
+    {
+        "name": "Flyway/相生",
+        "code": "PJS/S91-P27",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character.",
+            "[S] - [(1) Place this card into your Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Music> character, show it to your oponent, add it to your hand, and send the remaining cards to the Waiting Room."
+        ],
+        "attributes": [
+            "Music",
+            "Leo/need"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P27",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p27.png"
+    },
+    {
+        "name": "私は、私達は/ももいろの鍵",
+        "code": "PJS/S91-P28",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - [Discard 1 Climax] When this card is placed onto stage from your hand, you may pay the cost. If you did, choose 1 <Music> character in your waiting room and add it to your hand",
+            "[A] - When damage dealt by this card is canceled, you may send this card to stock."
+        ],
+        "attributes": [
+            "Music",
+            "MORE MORE JUMP!"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P28",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p28.png"
+    },
+    {
+        "name": "Mr. Showtime/箱庭のコラル",
+        "code": "PJS/S91-P29",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - During your turn, this card gets +1000 power.",
+            "[A] - At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage without a character facing this card."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P29",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p29.png"
+    },
+    {
+        "name": "チームメイト/はぐ",
+        "code": "PJS/S91-P30",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your opponent's characters get \"[A] - Encore [(2)]\".",
+            "[A] - At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage without a character facing this card."
+        ],
+        "attributes": [
+            "Music",
+            "MORE MORE JUMP!"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P30",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p30.png"
+    },
+    {
+        "name": "演劇/25時の情熱",
+        "code": "PJS/S91-P31",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[S] - [Rest this card] Choose one of your characters, and that character gains +2500 until end of turn."
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, Nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P31",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p31.png"
+    },
+    {
+        "name": "星を繋ぐ/purpose",
+        "code": "PJS/S91-P32",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - At the beginning of your opponent's attack phase, if there is a character facing this card, you may move this card to an open position of your center stage without a character facing this card."
+        ],
+        "attributes": [
+            "Music",
+            "Leo/need"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P32",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p32.png"
+    },
+    {
+        "name": "キラピピ★キラピカ/フィラメントフィーバー",
+        "code": "PJS/S91-P33",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed onto stage from your hand, this card gets +1500 until the end of turn.",
+            "[A] - At the beginning of your opponent's draw phase, reveal the top card of your deck. If that card is Level 1 or higher, you may return this card to your hand. (Climaxes are treated as Level 0. Return the card to its original position)"
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P33",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p33.png"
+    },
+    {
+        "name": "リアライズ/CR詠ZY",
+        "code": "PJS/S91-P34",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[C] - All of your other <Music> characters gain +500 power.",
+            "[A] - When this card is placed onto stage from your hand, you may pay the cost. If you do, choose 1 <Music> character in your waiting room and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "Vivid BAD SQUAD"
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P34",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p34.png"
+    },
+    {
+        "name": "リアライズ/CR詠ZY",
+        "code": "PJS/S91-P35",
+        "rarity": "PR",
+        "expansion": "Project Sekai",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 1,
+        "trigger": [
+          "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock.",
+            "[A] - [(1)] When this is placed on stage from hand, you may pay cost. If you do, choose 1 Climax from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Music",
+            "25-ji, Nightcord de."
+        ],
+        "set": "PJS",
+        "release": "S91",
+        "sid": "P35",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p35.png"
+    },
     {
         "name": "Leo/need 天馬咲希",
         "code": "PJS/S91-T01",
