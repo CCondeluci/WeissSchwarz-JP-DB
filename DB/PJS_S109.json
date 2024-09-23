@@ -2509,7 +2509,7 @@
         ],
         "flavor_text": "",
         "ability": [
-            "CONT - If you have 3 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
+            "CONT - If you have 2 or less Climaxes in your Waiting Room, this gets -1 Level in hand.",
             "CONT - For each of your other <Music> characters, this gets +1000 power.",
             "AUTO - {CX Combo} When the Pants CX (108) is placed in your Climax Area, if this is in your front row, and you have 4 or more other <Music> characters, put up to 1 card from the top of your deck into Stock, then choose up to 1 character in your Waiting Room, add it to hand."
         ],
@@ -3185,5 +3185,89 @@
         "release": "S109",
         "sid": "116",
         "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_116.png"
+    },
+    {
+        "name": "友情キューピッド 鏡音リン",
+        "code": "PJS/S109-P01",
+        "rarity": "PR",
+        "expansion": "Project Sekai Colorful Stage Vol 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed onto stage from your hand, look at the top 2 cards of your deck and place them on top of your deck in any order.",
+            "[A] - When this card attacks, if there are no other characters in your back row, you may put the top card of your deck into Waiting Room. If that card is a level 0 or lower character, place that character in any back row position."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S109",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_p01.png"
+    },
+    {
+        "name": "友情キューピッド 鏡音リン",
+        "code": "PJS/S109-P01S",
+        "rarity": "PR",
+        "expansion": "Project Sekai Colorful Stage Vol 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed onto stage from your hand, look at the top 2 cards of your deck and place them on top of your deck in any order.",
+            "[A] - When this card attacks, if there are no other characters in your back row, you may put the top card of your deck into Waiting Room. If that card is a level 0 or lower character, place that character in any back row position."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S109",
+        "sid": "P01S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_p01s.png"
+    },
+    {
+        "name": "友情キューピッド 鏡音リン",
+        "code": "PJS/S109-P01P",
+        "rarity": "PR",
+        "expansion": "Project Sekai Colorful Stage Vol 2",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+        ],
+        "flavor_text": "",
+        "ability": [
+            "[A] - When this card is placed onto stage from your hand, look at the top 2 cards of your deck and place them on top of your deck in any order.",
+            "[A] - When this card attacks, if there are no other characters in your back row, you may put the top card of your deck into Waiting Room. If that card is a level 0 or lower character, place that character in any back row position."
+        ],
+        "attributes": [
+            "Music",
+            "Wonderlands x Showtime"
+        ],
+        "set": "PJS",
+        "release": "S109",
+        "sid": "P01P",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_p01p.png"
     }
 ]
