@@ -1,18 +1,18 @@
 [
     {
-        "name": "0/0 Kozue",
+        "name": "Dream Believers 乙宗 梢",
         "code": "LHS/W122-001",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When your character's Trigger Check reveals a CX, choose 1 of your <Music> characters, this turn, it gets +1500 power.",
             "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each Climax among them, choose up to 1 character from your Waiting Room, and add it to hand. If you sent a {copy of this} to Waiting Room by this effect, choose up to 1 {copy of this} in your Waiting Room, and send it to the bottom of your Stock."
@@ -24,23 +24,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "001",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_001.png"
     },
     {
-        "name": "1/0 Ginko",
+        "name": "Dream Believers 百生 吟子",
         "code": "LHS/W122-002",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 2 or more other <Music> characters, this gets +1000 power.",
             "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 CX from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card."
@@ -52,23 +51,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "002",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_002.png"
     },
     {
-        "name": "3/2 Kaho",
+        "name": "Dream Believers 日野下 花帆",
         "code": "LHS/W122-003",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand or by the ACT effect of {0/0 Kaho - 022}, heal up to 1, then this turn, this gets +1500 power.",
             "AUTO - {CX Combo} When this attacks, if you have the Choice CX (029) in your CX Area, choose 1 of the following 3 effects and resolve it,",
@@ -83,23 +83,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "003",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_003.png"
     },
     {
-        "name": "3/2 Hime",
+        "name": "Dream Believers 安養寺 姫芽",
         "code": "LHS/W122-004",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - [(3) Discard 1 card] When this attacks, you may pay cost. If you do, send the bottom 6 cards of your opponent's deck to Waiting Room, then deal 1 damage to your opponent X times. X equals the number of CXes sent to Waiting Room by this effect."
         ],
@@ -110,23 +111,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "004",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_004.png"
     },
     {
-        "name": "0/0 Kozue",
+        "name": "アオクハルカ 乙宗 梢",
         "code": "LHS/W122-005",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower <Cerise Bouquet> character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
             "ACT - [(2) Send this to Waiting Room] If you are Level 3 or higher, choose 1 {RR 3/2 Kozue Assist} in your Waiting Room, place it on stage in this card's former slot."
@@ -138,23 +138,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "005",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_005.png"
     },
     {
-        "name": "0/0 Kozue",
+        "name": "節分 -魅- 乙宗 梢",
         "code": "LHS/W122-006",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If a CX with a Choice Trigger is in your CX Area, this card in any area gains Choice Trigger.",
             "AUTO - When this is Reversed, if all of your characters are <Music>, and the battle opponent's Level is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room. "
@@ -166,23 +165,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "006",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_006.png"
     },
     {
-        "name": "0/0 Ginko",
+        "name": "アオクハルカ 百生 吟子",
         "code": "LHS/W122-007",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - {CX Combo} [Send the Choice CX (030) from your CX Area to Waiting Room] At the start of your Encore Step, if you have 2 or more other <Cerise Bouquet> characters, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 2 <Cerise Bouquet> character from among them, show them to your opponent, add them to hand, send the rest to Waiting Room.",
             "ACT - [Rest this] Choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, during the Trigger Step of this attack, perform Trigger Check twice. If you triggered twice, put the top card of your Stock to Waiting Room.\""
@@ -194,23 +192,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "007",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_007.png"
     },
     {
-        "name": "0/0 Kaho",
+        "name": "アオクハルカ 日野下 花帆",
         "code": "LHS/W122-008",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - At the start of your opponent's turn, you may mill 1. If that card is a character with \"Kaho\" in its name, you may move this to an empty Front Row slot. If that card is a character with \"Kozue\" in its name, you may return this to hand. If that card is a character with \"Ginko\" in its name, you may send this to Stock."
         ],
@@ -221,23 +218,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "008",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_008.png"
     },
     {
-        "name": "2/2 Megumi",
+        "name": "みんなで叶える物語 藤島 慈",
         "code": "LHS/W122-009",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, for each of your other <Music> character, this gets +1000 power.",
             "AUTO - ENCORE [Discard 1 <Music> character]",
@@ -250,23 +248,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "009",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_009.png"
     },
     {
-        "name": "3/2 Kozue",
+        "name": "みんなで叶える物語 乙宗 梢",
         "code": "LHS/W122-010",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 4500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - All of your other {3/2 Kaho - 003} gets +500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
             "CONT - ASSIST +2000.",
@@ -279,23 +278,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "010",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_010.png"
     },
     {
-        "name": "3/2 Ginko",
+        "name": "みんなで叶える物語 百生 吟子",
         "code": "LHS/W122-011",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 2 or less CXes in your Waiting Room, this gets -1 Level in hand.",
             "CONT - For each of your other back row <Music> characters, this gets +1000 power.",
@@ -308,23 +308,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "011",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_011.png"
     },
     {
-        "name": "0/0 Megumi",
+        "name": "PASSION!!!!!! 藤島 慈",
         "code": "LHS/W122-012",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, you may perform the following effect, \"Search your deck for up to 1 <Mira-Cra Park!> character, send it to Waiting Room, and shuffle your deck afterwards.\"",
             "AUTO - During this card's battle, when the damage you take is cancelled, you may return this to your hand."
@@ -336,23 +335,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "012",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_012.png"
     },
     {
-        "name": "0/0 Ginko",
+        "name": "PASSION!!!!!! 百生 吟子",
         "code": "LHS/W122-013",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters and 1 of its Traits, this turn, that character loses that Trait.",
             "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
@@ -364,23 +362,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "013",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_013.png"
     },
     {
-        "name": "0/0 Rurino",
+        "name": "抱きしめる花びら 大沢 瑠璃乃",
         "code": "LHS/W122-014",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [(1) Put 1 <Music> character from your Waiting Room on the bottom of your Clock] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card.",
             "AUTO - [Return this to hand] When a CX is placed in your CX Area, you may pay cost. If you do, choose 1 of your characters, this turn, it gets +2000 power. "
@@ -392,23 +389,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "014",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_014.png"
     },
     {
-        "name": "0/0 Hime",
+        "name": "みらくりえーしょん/雅 安養寺 姫芽",
         "code": "LHS/W122-015",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - All of your characters gain the following ability, \"CONT - This cannot side attack.\"",
             "AUTO - [Discard 1 <Music> characters] When this is placed on stage from hand, you may pay cost. If you do, draw 1 card."
@@ -420,23 +416,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "015",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_015.png"
     },
     {
-        "name": "1/0 Kaho",
+        "name": "軌跡の舞踏会 日野下 花帆",
         "code": "LHS/W122-016",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Cerise Bouquet> character from your Clock, add it to hand, and put the top card of your deck into Clock.",
             "AUTO - This ability activates up to once per turn. When you use an ACT, this turn, this gets +4500 power."
@@ -448,23 +443,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "016",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_016.png"
     },
     {
-        "name": "1/0 Kozue",
+        "name": "Holiday∞Holiday 乙宗 梢",
         "code": "LHS/W122-017",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, if you have another <Music> character, this gets +3000 power.",
             "AUTO - {CX Combo} When this card's battle opponent is Reversed, if you have the Choice CX (031) in your CX Area, and you have 2 or more other <Music> characters, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards, then look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, place them on top of your deck in any order, and send the rest to Waiting Room.",
@@ -477,23 +473,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "017",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_017.png"
     },
     {
-        "name": "1/1 Rurino",
+        "name": "織姫草紙 大沢 瑠璃乃",
         "code": "LHS/W122-018",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, for each of your other <Music> characters, this gets +1000 power.",
             "AUTO - (1) When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 {U 0/0 Hime - 015} in your Waiting Room, add it to hand."
@@ -505,23 +500,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "018",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_018.png"
     },
     {
-        "name": "2/1 Kaho",
+        "name": "織姫草紙 日野下 花帆",
         "code": "LHS/W122-019",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
             "ACT - BACKUP +2500"
@@ -533,23 +529,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "019",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_019.png"
     },
     {
-        "name": "2/1 Kozue",
+        "name": "365 Days 乙宗 梢",
         "code": "LHS/W122-020",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, for each of your other <Music> characters, this gets +1500 power.",
             "AUTO - [Discard 1 <Music> character] When this is placed on stage from hand, you may pay cost. If you do, choose up to 1 of your opponent's characters, send it to Memory, at the start of the Encore Step, your opponent places that character on stage in any slot."
@@ -561,23 +558,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "020",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_020.png"
     },
     {
-        "name": "2/1 Ginko",
+        "name": "Bloom the smile,Bloom the dream! 百生 吟子",
         "code": "LHS/W122-021",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - ASSIST +2000 to Level 3 or higher characters.",
             "AUTO - When this is placed on stage from hand, If you have 6 or less cards in your deck, you may shuffle all cards from your Waiting Room into your deck."
@@ -589,23 +587,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "021",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_021.png"
     },
     {
-        "name": "0/0 Kaho",
+        "name": "抱きしめる花びら 日野下 花帆",
         "code": "LHS/W122-022",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "ACT - [(2) Send this to Waiting Room] If you are Level 3 or higher, choose 1 {RR 3/2 Kaho - 003} in your Waiting Room, place it on stage in this card's former slot.",
             "Note: Has a Soul Trigger"
@@ -617,23 +616,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "022",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_022.png"
     },
     {
-        "name": "0/0 Kozue",
+        "name": "室咲格子 乙宗 梢",
         "code": "LHS/W122-023",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "ACT - [Send 1 of your other characters on stage to Waiting Room, Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
         ],
@@ -644,23 +642,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "023",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_023.png"
     },
     {
-        "name": "1/0 Megumi",
+        "name": "Secret Christmas 藤島 慈",
         "code": "LHS/W122-024",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When you use this card's BACKUP, this turn, all of the battling characters gains the following ability, \"AUTO - When this is sent from stage to Waiting Room, you may return it to stage in its former slot Rested.\"",
             "ACT - BACKUP +0"
@@ -672,23 +669,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "024",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_024.png"
     },
     {
-        "name": "1/1 Kaho",
+        "name": "室咲格子 日野下 花帆",
         "code": "LHS/W122-025",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock.",
             "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room."
@@ -700,23 +698,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "025",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_025.png"
     },
     {
-        "name": "2/1 Hime",
+        "name": "青嵐の鯉流し 安養寺 姫芽",
         "code": "LHS/W122-026",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
             "ACT - BACKUP +3000"
@@ -728,23 +727,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "026",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_026.png"
     },
     {
-        "name": "3/2 Rurino",
+        "name": "春風ブランコ 大沢 瑠璃乃",
         "code": "LHS/W122-027",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this attacks, mill 2. Then look at up to X cards from the top of your opponent's deck, choose up to X cards from among them, put them on top of your opponent's deck in any order, and send the rest to Waiting Room. X is equal to the total number of Soul Triggers milled.",
             "AUTO - {CX Combo} When this attacks, if you have the Level 1 or Lower Stocksoul CX (032) in your CX Area, and you have 2 or more other <Music> characters, choose up to 1 CX in your CX Area or Waiting Room, shuffle it into your deck."
@@ -756,23 +756,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "027",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_027.png"
     },
     {
-        "name": "1/0 Event",
+        "name": "迎春 -食- 日野下 花帆",
         "code": "LHS/W122-028",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Event",
-        "color": "",
-        "level": "1",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
+        "trigger": [],
+        "flavor_text": "",
         "ability": [
             "COUNTER - If you don't have a <Music> character, this cannot be played from hand. ",
             "BRAINSTORM - Flip over the top 2 cards of your deck, then send them to Waiting Room. Choose up to 1 Level X or lower <Music> character from your Waiting Room, add it to hand. X equals the sum of Levels of cards sent to Waiting Room by this effect."
@@ -781,23 +780,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "028",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_028.png"
     },
     {
-        "name": "Choice CX",
+        "name": "水彩世界",
         "code": "LHS/W122-029",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
         "ability": [
             "Note: CX is a Serial Rare (SIR), which is similar to an AGR, but a character sign instead of VA Pen Sign."
         ],
@@ -805,89 +805,100 @@
         "set": "LHS",
         "release": "W122",
         "sid": "029",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_029.png"
     },
     {
-        "name": "Choice CX",
+        "name": "アオクハルカ",
         "code": "LHS/W122-030",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "030",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_030.png"
     },
     {
-        "name": "Choice CX",
+        "name": "Holiday∞Holiday",
         "code": "LHS/W122-031",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "031",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_031.png"
     },
     {
-        "name": "Level 1 or Lower Stocksoul CX",
+        "name": "ココン東西",
         "code": "LHS/W122-032",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "032",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_032.png"
     },
     {
-        "name": "0/0 Rurino",
+        "name": "Dream Believers 大沢 瑠璃乃",
         "code": "LHS/W122-033",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Put the top card of your Stock to Waiting Room, or Put the top card of your deck into Clock] When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.",
             "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may Reverse that character."
@@ -899,23 +910,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "033",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_033.png"
     },
     {
-        "name": "3/2 Megumi",
+        "name": "Dream Believers 藤島 慈",
         "code": "LHS/W122-034",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage by the effect of Standby or the ACT effect of {Unknown Megumi}, you may heal 1.",
             "AUTO - {CX Combo} [(1) Discard 1 <Music> character] When this attacks, if you have the Standby CX (065) in your CX Area, and you have 2 or more other <Music> characters, you may pay cost. If you do, deal 3 damage to your opponent, then look at up to 2 cards from the top of your deck, and put them back on top in any order."
@@ -927,23 +939,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "034",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_034.png"
     },
     {
-        "name": "3/2 Tsuzuri",
+        "name": "Dream Believers 夕霧 綴理",
         "code": "LHS/W122-035",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - [Send 1 of your other <Music> characters on stage to Waiting Room] When this is placed on stage, you may pay cost. If you do, look at up to 3 cards from the top of your deck, choose up to 1 card from among them, add it to hand, then choose up to 1 card from among them, send it to Stock, and send the rest to Waiting Room.",
             "AUTO - {CX Combo} [Discard 2 cards] When this attacks, if you have the Door CX (066) in your CX Area, you may pay cost. If you do, this turn, this gets +1500 power, and send the bottom 3 cards of your opponent's deck to Waiting Room, if there is no CX among them, deal 1 damage to your opponent 4 times."
@@ -955,23 +968,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "035",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_035.png"
     },
     {
-        "name": "0/0 Sayaka",
+        "name": "レディバグ 村野 さやか",
         "code": "LHS/W122-036",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Discard 1 <Music> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {RR 3/2 Tsuzuri}, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
@@ -982,23 +994,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "036",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_036.png"
     },
     {
-        "name": "0/0 Hime",
+        "name": "みらくりえーしょん 安養寺 姫芽",
         "code": "LHS/W122-037",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - {CX Combo} [Return this to hand] When the Standby CX (067) is placed in your CX Area, you may pay cost. If you do, search your deck for up to 2 <Music> characters, send them to Waiting Room, shuffle your deck afterwards, then choose 1 of your characters, this turn, it gets +1000 power."
         ],
@@ -1009,23 +1020,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "037",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_037.png"
     },
     {
-        "name": "1/0 Hime",
+        "name": "みんなで叶える物語 安養寺 姫芽",
         "code": "LHS/W122-038",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this attacks, choose 1 of your <Music> characters, this turn, it gets +X power. X equals the number of your <Music> characters times 500.",
             "AUTO - [Discard 1 card] When this attacks, if you don't have a CX in your CX Area, you may pay cost. If you do, look at up to 5 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
@@ -1037,23 +1047,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "038",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_038.png"
     },
     {
-        "name": "1/0 Tsuzuri",
+        "name": "みんなで叶える物語 夕霧 綴理",
         "code": "LHS/W122-039",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
             "AUTO - RESONATE [(1) Reveal {3/2 Tsuzuri - 035} from your hand] During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
@@ -1065,23 +1074,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "039",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_039.png"
     },
     {
-        "name": "1/1 Megumi",
+        "name": "みらくりえーしょん 藤島 慈",
         "code": "LHS/W122-040",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When you trigger a card with a Soul Trigger, choose up to 1 of your attacking characters, this turn, it gets +3000 power and -1 Soul.",
             "AUTO - When you trigger a CX with 2 Soul Triggers, if you do not have another {Copy of this}, choose up to 1 of your attacking characters, this turn it gets -2 souls. If you choose 1, choose 1 <Mira-Cra Park!> character in your Waiting Room, send it to the bottom of your Stock.",
@@ -1094,23 +1104,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "040",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_040.png"
     },
     {
-        "name": "2/2 Megumi",
+        "name": "節分 -艶- 藤島 慈",
         "code": "LHS/W122-041",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - For each of your other <Music> character, this gets +1000 power.",
             "AUTO - (1) When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose up to 1 {U 1/1 Rurino - 018} in your Waiting Room, place it on stage in this card's former slot Rested. "
@@ -1122,23 +1133,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "041",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_041.png"
     },
     {
-        "name": "2/2 Rurino",
+        "name": "みらくりえーしょん 大沢 瑠璃乃",
         "code": "LHS/W122-042",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 8500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - [Send 1 CX in your CX Area to Waiting Room] At the start of your Attack Phase, you may pay cost. If you do, Stand this, and at the start of your opponent's Encore Step, send this to Waiting Room."
         ],
@@ -1149,23 +1161,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "042",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_042.png"
     },
     {
-        "name": "3/2 Rurino",
+        "name": "みんなで叶える物語 大沢 瑠璃乃",
         "code": "LHS/W122-043",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 7000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - All of your other <Music> characters gets +1500 power.",
             "AUTO - When this is placed on stage from hand, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
@@ -1178,23 +1191,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "043",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_043.png"
     },
     {
-        "name": "0/0 Megumi",
+        "name": "365 Days 藤島 慈",
         "code": "LHS/W122-044",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - (2) When this is plcaed on stage from hand, you may pay cost. If you do, choose 1 <Music> character in your Waiting Room, add it to hand.",
             "ACT - [Send this to Waiting Room] If you are Level 3, choose 1 {RR 3/2 Megumi} from your hand, place it on stage in this card's former slot."
@@ -1206,23 +1218,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "044",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_044.png"
     },
     {
-        "name": "0/0 Hime",
+        "name": "PASSION!!!!!! 安養寺 姫芽",
         "code": "LHS/W122-045",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
             "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand."
@@ -1234,23 +1245,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "045",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_045.png"
     },
     {
-        "name": "0/0 Tsuzuri",
+        "name": "秋色カントリーロード 夕霧 綴理",
         "code": "LHS/W122-046",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, search your deck for up to 1 Cost 0 <Music> character whose Level is equal or lower than your Level, place it on stage in any slot Rested, and shuffle your deck afterwards.",
             "AUTO - ALARM - If this is on top of your Clock, at the start of your Climax Phase, choose 1 of your <Music> characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, and put them back on top in any order.\""
@@ -1262,23 +1272,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "046",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_046.png"
     },
     {
-        "name": "0/0 Kosuzu",
+        "name": "PASSION!!!!!! 徒町 小鈴",
         "code": "LHS/W122-047",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 CX, show it to your opponent, then choose up to 1 CX in your hand, show it to your opponent, swap them, and shuffle your deck afterwards."
         ],
@@ -1289,23 +1298,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "047",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_047.png"
     },
     {
-        "name": "1/0 Sayaka",
+        "name": "織姫草紙 村野 さやか",
         "code": "LHS/W122-048",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Discard 1 CX] When this is placed on stage from hand or attacks, you may pay cost. If you do, choose 1 <Music> character from your Waiting Room, and add it to hand.",
             "AUTO - When your other <Music> character attacks, this turn, this gets +X power. X equals the number of your other <Music> characters times 500."
@@ -1317,23 +1325,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "048",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_048.png"
     },
     {
-        "name": "1/0 Megumi",
+        "name": "抱きしめる花びら 藤島 慈",
         "code": "LHS/W122-049",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 2 or more other <Music> characters, this gets +2000 power.",
             "AUTO - {CX Combo} [Send the Level 1 or lower Stocksoul CX (068) from your CX Area to Waiting Room] At the end of this card's attack, if you have 2 or more other <Music> characters, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 2 <Music> character from among them, show them to your opponent, add them to hand, send the rest to Waiting Room."
@@ -1345,23 +1352,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "049",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_049.png"
     },
     {
-        "name": "1/1 Rurino",
+        "name": "ハクチューアラモード 大沢 瑠璃乃",
         "code": "LHS/W122-050",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, all of your other <Music> characters get +1000 power.",
             "AUTO - (1) At the start of your Attack Phase, you may pay cost. If you do, look at up to 2 cards from the top of your deck, and put them back on top in any order, then choose 1 of your characters with \"Megumi\" in its name, Stand it.",
@@ -1374,23 +1382,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "050",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_050.png"
     },
     {
-        "name": "2/1 Tsuzuri",
+        "name": "PASSION!!!!!! 夕霧 綴理",
         "code": "LHS/W122-051",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When you use this card's BACKUP, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to the bottom of your opponent's deck. \"",
             "ACT - BACKUP +2500 power."
@@ -1402,23 +1411,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "051",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_051.png"
     },
     {
-        "name": "2/1 Sayaka",
+        "name": "抱きしめる花びら 村野 さやか",
         "code": "LHS/W122-052",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, choose 1 of your characters, this turn, it gets +1 Soul.",
             "ACT - [Send this to Waiting Room] Choose 1 of your opponent's characters, return it to hand."
@@ -1430,23 +1440,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "052",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_052.png"
     },
     {
-        "name": "3/2 Hime",
+        "name": "Bloom the smile,Bloom the dream! 安養寺 姫芽",
         "code": "LHS/W122-053",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
             "CONT - If all of your characters are <Music>, this gets +2000 power.",
@@ -1461,23 +1472,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "053",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_053.png"
     },
     {
-        "name": "0/0 Sayaka",
+        "name": "室咲格子 村野 さやか",
         "code": "LHS/W122-054",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have another front row {0/0 Tsuzuri Below}, this gets +3000 power, and all of your other {0/0 Tsuzuri - 059} and this gains <Bento> and the following ability, \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
             "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {0/0 Tsuzuri - 059}, place it on stage in any slot, and shuffle your deck afterwards."
@@ -1489,23 +1499,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "054",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_054.png"
     },
     {
-        "name": "0/0 Rurino",
+        "name": "悠久の舞踏会 大沢 瑠璃乃",
         "code": "LHS/W122-055",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "ACT - [Rest this]  look at up to X cards from the top of your deck, choose up to X cards from among them, place them on top of your deck in any order, and send the rest to Waiting Room. X is equal to your Level.",
             "ACT - [Rest this] Choose 1 of oyur characters, this turn, it gets +X Power. X is equal to your Level times 1500."
@@ -1517,23 +1526,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "055",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_055.png"
     },
     {
-        "name": "0/0 Rurino",
+        "name": "室咲格子 大沢 瑠璃乃",
         "code": "LHS/W122-056",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, search your deck for up to 1 <Music> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
             "*Note: Has a Soul Trigger"
@@ -1545,23 +1555,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "056",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_056.png"
     },
     {
-        "name": "0/0 Hime",
+        "name": "室咲格子 安養寺 姫芽",
         "code": "LHS/W122-057",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top or bottom of your deck or into your Waiting Room.",
             "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Music> character from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
@@ -1573,23 +1582,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "057",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_057.png"
     },
     {
-        "name": "0/0 Megumi",
+        "name": "冬のおくりもの 藤島 慈",
         "code": "LHS/W122-058",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, you may mill 3.",
             "AUTO - BOND [Discard 1 <Mira-Cra Park!> character] to {RR 0/0 Rurino Twin Driver - 033} or {1/1 Rurino - 050}"
@@ -1601,23 +1609,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "058",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_058.png"
     },
     {
-        "name": "0/0 Tsuzuri",
+        "name": "室咲格子 夕霧 綴理",
         "code": "LHS/W122-059",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, mill 1. If that card is a CX, send this to Stock."
         ],
@@ -1628,23 +1635,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "059",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_059.png"
     },
     {
-        "name": "1/0 Hime",
+        "name": "アイデンティティ 安養寺 姫芽",
         "code": "LHS/W122-060",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
             "AUTO - When this is placed on stage from hand, if you have 2 or more other <Music> characters, you may draw 1 card. If you do, discard 1 card.",
@@ -1657,23 +1665,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "060",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_060.png"
     },
     {
-        "name": "1/0 Kosuzu",
+        "name": "青嵐の鯉流し 徒町 小鈴",
         "code": "LHS/W122-061",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +4000 power and +1 Soul.",
             "AUTO - RESONATE [Reveal {RR 3/2 Tsuzuri - 079} from your hand] At the start of your CX Phase, you may pay cost. If you do, this turn, this gets +4000 power."
@@ -1685,23 +1692,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "061",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_061.png"
     },
     {
-        "name": "1/1 Megumi",
+        "name": "室咲格子 藤島 慈",
         "code": "LHS/W122-062",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 2 or more other <Music> characters, this gets +2000 power.",
             "AUTO - ENCORE [Discard 1 character]"
@@ -1713,23 +1719,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "062",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_062.png"
     },
     {
-        "name": "2/1 Kosuzu",
+        "name": "Sparkly Spot 徒町 小鈴",
         "code": "LHS/W122-063",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - ASSIST Level x 500.",
             "ACT - RESONATE [Reveal {RR 3/2 Tsuzuri - 035} from your hand, Rest this] Choose 1 of your characters, this turn, it gets +3000 power. "
@@ -1741,23 +1748,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "063",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_063.png"
     },
     {
-        "name": "2/2 Event",
+        "name": "迎春 -楽- 大沢 瑠璃乃",
         "code": "LHS/W122-064",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Event",
-        "color": "",
-        "level": "2",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
+        "trigger": [],
+        "flavor_text": "",
         "ability": [
             "COUNTER - BRAINSTORM - Flip over the top 3 cards of your deck, then send them to Waiting Room. If there is a CX(es) among them, choose 1 of your opponent's battling characters, this turn, it gains the following ability, \"CONT - This cannot deal damage to players.\""
         ],
@@ -1765,133 +1771,155 @@
         "set": "LHS",
         "release": "W122",
         "sid": "064",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_064.png"
     },
     {
-        "name": "Standby CX",
+        "name": "ド！ド！ド！",
         "code": "LHS/W122-065",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "065",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_065.png"
     },
     {
-        "name": "Door CX",
+        "name": "Tragic Drops",
         "code": "LHS/W122-066",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "066",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_066.png"
     },
     {
-        "name": "Standby CX",
+        "name": "みらくりえーしょん",
         "code": "LHS/W122-067",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "067",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_067.png"
     },
     {
-        "name": "Level 1 or lower Stocksoul CX",
+        "name": "抱きしめる花びら",
         "code": "LHS/W122-068",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "068",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_068.png"
     },
     {
-        "name": "Standby CX",
+        "name": "ハクチューアラモード",
         "code": "LHS/W122-069",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "069",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_069.png"
     },
     {
-        "name": "0/0 Kaho",
+        "name": "みんなで叶える物語 日野下 花帆",
         "code": "LHS/W122-070",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, if you have another <Music> character, look at the top card of your deck, and put it on top of your deck or into your Waiting Room, then choose 1 of your characters, this turn, it gets +1000 power.",
             "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
@@ -1903,23 +1931,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "070",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_070.png"
     },
     {
-        "name": "1/0 Sayaka",
+        "name": "Dream Believers 村野 さやか",
         "code": "LHS/W122-071",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, this gets +3000 power.",
             "AUTO - {CX Combo} When this attacks, if you have the Pants CX (097) in your CX Area, and you have 2 or more other <Music> characters, mill up to 3, then choose up to 1 Level X or lower <Music> character from your Waiting Room, add it to hand, and this turn, this gets +500 power. X equals the number of <Music> characters milled by this effect.",
@@ -1932,23 +1961,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "071",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_071.png"
     },
     {
-        "name": "3/2 Kosuzu",
+        "name": "Dream Believers 徒町 小鈴",
         "code": "LHS/W122-072",
         "rarity": "RR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 4 or more <Music> characters, this gets -1 Level in hand.",
             "AUTO - When this is placed on stage from hand, you may Heal 1.",
@@ -1961,23 +1991,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "072",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_072.png"
     },
     {
-        "name": "0/0 Kosuzu",
+        "name": "みんなで叶える物語 徒町 小鈴",
         "code": "LHS/W122-073",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card."
         ],
@@ -1988,23 +2017,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "073",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_073.png"
     },
     {
-        "name": "0/0 Sayaka",
+        "name": "みんなで叶える物語 村野 さやか",
         "code": "LHS/W122-074",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - RESONATE [Reveal {3/2 Tsuzuri - 035} from your hand] At the start of your CX Phase, you may pay cost. If you do, choose 1 of the following 2 effects and resolve it,",
             "a) \"If you are Level 1 or lower, choose 1 of your other <DOLLCHESTRA> characters, this turn, it gets +1000 power.\"",
@@ -2018,23 +2046,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "074",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_074.png"
     },
     {
-        "name": "1/0 Tsuzuri",
+        "name": "節分 -妖- 夕霧 綴理",
         "code": "LHS/W122-075",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - [Discard 1 CX with a Door Trigger] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and return it to hand.",
             "ACT - BACKUP +1000"
@@ -2046,23 +2073,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "075",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_075.png"
     },
     {
-        "name": "2/1 Kosuzu",
+        "name": "レディバグ 徒町 小鈴",
         "code": "LHS/W122-076",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, this gets +5000 power.",
             "AUTO - {CX Combo} When this attacks, if you have the Pants CX (098) in your CX Area, and you have 2 or more other <Music> characters, look at up to 4 cards from the top of your deck, choose up to 2 <Music> characters from among them, show them to your opponent, add them to hand, send the rest to Waiting Room"
@@ -2074,23 +2102,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "076",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_076.png"
     },
     {
-        "name": "3/2 Kaho",
+        "name": "ドルフィン〰ビーチ 日野下 花帆",
         "code": "LHS/W122-077",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - This ability activates up to once per turn. During the turn this is placed on stage from hand, when this card's damage is cancelled, if you have 5 or less hand, you may deal 2 damage to your opponent."
         ],
@@ -2101,23 +2130,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "077",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_077.png"
     },
     {
-        "name": "3/2 Sayaka",
+        "name": "Rose Garden 村野 さやか",
         "code": "LHS/W122-078",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - [Send 1 of your other <Music> characters on stage to Waiting Room] When this is placed on stage from hand, if all of your characters are <Music>, you may pay cost. If you do, choose 1 card in your Clock, add it to hand.",
             "AUTO - (3) When this attacks, you may pay cost. If you do, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on top of your opponent's deck in any order, and send the rest to Waiting Room, then look at up to 2 cards from the top of your deck, choose up to 2 cards from among them, place them on top of your deck in any order, and send the rest to Waiting Room."
@@ -2129,23 +2159,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "078",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_078.png"
     },
     {
-        "name": "3/2 Tsuzuri",
+        "name": "レディバグ 夕霧 綴理",
         "code": "LHS/W122-079",
         "rarity": "R",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, you may send the top 4 cards of your opponent's deck to Waiting Room.",
             "AUTO - When this is placed on stage from hand, you may perform the following effect, \"Your opponent chooses 1 CX from their Waiting Room, and shuffles all other cards from their Waiting Room into their deck.\""
@@ -2157,23 +2188,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "079",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_079.png"
     },
     {
-        "name": "0/0 Tsuzuri",
+        "name": "365 Days 夕霧 綴理",
         "code": "LHS/W122-080",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.",
             "AUTO - [(1) Return this to hand] At the start of your CX Phase, if you are Level 3 or higher, you may pay cost. If you do, choose up to {RR 3/2 Tsuzuri - 079} from your hand, place it on stage in this card's former slot."
@@ -2185,23 +2215,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "080",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_080.png"
     },
     {
-        "name": "0/0 Ginko",
+        "name": "アオクハルカ/華 百生 吟子",
         "code": "LHS/W122-081",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have no other characters, this gets +2 Level and +3000 power.",
             "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
@@ -2213,23 +2242,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "081",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_081.png"
     },
     {
-        "name": "0/0 Kozue",
+        "name": "PASSION!!!!!! 乙宗 梢",
         "code": "LHS/W122-082",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 5 or more hand, this gets +2000 power.",
             "ACT - [Discard 1 card, Send this to Waiting Room] Choose 1 <Music> character in your Waiting Room, add it to hand. "
@@ -2241,23 +2269,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "082",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_082.png"
     },
     {
-        "name": "1/0 Kosuzu",
+        "name": "Bloom the smile,Bloom the dream! 徒町 小鈴",
         "code": "LHS/W122-083",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When a CX is placed in your CX Area, this turn, this gets +3000 power.",
             "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
@@ -2269,23 +2296,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "083",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_083.png"
     },
     {
-        "name": "1/1 Kosuzu",
+        "name": "レディバグ/麗 徒町 小鈴",
         "code": "LHS/W122-084",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - For each Marker underneath this card, this gets +2000 power.",
             "AUTO - When this card's battle opponent is Reversed, you may look at the top card of your deck. If you do, place that card underneath this card face-down as a Marker."
@@ -2297,23 +2323,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "084",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_084.png"
     },
     {
-        "name": "0/0 Kosuzu",
+        "name": "室咲格子 徒町 小鈴",
         "code": "LHS/W122-085",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck.",
             "AUTO - ALARM - If this is on top of your Clock, at the start of your Climax Phase, choose 1 of your <Music> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send that character to the bottom of your opponent's deck."
@@ -2325,23 +2350,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "085",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_085.png"
     },
     {
-        "name": "0/0 Tsuzuri",
+        "name": "Mirage Voyage 夕霧 綴理",
         "code": "LHS/W122-086",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When a CX is placed in your CX Area, choose 1 of your other <DOLLCHESTRA> characters, this turn, it gets +2000 power.",
             "AUTO - {CX Combo} When the Pants CX (099) is placed in your CX Area, if you have 2 or more other <Music> characters, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 1 cards from the top of your deck, choose up to 1 <Music> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room.\""
@@ -2353,23 +2377,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "086",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_086.png"
     },
     {
-        "name": "0/0 Sayaka",
+        "name": "真実の舞踏会 村野 さやか",
         "code": "LHS/W122-087",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - RESONATE [Discard 1 card, Reveal {RR 3/2 Tsuzuri - 079} from your hand] When this is placed on stage from hand, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <DOLLCHESTRA> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
         ],
@@ -2380,23 +2403,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "087",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_087.png"
     },
     {
-        "name": "1/0 Kozue",
+        "name": "抱きしめる花びら 乙宗 梢",
         "code": "LHS/W122-088",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - {CX Combo} When this attacks, this turn, this gets +X power. X is equal to the number of CXes with a Choice CX or {3/2 Kozue's CX - 100} in your CX Area or Waiting Room times 1000."
         ],
@@ -2407,23 +2429,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "088",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_088.png"
     },
     {
-        "name": "1/0 Kaho",
+        "name": "春風ブランコ 日野下 花帆",
         "code": "LHS/W122-089",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - This ability activates up to once per turn. When you use an ACT, if you have another <Music> character, this turn, this gets +2500 power, then you may mill 3.",
             "AUTO - ALARM [Discard 1 <Music> character] If this is on top of your Clock, at the start of your Climax Phase, you may pay cost. If you do, draw 1 card."
@@ -2435,23 +2456,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "089",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_089.png"
     },
     {
-        "name": "1/1 Ginko",
+        "name": "Reflection in the mirror 百生 吟子",
         "code": "LHS/W122-090",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - ASSIST Level x 500 to <Music> characters.",
             "ACT - [Rest this] Choose 1 of your <Music> characters, this turn, it gains the following ability, \"AUTO - When this attacks, this turn, this gets +X power. X equals the number of CXes with a Choice Trigger in your CX Area and Waiting Room times 500.\""
@@ -2463,23 +2485,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "090",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_090.png"
     },
     {
-        "name": "1/1 Ginko",
+        "name": "青嵐の鯉流し 百生 吟子",
         "code": "LHS/W122-091",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock.",
             "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power."
@@ -2491,23 +2512,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "091",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_091.png"
     },
     {
-        "name": "2/1 Sayaka",
+        "name": "春風ブランコ 村野 さやか",
         "code": "LHS/W122-092",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - [(1) Discard 1 CX with a Choice Trigger] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -3 Souls.",
             "ACT - BACKUP +2500"
@@ -2519,23 +2541,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "092",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_092.png"
     },
     {
-        "name": "2/1 Tsuzuri",
+        "name": "抱きしめる花びら 夕霧 綴理",
         "code": "LHS/W122-093",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, choose up to 2 of your characters, this turn, they gain the following ability, \"AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to the bottom of your opponent's deck.\""
         ],
@@ -2546,23 +2569,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "093",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_093.png"
     },
     {
-        "name": "2/1 Ginko",
+        "name": "室咲格子 百生 吟子",
         "code": "LHS/W122-094",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power and +2 Souls."
         ],
@@ -2573,23 +2597,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "094",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_094.png"
     },
     {
-        "name": "3/2 Kozue",
+        "name": "眩輝夜行 乙宗 梢",
         "code": "LHS/W122-095",
         "rarity": "C",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - {CX Combo} [(4) Discard 3 cards] When this attacks, if you have the Pants CX (100) in your CX Area, you may pay cost. If you do, deal 7 damage to your opponent 3 times."
         ],
@@ -2600,23 +2625,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "095",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_095.png"
     },
     {
-        "name": "2/1 Event",
+        "name": "迎春 -舞- 村野 さやか",
         "code": "LHS/W122-096",
         "rarity": "U",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Event",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
+        "trigger": [],
+        "flavor_text": "",
         "ability": [
             "If you don't have a <Music> character, this cannot be played from hand. Choose up to 2 of your opponent's front row characters, return them to hand."
         ],
@@ -2624,167 +2648,130 @@
         "set": "LHS",
         "release": "W122",
         "sid": "096",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_096.png"
     },
     {
-        "name": "Pants CX",
+        "name": "AWOKE",
         "code": "LHS/W122-097",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "097",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_097.png"
     },
     {
-        "name": "Pants CX",
+        "name": "レディバグ",
         "code": "LHS/W122-098",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "098",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_098.png"
     },
     {
-        "name": "Pants CX",
+        "name": "Mirage Voyage",
         "code": "LHS/W122-099",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "099",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_099.png"
     },
     {
-        "name": "Pants CX",
+        "name": "眩耀夜行",
         "code": "LHS/W122-100",
         "rarity": "CR",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "100",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_100.png"
     },
     {
-        "name": "0/0 104th Class “Hasunosora Girls' High School Idol Club”",
-        "code": "LHS/W122-P01",
-        "rarity": "PR",
-        "expansion": "Love Live! Hasu no Sora",
-        "side": "W",
-        "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
-        "ability": [
-            "CONT - This card in any area gets <Cerise Bouquet> and <DOLLCHESTRA> and <Mira-Cra Park!>",
-            "CONT - During your turn, this gets +1000 power.",
-            "AUTO - When this card's battle opponent is Reversed, choose 1 of your other <Music> characters, Rest it, and move it to an empty Back Row slot. "
-        ],
-        "attributes": [
-            "Music"
-        ],
-        "set": "LHS",
-        "release": "W122",
-        "sid": "P01",
-        "image": "",
-        "community": true
-    },
-    {
-        "name": "2/1 Kaho",
-        "code": "LHS/W122-P02",
-        "rarity": "PR",
-        "expansion": "Love Live! Hasu no Sora",
-        "side": "W",
-        "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
-        "ability": [
-            "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
-            "ACT - BACKUP +2500"
-        ],
-        "attributes": [
-            "Music",
-            "Cerise Bouquet"
-        ],
-        "set": "LHS",
-        "release": "W122",
-        "sid": "P02",
-        "image": "",
-        "community": true
-    },
-    {
-        "name": "0/0 Rurino",
+        "name": "アイデンティティ 大沢 瑠璃乃",
         "code": "LHS/W122-T01",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - All of your other {1/0 Megumi Vanilla - T06} gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"",
             "AUTO - BOND [Discard 1 card] to {1/0 Megumi Vanilla - T01}"
@@ -2796,23 +2783,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T01",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t01.png"
     },
     {
-        "name": "0/0 Hime",
+        "name": "レインボーシフォン 安養寺 姫芽",
         "code": "LHS/W122-T02",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - All of your other <Music> characters get +500 power.",
             "AUTO - [Send this to Waiting Room] When your other <Music> character is sent from stage to Waiting Room, if this is in your Back Row, you may pay cost. If you do, return that character to stage in its former slot Rested."
@@ -2824,23 +2810,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T02",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t02.png"
     },
     {
-        "name": "0/0 Kozue",
+        "name": "レインボーシフォン 乙宗 梢",
         "code": "LHS/W122-T03",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If all of your characters are <Music> this gets +1500 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 <Music> character in your Waiting Room, add it to hand, then discard 1 card.\""
         ],
@@ -2851,23 +2836,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T03",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t03.png"
     },
     {
-        "name": "0/0 Rurino",
+        "name": "レインボーシフォン 大沢 瑠璃乃",
         "code": "LHS/W122-T04",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - All of your opponent’s characters get “AUTO - ENCORE (2)”."
         ],
@@ -2878,23 +2862,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T04",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t04.png"
     },
     {
-        "name": "1/0 Kaho",
+        "name": "レインボーシフォン 日野下 花帆",
         "code": "LHS/W122-T05",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "AUTO - When this attacks, if you have 2 or more other <Music> characters, this turn, this gets +2000 power.",
             "AUTO - {CX Combo} When this Attacks, if you have the Choice CX (T10) in your CX Area, and you have another <Music> character, mill 2, then choose up to 1 Level X or lower <Music> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
@@ -2906,24 +2889,25 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T05",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t05.png"
     },
     {
-        "name": "1/0 Megumi Vanilla",
+        "name": "アイデンティティ 藤島 慈",
         "code": "LHS/W122-T06",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "0",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "flavor_text": "",
+        "ability": [
+            "-"
+        ],
         "attributes": [
             "Music",
             "Mira-Cra Park!"
@@ -2931,23 +2915,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T06",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t06.png"
     },
     {
-        "name": "3/2 Megumi",
+        "name": "レインボーシフォン 藤島 慈",
         "code": "LHS/W122-T07",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During this card's battle, you do not receive damage from your opponent character's AUTO effects.",
             "AUTO - When this is placed on stage from hand, choose 1 <Music> character from your Clock, you may put it on the bottom of your deck."
@@ -2959,23 +2944,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T07",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t07.png"
     },
     {
-        "name": "3/2 Ginko",
+        "name": "レインボーシフォン 百生 吟子",
         "code": "LHS/W122-T08",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, if you have 4 or more other <Music> characters, choose 1 <Music> character in your Waiting Room, you may send it to Stock.",
             "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand."
@@ -2987,23 +2973,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T08",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t08.png"
     },
     {
-        "name": "1/1 Event",
+        "name": "私立蓮ノ空女学院",
         "code": "LHS/W122-T09",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Event",
-        "color": "",
-        "level": "1",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
+        "trigger": [],
+        "flavor_text": "",
         "ability": [
             "Search your deck for up to 1 CX, show it to your opponent, add it to hand, and shuffle your deck afterwards."
         ],
@@ -3011,45 +2996,48 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T09",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t09.png"
     },
     {
-        "name": "Choice CX",
+        "name": "フォーチュンムービー",
         "code": "LHS/W122-T10",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "T10",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t10.png"
     },
     {
-        "name": "0/0 Kaho",
+        "name": "Reflection in the mirror 日野下 花帆",
         "code": "LHS/W122-T11",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "ACT - [(1) Send this Standing character to Waiting Room] If you are level 2 or higher, choose 1 level 2 or higher character in your Waiting Room, add it to hand.",
             "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each CX among them, draw up to 1 card."
@@ -3061,23 +3049,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T11",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t11.png"
     },
     {
-        "name": "0/0 Tsuzuri",
+        "name": "レインボーシフォン 夕霧 綴理",
         "code": "LHS/W122-T12",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "0",
-        "cost": "0",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - When this is placed on stage from hand or attacks, if all of your characters are <Music>, choose 1 of your characters, this turn, it gets +1500 power."
         ],
@@ -3088,23 +3075,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T12",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t12.png"
     },
     {
-        "name": "1/1 Sayaka",
+        "name": "Sparkly Spot 村野 さやか",
         "code": "LHS/W122-T13",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "ACT - BACKUP +2500"
         ],
@@ -3115,23 +3103,22 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T13",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t13.png"
     },
     {
-        "name": "1/1 Kosuzu",
+        "name": "レインボーシフォン 徒町 小鈴",
         "code": "LHS/W122-T14",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "1",
-        "cost": "1",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
         "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "flavor_text": "",
         "ability": [
             "CONT - If you have 2 or more other <Music> characters, this gets +2000 power.",
             "AUTO - ENCORE [Put 1 <Music> character from your Waiting Room on the bottom of your Clock]"
@@ -3143,23 +3130,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T14",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t14.png"
     },
     {
-        "name": "2/1 Kozue",
+        "name": "Reflection in the mirror 乙宗 梢",
         "code": "LHS/W122-T15",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - ASSIST Level x 500.",
             "ACT - [Rest this] Choose 1 of your characters, this turn, it gets +2000 power."
@@ -3171,23 +3159,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T15",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t15.png"
     },
     {
-        "name": "2/1 Tsuzuri",
+        "name": "Sparkly Spot 夕霧 綴理",
         "code": "LHS/W122-T16",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "2",
-        "cost": "1",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "CONT - During your turn, for each of your other <Music> characters, this gets +1500 power."
         ],
@@ -3198,23 +3187,24 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T16",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t16.png"
     },
     {
-        "name": "3/2 Sayaka",
+        "name": "レインボーシフォン 村野 さやか",
         "code": "LHS/W122-T17",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Character",
-        "color": "",
-        "level": "3",
-        "cost": "2",
-        "trigger": [],
-        "power": "",
-        "soul": 0,
-        "flavor_text": "-",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
         "ability": [
             "AUTO - When this is placed on stage from hand, you may Heal 1.",
             "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Pants CX (T18) in your CX Area, and you have 3 or more other <Music> characters, you may pay cost. If you do, deal 3 damage to your opponent, and this turn, this gains the following ability, \"AUTO - [(2) Send 1 CX from your CX Area to Waiting Room] At the end of this card's attack, you may pay cost> if you do, deal 1 damage to your opponent.\""
@@ -3226,51 +3216,59 @@
         "set": "LHS",
         "release": "W122",
         "sid": "T17",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t17.png"
     },
     {
-        "name": "Pants CX",
+        "name": "ツキマカセ",
         "code": "LHS/W122-T18",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "T18",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t18.png"
     },
     {
-        "name": "+2 Souls CX",
+        "name": "Link to the FUTURE",
         "code": "LHS/W122-T19",
         "rarity": "TD",
         "expansion": "Love Live! Hasu no Sora",
         "side": "W",
         "type": "Climax",
-        "color": "",
-        "level": "0",
-        "cost": "0",
-        "trigger": [],
-        "power": "",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
         "soul": 0,
-        "flavor_text": "-",
-        "ability": [],
+        "trigger": [
+            "SOUL",
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、ソウルを＋2。"
+        ],
         "attributes": [],
         "set": "LHS",
         "release": "W122",
         "sid": "T19",
-        "image": "",
-        "community": true
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_t19.png"
     }
 ]
