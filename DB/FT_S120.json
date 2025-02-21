@@ -1,0 +1,2804 @@
+[
+    {
+        "name": "仲間を守る為の剣 エルザ",
+        "code": "FT/S120-001",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 5 or more hand, this gets +1 Level and +1500 power.",
+            "AUTO - When this is Reversed, if you have 2 or less Memory, you may send this to Memory."
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "001",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_001.png"
+    },
+    {
+        "name": "天輪・繚乱の剣 エルザ",
+        "code": "FT/S120-002",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During this card's battle, your opponent cannot play Events from hand.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [Discard 2 cards] When this attacks, if you have the Choice CX (024) in your CX Area, you may pay cost. If you do, deal 1 damage to your opponent twice."
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "002",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_002.png"
+    },
+    {
+        "name": "暗躍 ジェラール",
+        "code": "FT/S120-003",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +2000 power.",
+            "AUTO - At the start of your opponent's Attack Phase, if there is a character in the slot across from this, you may move this to an empty Front Row slot. "
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "003",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_003.png"
+    },
+    {
+        "name": "変幻自在 エルザ",
+        "code": "FT/S120-004",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Level 1 or lower character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "004",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_004.png"
+    },
+    {
+        "name": "赤い雷 ラクサス",
+        "code": "FT/S120-005",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is sent from Stage to Waiting Room, look at up to 3 cards from the top of your deck, choose up to 1 CX from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "005",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_005.png"
+    },
+    {
+        "name": "100年クエスト エルザ・スカーレット",
+        "code": "FT/S120-006",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - CHANGE [Send this to Waiting Room] At the start of your CX Phase, you may pay cost. If you do, choose 1 {U 1/0 Erza CXC - 011} in your Waiting Room, place it on stage in this card's former slot.",
+            "ACT - [(1) Send this to Waiting Room] If you are Level 3 or higher, choose up to 1 {RR 3/2 Erza CXC - 002} from your hand, place it on stage in this card's former slot, then look at up to 1 card from the top of your deck, choose up to 1 <Magic> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room.",
+            "*Note: has a Soul Trigger"
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "006",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_006.png"
+    },
+    {
+        "name": "戦いの外の日々 エルザ",
+        "code": "FT/S120-007",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +5000 power.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, your opponent chooses 1 Climax from their Waiting Room, and shuffles all other cards from their Waiting Room into their deck."
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "007",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_007.png"
+    },
+    {
+        "name": "白滅 ラクサス",
+        "code": "FT/S120-008",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have {0/0 Bickslow - 016} and {1/0 Evergreen - 021}, this gets -1 level in hand.",
+            "AUTO - When this is placed on stage from hand, choose up to 1 of your opponent's character, return it to hand, and this turn, this gets +2000 power.",
+            "AUTO - When this card's level 2 or higher battle opponent is Reversed, you may put the top card of your deck into Stock. "
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "008",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_008.png"
+    },
+    {
+        "name": "七星剣 ジェラール",
+        "code": "FT/S120-009",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - This card can be played without meeting Color requirement.",
+            "AUTO - When this is placed on stage from hand, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Look at up to 2 cards from the top of your deck, choose up to 2 <Magic> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room.\"",
+            "b) \"Your opponent sends all of their Stock to their deck and shuffles their deck, then puts an equal number of cards from the top of their deck into Stock.\""
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "009",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_009.png"
+    },
+    {
+        "name": "法竜 エレフセリア",
+        "code": "FT/S120-010",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +4000 power.",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 CX, show it to your opponent, then choose up to 1 CX in your hand, show it to your opponent, swap them, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "010",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_010.png"
+    },
+    {
+        "name": "竜の海 エルザ",
+        "code": "FT/S120-011",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have another <Magic> character, this gets +1500 power.",
+            "AUTO - {CX Combo} When the Choice CX (025) is placed in your CX Area, if this is in your front row, and you have 4 or more other <Magic> characters, search your deck for up to 1 <Magic> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "Note: Has a Soul Trigger"
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "011",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_011.png"
+    },
+    {
+        "name": "白の教義 白魔導士",
+        "code": "FT/S120-012",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 0,
+        "power": 7500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} When this attacks, if you have the Wind CX (026) in your CX Area, and you have 2 or more other <Magic> characters, put the top card of your deck into Stock, then look at up to 1 card from the top of your deck, choose up to 1 <Magic> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, and choose 1 of your opponent's characters and 1 of its Traits, this turn, that character loses that Trait."
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "012",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_012.png"
+    },
+    {
+        "name": "月神竜 セレーネ",
+        "code": "FT/S120-013",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose up to 2 of your characters, this turn, they gain the following ability, \"AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "013",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_013.png"
+    },
+    {
+        "name": "変容する人格 白魔導士",
+        "code": "FT/S120-014",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, all of your other <Magic> characters get +2000 power.",
+            "AUTO - CHANGE [Send this to Waiting Room] At the start of your CX Phase, you may pay cost. if you do, choose 1 {2/1 Touka - 065} in your Waiting Room, place it on stage in this card's former slot. "
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "014",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_014.png"
+    },
+    {
+        "name": "マカロフ",
+        "code": "FT/S120-015",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is X or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room. X is equal to the number of {copies of this} in your Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Master"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "015",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_015.png"
+    },
+    {
+        "name": "白滅 ビックスロー",
+        "code": "FT/S120-016",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "ACT - [Rest this] Choose 1 of your <Magic> characters, this turn, it gets +X power. X is equal to the number of {0/0 Laxus - 005} in your Waiting Room times 500.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each Climax among them repeat the following effect: \"Choose 1 card from your Clock, add it to hand, and put the top card of your deck into Clock.\" "
+        ],
+        "attributes": [
+            "Magic",
+            "Doll"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "016",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_016.png"
+    },
+    {
+        "name": "白滅後のティータイム 白魔導士",
+        "code": "FT/S120-017",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +500.",
+            "ACT - [Rest this] If there is no marker underneath this card, choose a <Magic> character or in your Waiting Room and place it underneath this card Face-down as a Marker.",
+            "ACT - [(1) Rest this] Choose 1 Marker underneath this card, and add it to hand."
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "017",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_017.png"
+    },
+    {
+        "name": "刃竜との邂逅 エルザ",
+        "code": "FT/S120-018",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, all of your other characters with \"Erza\" in its name gets +1000 power.",
+            "CONT - When you would pay cost of an ACT effect for your character in hand or on stage, you may use 1 Marker from underneath this card instead of 1 Stock.",
+            "AUTO - [Rest 2 of your Standing characters] When this is placed on stage from hand, you may pay cost. If you do, look at the top card of your deck, then place it underneath this card face-down as a Marker."
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "018",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_018.png"
+    },
+    {
+        "name": "白滅 フリード",
+        "code": "FT/S120-019",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - This cannot move to other slots.\"",
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, this turn, your opponent cannot use \"AUTO - ENCORE\""
+        ],
+        "attributes": [
+            "Magic",
+            "Weapon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "019",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_019.png"
+    },
+    {
+        "name": "白滅 ジェラール",
+        "code": "FT/S120-020",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Cost is 0 or lower, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.",
+            "AUTO - (2) When this is sent from Stage to Waiting Room, ypu may pay cost. If you do, choose 1 CX with a Choice Trigger in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "020",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_020.png"
+    },
+    {
+        "name": "白滅 エバーグリーン",
+        "code": "FT/S120-021",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, all of your other <Magic> characters get +1000 power.",
+            "ACT - [(1) Rest this] Look at up to X cards from the top of your deck, choose up to 1 level 1 or higher card from among them, show it to your opponent, add it to hand, send the rest to Waiting Room. X is equal to the number of {0/0 Laxus - 005} in your Waiting Room +1. "
+        ],
+        "attributes": [
+            "Magic",
+            "Glasses"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "021",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_021.png"
+    },
+    {
+        "name": "アットホームなギルド ラクサス",
+        "code": "FT/S120-022",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, if all of your characters are <Magic>, you may put the top card of your deck into Stock.",
+            "ACT - BACKUP +2000"
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "022",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_022.png"
+    },
+    {
+        "name": "エルミナのウェルカムドリンク",
+        "code": "FT/S120-023",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Event",
+        "color": "YELLOW",
+        "level": 1,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER - Mill 2, then choose up to 1 Level X or lower <Magic> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect.",
+            "Send this to the bottom of your deck."
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "023",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_023.png"
+    },
+    {
+        "name": "雪辱の火花",
+        "code": "FT/S120-024",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "024",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_024.png"
+    },
+    {
+        "name": "エルザの誘惑",
+        "code": "FT/S120-025",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "CHOICE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "025",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_025.png"
+    },
+    {
+        "name": "白の支配",
+        "code": "FT/S120-026",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "YELLOW",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "RETURN"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "026",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_026.png"
+    },
+    {
+        "name": "煌めく星霊の力 ルーシィ",
+        "code": "FT/S120-027",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, mill 2, and this turn, this gets +X power. X equals the number of <Magic> characters or {U Green 1/1 Event - 046} milled times 2000.",
+            "AUTO - [(1) Put the top card of your deck into Clock, Send this to Memory] When this is Reversed, if you have 2 or less Memory, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 2 <Magic> characters or {U Green 1/1 Event - 046} from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room. "
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "027",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_027.png"
+    },
+    {
+        "name": "星霊衣合成 ルーシィ",
+        "code": "FT/S120-028",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - MEMORY - During your turn, if you have a card in Memory, this gets +4000 power and the following ability. \"AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.\"",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (048) in your CX Area, and all of your characters are <Magic>, look at up to 4 cards from the top of your deck, choose up to 1 <Magic> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room"
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "028",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_028.png"
+    },
+    {
+        "name": "アニマルソウル リサーナ",
+        "code": "FT/S120-029",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +1000.",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "029",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_029.png"
+    },
+    {
+        "name": "秘密の笑顔 ミラジェーン",
+        "code": "FT/S120-030",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(4) Discard 1 CX] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters, Rest it.",
+            "ACT - BACKUP +1000"
+        ],
+        "attributes": [
+            "Magic",
+            "Waitress"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "030",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_030.png"
+    },
+    {
+        "name": "永遠に褪せない笑顔 ルーシィ",
+        "code": "FT/S120-031",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - You can only run up to 4 copies of this card or \"Aquarius the Water Bearer - FT/S02-037\" in your deck.",
+            "AUTO - When this is placed on stage from hand or deck, deal 1 damage to all players."
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "031",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_031.png"
+    },
+    {
+        "name": "星々が交わる時 ルーシィ",
+        "code": "FT/S120-032",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 8000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - MEMORY - For each {U Green 1/1 Event - 046} in your Memory, this gets +1500 power.",
+            "AUTO - When this is placed on stage from hand, if you have 2 or more other <Magic> characters, until the end of your opponent's next turn, this gains the following ability, \"CONT - The character across from this gets -2 Soul.\"",
+            "AUTO - {CX Combo} MEMORY - When this attacks, if you have the Bar CX (049) in your CX Area, your opponent mills X. X is equal to the number of {U Green 1/1 Event - 046} in your Memory times 7. "
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "032",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_032.png"
+    },
+    {
+        "name": "サタンソウル ミラジェーン",
+        "code": "FT/S120-033",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less CXes in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, if you have 2 or more other <Magic> characters, you may pay cost. If you do, choose 1 card in your Clock, add it to hand.",
+            "AUTO - When this attacks, if you have 2 or more other <Magic> characters, this turn, this gets +4000 power."
+        ],
+        "attributes": [
+            "Magic",
+            "Waitress"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "033",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_033.png"
+    },
+    {
+        "name": "100年クエスト ルーシィ・ハートフィリア",
+        "code": "FT/S120-034",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card."
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "034",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_034.png"
+    },
+    {
+        "name": "タウロスフォーム ルーシィ",
+        "code": "FT/S120-035",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500.",
+            "ACT - [Rest this] Choose 1 of your <Magic> characters, this turn, it gets +500 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "035",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_035.png"
+    },
+    {
+        "name": "斬心の悪魔 キリア",
+        "code": "FT/S120-036",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During this card's battle, your opponent cannot play BACKUPs from hand.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have the Bar CX (050) in your CX Area, and you have 2 or more other <Magic> characters, you may pay cost. If you do, deal 3 damage to your opponent, then heal up to 1."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "036",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_036.png"
+    },
+    {
+        "name": "伝説の依頼 ルーシィ",
+        "code": "FT/S120-037",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 {U Green 1/1 Event - 046} in your Waiting Room, add it to hand.",
+            "AUTO - When this attacks, you may choose 1 card in your clock, add it to your hand. If you do, choose a card in your hand and put it into Clock."
+        ],
+        "attributes": [
+            "Magic",
+            "Key"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "037",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_037.png"
+    },
+    {
+        "name": "骸竜 スカリオン",
+        "code": "FT/S120-038",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - EXPERIENCE - For each <Magic> character in your Level Zone, this gets +2500 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (051) in your CX Area, and you have 3 or more other <Magic> characters, draw up to 1 card, then choose 1 card from your hand, send it to Stock."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "038",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_038.png"
+    },
+    {
+        "name": "鎧竜 マッドモール",
+        "code": "FT/S120-039",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "ACT - {CX Combo} BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each {Kiria's CX - 050} or {Skullion's CX - 051} among them, search your deck for up to 1 <Magic> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "039",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_039.png"
+    },
+    {
+        "name": "ディアボロス ギルドマスター ゲオルグ",
+        "code": "FT/S120-040",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power.",
+            "AUTO - When this card's battle opponent is Reversed, if you have no other characters in your back row, look at up to 2 cards from the top of your deck, choose up to 1 level 0 or lower <Magic> character from among them, place it on stage in any back row slot, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Master"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "040",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_040.png"
+    },
+    {
+        "name": "刃竜のキリア",
+        "code": "FT/S120-041",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other characters, this turn, it gets +X power. X equals that character's Soul times 1000.",
+            "ACT - [Discard 1 <Magic> character] Reveal the top card of your deck. If that card is a <Magic> character, this turn, this gains the following ability, \"CONT - When this attacks, you can choose 1 of your opponent's back row characters, this card may Front Attack that character instead as the Defending character.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "041",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_041.png"
+    },
+    {
+        "name": "粘竜のネバル",
+        "code": "FT/S120-042",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters, your opponent chooses 1 Level X or lower character from their Waiting Room, and swaps the two characters. X equals the Level of the character chosen by you -1."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "042",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_042.png"
+    },
+    {
+        "name": "霊竜のレイス",
+        "code": "FT/S120-043",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - if this has a Marker underneath it, this gets +9500 power and +1 soul.",
+            "AUTO - When this is placed on stage from hand, choose 1 {0/0 Makarov - 015} in your Waiting Room, place it underneath this card face-up as a Marker.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's face-up card in Memory, you may flip it face-down. If you do, at the end of your turn, flit it face-up."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "043",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_043.png"
+    },
+    {
+        "name": "灰の魔法 スカリオン",
+        "code": "FT/S120-044",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 7000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Magic> characters times 1000.",
+            "AUTO - When this card's battle opponent is Reversed, you may send this to Memory. If you do, at the start of your next Draw Phase, choose 1 {this card} from Memory, and place it on stage in any slot."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "044",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_044.png"
+    },
+    {
+        "name": "ビーストソウル エルフマン",
+        "code": "FT/S120-045",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 10500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <Magic> characters, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Magic> characters times 1000.",
+            "AUTO - At the start of your Encore Step, send this to Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "045",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_045.png"
+    },
+    {
+        "name": "星霊の鍵のさらなる力",
+        "code": "FT/S120-046",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Choose 1 <Magic> character in your Waiting Room, add it to hand.",
+            "Send this to Memory.",
+            "Reveal the top card of your deck. If that card is Level 2 or higher, send it to Stock."
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "046",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_046.png"
+    },
+    {
+        "name": "木神竜アルドロンの目覚め",
+        "code": "FT/S120-047",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Event",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "COUNTER - Perform the following effect 3 times, \"Look at the top card of your deck, and put it on top of your deck or into your Waiting Room.\"",
+            "Send this to the bottom of your deck."
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "047",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_047.png"
+    },
+    {
+        "name": "レグルスの光 スピカの輝き",
+        "code": "FT/S120-048",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "048",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_048.png"
+    },
+    {
+        "name": "星霊衣の輝き",
+        "code": "FT/S120-049",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "049",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_049.png"
+    },
+    {
+        "name": "魔導士ギルド ディアボロス",
+        "code": "FT/S120-050",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "050",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_050.png"
+    },
+    {
+        "name": "ブラックアッシュ",
+        "code": "FT/S120-051",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "051",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_051.png"
+    },
+    {
+        "name": "焼き尽くす炎 ナツ",
+        "code": "FT/S120-052",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if all of your characters are <Magic>, choose 1 of your characters, this turn, it gets +2000 power.",
+            "AUTO - [(1) Discard 1 card, send this to Memory] When this is Reversed, you may pay cost. If you do, search your deck for up to 1 <Magic> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "052",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_052.png"
+    },
+    {
+        "name": "あなた想う トウカ",
+        "code": "FT/S120-053",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 7000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <Magic> characters, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your <Magic> characters.\"",
+            "b) \"You may Heal 1.\"",
+            "AUTO - When this attacks, choose 1 of your <Magic> character, this turn, it gets +3000. "
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "053",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_053.png"
+    },
+    {
+        "name": "受け継がれる炎 ナツ",
+        "code": "FT/S120-054",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, heal up to 1, then this turn, this gets +1500 power.",
+            "AUTO - {CX Combo} MEMORY [Discard 1 <Magic> character] When this attacks, if you have the Door CX (072) in your CX Area, and you have 2 or more other <Magic> characters, and you have 3 or more cards with different card names in your Memory, you may pay cost. If you do, deal 2 damage to your opponent, then choose up to 1 card in your opponent’s Waiting Room, place it on top of their deck, and until the end of your opponent’s next turn, during this card’s battle you do not take damage from the AUTO effect of your opponent’s characters. "
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "054",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_054.png"
+    },
+    {
+        "name": "そう遠くない未来 レビィ",
+        "code": "FT/S120-055",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {3/2 Gajeel - 059} and {2/1 Lily - 064} gains the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them repeat the following effect: \"Draw up to 2 cards, then discard 1 card.\" "
+        ],
+        "attributes": [
+            "Magic",
+            "Book"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "055",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_055.png"
+    },
+    {
+        "name": "黒鉄の刃 ガジル",
+        "code": "FT/S120-056",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice",
+            "AUTO - When this is Reversed, you may reveal up to 3 cards from the top of your deck. If you revealed 1 or more, choose up to 1 <Magic> character from among them, add it to hand, send the rest to Waiting Room, and discard 1 card."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "056",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_056.png"
+    },
+    {
+        "name": "100年クエスト ナツ・ドラグニル",
+        "code": "FT/S120-057",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Put the top card of your deck into Clock] When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "057",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_057.png"
+    },
+    {
+        "name": "滾る炎の滅竜魔導士 ナツ",
+        "code": "FT/S120-058",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if you have another <Magic> character, this turn, this gets +1500 power.",
+            "AUTO - {CX Combo} When the Standby CX (073) is placed in your CX Area, if this is in your front row, and all of your characters are <Magic>, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Look at up to 1 card from the top of your deck, choose up to 1 <Magic> character or Event from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room.\"",
+            "b) \"You may choose 1 of your opponent's level 1 or higher characters. If you do, your opponent chooses 1 level X or lower character from their Waiting Room, and swap them. X equals the level of the character chosen by you -1.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "058",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_058.png"
+    },
+    {
+        "name": "追跡するガジル",
+        "code": "FT/S120-059",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Magic> characters, this gets +1000 power.",
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Magic> character, choose 1 of your opponent's Front Row Level 3 or lower characters, you may send it to the bottom of your opponent's deck. ",
+            "AUTO - When this direct attacks, choose 1 <Magic> character in your Waiting Room, you may send it to Stock."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "059",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_059.png"
+    },
+    {
+        "name": "炎神竜 イグニア",
+        "code": "FT/S120-060",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Magic> character or an Event, add it to hand and discard 1 card.",
+            "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 CX that has the same name as a CX in your Waiting Room, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "060",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_060.png"
+    },
+    {
+        "name": "相棒の暴走 ハッピー",
+        "code": "FT/S120-061",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +3000 power.",
+            "AUTO - (1) At the start of your opponent's attack phase, you may pay the cost. If you do, move this to an open position in your back row, and at the start of your next Encore Step, send this to Memory."
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "061",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_061.png"
+    },
+    {
+        "name": "家族喧嘩上等 ナツ",
+        "code": "FT/S120-062",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to your empty Front Row Center Slot."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "062",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_062.png"
+    },
+    {
+        "name": "100年クエスト ハッピー",
+        "code": "FT/S120-063",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, all of your other {1/0 Natsu CXC - 058} gets +2000 power.",
+            "ACT - [(1) Send this to the bottom of your deck] Choose 1 character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "063",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_063.png"
+    },
+    {
+        "name": "トレンチコート リリー",
+        "code": "FT/S120-064",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +2000 to Level 3 or higher characters.",
+            "ACT - [(3) Rest this] Choose up to 1 {3/2 Gajeel - 059} from your hand, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "064",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_064.png"
+    },
+    {
+        "name": "嫌な雨 トウカ",
+        "code": "FT/S120-065",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your opponent's characters times 2000.",
+            "AUTO - CHANGE [Send this to Waiting Room] At the start of your CX Phase, you may pay cost. if you do, choose 1 {2/1 White Wizard - 014} in your Waiting Room, place it on stage in this card's former slot. "
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "065",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_065.png"
+    },
+    {
+        "name": "相棒と大はしゃぎ ナツ",
+        "code": "FT/S120-066",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Magic> characters times 500.",
+            "AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "066",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_066.png"
+    },
+    {
+        "name": "妖精の尻尾の新入り トウカ",
+        "code": "FT/S120-067",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is palced on stage from hand, choose 1 {0/0 Happy - 061} in your Memory, you may send it to Stock.",
+            "AUTO - When this attacks, if you have {0/0 Happy - 061} in your Waiting Room, this turn, this gets +3000 power."
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "067",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_067.png"
+    },
+    {
+        "name": "白滅 ガジル",
+        "code": "FT/S120-068",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Magic> characters, this gets +1500 power and \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice. "
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "068",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_068.png"
+    },
+    {
+        "name": "竜の海 ナツ",
+        "code": "FT/S120-069",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When you use this card's BACKUP, choose 1 of your battling characters, this turn, it gains the following ability: \"AUTO - When this card's battle opponent is Reversed, send it to Memory.\"",
+            "ACT - BACKUP +3000"
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "069",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_069.png"
+    },
+    {
+        "name": "炎の系譜 イグニア",
+        "code": "FT/S120-070",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your other <Magic> characters, this gets +1000 power.",
+            "AUTO - ENCORE [Discard 1 character]"
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "070",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_070.png"
+    },
+    {
+        "name": "世界最古の魔導士ギルド 魔陣の竜",
+        "code": "FT/S120-071",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 2,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "This card can be played without meeting Color requirement.",
+            "Choose 1 <Magic> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "071",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_071.png"
+    },
+    {
+        "name": "炎竜王の崩拳",
+        "code": "FT/S120-072",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "072",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_072.png"
+    },
+    {
+        "name": "燃え盛る炎の魔法",
+        "code": "FT/S120-073",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "073",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_073.png"
+    },
+    {
+        "name": "天竜の力 ウェンディ",
+        "code": "FT/S120-074",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your opponent's turn, all of your other <Magic> characters gets +500 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 character from your Waiting Room, and add it to hand. "
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "074",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_074.png"
+    },
+    {
+        "name": "天を穿つ ウェンディ",
+        "code": "FT/S120-075",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if you have 2 or more other <Magic> characters, this turn, this gets +2000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (097) in your CX Area, and you have another <Magic> character, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Choose 1 character in your Waiting Room, add it to hand.\"",
+            "b) \"Choose 1 of your opponent's characters, return it to hand.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "075",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_075.png"
+    },
+    {
+        "name": "凍てつく魔法 グレイ",
+        "code": "FT/S120-076",
+        "rarity": "RR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 4 or more <Magic> characters, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, draw up to 2 cards, discard 2 cards, then put up to 1 card from the top of your deck into Stock.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (098) in your CX Area, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on top of your opponent's deck in any order, and send the rest to Waiting Room, then  choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - This cannot move to other slots.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "076",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_076.png"
+    },
+    {
+        "name": "100年クエスト ウェンディ・マーベル",
+        "code": "FT/S120-077",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose up to 1 character, send it to Memory, then place that character back on stage in its former slot Rested.",
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand or attacks, you may pay cost. If you do, search your deck for up to 1 <Magic> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. "
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "077",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_077.png"
+    },
+    {
+        "name": "100年クエスト グレイ・フルバスター",
+        "code": "FT/S120-078",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's Back Row characters whose Level is higher than your opponent's Level, during your opponent's next Stand Phase, that character does not Stand.",
+            "ACT - [(1) Send this Standing card to Memory] Look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "078",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_078.png"
+    },
+    {
+        "name": "氷魔零ノ太刀 グレイ",
+        "code": "FT/S120-079",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this attacks, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Magic> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "079",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_079.png"
+    },
+    {
+        "name": "命を懸けた冒険 グレイ",
+        "code": "FT/S120-080",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Magic>, this gets +1000 power.",
+            "AUTO - When this attacks, if you have a CX in your CX Area, reveal the top card of your deck. If that card is Level 1 or higher, send it to Stock."
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "080",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_080.png"
+    },
+    {
+        "name": "神の名を冠する竜の脅威 ウェンディ",
+        "code": "FT/S120-081",
+        "rarity": "R",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When the Pants CX (099) is placed in your CX Area, if this is in the front row, and you have 2 or more other <Magic> characters, you may pay cost. If you do, this turn, all of your other characters currently on stage, gains the following ability, \"AUTO - When this attacks, your opponent mills 1. If that card is Level 1 or higher, deal 5 damage to your opponent.\""
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "081",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_081.png"
+    },
+    {
+        "name": "竜の海 ウェンディ",
+        "code": "FT/S120-082",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, choose 1 of your other <Magic> characters, this turn, it gets +1000 power.",
+            "AUTO - (1) During your opponent's turn, when this is Reversed, you may pay cost. If you do, Rest this, and at the start of your next Encore Step, send this to Memory."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "082",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_082.png"
+    },
+    {
+        "name": "100年クエスト シャルル",
+        "code": "FT/S120-083",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 <Magic> character] When this is placed on stage from hand, you may pay cost. if you do, draw 1 card.",
+            "AUTO - BOND [Put the top card of your deck into Clock] to {3/2 Wendy - 081}"
+        ],
+        "attributes": [
+            "Magic",
+            "Animal"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "083",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_083.png"
+    },
+    {
+        "name": "飲んで歌って飲んで食べて飲む!! カナ",
+        "code": "FT/S120-084",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Magic> characters get +500 power.",
+            "CONT - When you would pay cost of an ACT effect for your character in hand or on stage, you may use 1 Marker from underneath this card instead of 1 Stock.",
+            "AUTO - [Rest 2 of your Standing characters] When this is placed on stage from hand, you may pay cost. If you do, look at the top card of your deck, then place it underneath this card face-down as a Marker."
+        ],
+        "attributes": [
+            "Magic",
+            "Fortune Telling"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "084",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_084.png"
+    },
+    {
+        "name": "アイスメイク グレイ",
+        "code": "FT/S120-085",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} When the Pants CX (100) is placed in your CX Area, if you have another <Magic> character, look at 1 card from the top of your deck, choose up to 1 <Magic> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room.",
+            "ACT - [(1) Discard 1 card, Rest this] Search your deck for up to 1 <Magic> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "085",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_085.png"
+    },
+    {
+        "name": "あなた想う ジュビア",
+        "code": "FT/S120-086",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - {CX Combo} At the start of your Attack Phase, If you have the Pants CX (098) in your CX Area or Waiting Room, this turn, this gets +5500 power and +1 Soul."
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "086",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_086.png"
+    },
+    {
+        "name": "煉獄の巻き添え ウェンディ",
+        "code": "FT/S120-087",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 CX with a Pants Trigger] When this attacks, you may pay cost. If you do, look at up to 6 cards from the top of your deck, choose up to 1 <Magic> character from among them, show it to your opponent, add it to hand, send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "087",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_087.png"
+    },
+    {
+        "name": "滅悪魔法 グレイ",
+        "code": "FT/S120-088",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(2) Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Waiting Room.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "088",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_088.png"
+    },
+    {
+        "name": "未知の大陸 ウェンディ",
+        "code": "FT/S120-089",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When a CX is placed in your CX Area, choose 1 of your characters, until the end of your opponent's next turn, it gets +4000 power.",
+            "AUTO - [Discard 1 CX] When you Trigger a CX, you may pay cost. If you do, choose 1 character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "089",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_089.png"
+    },
+    {
+        "name": "水神竜 メルクフォビア",
+        "code": "FT/S120-090",
+        "rarity": "U",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your <Magic> characters times 1000.",
+            "AUTO - [(2) Discard 1 card, Send 1 of your other characters on stage to Waiting Room] This ability can only be activated up to once per turn. During the turn this was placed on stage from hand, at the end of this card's attack, if you have 4 or more other <Magic> characters, you may pay cost. If you do, Stand this."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "090",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_090.png"
+    },
+    {
+        "name": "恋する魔導士 ジュビア",
+        "code": "FT/S120-091",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, perform the following effect twice, \"Look at the top card of your deck, and put it on top or bottom of your deck.\"",
+            "AUTO - When this attacks, if you have no other characters in your back row, you may mill 1. If that card is a Level 0 or lower character, place it on stage in any back row slot."
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "091",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_091.png"
+    },
+    {
+        "name": "失いつつある力 メルクフォビア",
+        "code": "FT/S120-092",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your opponent's back row characters, this gets +2000 power."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "092",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_092.png"
+    },
+    {
+        "name": "世話係 カラミール",
+        "code": "FT/S120-093",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other {1/0 Mercphobia - 092} gets +X power. X is equal to your level times 1000.",
+            "ACT - [(2) Rest this] Search your deck for up to 1 <Magic> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "093",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_093.png"
+    },
+    {
+        "name": "オフの日 グレイ",
+        "code": "FT/S120-094",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, this turn, it gains the following ability, \"CONT - This card cannot return to hand or be sent to Memory.\"",
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to the bottom of your opponent's deck."
+        ],
+        "attributes": [
+            "Magic",
+            "Ice"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "094",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_094.png"
+    },
+    {
+        "name": "悲しい願い カラミール",
+        "code": "FT/S120-095",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, choose up to 2 <Magic> characters from among them, show them to your opponent, add them to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Magic"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "095",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_095.png"
+    },
+    {
+        "name": "依頼人兼引受人 ジュビア",
+        "code": "FT/S120-096",
+        "rarity": "C",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if this has a Marker underneath it, this gets +9000 power.",
+            "AUTO - When this is placed on stage from hand, choose 1 {0/0 Gray - 079} in your Waiting Room, place it underneath this card face-up as a Marker. "
+        ],
+        "attributes": [
+            "Magic",
+            "Love"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "096",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_096.png"
+    },
+    {
+        "name": "天竜のドラゴンフォース",
+        "code": "FT/S120-097",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "097",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_097.png"
+    },
+    {
+        "name": "滅悪魔法の悪魔の部分",
+        "code": "FT/S120-098",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "098",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_098.png"
+    },
+    {
+        "name": "いい加減にしてください!!!",
+        "code": "FT/S120-099",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "099",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_099.png"
+    },
+    {
+        "name": "生きる力",
+        "code": "FT/S120-100",
+        "rarity": "CR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "FT",
+        "release": "S120",
+        "sid": "100",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_100.png"
+    },
+    {
+        "name": "純粋な瞳 ウェンディ",
+        "code": "FT/S120-P01",
+        "rarity": "PR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +2000 to Level 3 or higher characters.",
+            "ACT - [Rest this] Look at up to 2 cards from the top of your deck, and put them back on top in any order."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_p01.png"
+    },
+    {
+        "name": "純粋な瞳 ウェンディ",
+        "code": "FT/S120-P01EX",
+        "rarity": "PR",
+        "expansion": "Fairy Tail: 100 Years Quest",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +2000 to Level 3 or higher characters.",
+            "ACT - [Rest this] Look at up to 2 cards from the top of your deck, and put them back on top in any order."
+        ],
+        "attributes": [
+            "Magic",
+            "Dragon"
+        ],
+        "set": "FT",
+        "release": "S120",
+        "sid": "P01EX",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_p01ex.png"
+    }
+]
