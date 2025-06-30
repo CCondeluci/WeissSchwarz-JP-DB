@@ -1,0 +1,1813 @@
+[
+    {
+        "name": "《サード・スクワッド・ジャム》 レン",
+        "code": "GGO/SE50-01",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another {RR 3/2 LLENN - 20}, all of your other <Avatar> or <Net> characters get +1000 power.",
+            "ACT - [Rest this] If you have 4 or more other <Avatar> or <Net> characters, draw 1 card, then discard 1 card.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 character from your Waiting Room, and add it to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_01.png"
+    },
+    {
+        "name": "ちょっと一息 レン",
+        "code": "GGO/SE50-02",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if you have 2 or more other characters, this gets +3000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Bar CX (16) in your CX Area, and you have 3 or more other characters, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. If X is 2 or higher, put up to 1 card from the bottom of your deck into Stock. X equals the Level of the revealed card.",
+            "*Note: Has a Soul Trigger"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_02.png"
+    },
+    {
+        "name": "夢の中で 香蓮",
+        "code": "GGO/SE50-03",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, if all of your characters are <Avatar> or <Net>, this gets +1 Level and +1500 power.",
+            "AUTO - [(1) Send this to Waiting Room] When your other <Avatar> or <Net> character is Front Attacked, you may pay cost. If you do, return that character to hand."
+        ],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_03.png"
+    },
+    {
+        "name": "リベンジに燃える レン",
+        "code": "GGO/SE50-04",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When this attacks, if you have \"Word of Honor - GGO/S59-031\" in your CX Area, and you have 2 or more other <Avatar> or <Net> characters, you may pay cost. If you do, deal 3 damage to your opponent.",
+            "CX Combos with 1/0 Llenn - GGO/S59-001."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "04",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_04.png"
+    },
+    {
+        "name": "《ビトレイヤーズ》 エヴァ",
+        "code": "GGO/SE50-05",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - (1) When this is placed on stage from hand, you may pay cost. If you do, your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock.",
+            "AUTO - This ability activates up to once per turn. When you use an ACT, this turn, this gets +X power. X equals the number of your opponent's back row characters times 1000."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "05",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_05.png"
+    },
+    {
+        "name": "全力疾走 レン",
+        "code": "GGO/SE50-06",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, you may mill 3.",
+            "ACT - [Discard 1 card, Send this to Waiting Room] Choose 1 <Avatar> or <Net> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "06",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_06.png"
+    },
+    {
+        "name": "リベンジに向けて 咲",
+        "code": "GGO/SE50-07",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "ACT - [(1) Send this to Waiting Room] Choose 1 \"Craving for Sweets Too! Saki & Milana - GGO/S59-008\" in your Waiting Room, place it on stage in this card's former slot, and this turn, if gets +X power. X equals the number of your <Avatar> or <Net> characters times 1000."
+        ],
+        "attributes": [
+            "Net",
+            "Sports"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "07",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_07.png"
+    },
+    {
+        "name": "《SHINC》参戦 エヴァ",
+        "code": "GGO/SE50-08",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When \"Course of the Last Battle - GGO/S59-032\" is placed in your CX Area, if this is in your front row, you may pay cost. If you do, choose up to 1 \"Boss of 《SHINC》, Eva - GGO/S59-010\" from your hand, place it on stage in any slot.",
+            "AUTO - When this card's battle opponent is Reversed, if you have a CX in your CX Area, you may put the top card of your deck into Stock."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "08",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_08.png"
+    },
+    {
+        "name": "戦いを終えて レン",
+        "code": "GGO/SE50-09",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 3,
+        "cost": 2,
+        "power": 2500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST All of your characters in front of this gets +2000 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send it to Memory.\"",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} [(1) Discard 1 card] When \"Cut! Kick! - GGO/S59-068\" is placed in your CX Area, you may pay cost. If you do, choose up to 2 of your opponent's characters, this turn, they get -2000 power.",
+            "CX Combos with 0/0 Fukaziroh - GGO/S59-055"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "09",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_09.png"
+    },
+    {
+        "name": "《SHINC》参戦 ローザ",
+        "code": "GGO/SE50-10",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <SHINC> or <Sports> characters get +500 power.",
+            "AUTO - {CX Combo} [Discard 1 CX] When you trigger \"\"Operation Sweets\" A Major Success! - GGO/S59-033\" or \"Course of the Last Battle - GGO/S59-032\", you may pay cost. If you do, choose 1 character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "10",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_10.png"
+    },
+    {
+        "name": "儚げな瞳 香蓮",
+        "code": "GGO/SE50-11",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "ACT - [Rest this] Choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this cards battle opponent is Reversed, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.\"",
+            "ACT - [Discard 1 Event, Rest this] Choose 1 <Avatar> or <Net> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "11",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_11.png"
+    },
+    {
+        "name": "《SHINC》参戦 ターニャ",
+        "code": "GGO/SE50-12",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 character in your Waiting Room, add it to hand.",
+            "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "12",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_12.png"
+    },
+    {
+        "name": "《SHINC》参戦 トーマ",
+        "code": "GGO/SE50-13",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 2000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 Green character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, choose 1 \"Degtyaryov Anti-Tank Rifle - GGO/S59-030\" in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "13",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_13.png"
+    },
+    {
+        "name": "《SHINC》参戦 アンナ",
+        "code": "GGO/SE50-14",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Avatar> or <Net> character or \"Degtyaryov Anti-Tank Rifle - GGO/S59-030\", choose 1 of your characters, this turn, it gets +3000 power.",
+            "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Avatar> or <Net> character in your Waiting Room, add it to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "14",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_14.png"
+    },
+    {
+        "name": "《SHINC》参戦 ソフィー",
+        "code": "GGO/SE50-15",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "GREEN",
+        "level": 2,
+        "cost": 1,
+        "power": 6000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST +1500 to <SHINC> or <Sports> characters.",
+            "ACT - [(2) Rest this] Choose 1 card in your Clock, add it to hand, put the top card of your deck into clock."
+        ],
+        "attributes": [
+            "Avatar",
+            "SHINC"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "15",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_15.png"
+    },
+    {
+        "name": "星空へと続く夢路",
+        "code": "GGO/SE50-16",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "GREEN",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "TREASURE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "16",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_16.png"
+    },
+    {
+        "name": "《LPFM》 レン",
+        "code": "GGO/SE50-17",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+            "AUTO - When this attacks, choose 1 of your other <Avatar> or <Net> characters, this turn, it gets +1000 power. "
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "17",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_17.png"
+    },
+    {
+        "name": "《LPFM》 フカ次郎",
+        "code": "GGO/SE50-18",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Avatar> or <Net> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "AUTO - [Put the top card of your deck into Clock] When this is Reversed, if all of your characters are <Avatar> or <Net>, you may pay cost. if you do, If you do, look at up to 2 cards from the top of your deck, choose up to 1 Level 1 or lower character, or Event among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "18",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_18.png"
+    },
+    {
+        "name": "大はしゃぎ！ フカ次郎",
+        "code": "GGO/SE50-19",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top or bottom of your deck.",
+            "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Avatar> or <Net> characters times 1000.",
+            "AUTO - When this is Reversed, reveal the top card of your deck. If that card is Level 2 or higher, you may return this to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "19",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_19.png"
+    },
+    {
+        "name": "戦場を駆ける レン",
+        "code": "GGO/SE50-20",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - {CX Combo} If you have the Door CX (37) in your CX Area, this gets +4000 power and the following ability, \"AUTO - When this card's battle opponent is Reversed, you may deal 1 damage to your opponent.\"",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - [(2) Discard 1 card] At the start of your Encore Step, if this is in your front row, and all of your opponent's Front Row slots are empty, or if all of your opponent's Front Row characters are Reversed, you may pay cost. If you do, deal 2 damage to your opponent. "
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "20",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_20.png"
+    },
+    {
+        "name": "得意げな砲手 フカ次郎",
+        "code": "GGO/SE50-21",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other \"Rampaging in \"GGO\"! Fukaziroh - GGO/S59-036\" gets +1000 power.",
+            "AUTO - [Discard 1 <Avatar> or <Net> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 \"Rampaging in \"GGO\"! Fukaziroh\", show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+            "ACT - [Rest this] Choose 1 of your <Avatar> or <Net> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "21",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_21.png"
+    },
+    {
+        "name": "\"でっかい裏切り\"クラレンス",
+        "code": "GGO/SE50-22",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 CX, show it to your opponent, then choose up to 1 CX in your hand, show it to your opponent, swap them, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "22",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_22.png"
+    },
+    {
+        "name": "\"ピンクのウサギ\"レン",
+        "code": "GGO/SE50-23",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other \"Insane LLENN - GGO/S59-037\" gets +500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
+            "CONT - ASSIST +1500 to <Avatar> or <Net> characters.",
+            "ACT - [(3) Rest this] Choose up to 1 \"Insane LLENN - GGO/S59-037\" in your hand, place it on stage in any slot."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "23",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_23.png"
+    },
+    {
+        "name": "《サード・スクワッド・ジャム》 フカ次郎",
+        "code": "GGO/SE50-24",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If all of your characters are <Avatar> or <Net>, this gains the following 2 abilities,",
+            "- \"AUTO - During your opponent's turn, when damage you take is not cancelled, if this is in your front row, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.\"",
+            "- \"AUTO - ENCORE [Discard 1 character]\"",
+            "AUTO - {CX Combo} (2) When this attacks, if you have the Standby CX (38) in your CX Area, and you have 4 or more other <Avatar> or <Net> characters, you may pay cost. If you do, deal 3 damage to your opponent."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "24",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_24.png"
+    },
+    {
+        "name": "\"攻撃困難な的\"レン",
+        "code": "GGO/SE50-25",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand.",
+            "AUTO - [(2) Discard 1 card] When this card's battle opponent is Reversed, if you have 2 or more other <Avatar> or <Net> characters, you may pay cost. If you do, deal 2 damage to your opponent."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "25",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_25.png"
+    },
+    {
+        "name": "穏やかな寝姿 香蓮",
+        "code": "GGO/SE50-26",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Avatar> or <Net> characters get +500 power.",
+            "AUTO - [Discard 1 CX] When you trigger a CX, you may pay cost. If you do, look at up to 2 cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room"
+        ],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "26",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_26.png"
+    },
+    {
+        "name": "\"いつも通りの飄飄さ\"フカ次郎",
+        "code": "GGO/SE50-27",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand or attacks, choose 1 of your <Avatar> or <Net> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "27",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_27.png"
+    },
+    {
+        "name": "女の戦い クラレンス",
+        "code": "GGO/SE50-28",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Avatar> or <Net> characters get +500 power.",
+            "AUTO - When your other <Avatar> or <Net> characters or this card is placed on stage from hand, you may look at the top card of your deck."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "28",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_28.png"
+    },
+    {
+        "name": "夢への誘い レン",
+        "code": "GGO/SE50-29",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or more other <Avatar> or <Net> characters, this gets +2000 power.",
+            "CONT - If the character across from this is Cost 0 or lower, this cannot be Reversed."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "29",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_29.png"
+    },
+    {
+        "name": "ダイブ完了！ レン",
+        "code": "GGO/SE50-30",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at the top card of your deck, and put it on top of your deck or into your Waiting Room.",
+            "AUTO - When this is placed on stage from hand, all players mill 1. If the level of the card you milled is higher than the card your opponent milled by this effect, you may put the top card of your deck into Stock."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "30",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_30.png"
+    },
+    {
+        "name": "再び《GGO》へ 美優",
+        "code": "GGO/SE50-31",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - ALARM - If this is on top of your Clock, at the start of your Attack Phase, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.\""
+        ],
+        "attributes": [
+            "Net",
+            "Game"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "31",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_31.png"
+    },
+    {
+        "name": "お小言三連発 レン",
+        "code": "GGO/SE50-32",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you are level 3 or higher, this gains the following ability, \"ACT - [Send this to Waiting Room] Choose 1 of your opponent's characters, Stand it and move it to an opponent's empty slot or choose another 1 of your opponent's characters, stand and swap them.\"",
+            "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Memory."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "32",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_32.png"
+    },
+    {
+        "name": "NPC？ ドク",
+        "code": "GGO/SE50-33",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 5500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another front row {3/2 Jacob - 35}, this gets +5500 power and \"AUTO - ENCORE [Discard 1 <Avatar> or <Net> character]\"",
+            "CONT - All of your other {3/2 Jacob - 35} gains +1500 power and the following 2 abilities,",
+            "- \"CONT - This cannot be targeted by your opponent's effects.\"",
+            "- \"AUTO - ENCORE [Discard 1 <Avatar> or <Net> character or an Event]\""
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "33",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_33.png"
+    },
+    {
+        "name": "愛しの右太と左子 フカ次郎",
+        "code": "GGO/SE50-34",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 2,
+        "power": 6000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - For each of your opponent's back row characters, this gets +2500 power.",
+            "AUTO - ENCORE [Discard 1 <Avatar> or <Net> character]"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "34",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_34.png"
+    },
+    {
+        "name": "NPC？ ジェイコブ",
+        "code": "GGO/SE50-35",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 2 or less CXes in your Waiting Room, this gets -1 Level in hand.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - [Discard 1 <Avatar> or <Net> character] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 {2/1 Doc - 33}, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "35",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_35.png"
+    },
+    {
+        "name": "プラズマ弾頭グレネード",
+        "code": "GGO/SE50-36",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Event",
+        "color": "RED",
+        "level": 2,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "BRAINSTORM - If you don't have a <Avatar> or <Net> character, this cannot be played from hand.",
+            "Choose 1 of your characters, this turn, it gets +2000 power.",
+            "All players flip over the top 3 cards of their deck, if the total power of the cards sent to your Waiting Room by this effect is equal to or higher than the total power of the cards sent to your opponent's Waiting Room by this effect, choose up to 2 <Avatar> or <Net> characters in your Waiting Room, add them to hand."
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "36",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_36.png"
+    },
+    {
+        "name": "決闘",
+        "code": "GGO/SE50-37",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "COMEBACK"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "37",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_37.png"
+    },
+    {
+        "name": "戦いの合間に",
+        "code": "GGO/SE50-38",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "RED",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "STANDBY"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+            "（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "38",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_38.png"
+    },
+    {
+        "name": "最大のライバル ピトフーイ",
+        "code": "GGO/SE50-39",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if you have an Event in your Waiting Room, until the end of your opponent's next turn, this gets +3000 power.",
+            "AUTO - {CX Combo} When this attacks, if you have the Pants CX (59) in your CX Area, and all of your characters are <Avatar> or <Net>, look at up to 4 cards from the top of your deck, choose up to 1 <Avatar> or <Net> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room"
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "39",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_39.png"
+    },
+    {
+        "name": "《LPFM》 ピトフーイ",
+        "code": "GGO/SE50-40",
+        "rarity": "RR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have 5 or less cards in your deck, this gets -1 Level in hand.",
+            "CONT - If this is in the Front Row, all of your <Avatar> or <Net> characters get +1500 power.",
+            "AUTO - When this is placed on stage from hand, If you have 5 or less cards in your deck, return all cards from your Waiting Room into your deck. If you do, search your deck for up to 1 <Avatar> or <Net> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "40",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_40.png"
+    },
+    {
+        "name": "《LPFM》 エム",
+        "code": "GGO/SE50-41",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your opponent’s characters get “AUTO - ENCORE (2)”.",
+            "AUTO - When this is placed on stage from hand, if your opponent has 1 or less characters in their Front Row, choose 1 Cost 0 or lower character in your opponent's Front Row, you may send it Waiting Room."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "41",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_41.png"
+    },
+    {
+        "name": "《ビトレイヤーズ》 ピトフーイ",
+        "code": "GGO/SE50-42",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Avatar> or <Net> character, choose 1 of your characters, this turn, it gets +2000 power.",
+            "AUTO - When this attacks, this turn, all of your character currently on stage gains the following ability, \"AUTO - (1) When this card's Trigger Check reveals a CX, you may pay cost. If you do, put the top card of your deck into Stock, then choose 1 of your characters, this turn, it gets +2000 power.\" "
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "42",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_42.png"
+    },
+    {
+        "name": "《サード・スクワッド・ジャム》 エム",
+        "code": "GGO/SE50-43",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, if you have another <Avatar> or <Net> character, this turn, this gets +2000 power.",
+            "AUTO - [(1) Rest 1 of your other Standing <Avatar> or <Net> characters] During the turn this is placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, search your deck for up to 1 <Avatar> or <Net> character, show it to your opponent, add it to hand, and shuffle your deck afterwards. "
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "43",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_43.png"
+    },
+    {
+        "name": "炸裂弾の使い手 シャーリー",
+        "code": "GGO/SE50-44",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 5000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, choose 1 of your characters, this turn, it gets +1 Soul.",
+            "ACT - [Send this to Waiting Room] Choose 1 of your opponent's characters, return it to hand."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "44",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_44.png"
+    },
+    {
+        "name": "《サード・スクワッド・ジャム》 ピトフーイ",
+        "code": "GGO/SE50-45",
+        "rarity": "R",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 2,
+        "power": 9000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - During your turn, this gets +2000 power.",
+            "AUTO - When this is placed on stage from hand, you may Heal 1.",
+            "AUTO - {CX Combo} At the end of this card's attack, if you have the Pants CX (60) in your CX Area, and you have another <Avatar> or <Net> character, choose 1 of the following 2 effects and resolve it,",
+            "a) \"Deal 1 damage to your opponent.\"",
+            "b) \"[Discard 2 cards] You may pay cost. If you do, deal 3 damage to your opponent.\""
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "45",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_45.png"
+    },
+    {
+        "name": "共通認識の確認 デヴィッド",
+        "code": "GGO/SE50-46",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send that character to the bottom of your opponent's deck.",
+            "ACT - [(1) Send this to Waiting Room] Look at up to 4 cards from the top of your deck, choose up to 1 <Avatar> or <Net> character or \"Muramasa F9 - GGO/S59-095\" from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+        ],
+        "attributes": [
+            "Avatar",
+            "MMTM"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "46",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_46.png"
+    },
+    {
+        "name": "チームリーダー エム",
+        "code": "GGO/SE50-47",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 2 cards from the top of your deck, and put them back on top in any order.",
+            "AUTO - When this attacks, choose 1 of your <Avatar> or <Net> characters, this turn, it gets +1500 power."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "47",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_47.png"
+    },
+    {
+        "name": "\"跳梁跋扈\"ピトフーイ",
+        "code": "GGO/SE50-48",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 Event from among them, show it to your opponent, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+            "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, until the end of your opponent's next turn, it gains the following ability, \"CONT - This cannot move to other slots.\""
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "48",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_48.png"
+    },
+    {
+        "name": "単独行動 シャーリー",
+        "code": "GGO/SE50-49",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - If you have another {0/0 Clarence - 028}, this gets +4000 power.",
+            "AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "49",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_49.png"
+    },
+    {
+        "name": "《ビトレイヤーズ》 コール",
+        "code": "GGO/SE50-50",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this is placed on stage from hand, this turn, this gets +3000 power.",
+            "AUTO - [Discard 1 <Avatar> or <Net> character] When this is placed on stage from hand or sent from Stage to Waiting Room, you may pay cost. If you do, draw 1 card."
+        ],
+        "attributes": [
+            "Avatar",
+            "TOMS"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "50",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_50.png"
+    },
+    {
+        "name": "威風堂々 ピトフーイ",
+        "code": "GGO/SE50-51",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 1500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - This ability activates up to once per turn. When you play an Event, choose 1 of your characters, this turn, it gets +1000 power.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, search your deck for up to 1 <Music> character or character with \"Pitohui\", \"M\" or \"Goushi\" in its name, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "51",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_51.png"
+    },
+    {
+        "name": "運転中 豪志",
+        "code": "GGO/SE50-52",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other characters with \"Elza\" in its name gets <Love>.",
+            "AUTO - [(1) Discard 2 cards] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Weapon> character and up to 1 character with \"Elza\" in its name, show them to your opponent, add them to hand, and shuffle your deck afterwards."
+        ],
+        "attributes": [
+            "Net",
+            "Love"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "52",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_52.png"
+    },
+    {
+        "name": "円陣を組んで ZEMAL",
+        "code": "GGO/SE50-53",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - Your other <Avatar> or <Net> character in your front row center slot gets +1500 power.",
+            "AUTO - When you trigger a CX, choose 1 of your opponent's front row characters, this turn, it gets -500 power.",
+            "ACT - (1) Draw 1 card, discard 1 card.",
+            "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 Cost 0 or lower character in your Waiting Room, and place them on stage in separate slots."
+        ],
+        "attributes": [
+            "Avatar",
+            "ZEMAL"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "53",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_53.png"
+    },
+    {
+        "name": "《ビトレイヤーズ》 トムトム",
+        "code": "GGO/SE50-54",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 3500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "CONT - All of your other <Avatar> or <Net> characters get +500 power.",
+            "ACT - BRAINSTORM (1) Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose 1 of your opponent's front row cost 0 or lower characters, send it to Waiting Room."
+        ],
+        "attributes": [
+            "Avatar",
+            "ZEMAL"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "54",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_54.png"
+    },
+    {
+        "name": "物憂げな瞳 エルザ",
+        "code": "GGO/SE50-55",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 0,
+        "power": 4500,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - When this attacks, if you have 2 or more other <Avatar> or <Net> characters, this turn, this gets +2000 power.",
+            "AUTO - When this card's battle opponent is Reversed, choose 1 <Avatar> or <Net> character in your Waiting Room, add it to hand, then discard 1 card."
+        ],
+        "attributes": [
+            "Net",
+            "Music"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "55",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_55.png"
+    },
+    {
+        "name": "《ビトレイヤーズ》 デヴィッド",
+        "code": "GGO/SE50-56",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 1,
+        "cost": 1,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "CONT - ASSIST Level x 500 to <Avatar> or <Net> characters.",
+            "AUTO - When a CX is placed in your CX Area, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this attacks, look at up to 2 cards from the top of your deck, choose 1 card among them, put it back on top of your deck, and send the rest to Waiting Room.\"",
+            "ACT - [Rest this] Look at the top card of your deck, and put it on top of your deck or into your Waiting Room."
+        ],
+        "attributes": [
+            "Avatar",
+            "MMTM"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "56",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_56.png"
+    },
+    {
+        "name": "《ビトレイヤーズ》 エルビン",
+        "code": "GGO/SE50-57",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "BLUE",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [(1) Send 1 of your <Avatar> or <Net> characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters, this turn, it gets -1 Soul.",
+            "ACT - BACKUP +2500"
+        ],
+        "attributes": [
+            "Avatar",
+            "T-S"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "57",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_57.png"
+    },
+    {
+        "name": "特別ルール、発動",
+        "code": "GGO/SE50-58",
+        "rarity": "U",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Event",
+        "color": "BLUE",
+        "level": 3,
+        "cost": 1,
+        "power": 0,
+        "soul": 0,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "Perform the following effect twice, \"You may discard 1 card. If you do, choose 1 Event in your Waiting Room, add it to hand.\""
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "58",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_58.png"
+    },
+    {
+        "name": "凶悪な宿敵、再び",
+        "code": "GGO/SE50-59",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "59",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_59.png"
+    },
+    {
+        "name": "戦場に響く狂喜の声",
+        "code": "GGO/SE50-60",
+        "rarity": "C",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Climax",
+        "color": "BLUE",
+        "level": 0,
+        "cost": 0,
+        "power": 0,
+        "soul": 0,
+        "trigger": [
+            "SOUL",
+            "GATE"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+            "（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+        ],
+        "attributes": [],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "60",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_60.png"
+    },
+    {
+        "name": "Little Dancer レン",
+        "code": "GGO/SE50-P01",
+        "rarity": "PR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 1,
+        "cost": 0,
+        "power": 4000,
+        "soul": 1,
+        "trigger": [],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたのターン中、他のあなたの、《アバター》か《ネット》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+            "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+        ],
+        "attributes": [
+            "アバター",
+            "武器"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "P01",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_p01.png"
+    },
+    {
+        "name": "Overclock レン",
+        "code": "GGO/SE50-P02",
+        "rarity": "PR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 2,
+        "cost": 1,
+        "power": 2500,
+        "soul": 1,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【自】 あなたがこのカードの『助太刀』を使った時、相手のCX置場にCXがあるなら、あなたは自分のバトル中の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+            "【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）\n"
+        ],
+        "attributes": [
+            "アバター",
+            "武器"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "P02",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_p02.png"
+    },
+    {
+        "name": "ちっこくて可愛い レン",
+        "code": "GGO/SE50-P03",
+        "rarity": "PR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "アバター",
+            "武器"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "P03",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_p03.png"
+    },
+    {
+        "name": "ちっこくて可愛い レン",
+        "code": "GGO/SE50-P03S",
+        "rarity": "PR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10000,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+            "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+        ],
+        "attributes": [
+            "アバター",
+            "武器"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "P03S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_p03s.png"
+    },
+    {
+        "name": "再び、銃をとる レン",
+        "code": "GGO/SE50-P04S",
+        "rarity": "PR",
+        "expansion": "Gun Gale Online II",
+        "side": "S",
+        "type": "Character",
+        "color": "RED",
+        "level": 3,
+        "cost": 2,
+        "power": 10500,
+        "soul": 2,
+        "trigger": [
+            "SOUL"
+        ],
+        "flavor_text": "",
+        "ability": [
+            "AUTO - [Send 1 of your other characters on stage to Waiting Room] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand.",
+            "AUTO - [(2) Discard 1 card] When this card’s battle opponent is Reversed, if you have 2 or more other <Avatar> or <Net> characters, you may pay cost. If you do, deal 2 damage to your opponent."
+        ],
+        "attributes": [
+            "Avatar",
+            "Weapon"
+        ],
+        "set": "GGO",
+        "release": "SE50",
+        "sid": "P04S",
+        "image": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_p04s.png"
+    }
+]
