@@ -1,0 +1,3151 @@
+[
+  {
+    "name": "Lufel & Robroy / CATTLE",
+    "code": "P5X/SZ10-001",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When a CX is placed in your CX Area, choose 1 of your characters, this turn, it gets +500 power and the following ability, \"CONT - This cannot be targeted by your opponent's effects.\"",
+      "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 character from your Waiting Room, and add it to hand. If you sent a \"Lufel & Robroy / CATTLE\" to Waiting Room by this effect, choose up to 1 \"Lufel & Robroy / CATTLE\" in your Waiting Room, and send it to the bottom of your Stock."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "001",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-001.webp"
+  },
+  {
+    "name": "Protagonist & Janosik / WONDER",
+    "code": "P5X/SZ10-002",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 2 or more other <Thief> characters, this gets +3000 power.",
+      "AUTO - When this is placed on stage from hand, you may Heal 1.",
+      "AUTO - {CX Combo} [Discard 1 card] When this attacks, if you have \"The Phantom Thief Alliance\" in your CX Area, you may pay cost. If you do, deal 2 damage to your opponent, then perform the following effect, \"[(2) Discard 1 <Thief> character] If you have another front row \"“When Destinies Collide” JOKER & Arsene\", you may pay cost. If you do, deal 2 damage to your opponent.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "002",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-002.webp"
+  },
+  {
+    "name": "“When Destinies Collide” JOKER & Arsene",
+    "code": "P5X/SZ10-003",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have “\"When Destinies Collide” JOKER & Arsene\" in your Clock, this gets -1 level in hand.",
+      "AUTO - {CX Combo} When this attacks, if you have \"The Phantom Thief Alliance\" in your CX Area, choose 1 of the following 2 effects and resolve it,",
+      "- \"Choose up to 1 character in your Clock, send it to the bottom of your deck, then choose up to 2 <Thief> characters in your Waiting Room, choose 1 ,add it to hand, send the rest to Stock.\"",
+      "- \"If you have another front row \"Protagonist & Janosik / WONDER\", look at up to 5 cards from the top of your opponent's deck, choose up to 5 cards from among them, send them to Waiting Room, return the rest to the deck, and your opponent shuffles their deck afterwards.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "003",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-003.webp"
+  },
+  {
+    "name": "Minami & Thalia / MARIAN",
+    "code": "P5X/SZ10-004",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When the damage dealt by your character's direct attack or damage dealt by your Shot Trigger is not cancelled, choose 1 of your opponent's face-down cards in their Memory, you may send it to Waiting Room. If you do, reveal the top card of your deck. If that card is a <Thief> character or \"Retake Your Desire\", add it to hand.",
+      "ACT - {CX Combo} BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each \"Divine Strike\" or \"Witness My True Power\" among them, choose up to 1 <Thief> character from your Waiting Room, and add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "004",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-004.webp"
+  },
+  {
+    "name": "Ayaka & Calliope / CHORD",
+    "code": "P5X/SZ10-005",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - When this attacks, if you have 2 or more other <Thief> characters, this turn, this gets +4000 power.",
+      "AUTO - When this is Reversed, reveal the top card of your deck. If that card is level 1 or higher, you may return this to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "005",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-005.webp"
+  },
+  {
+    "name": "Guided by Desire, WONDER",
+    "code": "P5X/SZ10-006",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - {CX Combo} When \"Heartthrob Love☆Chocolate Showdown\" is placed in your CX Area, if you have 2 or more other <Thief> characters, look at up to 12 cards from the top of your deck, choose up to 1 cost 0 or lower <Thief> character whose level is equal or lower than your level from among them, place it on stage in any slot, send the rest to Waiting Room.",
+      "AUTO - At the start of your Attack Phase, choose 1 of your <Thief> characters, this turn, it gets +1500 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "006",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-006.webp"
+  },
+  {
+    "name": "Summer Days Minami Miyashita",
+    "code": "P5X/SZ10-007",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have 2 or more other <Thief> characters, this gets +2000 power.",
+      "AUTO - [(1) Discard 1 card, Rest 1 of your other Standing <Thief> characters] During the turn this is placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, choose up to 2  <Thief> characters in your Waiting Room, add them to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "007",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-007.webp"
+  },
+  {
+    "name": "Kumi & Kiskil-lilla / BLITZ",
+    "code": "P5X/SZ10-008",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 2,
+    "power": 8500,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 4 or more <Thief> characters, this gets -1 Level in hand.",
+      "CONT - During your turn, for each of your opponent's back row characters, this gets +2000 power.",
+      "AUTO - When this is placed on stage from hand, you may Heal 1."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "008",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-008.webp"
+  },
+  {
+    "name": "“When Destinies Collide” CROW & Robin Hood",
+    "code": "P5X/SZ10-009",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 2,
+    "power": 9500,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 card] When this is placed on stage from hand, choose up to 1 of your opponent's characters, return it to hand, then you may pay cost. If you do, choose 1 of your opponent's characters, and return it to hand.",
+      "AUTO - ALARM [Discard 1 card] If this is on top of your Clock, at the start of your CX Phase, you may pay cost. If you do, choose 1 of your opponent's Level 1 or higher characters. If you do, your opponent chooses 1 Level X or lower character from their Waiting Room, and swap them. X equals the Level of the character chosen by you -1."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "009",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-009.webp"
+  },
+  {
+    "name": "“When Destinies Collide” SKULL & Captain Kidd",
+    "code": "P5X/SZ10-010",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, search your deck for up to 1 <Thief> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+      "AUTO - {CX Combo} {1 Per Turn} When this card's damage is cancelled, if you have \"Divine Strike\" in your CX Area, mill 3, for each \"Retake Your Desire\" or card with a Soul Trigger milled, deal 1 damage to your opponent."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "010",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-010.webp"
+  },
+  {
+    "name": "Toshiya & Gorgyra / SEPIA",
+    "code": "P5X/SZ10-011",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "ACT - [Discard 1 card, Send this to Waiting Room] If you have another <Thief> character, choose 1 of your opponent's characters, move it to an opponent's empty slot."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "011",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-011.webp"
+  },
+  {
+    "name": "No Boundaries Between Black and White, WONDER",
+    "code": "P5X/SZ10-012",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, choose the bottom card of your Clock and 1 <Thief> character in your Waiting Room, you may swap them.",
+      "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to 2 cards from the top of your deck, and put them back on top in any order, then choose 1 <Thief> character from your Waiting Room, add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "012",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-012.webp"
+  },
+  {
+    "name": "Leblanc Coffee, Ren Amamiya",
+    "code": "P5X/SZ10-013",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you are level 1 or higher, this gains the following ability, \"ACT - [Send this to Clock] Choose 1 \"Take Your Heart, JOKER\" in your Waiting Room, place it on stage in this card's former slot.\"",
+      "AUTO - [(1) Discard 1 CX with a Shot Trigger] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX with a Shot Trigger from your Waiting Room, and add it to hand, then choose 1 of your other characters, this turn, it gets +1000 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "013",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-013.webp"
+  },
+  {
+    "name": "Retake Your Desire, CATTLE",
+    "code": "P5X/SZ10-014",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, this gets +4000 power.",
+      "AUTO - {CX Combo} (1) When this card's battle opponent is Reversed, if you have \"Witness My True Power\" in your CX Area, and you have another <Thief> character, you may pay cost. If you do, search your deck for up to 2 <Thief> characters or \"Retake Your Desire\", show them to your opponent, choose 1, add it to hand, send the rest to the bottom of your Stock, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "014",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-014.webp"
+  },
+  {
+    "name": "Mayumi & Pitys / TURBO",
+    "code": "P5X/SZ10-015",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have another <Thief> character, this gets +3000 power.",
+      "AUTO - ACCELERATE [Put the top card of your deck into Clock] At the start of your Attack Phase, if you have another <Thief> character, you may pay cost. If you do, thie turn, this gains the following ability, \"AUTO - When this card's battle opponent is Reversed, look at up to 4 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "015",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-015.webp"
+  },
+  {
+    "name": "Take Your Heart, JOKER",
+    "code": "P5X/SZ10-016",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, all of your other <Thief> characters get +1000 power.",
+      "AUTO - When you trigger a CX with a Shot Trigger, if there is 1 or less Marker underneath this, choose 1 card in your Waiting Room, you may place it underneath this face-fown as a Marker.",
+      "ACT - [Send 2 Markers underneath this to Waiting Room] Search your deck for up to 2 <Thief> characters or \"Retake Your Desire\", show them to your opponent, add them to hand, discard 1 card, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "016",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-016.webp"
+  },
+  {
+    "name": "Take Back Your Desire, WONDER",
+    "code": "P5X/SZ10-017",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 2,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [(1) Discard 1 card, Send 1 of your characters from stage to Waiting Room] When you use this card's BACKUP, you may pay cost. If you do, choose 1 of your opponent's characters whose Level is higher than your opponent's Level, and send it to Memory.",
+      "ACT - BACKUP +2500"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "017",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-017.webp"
+  },
+  {
+    "name": "Take Your Heart, SKULL",
+    "code": "P5X/SZ10-018",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have another <Thief> character, this gets +6000 power.",
+      "AUTO - {CX Combo} When \"Divine Strike\" is placed in your CX Area, if this is in your front row, and you have 4 or more other <Thief> characters, choose up to 1 character or \"Retake Your Desire\" in your Waiting Room, add it to hand, then choose up to 1 <Thief> character in your Waiting Room, send it to Stock."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "018",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-018.webp"
+  },
+  {
+    "name": "Kayo & Cleodora / OKYANN",
+    "code": "P5X/SZ10-019",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - All of your other <Thief> characters get +500 power.",
+      "ACT - [Rest this] Choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, you may send that character to Stock. If you do, put the bottom card of your opponent's Stock into Waiting Room.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "019",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-019.webp"
+  },
+  {
+    "name": "Water Gun Battle, WONDER",
+    "code": "P5X/SZ10-020",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When you trigger a card with a Soul Trigger, choose 1 of your <Thief> characters, this turn, it gets +2000 power.",
+      "AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send that character to Stock. If you do, send the bottom card of your opponent's Stock to Waiting Room."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "020",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-020.webp"
+  },
+  {
+    "name": "Runa & Aura / HOWLER",
+    "code": "P5X/SZ10-021",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, this gets +3000 power.",
+      "AUTO - When this is placed on stage from hand, if you have 4 or more other <Thief> characters, choose 1 <Thief> character in your Waiting Room, you may send it to Stock.",
+      "AUTO - When this card or this card's battle opponent is Reversed, this turn, that character cannot use \"AUTO - ENCORE\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "021",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-021.webp"
+  },
+  {
+    "name": "Retake Your Desire",
+    "code": "P5X/SZ10-022",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "If your opponent does not have a face-down card in their Memory, your opponent chooses 1 card from their hand, place it face-down in their Memory, then they can draw up to 1 card.",
+      "Mill 4, choose up to 1 Level X or lower <Thief> character from your Waiting Room, add it to hand. X equals the sum of Soul Triggers milled.",
+      "If you have 2 or more CXes with a Shot Trigger in your Waiting Room, you may draw 1 card. If you do, discard 1 card."
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "022",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-022.webp"
+  },
+  {
+    "name": "\"Time to Choose\"",
+    "code": "P5X/SZ10-023",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 1,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "If you don't have a character with \"WONDER\" in its name, this cannot be played from hand.",
+      "choose 1 of the following 3 effects and resolve it,",
+      "- \"Choose 1 of your opponent's front row characters, return it to hand.\"",
+      "- \"Choose 1 character in your Waiting Room, add it to hand.\"",
+      "- \"If your opponent has 5 or more Memory, send all of their characters in Memory to Waiting Room.\""
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "023",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-023.webp"
+  },
+  {
+    "name": "Bulldoze Right Through",
+    "code": "P5X/SZ10-024",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 1,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "Your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock. Choose 1 of your <Thief> characters, this turn, it gets +5000 power."
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "024",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-024.webp"
+  },
+  {
+    "name": "The Phantom Thief Alliance",
+    "code": "P5X/SZ10-025",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Choice"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "025",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-025.webp"
+  },
+  {
+    "name": "Witness My True Power",
+    "code": "P5X/SZ10-026",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Shot",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "026",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-026.webp"
+  },
+  {
+    "name": "Divine Strike",
+    "code": "P5X/SZ10-027",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Shot",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "027",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-027.webp"
+  },
+  {
+    "name": "Heartthrob Love☆Chocolate Showdown",
+    "code": "P5X/SZ10-028",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Choice"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "028",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-028.webp"
+  },
+  {
+    "name": "YUI & Apseudes / BUI",
+    "code": "P5X/SZ10-029",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is Reversed, if the battle opponent's Level is 0 or lower, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.",
+      "AUTO - [Discard 1 card] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 <Thief> character among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "029",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-029.webp"
+  },
+  {
+    "name": "Riko & Chiyome / WIND",
+    "code": "P5X/SZ10-030",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, this gets +4000 power.",
+      "AUTO - {CX Combo} When this attacks, if you have \"I Will Never Give Up My \"Dreams\"\" in your CX Area, look at up to 4 cards from the top of your deck, choose up to 1 <Thief> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room, then look at the top card of your deck, and put it on top or bottom of your deck.",
+      "AUTO - CHANGE - At the start of your Encore Step, if this is Rested, choose 1 \"WIND Vast\" underneath this as a Marker or in your Waiting Room, you may place it on stage in this card's slot Rested. If you do, place this underneath that character face-up as a Marker."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "030",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-030.webp"
+  },
+  {
+    "name": "Manaka & Euterpe / ANGE",
+    "code": "P5X/SZ10-031",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - At the start of your Attack Phase, if this is in your front row, and all of your characters are <Thief>, choose 1 of your characters, this turn, it gets +1000 power and the following ability, \"AUTO - (1) When this attacks, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice.\"",
+      "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "031",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-031.webp"
+  },
+  {
+    "name": "WIND Vast",
+    "code": "P5X/SZ10-032",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 2 or more other <Thief> characters, this gets +4000 power.",
+      "AUTO - At the end of this card's battle opponent's attack, look at the bottom card of your deck, and put it on top or bottom of your deck or into your Waiting Room.",
+      "AUTO - CHANGE - At the start of your opponent's Encore Step, if this is Rested, choose 1 \"Riko & Chiyome / WIND\" underneath this as a Marker or in your Waiting Room, you may place it on stage in this card's slot Rested. If you do, place this underneath that character face-up as a Marker."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "032",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-032.webp"
+  },
+  {
+    "name": "Riko Tanemura",
+    "code": "P5X/SZ10-033",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 1,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - All of your other characters with a Marker and a CHANGE ability gets +1500 power.",
+      "AUTO - [Discard 1 card] When you trigger a CX, you may pay cost. If you do, choose 1 \"Retake You Desire, WIND\" or \"Retake You Desire\" in your Waiting Room, add it to hand or send it to Stock.",
+      "AUTO - CHANGE [(2) Send this to Waiting Room] If you are level 2 or higher, at the start of your CX Phase, you may pay cost. If you do, choose up to 1 \"Retake You Desire, WIND\" from your hand, place it on stage in this card's former slot."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "033",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-033.webp"
+  },
+  {
+    "name": "Retake You Desire, WIND",
+    "code": "P5X/SZ10-034",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 3,
+    "cost": 2,
+    "power": 7500,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 2 or more \"Retake Your Desire\" in your Waiting Room, this gets -1 level in hand.",
+      "CONT - If you have 2 or more other <Thief> characters, this gets +3500 power and the following ability, \"AUTO - [(3) Discard 2 cards] When this attacks, you may pay cost. If you do, deal 3 damage to your opponent.\"",
+      "AUTO - When this is placed on stage from hand, you may Heal 1."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "034",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-034.webp"
+  },
+  {
+    "name": "“When Destinies Collide” NOIR & Milady",
+    "code": "P5X/SZ10-035",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, you may Heal 1.",
+      "AUTO - {CX Combo} When this attacks, if you have \"Red and Black Justice\" in your CX Area, and you have another <Thief> character, choose 1 of the following 2 effects and resolve it,",
+      "- \"Deal 1 damage to your opponent.\"",
+      "- \"[(3) Discard 2 cards] You may pay cost. If you do, deal 1 damage to your opponent 3 times.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "035",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-035.webp"
+  },
+  {
+    "name": "Virtual Landowner YUI",
+    "code": "P5X/SZ10-036",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - {CX Combo} When \"Marutoku Virtual World\" is placed in your CX Area, if you have another <Thief> character, choose 1 <Thief> character in your Waiting Room, send it to Stock.",
+      "ACT - [Rest this] Choose 1 of your <Thief> characters, this turn, it gets +1500 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "036",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-036.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, QUEEN",
+    "code": "P5X/SZ10-037",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, this gets +5000 power.",
+      "AUTO - {CX Combo} When this card's battle opponent is Reversed, if you have \"Iron Fist Punishiment\" in your CX Area, and you have 4 or more other <Thief> characters, you may send that character to Clock.",
+      "AUTO - [Send 1 of your other <Thief> characters on stage to Waiting Room] When this is sent from Stage to Waiting Room, you may pay cost, if you do, choose 1 \"Makoto & Johanna / QUEEN\" in your Waiting Room, add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "037",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-037.webp"
+  },
+  {
+    "name": "Yukimi & Styx / YUKI",
+    "code": "P5X/SZ10-038",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - You other front row center slot <Thief> characters get +1500 power.",
+      "ACT - [(2) Rest this] Search your deck for up to 1 <Thief> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "038",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-038.webp"
+  },
+  {
+    "name": "Yumi & Urania / PHOEBE",
+    "code": "P5X/SZ10-039",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is level 2 or higher, send it to Stock.",
+      "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Thief> character from your Waiting Room, add it to hand, then choose 1 of your other <Thief> characters, this turn, it gets +1000 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "039",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-039.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, NOIR",
+    "code": "P5X/SZ10-040",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, if you have another <Thief> character, choose up to 2 cards in your hand, send them to Stock in any order.",
+      "AUTO - When this is placed on stage from hand, this turn, this gets +1500 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "040",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-040.webp"
+  },
+  {
+    "name": "Chizuko & Ampelos / VINO",
+    "code": "P5X/SZ10-041",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters, this turn, it gains the following ability, \"CONT - This cannot return to hand, move to other slots or be sent to Memory.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "041",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-041.webp"
+  },
+  {
+    "name": "Singer with a Voice of an Angel, ANGE",
+    "code": "P5X/SZ10-042",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, reveal the top card of your deck. If that card is a <Thief> character, choose 1 of your characters, this turn, it gets +3000 power.",
+      "AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, choose 1 <Thief> character in your Waiting Room, add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "042",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-042.webp"
+  },
+  {
+    "name": "Leo & Erytheia / LEON",
+    "code": "P5X/SZ10-043",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 1,
+    "cost": 1,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When you use this card's BACKUP, if you have a <Thief> character, you or your opponent mills 3.",
+      "ACT - BACKUP +2000"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "043",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-043.webp"
+  },
+  {
+    "name": "System Engineer, Musubi Matsukata",
+    "code": "P5X/SZ10-044",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 2,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, choose up to 2 of your characters, this turn, they gain the following ability, \"AUTO - When this is Reversed, if the battle opponent's Level is higher than your opponent's Level, you may send the top card of your opponent's Clock to Waiting Room. If you do, send that character to Clock.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "044",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-044.webp"
+  },
+  {
+    "name": "Makoto & Johanna / QUEEN",
+    "code": "P5X/SZ10-045",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "GREEN",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, choose up to 1 character from your hand whose Level is equal or lower than your Level, place it on stage in any slot, and this turn, this gets +2000 power.",
+      "AUTO - [(3) Discard 1 card] When this card's battle opponent is Reversed, if you have 2 or more other <Thief> characters, you may pay cost. If you do, choose 1 of your opponent's back row level 2 or lower characters, send it to Clock."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "045",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-045.webp"
+  },
+  {
+    "name": "Retake Your Desire",
+    "code": "P5X/SZ10-046",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "GREEN",
+    "level": 1,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "COUNTER {CX Combo} If your opponent does not have a face-down card in their Memory, your opponent chooses 1 card from their hand, place it face-down in their Memory, then they can draw up to 1 card.",
+      "Choose 1 of the following 2 effects and resolve it,",
+      "- \"Choose 1 of your <Thief> characters, this turn, it gets +X power. X is equal to your Stock times 500.\"",
+      "- \"If you have a <Thief> character, choose 1 Level X or lower <Thief> character from your Waiting Room, add it to hand. X equals the number of \"I Will Never Give Up My \"Dreams\"\" in your Waiting Room.\""
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "046",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-046.webp"
+  },
+  {
+    "name": "I Will Never Give Up My \"Dreams\"",
+    "code": "P5X/SZ10-047",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Bar"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "047",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-047.webp"
+  },
+  {
+    "name": "Iron Fist Punishiment",
+    "code": "P5X/SZ10-048",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Bar"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "048",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-048.webp"
+  },
+  {
+    "name": "Red and Black Justice",
+    "code": "P5X/SZ10-049",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Bar"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "049",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-049.webp"
+  },
+  {
+    "name": "Marutoku Virtual World",
+    "code": "P5X/SZ10-050",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "GREEN",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Bar"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "050",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-050.webp"
+  },
+  {
+    "name": "Yaoling & Meng Po / RIN",
+    "code": "P5X/SZ10-051",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 CX from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+      "AUTO - When this is Reversed, if the battle opponent's Level is 1 or lower, you may Reverse that character."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "051",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-051.webp"
+  },
+  {
+    "name": "“When Destinies Collide” VIOLET & Cendrillon",
+    "code": "P5X/SZ10-052",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have another <Thief> character, this gets +3000 power.",
+      "AUTO - {CX Combo} When this attacks, if you have \"Crimson Dances in a Dream\" in your CX Area, and you have another <Thief> character, choose up to 1 <Thief> character in your Waiting Room, add it to hand, and this turn, this gains the following ability, \"AUTO - When this card's battle opponent is Reversed, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "052",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-052.webp"
+  },
+  {
+    "name": "Motoha & Awilda / CLOSER",
+    "code": "P5X/SZ10-053",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 3,
+    "cost": 2,
+    "power": 10500,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - {CX Combo} When this is placed on stage from hand, choose 1 \"Awilda Won't Stop!” in your Waiting Room, you may add it to hand or send it to Stock.",
+      "AUTO - {CX Combo} [(1) Discard 2 cards] When this attacks, if you have \"Awilda Won't Stop!” in your CX Area, and all of your characters are <Thief>, you may pay cost. If you do, choose up to 1 card in your opponent's Waiting Room, place it on top of their deck, then deal 4 damage to your opponent, then choose up to 1 card in your opponent's Waiting Room, place it on top of their deck."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "053",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-053.webp"
+  },
+  {
+    "name": "Summer Days Tomoko Noge",
+    "code": "P5X/SZ10-054",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When the damage dealt by your character's direct attack is not cancelled, choose 1 of your opponent's face-down cards in their Memory, you may send it to Waiting Room. If you do, choose 1 of your opponent's level 1 or lower back row characters, during your opponent's next Stand Phase, that character does not Stand.",
+      "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX with a Door Trigger among them, choose up to 1 <Thief> character from your Waiting Room, and add it to hand, then choose 1 of your opponent's front row characters, this turn, it gets -1000 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "054",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-054.webp"
+  },
+  {
+    "name": "Lively and Passionate Sports Girl! CLOSER",
+    "code": "P5X/SZ10-055",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, choose 1 \"Divine Justice\" or \"Retake Your Desire\" in your Waiting Room, add it to hand.",
+      "ACT - [Send this to Clock] Look at up to 3 cards from the top of your deck, choose up to 1 <Thief> character or an Event from among them, show it to your opponent, add it to hand, send the rest to Waiting Room"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "055",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-055.webp"
+  },
+  {
+    "name": "Retake You Desire, CLOSER",
+    "code": "P5X/SZ10-056",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, mill 2, If there is a CX with a Door Trigger milled, choose 1 <Thief> character in your Waiting Room, you may send it ot Stock.",
+      "ACT - [(1) Send this to Waiting Room] Choose 1 \"Motoha Arai / CLOSER\" in your Waiitng Room, place it on stage in this card's former slot, and until the end of your opponent's next turn, it gets +1500 power, then choose up to 1 \"Retake Your Desire\" in your Waiting Room, add it to hand. If you added to hand, discard 1 card."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "056",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-056.webp"
+  },
+  {
+    "name": "Tomoko & Prosymna / MOKO",
+    "code": "P5X/SZ10-057",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 1,
+    "power": 3000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - ASSIST level x 500 to <Thief> characters.",
+      "AUTO - When a CX with a Door Trigger is placed in your CX Area, until the end of your opponent's next turn, all of your characters get +500 power.",
+      "ACT - BRAINSTORM [Send 1 of your other characters on stage to Waiting Room, Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them repeat the following effect, \"Choose 1 of your opponent's level 3 or lower front row characters, during your opponent's next Stand Phase, that character does not Stand.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "057",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-057.webp"
+  },
+  {
+    "name": "Retake Your Desire, SOY",
+    "code": "P5X/SZ10-058",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 2,
+    "cost": 1,
+    "power": 6000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - For each of your other back row <Thief> characters, this gets +2000 power.",
+      "AUTO - {CX Combo} [Send 1 \"For My Benefactor\" from your CX Area to Waiting Room] At the end of this card's attack, if all of your characters are <Thief>, you may pay cost. If you do, choose 1 <Thief> character in your Waiting Room, add it to hand, and until the end of your opponent's next turn, this gets +2000 power and \"CONT - BODYGUARD\"."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "058",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-058.webp"
+  },
+  {
+    "name": "Summer Days Motoha Arai",
+    "code": "P5X/SZ10-059",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 2,
+    "cost": 1,
+    "power": 8000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, if you have 6 or less cards in your deck, and you have 4 or more CXes with a Door Trigger in your Waiting Room, you may shuffle all cards from your Waiting Room into your deck. If you do, draw 1 card, then discard 1 card."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "059",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-059.webp"
+  },
+  {
+    "name": "Shun & Mandrin / SOY",
+    "code": "P5X/SZ10-060",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 3,
+    "cost": 2,
+    "power": 8000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 2 or less or 6 or more CXes in your Waiting Room, this gets -1 Level in hand.",
+      "CONT - If you have 2 or more other <Thief> characters, this gets +2500 power and the following ability, \"AUTO - When this direct attacks, choose 1 <Thief> character in your Waiting Room, you may send it to Stock.\"",
+      "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, put the top card of your Clock into Stock."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "060",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-060.webp"
+  },
+  {
+    "name": "“When Destinies Collide” PANTHER & Carmen",
+    "code": "P5X/SZ10-061",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 CX with a Door Trigger] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX with a Door Trigger from your Waiting Room, and add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "061",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-061.webp"
+  },
+  {
+    "name": "“When Destinies Collide” MONA & Zorro",
+    "code": "P5X/SZ10-062",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX in your Waiting Room, add it to hand, and if you have 2 or more CXes with a Choice Trigger and 2 or more CXes with a Door Trigger in your Waiting Room, choose up to 1 <Thief> character in your Waiting Room, send it to Stock.",
+      "ACT - [(1) Send this to Waiting Room] If you are level 2 or higher, choose 1 \"Take Your Heart, MONA\" in your Waiting Room, place it on stage in this card's former slot."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "062",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-062.webp"
+  },
+  {
+    "name": "International Student from Sichuan Province, Yaoling Li",
+    "code": "P5X/SZ10-063",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, choose up to 1 of your opponent's characters, send it to Memory, then your opponent places that character on stage in any slot.",
+      "AUTO - When this is placed on stage from hand, choose 1 of your opponent's characters and 1 of its Traits, this turn, that character loses that Trait."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "063",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-063.webp"
+  },
+  {
+    "name": "Take Your Heart, MONA",
+    "code": "P5X/SZ10-064",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 2,
+    "cost": 1,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - You other front row center slot \"“When Destinies Collide” JOKER & Arsene\" or \"Protagonist & Janosik / WONDER\" gets +500 power and \"AUTO - ENCORE [Discard 1 <Thief> character]\"",
+      "CONT - ASSIST Level x 500."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "064",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-064.webp"
+  },
+  {
+    "name": "Yaoling Li - New Years",
+    "code": "P5X/SZ10-065",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, you may Heal 1.",
+      "AUTO - {CX Combo} When \"Blessings to the World\" is placed in your CX Area, this turn, this gains the following 2 abilities,",
+      "- \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+      "- \"AUTO - [(1) Discard 1 card] When this attacks, you may pay cost. If you do, deal 2 damage to your opponent.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "065",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-065.webp"
+  },
+  {
+    "name": "Ichigo & Thelxiepeia / BERRY",
+    "code": "P5X/SZ10-066",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Thief> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+      "AUTO - When this attacks, choose 1 of your <Thief> characters, this turn, it gets +3000 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "066",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-066.webp"
+  },
+  {
+    "name": "Shun Kano · Pioneer",
+    "code": "P5X/SZ10-067",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your opponent's turn, if you have 5 or more hand, this gets +1 level and +1500 power.",
+      "AUTO - At the start of your opponent's Attack Phase, you may move this to an empty Front Row slot with a character in the slot across from it."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "067",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-067.webp"
+  },
+  {
+    "name": "Haruna & Daeira / RIDDLE",
+    "code": "P5X/SZ10-068",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this attacks, if you have 2 or more other <Thief> characters, this turn, this gets +2000 power.",
+      "AUTO - When this card's battle opponent is Reversed, choose 1 <Thief> character in your Waiting Room, add it to hand, then discard 1 card."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "068",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-068.webp"
+  },
+  {
+    "name": "Kira & Narpyia / MESSA",
+    "code": "P5X/SZ10-069",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have another <Thief> character, this gets +6000 power.",
+      "AUTO - ENCORE [Discard 1 character]"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "069",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-069.webp"
+  },
+  {
+    "name": "The Spirit of Mutual Support, Tomoko Noge",
+    "code": "P5X/SZ10-070",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 2,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - (1) When you use this card's BACKUP, you may pay cost. If you do, choose 1 \"The Spirit of Mutual Support, Tomoko Noge\" from your Waiting Room, and add it to hand.",
+      "ACT - BACKUP +2500"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "070",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-070.webp"
+  },
+  {
+    "name": "Take Your Heart, PANTHER",
+    "code": "P5X/SZ10-071",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 2,
+    "cost": 1,
+    "power": 7000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have 4 or more other <Thief> characters, this gets +5000 power and the following ability, \"CONT - During this card's battle, your opponent cannot play Events or BACKUPs from hand.\"",
+      "AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 CX with a Door Trigger, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "071",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-071.webp"
+  },
+  {
+    "name": "Divine Justice",
+    "code": "P5X/SZ10-072",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "RED",
+    "level": 1,
+    "cost": 1,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "Choose 1 of your opponent's characters, this turn, it gains <Phantom> trait, then choose 1 of your <Thief> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is reversed, if its a <Phantom> character, choose up to 2 <Thief> characters in your Waiting Room, choose 1, add it to hand, and send the rest to Stock.\"",
+      "If there are no Red cards in your Memory, send this to Memory.",
+      "CONT - MEMORY - If this is in your Memory, increase the maximum number of cards in your hand by +1."
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "072",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-072.webp"
+  },
+  {
+    "name": "Retake Your Desire",
+    "code": "P5X/SZ10-073",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "RED",
+    "level": 2,
+    "cost": 1,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "COUNTER - You cannot play this from hand during your turn.",
+      "If your opponent does not have a face-down card in their Memory, your opponent chooses 1 card from their hand, place it face-down in their Memory, then they can draw up to 1 card.",
+      "Choose 1 of your <Thief> characters, this turn, it gets +2500 power and the following ability, \"AUTO - {1 Per turn} When this card's battle opponent is Reversed, deal X damage to your opponent. X is equal to 2 if you have 5 or more <Thief> characters and 6 or more CXes with a Door Trigger in your Waiting Room, otherwise it's equal to 1.\""
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "073",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-073.webp"
+  },
+  {
+    "name": "Awilda Won't Stop!",
+    "code": "P5X/SZ10-074",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Door"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "074",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-074.webp"
+  },
+  {
+    "name": "For My Benefactor",
+    "code": "P5X/SZ10-075",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Door"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "075",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-075.webp"
+  },
+  {
+    "name": "Crimson Dances in a Dream",
+    "code": "P5X/SZ10-076",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Door"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "076",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-076.webp"
+  },
+  {
+    "name": "Blessings to the World",
+    "code": "P5X/SZ10-077",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Door"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "077",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-077.webp"
+  },
+  {
+    "name": "Receptionist Merope",
+    "code": "P5X/SZ10-078",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [(1) Put the top card of your deck into Clock] When this is placed on stage from hand, you may pay cost. If you do, search your deck for up to 1 <Thief> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.",
+      "ACT - [Discard 1 card, Put 1 <Thief> character from your Waiting Room on the bottom of your Clock, Send this to Memory] Look at up to 2 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room."
+    ],
+    "attributes": [
+      "Magic"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "078",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-078.webp"
+  },
+  {
+    "name": "Shoki & Ghino / LUCE",
+    "code": "P5X/SZ10-079",
+    "rarity": "RR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - {CX Combo} When this attacks, if you have \"Duet With the Stars\" in your CX Area, choose 1 of the following 2 effects and resolve it,",
+      "- \"Look at up to 3 cards from the top of your opponent's deck, choose up to 3 cards from among them, put them on top of your opponent's deck in any order, and send the rest to Waiting Room.\"",
+      "- \"Choose up to 1 card in your clock, add it to hand, and this turn, this gets +1000 power.\"",
+      "AUTO - CHANGE - At the start of your Encore Step, if this is Rested, choose 1 \"Shoki Ikenami - Eternal Night\" underneath this as a Marker or in your Waiting Room, you may place it on stage in this card's slot Rested. If you do, place this underneath that character face-up as a Marker."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "079",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-079.webp"
+  },
+  {
+    "name": "\"When Destinies Collide\" NAVI & Necronomicon",
+    "code": "P5X/SZ10-080",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 1,
+    "cost": 0,
+    "power": 4500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When a CX is placed in your CX Area, choose 1 of your characters, this turn, it gets +1000 power.",
+      "AUTO - {CX Combo} When \"Genius Programmer's Curiosity\" is placed in your CX Area, if you have 2 or more other <Thief> characters, choose 1 of your characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, search your deck for up to 1 <Thief> character, show it to your opponent, add it to hand, and shuffle your deck afterwards.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "080",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-080.webp"
+  },
+  {
+    "name": "Shoki Ikenami - Eternal Night",
+    "code": "P5X/SZ10-081",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 Green or Blue card] When this is placed on stage from hand or by the effect of CHANGE, you may pay cost. If you do, choose 1 of the following 2 effects and resolve it,",
+      "- \"Search your deck for up to 2 <Thief> character, show them to your opponent, add them to hand, and shuffle your deck afterwards.\"",
+      "- \"Put the top card of your Clock into Stock.\"",
+      "AUTO - CHANGE - At the start of your opponent's Encore Step, if this is Rested, choose 1 \"Shoki & Ghino / LUCE\" underneath this as a Marker or in your Waiting Room, you may place it on stage in this card's slot Rested. If you do, place this underneath that character face-up as a Marker."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "081",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-081.webp"
+  },
+  {
+    "name": "Yusuke & Emperor / FOX",
+    "code": "P5X/SZ10-082",
+    "rarity": "R",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 3 or more CXes with a Pants Trigger in your Waiting Room, this gets -1 level in hand.",
+      "AUTO - {CX Combo} [Send 1 \"The Imari Scroll\" from your CX Area to Waiting Room] At the end of this card's attack, you may pay cost. If you do, choose up to 3 <Thief> characters in your Waiting Room, add them to hand, and until the end of your opponent's next turn, this cannot be targeted by your opponent's effect, and this gains the following ability, \"AUTO - {3 Per Turn} [(1) Discard 1 card] During your opponent's turn, when the damage you take is not cancelled, you may pay cost. If you do, deal 1 damage to your opponent.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "082",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-082.webp"
+  },
+  {
+    "name": "Genius Figure Skater, Kotone Montagne",
+    "code": "P5X/SZ10-083",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, choose 1 of your <Thief> characters, this turn, it gets +1500 power.",
+      "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "083",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-083.webp"
+  },
+  {
+    "name": "Shoki Ikenami",
+    "code": "P5X/SZ10-084",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 character with CHANGE from among them, add it to hand, and send the rest to Waiting Room. If you added a card to hand, discard 1 card.",
+      "ACT - [(1) Discard 1 card, Send this to Waiting Room] Choose 1 <Thief> character in your Waiting Room, add it to hand, then choose 1 of your characters, this turn, it gets +3000 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "084",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-084.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, NAVI",
+    "code": "P5X/SZ10-085",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When the damage dealt by your Direct Attacking characters is not cancelled, choose 1 face-down card in your opponent's Memory, you may send it to Waiting Room. If you do, reveal the top card of your deck. If that card is a level 2 or lower character, send it to Stock.",
+      "ACT - BRAINSTORM [(1) Rest this] Flip over the top 4 cards of your deck, then send them to Waiting Room. For each CX among them, choose up to 1 Green or Blue character from your Waiting Room, and add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "085",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-085.webp"
+  },
+  {
+    "name": "Masaki & Amalthea / CHERISH",
+    "code": "P5X/SZ10-086",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 2,
+    "cost": 1,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 CX with a Bar or Pants Trigger] When you use this card's BACKUP, you may pay cost. If you do, choose 1 battling character, this turn, it gets +3 Souls.",
+      "ACT - BACKUP +2500"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "086",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-086.webp"
+  },
+  {
+    "name": "Kotone Montagne - Wondrous Dance",
+    "code": "P5X/SZ10-087",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 3,
+    "cost": 2,
+    "power": 10500,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If your opponent has a Level 3 or higher character, this gets -1 Level in hand.",
+      "AUTO - During the turn this was placd on stage from hand or by the {CX Combo} effect of \"Protagonist / WONDER\", at the end of this card's attack, if the character across from this is Reversed, search your deck for up to 3 <Thief> characters, show them to your opponent, add them to hand, then discard 2 cards, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "087",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-087.webp"
+  },
+  {
+    "name": "Miyu & Nemertes / PUPPET",
+    "code": "P5X/SZ10-088",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 CX with a Bar or Pants Trigger] When this is placed on stage from hand, you may pay cost. If you do, choose up to 1 <Thief> character in your Waiting Room, add it to hand, and if there are 2 or more CXes with a Bar Trigger and 2 or more CXes with a Pants Trigger in your Waiting Room, choose up to 1 <Thief> character in your Waiting Room, send it to Stock."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "088",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-088.webp"
+  },
+  {
+    "name": "Mio & Minthe / MATOI",
+    "code": "P5X/SZ10-089",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 5 or more hand, this gets +2000 power.",
+      "AUTO - When this card's battle opponent is Reversed, if you have 4 or less Stock, you may send that character to the bottom of your opponent's deck."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "089",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-089.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, FOX",
+    "code": "P5X/SZ10-090",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - (1) At the start of your opponent's Attack Phase, you may pay cost. If you do, choose the character across from this and 1 of your opponent’s other front row characters, Stand and swap their positions on stage."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "090",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-090.webp"
+  },
+  {
+    "name": "Seiji & Leucothea / FLEURET",
+    "code": "P5X/SZ10-091",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - At the start of your Attack Phase, if this is in your front row, choose up to 2 of your characters, this turn, they gain the following ability, \"AUTO - When this attacks, during the Trigger Step of this attack, perform Trigger Check twice. If you triggered twice, put the top card of your Stock to Waiting Room.\"",
+      "AUTO - When your other <Thief> character attacks, this turn, this gets +X power. X equals the number of your other <Adolescence> characters times 500."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "091",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-091.webp"
+  },
+  {
+    "name": "Summer Days Miyu Sahara",
+    "code": "P5X/SZ10-092",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your opponent's turn, all of your other <Thief> characters get +1000 power.",
+      "ACT - [(1) Discard 1 card, Rest this] Choose 1 character in your Waiting Room, add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "092",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-092.webp"
+  },
+  {
+    "name": "The One Who Prompts the \"Choice\", Igor",
+    "code": "P5X/SZ10-093",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 1,
+    "cost": 0,
+    "power": 5000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "ACT - [Discard 1 card, Send this to Waiting Room] Search your deck for up to 1 <Thief> character, show it to your opponent, add it to hand, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Magic"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "093",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-093.webp"
+  },
+  {
+    "name": "Kotone & Terpsichore / MONT",
+    "code": "P5X/SZ10-094",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this attacks, this turn, this gets +X power. X equals the number of your other <Thief> characters times 1500.",
+      "AUTO - {CX Combo} When this attacks, if you have \"Zero-Degrees Waltz\" in your CX Area, and you have 4 or more other <Thief> characters, look at up to 2 cards from the top of your opponent's deck, choose up to 2 cards from among them, put them on top of your opponent's deck in any order, and send the rest to Waiting Room, and until the end of your opponent's next turn, this gains \"AUTO - ENCORE [Put 1 <Thief> character from your Waiting Room on the bottom of your Clock]\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "094",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-094.webp"
+  },
+  {
+    "name": "Kiyoshi & Syke / KEY",
+    "code": "P5X/SZ10-095",
+    "rarity": "C",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "BLUE",
+    "level": 2,
+    "cost": 1,
+    "power": 6500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this attacks, if the Level of the character across from this is 3 or higher, this turn, this gets +6000 power.",
+      "AUTO - When this card's battle opponent is Reversed, if you have a CX in your CX Area, search your deck for up to 1 <Thief> character, show if your opponent, add it to hand, and shuffle your deck afterwards."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "095",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-095.webp"
+  },
+  {
+    "name": "Welcome to the Velvet Room",
+    "code": "P5X/SZ10-096",
+    "rarity": "U",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "BLUE",
+    "level": 2,
+    "cost": 4,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "COUNTER - Choose 1 of your opponent's characters, Rest it."
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "096",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-096.webp"
+  },
+  {
+    "name": "Duet With the Stars",
+    "code": "P5X/SZ10-097",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Pants",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "097",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-097.webp"
+  },
+  {
+    "name": "The Imari Scroll",
+    "code": "P5X/SZ10-098",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Pants",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "098",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-098.webp"
+  },
+  {
+    "name": "Genius Programmer's Curiosity",
+    "code": "P5X/SZ10-099",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Pants",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "099",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-099.webp"
+  },
+  {
+    "name": "Zero-Degrees Waltz",
+    "code": "P5X/SZ10-100",
+    "rarity": "CR",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "BLUE",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Pants",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "100",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-100.webp"
+  },
+  {
+    "name": "Kayo Tomiyama",
+    "code": "P5X/SZ10-T01",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [(1) Discard 1 CX] When this is placed on stage from hand, you may pay cost. If you do, choose 1 CX from your Waiting Room, and add it to hand.",
+      "ACT - BRAINSTORM [(1) Rest this] Flip over the top 5 cards of your deck, then send them to Waiting Room. For each CX among them, draw up to 1 card."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T01",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t001.webp"
+  },
+  {
+    "name": "Lufel",
+    "code": "P5X/SZ10-T02",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 1000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, you may mill 3.",
+      "AUTO - BOND [Discard 1 card] to \"Protagonist (P5X)\" or \"Protagonist / WONDER\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T02",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t002.webp"
+  },
+  {
+    "name": "Ominous Omen, JOKER",
+    "code": "P5X/SZ10-T03",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 1500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, reveal the top card of your deck, then choose 1 Level X or lower <Thief> character from your Waiting Room, and add it to hand. X equals the Level of the revealed card.",
+      "AUTO - (1) When this attacks, if you have 5 or more hand, you may pay cost. If you do, during the Trigger Step of this attack, perform Trigger Check twice"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T03",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t003.webp"
+  },
+  {
+    "name": "Protagonist (P5X)",
+    "code": "P5X/SZ10-T04",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 1,
+    "cost": 0,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T04",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t004.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, SKULL",
+    "code": "P5X/SZ10-T05",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 2,
+    "cost": 1,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, this gets +10000 power.",
+      "AUTO - ENCORE [Discard 1 character]"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T05",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t005.webp"
+  },
+  {
+    "name": "Lufel / CATTLE",
+    "code": "P5X/SZ10-T06",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 2,
+    "cost": 1,
+    "power": 3500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - ASSIST Level x 500.",
+      "AUTO - When a CX is placed in your CX Area, choose up to 2 of your characters, this turn, they get +2000 power."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T06",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t006.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, JOKER",
+    "code": "P5X/SZ10-T07",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 2,
+    "cost": 1,
+    "power": 5500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - For each of your other back row <Thief> characters, this gets +2500 power.",
+      "AUTO - When this card's battle opponent is Reversed, choose 1 <Thief> character in your Waiting Room, add it to hand, then discard 1 card."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T07",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t007.webp"
+  },
+  {
+    "name": "Protagonist / WONDER",
+    "code": "P5X/SZ10-T08",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your opponent's characters.",
+      "AUTO - {CX Combo} [(3) Discard 2 cards, Send this to Waiting Room] At the end of this card's attack, if you have \"Operation Commence\" in your CX Area, you may pay cost. If you do, look at the top card of your deck, and put it on top or bottom of your deck or into your Waiting Room, then choose up to 1 <Thief> character that is not \"Protagonist / WONDER\" in your Waiting Room, place it on stage in this card's former slot."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T08",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t008.webp"
+  },
+  {
+    "name": "WONDER VS JOKER",
+    "code": "P5X/SZ10-T09",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Event",
+    "color": "YELLOW",
+    "level": 3,
+    "cost": 1,
+    "power": 0,
+    "soul": 0,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "If you don't have a character with \"WONDER\" in its name, this cannot be played from hand.",
+      "Search your deck for up to 1 character with \"WONDER\" in its name, show it to your opponent, add it to hand, then choose up to 1 \"Protagonist / WONDER\" from your hand, place it on stage in any slot, then shuffle your deck afterwards, and until the end of your opponent's nex turn, it gets +5000 power."
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T09",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t009.webp"
+  },
+  {
+    "name": "Operation Commence",
+    "code": "P5X/SZ10-T10",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Choice"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T10",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t010.webp"
+  },
+  {
+    "name": "Phantom Thieves (P5X)",
+    "code": "P5X/SZ10-T11",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "YELLOW",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Soul",
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - All of your characters get +2 souls."
+    ],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T11",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t011.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, PANTHER",
+    "code": "P5X/SZ10-T12",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - ASSIST +500.",
+      "ACT - [(1) Rest this] Choose 1 of your <Thief> characters, this turn, it gains the following ability, \"AUTO - When this card's battle opponent is Reversed, choose 1 character in your Waiting Room, you may add it to hand.\""
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T12",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t012.webp"
+  },
+  {
+    "name": "Passing By Worker, MOKO",
+    "code": "P5X/SZ10-T13",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand or attacks, choose 1 of your <Thief> characters, this turn, it gets +1500 power.",
+      "AUTO - When this card's battle opponent is Reversed, if you have 3 or less Stock, choose 1 of your other characters, Rest it, and move it to an empty Back Row slot."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T13",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t013.webp"
+  },
+  {
+    "name": "Genius Baseball Girl, CLOSER",
+    "code": "P5X/SZ10-T14",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 2500,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - [(1) Put the top card of your deck into Clock] When this is sent from Stage to Waiting Room, you may pay cost. If you do, look at up to 4 cards from the top of your deck, choose up to 1 Level 1 or higher card among them, show it to your opponent, add it to hand, and send the rest to Waiting Room."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T14",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t014.webp"
+  },
+  {
+    "name": "I Am You, And You Are Me, MONA",
+    "code": "P5X/SZ10-T15",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 2000,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, this gets +4000 power.",
+      "AUTO - When this attacks, choose 1 of your other <Thief> characters, this turn, it gets +X power. X equals that character's Soul times 1000."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T15",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t015.webp"
+  },
+  {
+    "name": "Motoha Arai / CLOSER",
+    "code": "P5X/SZ10-T16",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - If you have 2 or more other <Thief> characters, this gets +2000 power.",
+      "AUTO - {CX Combo} When this attacks, if you have \"Awaken, You Beneath the Mask!\" in your CX Area, and you have another <Thief> character,  mill 2, then choose up to 1 Level X or lower <Thief> character from your Waiting Room, and add it to hand. X equals the sum of Levels of cards milled by this effect."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T16",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t016.webp"
+  },
+  {
+    "name": "Shun Kano / SOY",
+    "code": "P5X/SZ10-T17",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 0,
+    "power": 4000,
+    "soul": 1,
+    "trigger": [],
+    "flavor_text": "",
+    "ability": [
+      "CONT - During your turn, if you have 2 or more other <Thief> characters, this gets +2000 power and the following ability, \"AUTO - When this attacks, if the Level of the character across from this is 2, this turn, this gets +6000 power.\"",
+      "AUTO - When this card's battle opponent is Reversed, if you have a CX in your CX Area, reveal the top card of your deck. If that card is level 1 or higher, add it to hand."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T17",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t017.webp"
+  },
+  {
+    "name": "Shun Kano",
+    "code": "P5X/SZ10-T18",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 1,
+    "cost": 1,
+    "power": 500,
+    "soul": 1,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When you use this card's BACKUP, reveal the top card of your deck. If that card is a <Thief> character, add it to hand and discard 1 card.",
+      "ACT - BACKUP +2000"
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T18",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t018.webp"
+  },
+  {
+    "name": "Motoha Arai",
+    "code": "P5X/SZ10-T19",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Character",
+    "color": "RED",
+    "level": 3,
+    "cost": 2,
+    "power": 10000,
+    "soul": 2,
+    "trigger": [
+      "Soul"
+    ],
+    "flavor_text": "",
+    "ability": [
+      "AUTO - When this is placed on stage from hand or by the {CX Combo} of \"Protagonist / WONDER\", you may heal 1.",
+      "AUTO - [Discard 2 cards, Send 1 of your other characters on stage to Waiting Room] At the end of this card's attack, if the character across from this is Reversed, you may pay cost. If you do, deal 2 damage to your opponent."
+    ],
+    "attributes": [
+      "Thief"
+    ],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T19",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t019.webp"
+  },
+  {
+    "name": "Awaken, You Beneath the Mask!",
+    "code": "P5X/SZ10-T20",
+    "rarity": "TD",
+    "expansion": "Persona 5 X",
+    "side": "S",
+    "type": "Climax",
+    "color": "RED",
+    "level": 0,
+    "cost": 0,
+    "power": 0,
+    "soul": 0,
+    "trigger": [
+      "Door"
+    ],
+    "flavor_text": "",
+    "ability": [],
+    "attributes": [],
+    "set": "P5X",
+    "release": "SZ10",
+    "sid": "T20",
+    "image": "https://img.uclimax.cn/[cn]p5x-sz10/p5x-sz10-t020.webp"
+  }
+]
